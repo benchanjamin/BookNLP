@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     booknlp = BookNLP("en", model_params)
 
-    input_file = "../data/the_happy_prince_and_other_tales.py"
+    input_file = "../data/the_happy_prince_and_other_tales.txt"
 
     output_directory = "../data/the_happy_prince_and_other_tales"
 
