@@ -14,4 +14,3 @@
 
 source /scratch/network/bychan/pull/BookNLP/venv/bin/activate
 python scripts/the_golden_key.py
-deactivate
