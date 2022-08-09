@@ -8,10 +8,10 @@ if __name__ == '__main__':
 
     booknlp = BookNLP("en", model_params)
 
-    input_file = "data/harry_potter_cleaned.txt"
+    input_file = "../data/the_golden_key.txt"
 
-    output_directory = "data/harry_potter"
+    output_directory = "../data/the_golden_key"
 
-    book_id = "harry_potter"
+    book_id = "the_golden_key"
 
     booknlp.process(input_file, output_directory, book_id)
