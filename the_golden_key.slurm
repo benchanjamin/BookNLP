@@ -12,6 +12,6 @@
 #SBATCH --mail-type=fail         # send email if job fails
 #SBATCH --mail-user=bychan@princeton.edu
 
-source /scratch/network/bychan/pull/booknlp/venv/bin/activate
+source /scratch/network/bychan/pull/BookNLP/venv/bin/activate
 python scripts/the_golden_key.py
 deactivate
