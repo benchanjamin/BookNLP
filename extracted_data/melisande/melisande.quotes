@@ -1,0 +1,128 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+46	58	60	60	he	11	“ I ’ve seen too much trouble come of christening parties , ”
+62	136	60	60	he	11	“ However carefully you keep your visiting - book , some fairy or other is sure to get left out , and you know what _ that _ leads to . Why , even in my own family , the most shocking things have occurred . The Fairy Malevola was not asked to my great - grandmother ’s christening — and you know all about the spindle and the hundred years ’ sleep . ”
+137	143	145	146	the Queen	10	“ Perhaps you ’re right , ”
+148	198	145	146	the Queen	10	“ My own cousin by marriage forgot some stuffy old fairy or other when she was sending out the cards for her daughter ’s christening , and the old wretch turned up at the last moment , and the girl drops toads out of her mouth to this day . ”
+199	218	220	221	the King	11	“ Just so . And then there was that business of the mouse and the kitchen - maids , ”
+223	262	220	221	the King	11	“ we ’ll have no nonsense about it . I ’ll be her godfather , and you shall be her godmother , and we wo n’t ask a single fairy ; then none of them can be offended . ”
+263	269	271	272	the Queen	10	“ Unless they all are , ”
+306	334	295	296	the parlourmaid	18	“ Please , your Majesty , several ladies have called . I told them you were not at home , but they all said they ’d wait . ”
+335	342	344	345	the Queen	10	“ Are they in the parlour ? ”
+347	360	362	363	the parlourmaid	18	“ I ’ve shown them into the Throne Room , your Majesty , ”
+365	375	362	363	the parlourmaid	18	“ You see , there are several of them . ”
+452	466	444	444	they	23	“ Why did n’t you ask _ me _ to your christening party ? ”
+467	475	477	478	the Queen	10	“ I have n’t had a party , ”
+489	495	481	481	she	10	“ I told you so . ”
+502	509	511	515	the fairies , all together	30	“ You ’ve had a christening , ”
+517	523	525	527	the poor Queen	31	“ I ’m very sorry , ”
+536	541	530	530	Malevola	4	“ Hold your tongue , ”
+585	593	594	594	she	32	“ Do n’t begin to make excuses , ”
+604	660	594	594	she	32	“ That only makes your conduct worse . You know well enough what happens if a fairy is left out of a christening party . We are all going to give our christening presents _ now _ . As the fairy of highest social position , I shall begin . The Princess shall be bald . ”
+700	706	708	708	he	11	“ No you do n’t ! ”
+710	772	708	708	he	11	“ I wonder at you , ladies , I do indeed . How can you be so unfairylike ? Have none of you been to school — have none of you studied the history of your own race ? Surely you do n’t need a poor , ignorant King like me to tell you that this is _ no go _ ? ”
+773	778	780	784	the fairy in the bonnet	39	“ How dare you ? ”
+798	813	793	793	she	39	“ It is my turn , and I say the Princess shall be — — ”
+824	828	829	829	he	11	“ Look here , ”
+832	940	829	829	he	11	“ I wo n’t have it . Listen to reason — or you ’ll be sorry afterwards . A fairy who breaks the traditions of fairy history goes out — you know she does — like the flame of a candle . And all tradition shows that only _ one _ bad fairy is ever forgotten at a christening party and the good ones are always invited ; so either this is not a christening party , or else you were all invited except one , and , by her own showing , that was Malevola . It nearly always is . Do I make myself clear ? ”
+968	979	981	982	the King	11	“ Try it , if you do n’t believe me , ”
+984	1020	981	982	the King	11	“ give your nasty gifts to my innocent child — but as sure as you do , out you go , like a candle - flame . Now , then , will you risk it ? ”
+1079	1087	1089	1095	the lady with the snake - bonnet	50	“ It ’s been quite too lovely , ”
+1097	1128	1089	1095	the lady with the snake - bonnet	50	“ _ do _ ask us again soon , dear Queen . I shall be so _ longing _ to see you again , and the _ dear _ baby , ”
+1197	1205	1207	1208	the King	11	“ Do n’t cry , my love , ”
+1210	1249	1207	1208	the King	11	“ I have a wish lying by , which I ’ve never had occasion to use . My fairy godmother gave it me for a wedding present , but since then I ’ve had nothing to wish for ! ”
+1250	1256	1258	1259	the Queen	10	“ Thank you , dear , ”
+1266	1277	1278	1279	the King	11	“ I ’ll keep the wish till baby grows up , ”
+1283	1304	1278	1279	the King	11	“ And then I ’ll give it to her , and if she likes to wish for hair she can . ”
+1305	1318	1320	1321	the Queen	10	“ Oh , wo n’t you wish for it _ now _ ? ”
+1337	1363	1278	1279	the King	11	“ No , dearest . She may want something else more when she grows up . And besides , her hair may grow by itself . ”
+1472	1494	1465	1466	the Queen	10	“ My love , our dear daughter is old enough to know what she wants . Let her have the wish . ”
+1533	1543	1545	1545	he	11	“ I have never had occasion to use it , ”
+1547	1590	1545	1545	he	11	“ though it has always made me happy to remember that I had such a thing in the house . The wish is as good as new , and my daughter is now of an age to appreciate so valuable a present . ”
+1602	1637	1593	1594	the fairy	67	“ DEAR KING,—Pray do whatever you like with my poor little present . I had quite forgotten it , but I am pleased to think that you have treasured my humble keepsake all these years .
+1638	1643	1593	1594	the fairy	67	“ Your affectionate godmother , “
+1646	1646	1593	1594	the fairy	67	”
+1683	1698	1680	1680	Melisande	3	“ Father , I will wish that all your subjects should be quite happy . ”
+1727	1737	1724	1724	she	3	“ Then I wish them all to be good . ”
+1761	1774	1757	1758	the Queen	10	“ Dearest , for my sake , wish what I tell you . ”
+1775	1783	1785	1785	Melisande	3	“ Why , of course I will , ”
+1804	1839	1799	1799	she	3	“ I wish I had golden hair a yard long , and that it would grow an inch every day , and grow twice as fast every time it was cut , and — — ”
+1840	1843	1845	1846	the King	11	“ Stop , ”
+1871	1877	1879	1880	the Queen	10	“ Oh , how lovely , ”
+1882	1897	1879	1880	the Queen	10	“ What a pity you interrupted her , dear ; she had n’t finished . ”
+1898	1904	1906	1907	the King	11	“ What was the end ? ”
+1909	1912	1914	1914	Melisande	3	“ Oh , ”
+1916	1931	1914	1914	Melisande	3	“ I was only going to say , ‘ and twice as thick . ’ ”
+1932	1943	1945	1946	the King	11	“ It ’s a very good thing you did n’t , ”
+1948	1955	1945	1946	the King	11	“ You ’ve done about enough . ”
+1998	2006	2008	2009	the Queen	10	“ Why , what ’s the matter ? ”
+2011	2018	2020	2021	the King	11	“ You ’ll know soon enough , ”
+2023	2059	2020	2021	the King	11	“ Come , let ’s be happy while we may . Give me a kiss , little Melisande , and then go to nurse and ask her to teach you how to comb your hair . ”
+2060	2064	2066	2066	Melisande	3	“ I know , ”
+2068	2076	2066	2066	Melisande	3	“ I ’ve often combed mother ’s . ”
+2077	2084	2086	2087	the King	11	“ Your mother has beautiful hair , ”
+2089	2103	2086	2087	the King	11	“ but I fancy you will find your own less easy to manage . ”
+2476	2484	2501	2501	she	306	“ I wish I was bald again , ”
+2640	2678	2637	2637	Melisande	3	“ It seems a pity to waste all my hair ; it does grow so very fast . Could n’t we stuff things with it , or something , and sell them , to feed the people ? ”
+2853	2882	2849	2850	the King	11	“ It was all very well while the famine lasted — but now I shall write to my fairy godmother and see if something can not be done . ”
+2903	2917	2923	2923	his	11	“ Why not advertise for a competent Prince ? Offer the usual reward . ”
+3287	3292	3284	3284	he	5	“ You are Melisande ? ”
+3293	3299	3284	3284	he	5	“ And you are Florizel ? ”
+3300	3309	3311	3311	he	5	“ There are many roses round your window , ”
+3315	3321	3311	3311	he	5	“ and none down here . ”
+3340	3354	3337	3337	he	5	“ White rose trees are strong . May I climb up to you ? ”
+3355	3358	3360	3361	the Princess	306	“ Surely , ”
+3371	3374	3376	3376	he	5	“ Now , ”
+3378	3393	3376	3376	he	5	“ if I can do what your father asks , will you marry me ? ”
+3394	3403	3405	3405	Melisande	3	“ My father has promised that I shall , ”
+3416	3420	3422	3422	he	5	“ Dear Princess , ”
+3424	3445	3422	3422	he	5	“ your father ’s promise is nothing to me . I want yours . Will you give it to me ? ”
+3446	3449	3451	3451	she	3	“ Yes , ”
+3460	3466	3422	3422	he	5	“ I want your hand . ”
+3467	3470	3471	3471	she	3	“ Yes , ”
+3474	3481	3422	3422	he	5	“ And your heart with it . ”
+3482	3485	3487	3488	the Princess	306	“ Yes , ”
+3498	3507	3422	3422	he	5	“ And a kiss to seal the promise . ”
+3508	3511	3513	3513	she	3	“ Yes , ”
+3515	3525	3422	3422	he	5	“ And a kiss to go with the hand . ”
+3526	3529	3530	3530	she	3	“ Yes , ”
+3533	3542	3422	3422	he	5	“ And a kiss to bring the heart . ”
+3543	3546	3552	3552	she	3	“ Yes , ”
+3559	3562	3564	3564	he	5	“ Now , ”
+3575	3626	3567	3567	he	5	“ to - night do not go to bed . Stay by your window , and I will stay down here in the garden and watch . And when your hair has grown to the filling of your room call to me , and then do as I tell you . ”
+3627	3631	3633	3634	the Princess	306	“ I will , ”
+3657	3678	3654	3654	her	3	“ Florizel ! Florizel ! My hair has grown so long that it is pushing me out of the window . ”
+3679	3689	3691	3691	he	5	“ Get out on to the window - sill , ”
+3693	3709	3691	3691	he	5	“ and twist your hair three times round the great iron hook that is there . ”
+3749	3752	3731	3731	he	5	“ Jump ! ”
+3871	3878	3880	3881	the King	11	“ How did you do it ? ”
+3890	3898	3900	3900	Florizel	5	“ The simplest thing in the world , ”
+3904	3926	3900	3900	Florizel	5	“ You have always cut the hair off the Princess . _ I _ just cut the Princess off the hair . ”
+3927	3930	3932	3933	the King	11	“ Humph ! ”
+3996	4002	4004	4005	the King	11	“ I feared as much , ”
+4009	4023	4024	4024	he	11	“ I wonder what will be the rate of progression . You see , ”
+4030	4063	4024	4024	he	11	“ when we cut the hair off _ it _ grows — when we cut the Princess off _ she _ grows . I wish you had happened to think of that ! ”
+4137	4142	4134	4134	she	306	“ Alice in Wonderland , ”
+4365	4373	4356	4356	he	11	“ Gone away . Left no address . ”
+4437	4446	4448	4448	she	3	“ I do n’t mind so much now , ”
+4450	4462	4448	4448	she	3	“ if I can really be of some use this size . ”
+4591	4601	4602	4602	she	3	“ I do believe I ’m getting too heavy , ”
+4972	4989	4991	4991	she	306	“ I wonder how soon I shall be big enough to knock my head against them , ”
+5018	5024	5031	5032	the Princess	306	“ Cut off your hair ! ”
+5188	5195	5184	5185	the voice	244	“ Get close to the island , ”
+5236	5242	5244	5244	she	306	“ Be ready to swim , ”
+5285	5299	5300	5300	he	5	“ I crept on to your hand when you were carrying the island , ”
+5318	5342	5300	5300	he	5	“ and I got into your ear with an ear - trumpet . You never noticed me because you were so great then . ”
+5343	5350	5352	5352	Melisande	3	“ Oh , my dear Prince , ”
+5359	5372	5352	5352	Melisande	3	“ you have saved me . I am my proper size again . ”
+5404	5442	5392	5393	the King	11	“ You ’ve certainly had some fun for your money , young man , but do n’t you see that we ’re just where we were before ? Why , the child ’s hair is growing already . ”
+5478	5495	5460	5460	He	11	“ Just back from my holidays . Sorry for your troubles . Why not try scales ? ”
+5543	5592	5537	5537	he	137	“ My darling Melisande , I must really speak seriously to you . We are getting on in life . I am nearly twenty : it is time that we thought of being settled . Will you trust me entirely and get into one of those gold scales ? ”
+5632	5642	5644	5644	Melisande	3	“ And what is going into the other scale ? ”
+5646	5650	5652	5652	Florizel	5	“ Your hair , ”
+5654	5742	5652	5652	Florizel	5	“ You see , when your hair is cut off you it grows , and when you are cut off your hair you grow — oh , my heart ’s delight , I can never forget how you grew , never ! But if , when your hair is no more than you , and you are no more than your hair , I snip the scissors between you and it , then neither you nor your hair can possibly decide which ought to go on growing . ”
+5743	5750	5752	5754	the poor Princess	90	“ Suppose _ both _ did , ”
+5758	5761	5763	5764	the Prince	137	“ Impossible , ”
+5770	5795	5763	5764	the Prince	137	“ there are limits even to Malevola ’s malevolence . And , besides , Fortuna said ‘ Scales . ’ Will you try it ? ”
+5796	5804	5806	5808	the poor Princess	90	“ I will do whatever you wish , ”
+5810	5845	5806	5808	the poor Princess	90	“ but let me kiss my father and mother once , and Nurse , and you , too , my dear , in case I grow large again and can kiss nobody any more . ”
+5964	5974	5976	5977	the King	11	“ You are a young man of sound judgment , ”

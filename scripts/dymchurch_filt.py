@@ -8,10 +8,10 @@ if __name__ == '__main__':
 
     booknlp = BookNLP("en", model_params)
 
-    input_file = "../book_txt_files/the_king_of_the_golden_river.txt"
+    input_file = "../book_txt_files/dymchurch_flit.txt"
 
-    output_directory = "../extracted_data/the_king_of_the_golden_river"
+    output_directory = "../extracted_data/dymchurch_filt"
 
-    book_id = "the_king_of_the_golden_river"
+    book_id = "dymchurch_filt"
 
     booknlp.process(input_file, output_directory, book_id)
