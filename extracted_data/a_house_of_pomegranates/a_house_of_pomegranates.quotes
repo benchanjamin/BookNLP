@@ -1,0 +1,478 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+2126	2144	2116	2117	the weaver	242	‘ Why art thou watching me ? Art thou a spy set on us by our master ? ’
+2145	2151	2153	2155	the young King	136	‘ Who is thy master ? ’
+2157	2161	2163	2164	the weaver	242	‘ Our master ! ’
+2168	2213	2163	2164	the weaver	242	‘ He is a man like myself . Indeed , there is but this difference between us — that he wears fine clothes while I go in rags , and that while I am weak from hunger he suffers not a little from overfeeding . ’
+2214	2220	2222	2224	the young King	136	‘ The land is free , ’
+2226	2235	2222	2224	the young King	136	‘ and thou art no man ’s slave . ’
+2236	2240	2242	2243	the weaver	242	‘ In war , ’
+2245	2364	2242	2243	the weaver	242	‘ the strong make slaves of the weak , and in peace the rich make slaves of the poor . We must work to live , and they give us such mean wages that we die . We toil for them all day long , and they heap up gold in their coffers , and our children fade away before their time , and the faces of those we love become hard and evil . We tread out the grapes , and another drinks the wine . We sow the corn , and our own board is empty . We have chains , though no eye beholds them ; and are slaves , though men call us free . ’
+2365	2372	2373	2373	he	247	‘ Is it so with all ? ’
+2376	2383	2385	2386	the weaver	242	‘ It is so with all , ’
+2388	2513	2385	2386	the weaver	242	‘ with the young as well as with the old , with the women as well as with the men , with the little children as well as with those who are stricken in years . The merchants grind us down , and we must needs do their bidding . The priest rides by and tells his beads , and no man has care of us . Through our sunless lanes creeps Poverty with her hungry eyes , and Sin with his sodden face follows close behind her . Misery wakes us in the morning , and Shame sits with us at night . But what are these things to thee ? Thou art not one of us . Thy face is too happy . ’
+2558	2568	2552	2552	he	249	‘ What robe is this that thou art weaving ? ’
+2569	2582	2583	2583	he	249	‘ It is the robe for the coronation of the young King , ’
+2586	2593	2552	2552	he	249	‘ what is that to thee ? ’
+3305	3310	3311	3311	he	256	‘ It shall be , ’
+3314	3323	3311	3311	he	256	‘ for the sceptre of the young King , ’
+3572	3588	3569	3569	Death	64	‘ I am weary ; give me a third of them and let me go . ’
+3595	3601	3602	3602	she	65	‘ They are my servants , ’
+3611	3619	3606	3606	Death	64	‘ What hast thou in thy hand ? ’
+3620	3628	3629	3629	she	65	‘ I have three grains of corn , ’
+3632	3639	3629	3629	she	65	‘ what is that to thee ? ’
+3640	3647	3649	3649	Death	64	‘ Give me one of them , ’
+3651	3669	3649	3649	Death	64	‘ to plant in my garden ; only one of them , and I will go away . ’
+3670	3678	3680	3680	Avarice	65	‘ I will not give thee anything , ’
+3780	3790	3791	3791	she	65	‘ Thou hast slain a third of my servants , ’
+3794	3876	3791	3791	she	65	‘ get thee gone . There is war in the mountains of Tartary , and the kings of each side are calling to thee . The Afghans have slain the black ox , and are marching to battle . They have beaten upon their shields with their spears , and have put on their helmets of iron . What is my valley to thee , that thou shouldst tarry in it ? Get thee gone , and come here no more . ’
+3877	3880	3882	3882	Death	64	‘ Nay , ’
+3884	3900	3882	3882	Death	64	‘ but till thou hast given me a grain of corn I will not go . ’
+3912	3920	3921	3921	she	65	‘ I will not give thee anything , ’
+3997	4002	4003	4003	she	65	‘ Thou art cruel , ’
+4006	4082	4003	4003	she	65	‘ thou art cruel . There is famine in the walled cities of India , and the cisterns of Samarcand have run dry . There is famine in the walled cities of Egypt , and the locusts have come up from the desert . The Nile has not overflowed its banks , and the priests have cursed Isis and Osiris . Get thee gone to those who need thee , and leave me my servants . ’
+4083	4086	4088	4088	Death	64	‘ Nay , ’
+4090	4106	4088	4088	Death	64	‘ but till thou hast given me a grain of corn I will not go . ’
+4107	4115	4117	4117	Avarice	65	‘ I will not give thee anything , ’
+4245	4258	4237	4239	the young King	136	‘ Who were these men , and for what were they seeking ? ’
+4259	4268	4270	4274	one who stood behind him	316	‘ For rubies for a king ’s crown , ’
+4313	4318	4306	4306	he	318	‘ For what king ? ’
+4324	4336	4320	4321	the pilgrim	319	‘ Look in this mirror , and thou shalt see him . ’
+4464	4477	4458	4458	he	136	‘ Take these things away , for I will not wear them . ’
+4509	4577	4499	4499	he	136	‘ Take these things away , and hide them from me . Though it be the day of my coronation , I will not wear them . For on the loom of Sorrow , and by the white hands of Pain , has this my robe been woven . There is Blood in the heart of the ruby , and Death in the heart of the pearl . ’
+4602	4675	4592	4592	they	328	‘ Surely he is mad ; for what is a dream but a dream , and a vision but a vision ? They are not real things that one should heed them . And what have we to do with the lives of those who toil for us ? Shall a man not eat bread till he has seen the sower , nor drink wine till he has talked with the vinedresser ? ’
+4688	4739	4681	4683	the young King	136	‘ My lord , I pray thee set aside these black thoughts of thine , and put on this fair robe , and set this crown upon thy head . For how shall the people know that thou art a king , if thou hast not a king ’s raiment ? ’
+4748	4755	4756	4756	he	136	‘ Is it so , indeed ? ’
+4759	4777	4756	4756	he	136	‘ Will they not know me for a king if I have not a king ’s raiment ? ’
+4778	4788	4790	4791	the Chamberlain	322	‘ They will not know thee , my lord , ’
+4793	4806	4807	4807	he	136	‘ I had thought that there had been men who were kinglike , ’
+4810	4853	4807	4807	he	136	‘ but it may be as thou sayest . And yet I will not wear this robe , nor will I be crowned with this crown , but even as I came to the palace so will I go forth from it . ’
+4969	4987	4952	4954	the little page	341	‘ My lord , I see thy robe and thy sceptre , but where is thy crown ? ’
+5024	5031	5032	5032	he	136	‘ This shall he my crown , ’
+5072	5090	5092	5092	others	157	‘ My lord , the people wait for their king , and thou showest them a beggar , ’
+5098	5114	5092	5092	others	157	‘ He brings shame upon our state , and is unworthy to be our master . ’
+5169	5181	5183	5183	they	1502	‘ It is the King ’s fool who is riding by , ’
+5194	5203	5188	5188	he	136	‘ Nay , but I am the King . ’
+5229	5366	5213	5214	a man	1499	‘ Sir , knowest thou not that out of the luxury of the rich cometh the life of the poor ? By your pomp we are nurtured , and your vices give us bread . To toil for a hard master is bitter , but to have no master to toil for is more bitter still . Thinkest thou that the ravens will feed us ? And what cure hast thou for these things ? Wilt thou say to the buyer , “ Thou shalt buy for so much , ” and to the seller , “ Thou shalt sell at this price ” ? I trow not . Therefore go back to thy Palace and put on thy purple and fine linen . What hast thou to do with us , and what we suffer ? ’
+5367	5377	5379	5381	the young King	136	‘ Are not the rich and the poor brothers ? ’
+5383	5386	5388	5389	the man	356	‘ Ay , ’
+5391	5402	5388	5389	the man	356	‘ and the name of the rich brother is Cain . ’
+5454	5470	5445	5446	the soldiers	362	‘ What dost thou seek here ? None enters by this door but the King . ’
+5484	5490	5479	5479	he	136	‘ I am the King , ’
+5534	5582	5514	5514	he	364	‘ My son , is this a king ’s apparel ? And with what crown shall I crown thee , and what sceptre shall I place in thy hand ? Surely this should be to thee a day of joy , and not a day of abasement . ’
+5583	5592	5594	5596	the young King	136	‘ Shall Joy wear what Grief has fashioned ? ’
+5621	5923	5613	5613	he	366	‘ My son , I am an old man , and in the winter of my days , and I know that many evil things are done in the wide world . The fierce robbers come down from the mountains , and carry off the little children , and sell them to the Moors . The lions lie in wait for the caravans , and leap upon the camels . The wild boar roots up the corn in the valley , and the foxes gnaw the vines upon the hill . The pirates lay waste the sea - coast and burn the ships of the fishermen , and take their nets from them . In the salt - marshes live the lepers ; they have houses of wattled reeds , and none may come nigh them . The beggars wander through the cities , and eat their food with the dogs . Canst thou make these things not to be ? Wilt thou take the leper for thy bedfellow , and set the beggar at thy board ? Shall the lion do thy bidding , and the wild boar obey thee ? Is not He who made misery wiser than thou art ? Wherefore I praise thee not for this that thou hast done , but I bid thee ride back to the Palace and make thy face glad , and put on the raiment that beseemeth a king , and with the crown of gold I will crown thee , and the sceptre of pearl will I place in thy hand . And as for thy dreams , think no more of them . The burden of this world is too great for one man to bear , and the world ’s sorrow too heavy for one heart to suffer . ’
+5924	5932	5934	5936	the young King	136	‘ Sayest thou that in this house ? ’
+6084	6092	6093	6093	they	372	‘ Where is this dreamer of dreams ? ’
+6096	6132	6093	6093	they	372	‘ Where is this King who is apparelled like a beggar — this boy who brings shame upon our state ? Surely we will slay him , for he is unworthy to rule over us . ’
+6397	6406	6407	6407	he	366	‘ A greater than I hath crowned thee , ’
+6596	6607	6617	6617	their	401	‘ We are quite as splendid as you are now . ’
+7284	7295	7257	7258	the King	1516	‘ _ Mi reina _ ! _ Mi reina _ ! ’
+9194	9200	9187	9187	she	390	‘ Our Lady ’s Dance , ’
+10522	10541	10543	10544	the Tulips	90	‘ He is really far too ugly to be allowed to play in any place where we are , ’
+10546	10563	10565	10568	the great scarlet Lilies	609	‘ He should drink poppy - juice , and go to sleep for a thousand years , ’
+10578	10585	10587	10588	the Cactus	91	‘ He is a perfect horror ! ’
+10590	10634	10587	10588	the Cactus	91	‘ Why , he is twisted and stumpy , and his head is completely out of proportion with his legs . Really he makes me feel prickly all over , and if he comes near me I will sting him with my thorns . ’
+10635	10647	10697	10697	her	610	‘ And he has actually got one of my best blooms , ’
+10655	10679	10697	10697	her	610	‘ I gave it to the Infanta this morning myself , as a birthday present , and he has stolen it from her . ’
+10685	10692	10697	10697	her	610	‘ Thief , thief , thief ! ’
+10977	10982	10967	10968	the Peacock	628	‘ Certainly , certainly , ’
+11361	11373	11374	11374	they	631	‘ Every one can not be as beautiful as a lizard , ’
+11377	11424	11374	11374	they	631	‘ that would be too much to expect . And , though it sounds absurd to say so , he is really not so ugly after all , provided , of course , that one shuts one ’s eyes , and does not look at him . ’
+11484	11489	11490	11490	they	631	‘ It only shows , ’
+11493	11615	11490	11490	they	631	‘ what a vulgarising effect this incessant rushing and flying about has . Well - bred people always stay exactly in the same place , as we do . No one ever saw us hopping up and down the walks , or galloping madly through the grass after dragon - flies . When we do want change of air , we send for the gardener , and he carries us to another bed . This is dignified , and as it should be . But birds and lizards have no sense of repose , and indeed birds have not even a permanent address . They are mere vagrants like the gipsies , and should be treated in exactly the same manner . ’
+11660	11675	11676	11676	they	631	‘ He should certainly be kept indoors for the rest of his natural life , ’
+11679	11691	11676	11676	they	631	‘ Look at his hunched back , and his crooked legs , ’
+14554	14560	14562	14563	the Infanta	390	‘ His dancing was funny , ’
+14565	14591	14562	14563	the Infanta	390	‘ but his acting is funnier still . Indeed he is almost as good as the puppets , only of course not quite so natural . ’
+14643	14648	14650	14651	the Infanta	81	‘ That is capital , ’
+14657	14666	14650	14651	the Infanta	81	‘ but now you must dance for me . ’
+14667	14670	14672	14674	all the children	552	‘ Yes , ’
+14676	14699	14672	14674	all the children	552	‘ you must get up and dance , for you are as clever as the Barbary apes , and much more ridiculous . ’
+14751	14759	14760	14760	she	390	‘ My funny little dwarf is sulking , ’
+14763	14778	14760	14760	she	390	‘ you must wake him up , and tell him to dance for me . ’
+14807	14812	14813	14813	he	79	‘ You must dance , ’
+14816	14838	14813	14813	he	79	‘ _ petit monsire _ . You must dance . The Infanta of Spain and the Indies wishes to be amused . ’
+14846	14855	14857	14858	Don Pedro	79	‘ A whipping master should be sent for , ’
+14918	14953	14915	14915	he	322	‘ _ Mi bella Princesa _ , your funny little dwarf will never dance again . It is a pity , for he is so ugly that he might have made the King smile . ’
+14954	14963	14965	14966	the Infanta	390	‘ But why will he not dance again ? ’
+14970	14977	14979	14980	the Chamberlain	322	‘ Because his heart is broken , ’
+14999	15015	15016	15016	she	390	‘ For the future let those who come to play with me have no hearts , ’
+15170	15206	15162	15162	he	772	‘ Surely I have caught all the fish that swim , or snared some dull monster that will be a marvel to men , or some thing of horror that the great Queen will desire , ’
+15515	15541	15507	15507	she	782	‘ I pray thee let me go , for I am the only daughter of a King , and my father is aged and alone . ’
+15548	15598	15543	15545	the young Fisherman	772	‘ I will not let thee go save thou makest me a promise that whenever I call thee , thou wilt come and sing to me , for the fish delight to listen to the song of the Sea - folk , and so shall my nets be full . ’
+15599	15615	15617	15618	the Mermaid	786	‘ Wilt thou in very truth let me go , if I promise thee this ? ’
+15620	15630	15632	15634	the young Fisherman	772	‘ In very truth I will let thee go , ’
+16346	16368	16338	16338	he	772	‘ Little Mermaid , little Mermaid , I love thee . Take me for thy bridegroom , for I love thee . ’
+16376	16383	16384	16384	she	786	‘ Thou hast a human soul , ’
+16387	16403	16384	16384	she	786	‘ If only thou wouldst send away thy soul , then could I love thee . ’
+16412	16456	16405	16407	the young Fisherman	772	‘ Of what use is my soul to me ? I can not see it . I may not touch it . I do not know it . Surely I will send it away from me , and much gladness shall be mine . ’
+16484	16492	16493	16493	he	772	‘ I will send my soul away , ’
+16496	16551	16493	16493	he	772	‘ and you shall be my bride , and I will be thy bridegroom , and in the depth of the sea we will dwell together , and all that thou hast sung of thou shalt show me , and all that thou desirest I will do , nor shall our lives be divided . ’
+16567	16578	16580	16582	the young Fisherman	772	‘ But how shall I send my soul from me ? ’
+16584	16601	16580	16582	the young Fisherman	772	‘ Tell me how I may do it , and lo ! it shall be done . ’
+16602	16609	16611	16613	the little Mermaid	107	‘ Alas ! I know not , ’
+16615	16624	16611	16613	the little Mermaid	107	‘ the Sea - folk have no souls . ’
+16709	16712	16699	16699	he	839	‘ Enter . ’
+16751	16825	16736	16745	the Priest who was reading out of the Holy Book	841	‘ Father , I am in love with one of the Sea - folk , and my soul hindereth me from having my desire . Tell me how I can send my soul away from me , for in truth I have no need of it . Of what value is my soul to me ? I can not see it . I may not touch it . I do not know it . ’
+16836	16993	16827	16828	the Priest	1472	‘ Alack , alack , thou art mad , or hast eaten of some poisonous herb , for the soul is the noblest part of man , and was given to us by God that we should nobly use it . There is no thing more precious than a human soul , nor any earthly thing that can be weighed with it . It is worth all the gold that is in the world , and is more precious than the rubies of the kings . Therefore , my son , think not any more of this matter , for it is a sin that may not be forgiven . And as for the Sea - folk , they are lost , and they who would traffic with them are lost also . They are as the beasts of the field that know not good from evil , and for them the Lord has not died . ’
+17024	17097	17013	17013	he	772	‘ Father , the Fauns live in the forest and are glad , and on the rocks sit the Mermen with their harps of red gold . Let me be as they are , I beseech thee , for their days are as the days of flowers . And as for my soul , what doth my soul profit me , if it stand between me and the thing that I love ? ’
+17098	17107	17109	17110	the Priest	1472	‘ The love of the body is vile , ’
+17116	17239	17109	17110	the Priest	1472	‘ and vile and evil are the pagan things God suffers to wander through His world . Accursed be the Fauns of the woodland , and accursed be the singers of the sea ! I have heard them at night - time , and they have sought to lure me from my beads . They tap at the window , and laugh . They whisper into my ears the tale of their perilous joys . They tempt me with temptations , and when I would pray they make mouths at me . They are lost , I tell thee , they are lost . For them there is no heaven nor hell , and in neither shall they praise God ’s name . ’
+17240	17243	17245	17247	the young Fisherman	772	‘ Father , ’
+17249	17316	17245	17247	the young Fisherman	772	‘ thou knowest not what thou sayest . Once in my net I snared the daughter of a King . She is fairer than the morning star , and whiter than the moon . For her body I would give my soul , and for her love I would surrender heaven . Tell me what I ask of thee , and let me go in peace . ’
+17317	17322	17324	17325	the Priest	1472	‘ Away ! Away ! ’
+17327	17341	17324	17325	the Priest	1472	‘ thy leman is lost , and thou shalt be lost with her . ’
+17422	17429	17402	17404	one of them	853	‘ What hast thou to sell ? ’
+17430	17438	17439	17439	he	772	‘ I will sell thee my soul , ’
+17442	17485	17439	17439	he	772	‘ I pray thee buy it of me , for I am weary of it . Of what use is my soul to me ? I can not see it . I may not touch it . I do not know it . ’
+17496	17577	17487	17488	the merchants	1471	‘ Of what use is a man ’s soul to us ? It is not worth a clipped piece of silver . Sell us thy body for a slave , and we will clothe thee in sea - purple , and put a ring upon thy finger , and make thee the minion of the great Queen . But talk not of the soul , for to us it is nought , nor has it any value for our service . ’
+17586	17625	17579	17581	the young Fisherman	772	‘ How strange a thing this is ! The Priest telleth me that the soul is worth all the gold in the world , and the merchants say that it is not worth a clipped piece of silver . ’
+17796	17805	17806	17806	she	862	‘ What d’ye lack ? What d’ye lack ? ’
+17823	18171	17806	17806	she	862	‘ Fish for thy net , when the wind is foul ? I have a little reed - pipe , and when I blow on it the mullet come sailing into the bay . But it has a price , pretty boy , it has a price . What d’ye lack ? What d’ye lack ? A storm to wreck the ships , and wash the chests of rich treasure ashore ? I have more storms than the wind has , for I serve one who is stronger than the wind , and with a sieve and a pail of water I can send the great galleys to the bottom of the sea . But I have a price , pretty boy , I have a price . What d’ye lack ? What d’ye lack ? I know a flower that grows in the valley , none knows it but I. It has purple leaves , and a star in its heart , and its juice is as white as milk . Shouldst thou touch with this flower the hard lips of the Queen , she would follow thee all over the world . Out of the bed of the King she would rise , and over the whole world she would follow thee . And it has a price , pretty boy , it has a price . What d’ye lack ? What d’ye lack ? I can pound a toad in a mortar , and make broth of it , and stir the broth with a dead man ’s hand . Sprinkle it on thine enemy while he sleeps , and he will turn into a black viper , and his own mother will slay him . With a wheel I can draw the Moon from heaven , and in a crystal I can show thee Death . What d’ye lack ? What d’ye lack ? Tell me thy desire , and I will give it thee , and thou shalt pay me a price , pretty boy , thou shalt pay me a price . ’
+18172	18182	18184	18186	the young Fisherman	772	‘ My desire is but for a little thing , ’
+18188	18246	18184	18186	the young Fisherman	772	‘ yet hath the Priest been wroth with me , and driven me forth . It is but for a little thing , and the merchants have mocked at me , and denied me . Therefore am I come to thee , though men call thee evil , and whatever be thy price I shall pay it . ’
+18247	18252	18254	18255	the Witch	872	‘ What wouldst thou ? ’
+18262	18272	18274	18276	the young Fisherman	772	‘ I would send my soul away from me , ’
+18295	18302	18303	18303	she	111	‘ Pretty boy , pretty boy , ’
+18306	18315	18303	18303	she	111	‘ that is a terrible thing to do . ’
+18324	18332	18333	18333	he	772	‘ My soul is nought to me , ’
+18336	18355	18333	18333	he	772	‘ I can not see it . I may not touch it . I do not know it . ’
+18356	18367	18369	18370	the Witch	872	‘ What wilt thou give me if I tell thee ? ’
+18381	18387	18388	18388	he	772	‘ Five pieces of gold , ’
+18391	18434	18388	18388	he	772	‘ and my nets , and the wattled house where I live , and the painted boat in which I sail . Only tell me how to get rid of my soul , and I will give thee all that I possess . ’
+18450	18460	18461	18461	she	872	‘ I can turn the autumn leaves into gold , ’
+18464	18498	18461	18461	she	872	‘ and I can weave the pale moonbeams into silver if I will it . He whom I serve is richer than all the kings of this world , and has their dominions . ’
+18499	18507	18508	18508	he	772	‘ What then shall I give thee , ’
+18511	18521	18508	18508	he	772	‘ if thy price be neither gold nor silver ? ’
+18533	18543	18544	18544	she	872	‘ Thou must dance with me , pretty boy , ’
+18556	18561	18563	18565	the young Fisherman	772	‘ Nought but that ? ’
+18575	18580	18581	18581	she	872	‘ Nought but that , ’
+18591	18604	18605	18605	he	772	‘ Then at sunset in some secret place we shall dance together , ’
+18608	18627	18605	18605	he	772	‘ and after that we have danced thou shalt tell me the thing which I desire to know . ’
+18633	18646	18647	18647	she	872	‘ When the moon is full , when the moon is full , ’
+18729	18743	18744	18744	she	872	‘ To - night thou must come to the top of the mountain , ’
+18747	18759	18744	18744	she	872	‘ It is a Sabbath , and He will be there . ’
+18778	18787	18788	18788	he	772	‘ Who is He of whom thou speakest ? ’
+18791	18796	18797	18797	she	872	‘ It matters not , ’
+18800	18876	18770	18770	she	872	‘ Go thou to - night , and stand under the branches of the hornbeam , and wait for my coming . If a black dog run towards thee , strike it with a rod of willow , and it will go away . If an owl speak to thee , make it no answer . When the moon is full I shall be with thee , and we will dance together on the grass . ’
+18877	18896	18897	18897	he	772	‘ But wilt thou swear to me to tell me how I may send my soul from me ? ’
+18917	18928	18929	18929	she	872	‘ By the hoofs of the goat I swear it , ’
+18933	18942	18944	18946	the young Fisherman	772	‘ Thou art the best of the witches , ’
+18948	18999	18944	18946	the young Fisherman	772	‘ and I will surely dance with thee to - night on the top of the mountain . I would indeed that thou hadst asked of me either gold or silver . But such as thy price is thou shalt have it , for it is but a little thing . ’
+19097	19104	19105	19105	she	872	‘ He should have been mine , ’
+19108	19117	19105	19105	she	872	‘ I am as fair as she is . ’
+19241	19244	19245	19245	they	1674	‘ Phew ! ’
+19255	19265	19245	19245	they	1674	‘ there is some one here we know not ! ’
+19308	19322	19285	19287	the young Witch	868	’ eyes , and a little cap of green velvet was on her head .
+19323	19332	19334	19335	the witches	1674	‘ Where is he , where is he ? ’
+19423	19426	19432	19432	she	872	‘ Faster , ’
+19449	19454	19455	19455	she	872	‘ Faster , faster ! ’
+19761	19768	19770	19771	the Witch	872	‘ Come ! let us worship , ’
+19930	19934	19935	19935	she	912	‘ Loose me , ’
+19938	19965	19935	19935	she	912	‘ and let me go . For thou hast named what should not be named , and shown the sign that may not be looked at . ’
+19966	19969	19970	19970	he	770	‘ Nay , ’
+19973	19989	19970	19970	he	770	‘ but I will not let thee go till thou hast told me the secret . ’
+19990	19994	19996	19997	the Witch	872	‘ What secret ? ’
+20015	20019	20020	20020	he	770	‘ Thou knowest , ’
+20041	20048	20035	20035	she	872	‘ Ask me anything but that ! ’
+20076	20101	20071	20071	she	872	‘ Surely I am as fair as the daughters of the sea , and as comely as those that dwell in the blue waters , ’
+20127	20148	20116	20116	he	770	‘ If thou keepest not the promise that thou madest to me I will slay thee for a false witch . ’
+20163	20168	20169	20169	she	872	‘ Be it so , ’
+20172	20188	20169	20169	she	872	‘ It is thy soul and not mine . Do with it as thou wilt . ’
+20214	20221	20222	20222	he	770	‘ What shall this serve me ? ’
+20265	20333	20260	20260	she	872	‘ What men call the shadow of the body is not the shadow of the body , but is the body of the soul . Stand on the sea - shore with thy back to the moon , and cut away from around thy feet thy shadow , which is thy soul ’s body , and bid thy soul leave thee , and it will do so . ’
+20339	20344	20345	20345	he	770	‘ Is this true ? ’
+20348	20365	20366	20366	she	872	‘ It is true , and I would that I had not told thee of it , ’
+20425	20460	20417	20417	him	770	‘ Lo ! I have dwelt with thee for all these years , and have been thy servant . Send me not away from thee now , for what evil have I done thee ? ’
+20467	20483	20484	20484	he	770	‘ Thou hast done me no evil , but I have no need of thee , ’
+20487	20529	20484	20484	he	770	‘ The world is wide , and there is Heaven also , and Hell , and that dim twilight house that lies between . Go wherever thou wilt , but trouble me not , for my love is calling to me . ’
+20663	20695	20657	20658	his Soul	771	‘ If indeed thou must drive me from thee , send me not forth without a heart . The world is cruel , give me thy heart to take with me . ’
+20703	20718	20719	20719	he	770	‘ With what should I love my love if I gave thee my heart ? ’
+20722	20729	20731	20732	his Soul	771	‘ Nay , but be merciful , ’
+20734	20752	20731	20732	his Soul	771	‘ give me thy heart , for the world is very cruel , and I am afraid . ’
+20753	20761	20762	20762	he	770	‘ My heart is my love ’s , ’
+20765	20775	20762	20762	he	770	‘ therefore tarry not , but get thee gone . ’
+20776	20783	20785	20786	his Soul	771	‘ Should I not love also ? ’
+20788	20801	20803	20805	the young Fisherman	772	‘ Get thee gone , for I have no need of thee , ’
+20874	20879	20880	20880	he	772	‘ Get thee gone , ’
+20883	20893	20880	20880	he	772	‘ and let me see thy face no more . ’
+20894	20903	20905	20906	the Soul	112	‘ Nay , but we must meet again , ’
+20926	20932	20934	20936	the young Fisherman	772	‘ How shall we meet ? ’
+20938	20951	20934	20936	the young Fisherman	772	‘ Thou wilt not follow me into the depths of the sea ? ’
+20952	20968	20970	20971	the Soul	112	‘ Once every year I will come to this place , and call to thee , ’
+20973	20985	20970	20971	the Soul	112	‘ It may be that thou wilt have need of me . ’
+20986	20995	20997	20999	the young Fisherman	772	‘ What need should I have of thee ? ’
+21001	21009	21011	21011	he	772	‘ but be it as thou wilt , ’
+21115	21123	21105	21105	he	933	‘ Why dost thou call to me ? ’
+21129	21147	21125	21126	the Soul	933	‘ Come nearer , that I may speak with thee , for I have seen marvellous things . ’
+21182	21279	21176	21177	the Soul	933	‘ When I left thee I turned my face to the East and journeyed . From the East cometh everything that is wise . Six days I journeyed , and on the morning of the seventh day I came to a hill that is in the country of the Tartars . I sat down under the shade of a tamarisk tree to shelter myself from the sun . The land was dry and burnt up with the heat . The people went to and fro over the plain like flies crawling upon a disk of polished copper .
+21280	21340	21176	21177	the Soul	933	‘ When it was noon a cloud of red dust rose up from the flat rim of the land . When the Tartars saw it , they strung their painted bows , and having leapt upon their little horses they galloped to meet it . The women fled screaming to the waggons , and hid themselves behind the felt curtains .
+21341	21409	21176	21177	the Soul	933	‘ At twilight the Tartars returned , but five of them were missing , and of those that came back not a few had been wounded . They harnessed their horses to the waggons and drove hastily away . Three jackals came out of a cave and peered after them . Then they sniffed up the air with their nostrils , and trotted off in the opposite direction .
+21410	21475	21176	21177	the Soul	933	‘ When the moon rose I saw a camp - fire burning on the plain , and went towards it . A company of merchants were seated round it on carpets . Their camels were picketed behind them , and the negroes who were their servants were pitching tents of tanned skin upon the sand , and making a high wall of the prickly pear .
+21476	21500	21176	21177	the Soul	933	‘ As I came near them , the chief of the merchants rose up and drew his sword , and asked me my business .
+21501	21547	21176	21177	the Soul	933	‘ I answered that I was a Prince in my own land , and that I had escaped from the Tartars , who had sought to make me their slave . The chief smiled , and showed me five heads fixed upon long reeds of bamboo .
+21548	21565	21176	21177	the Soul	933	‘ Then he asked me who was the prophet of God , and I answered him Mohammed .
+21566	21614	21176	21177	the Soul	933	‘ When he heard the name of the false prophet , he bowed and took me by the hand , and placed me by his side . A negro brought me some mare ’s milk in a wooden dish , and a piece of lamb ’s flesh roasted .
+21615	21682	21176	21177	the Soul	933	‘ At daybreak we started on our journey . I rode on a red - haired camel by the side of the chief , and a runner ran before us carrying a spear . The men of war were on either hand , and the mules followed with the merchandise . There were forty camels in the caravan , and the mules were twice forty in number .
+21683	21881	21176	21177	the Soul	933	‘ We went from the country of the Tartars into the country of those who curse the Moon . We saw the Gryphons guarding their gold on the white rocks , and the scaled Dragons sleeping in their caves . As we passed over the mountains we held our breath lest the snows might fall on us , and each man tied a veil of gauze before his eyes . As we passed through the valleys the Pygmies shot arrows at us from the hollows of the trees , and at night - time we heard the wild men beating on their drums . When we came to the Tower of Apes we set fruits before them , and they did not harm us . When we came to the Tower of Serpents we gave them warm milk in howls of brass , and they let us go by . Three times in our journey we came to the banks of the Oxus . We crossed it on rafts of wood with great bladders of blown hide . The river - horses raged against us and sought to slay us . When the camels saw them they trembled .
+21882	21938	22113	22114	The rest	947	‘ The kings of each city levied tolls on us , but would not suffer us to enter their gates . They threw us bread over the walls , little maize - cakes baked in honey and cakes of fine flour filled with dates . For every hundred baskets we gave them a bead of amber .
+21939	22087	22113	22114	The rest	947	‘ When the dwellers in the villages saw us coming , they poisoned the wells and fled to the hill - summits . We fought with the Magadae who are born old , and grow younger and younger every year , and die when they are little children ; and with the Laktroi who say that they are the sons of tigers , and paint themselves yellow and black ; and with the Aurantes who bury their dead on the tops of trees , and themselves live in dark caverns lest the Sun , who is their god , should slay them ; and with the Krimnians who worship a crocodile , and give it earrings of green glass , and feed it with butter and fresh fowls ; and with the Agazonbae , who are dog - faced ; and with the Sibans , who have horses ’
+22157	22232	22146	22146	they	947	‘ In the fourth month we reached the city of Illel . It was night - time when we came to the grove that is outside the walls , and the air was sultry , for the Moon was travelling in Scorpion . We took the ripe pomegranates from the trees , and brake them , and drank their sweet juices . Then we lay down on our carpets , and waited for the dawn .
+22233	22324	22146	22146	they	947	‘ And at dawn we rose and knocked at the gate of the city . It was wrought out of red bronze , and carved with sea - dragons and dragons that have wings . The guards looked down from the battlements and asked us our business . The interpreter of the caravan answered that we had come from the island of Syria with much merchandise . They took hostages , and told us that they would open the gate to us at noon , and bade us tarry till then .
+22325	22475	22146	22146	they	947	‘ When it was noon they opened the gate , and as we entered in the people came crowding out of the houses to look at us , and a crier went round the city crying through a shell . We stood in the market - place , and the negroes uncorded the bales of figured cloths and opened the carved chests of sycamore . And when they had ended their task , the merchants set forth their strange wares , the waxed linen from Egypt and the painted linen from the country of the Ethiops , the purple sponges from Tyre and the blue hangings from Sidon , the cups of cold amber and the fine vessels of glass and the curious vessels of burnt clay . From the roof of a house a company of women watched us . One of them wore a mask of gilded leather .
+22476	22527	22146	22146	they	947	‘ And on the first day the priests came and bartered with us , and on the second day came the nobles , and on the third day came the craftsmen and the slaves . And this is their custom with all merchants as long as they tarry in the city .
+22528	22656	22146	22146	they	947	‘ And we tarried for a moon , and when the moon was waning , I wearied and wandered away through the streets of the city and came to the garden of its god . The priests in their yellow robes moved silently through the green trees , and on a pavement of black marble stood the rose - red house in which the god had his dwelling . Its doors were of powdered lacquer , and bulls and peacocks were wrought on them in raised and polished gold . The tilted roof was of sea - green porcelain , and the jutting eaves were festooned with little bells . When the white doves flew past , they struck the bells with their wings and made them tinkle .
+22657	22721	22725	22725	his	948	‘ In front of the temple was a pool of clear water paved with veined onyx . I lay down beside it , and with my pale fingers I touched the broad leaves . One of the priests came towards me and stood behind me . He had sandals on his feet , one of soft serpent - skin and the other of birds ’
+22755	22770	22146	22146	they	947	‘ After a little while he spake to me , and asked me my desire .
+22771	22783	22146	22146	they	947	‘ I told him that my desire was to see the god .
+22784	22805	22146	22146	they	947	‘ “ The god is hunting , ” said the priest , looking strangely at me with his small slanting eyes .
+22806	22824	22146	22146	they	947	‘ “ Tell me in what forest , and I will ride with him , ” I answered .
+22825	22850	22146	22146	they	947	‘ He combed out the soft fringes of his tunic with his long pointed nails . “ The god is asleep , ” he murmured .
+22851	22869	22146	22146	they	947	‘ “ Tell me on what couch , and I will watch by him , ” I answered .
+22870	22882	22146	22146	they	947	‘ “ The god is at the feast , ” he cried .
+22883	22914	22146	22146	they	947	‘ “ If the wine be sweet I will drink it with him , and if it be bitter I will drink it with him also , ” was my answer .
+22915	22942	22146	22146	they	947	‘ He bowed his head in wonder , and , taking me by the hand , he raised me up , and led me into the temple .
+22943	23030	22146	22146	they	947	‘ And in the first chamber I saw an idol seated on a throne of jasper bordered with great orient pearls . It was carved out of ebony , and in stature was of the stature of a man . On its forehead was a ruby , and thick oil dripped from its hair on to its thighs . Its feet were red with the blood of a newly - slain kid , and its loins girt with a copper belt that was studded with seven beryls .
+23031	23057	22146	22146	they	947	‘ And I said to the priest , “ Is this the god ? ” And he answered me , “ This is the god . ”
+23058	23088	22146	22146	they	947	‘ “ Show me the god , ” I cried , “ or I will surely slay thee . ” And I touched his hand , and it became withered .
+23089	23114	22146	22146	they	947	‘ And the priest besought me , saying , “ Let my lord heal his servant , and I will show him the god . ”
+23115	23230	22146	22146	they	947	‘ So I breathed with my breath upon his hand , and it became whole again , and he trembled and led me into the second chamber , and I saw an idol standing on a lotus of jade hung with great emeralds . It was carved out of ivory , and in stature was twice the stature of a man . On its forehead was a chrysolite , and its breasts were smeared with myrrh and cinnamon . In one hand it held a crooked sceptre of jade , and in the other a round crystal . It ware buskins of brass , and its thick neck was circled with a circle of selenites .
+23231	23245	22146	22146	they	947	‘ And I said to the priest , “ Is this the god ? ”
+23246	23258	22146	22146	they	947	‘ And he answered me , “ This is the god . ”
+23259	23289	22146	22146	they	947	‘ “ Show me the god , ” I cried , “ or I will surely slay thee . ” And I touched his eyes , and they became blind .
+23290	23315	22146	22146	they	947	‘ And the priest besought me , saying , “ Let my lord heal his servant , and I will show him the god . ”
+23316	23377	22146	22146	they	947	‘ So I breathed with my breath upon his eyes , and the sight came back to them , and he trembled again , and led me into the third chamber , and lo ! there was no idol in it , nor image of any kind , but only a mirror of round metal set on an altar of stone .
+23378	23392	22146	22146	they	947	‘ And I said to the priest , “ Where is the god ? ”
+23393	23536	22146	22146	they	947	‘ And he answered me : “ There is no god but this mirror that thou seest , for this is the Mirror of Wisdom . And it reflecteth all things that are in heaven and on earth , save only the face of him who looketh into it . This it reflecteth not , so that he who looketh into it may be wise . Many other mirrors are there , but they are mirrors of Opinion . This only is the Mirror of Wisdom . And they who possess this mirror know everything , nor is there anything hidden from them . And they who possess it not have not Wisdom . Therefore is it the god , and we worship it . ” And I looked into the mirror , and it was even as he had said to me .
+23537	23621	22146	22146	they	947	‘ And I did a strange thing , but what I did matters not , for in a valley that is but a day ’s journey from this place have I hidden the Mirror of Wisdom . Do but suffer me to enter into thee again and be thy servant , and thou shalt be wiser than all the wise men , and Wisdom shall be thine . Suffer me to enter into thee , and none will be as wise as thou . ’
+23628	23635	23636	23636	he	772	‘ Love is better than Wisdom , ’
+23639	23647	23636	23636	he	772	‘ and the little Mermaid loves me . ’
+23648	23659	23661	23662	the Soul	933	‘ Nay , but there is nothing better than Wisdom , ’
+23664	23669	23671	23673	the young Fisherman	772	‘ Love is better , ’
+23733	23741	23724	23724	he	933	‘ Why dost thou call to me ? ’
+23747	23765	23743	23744	the Soul	933	‘ Come nearer , that I may speak with thee , for I have seen marvellous things . ’
+23795	23885	23789	23790	the Soul	933	‘ When I left thee , I turned my face to the South and journeyed . From the South cometh everything that is precious . Six days I journeyed along the highways that lead to the city of Ashter , along the dusty red - dyed highways by which the pilgrims are wo nt to go did I journey , and on the morning of the seventh day I lifted up my eyes , and lo ! the city lay at my feet , for it is in a valley .
+23886	23970	23789	23790	the Soul	933	‘ There are nine gates to this city , and in front of each gate stands a bronze horse that neighs when the Bedouins come down from the mountains . The walls are cased with copper , and the watch - towers on the walls are roofed with brass . In every tower stands an archer with a bow in his hand . At sunrise he strikes with an arrow on a gong , and at sunset he blows through a horn of horn .
+23971	24042	23789	23790	the Soul	933	‘ When I sought to enter , the guards stopped me and asked of me who I was . I made answer that I was a Dervish and on my way to the city of Mecca , where there was a green veil on which the Koran was embroidered in silver letters by the hands of the angels . They were filled with wonder , and entreated me to pass in .
+24043	24258	23789	23790	the Soul	933	‘ Inside it is even as a bazaar . Surely thou shouldst have been with me . Across the narrow streets the gay lanterns of paper flutter like large butterflies . When the wind blows over the roofs they rise and fall as painted bubbles do . In front of their booths sit the merchants on silken carpets . They have straight black beards , and their turbans are covered with golden sequins , and long strings of amber and carved peach - stones glide through their cool fingers . Some of them sell galbanum and nard , and curious perfumes from the islands of the Indian Sea , and the thick oil of red roses , and myrrh and little nail - shaped cloves . When one stops to speak to them , they throw pinches of frankincense upon a charcoal brazier and make the air sweet . I saw a Syrian who held in his hands a thin rod like a reed . Grey threads of smoke came from it , and its odour as it burned was as the odour of the pink almond in spring . Others sell silver bracelets embossed all over with creamy blue turquoise stones , and anklets of brass wire fringed with little pearls , and tigers ’
+24324	24549	24312	24312	their	962	‘ Of a truth thou shouldst have been with me . The wine - sellers elbow their way through the crowd with great black skins on their shoulders . Most of them sell the wine of Schiraz , which is as sweet as honey . They serve it in little metal cups and strew rose leaves upon it . In the market - place stand the fruitsellers , who sell all kinds of fruit : ripe figs , with their bruised purple flesh , melons , smelling of musk and yellow as topazes , citrons and rose - apples and clusters of white grapes , round red - gold oranges , and oval lemons of green gold . Once I saw an elephant go by . Its trunk was painted with vermilion and turmeric , and over its ears it had a net of crimson silk cord . It stopped opposite one of the booths and began eating the oranges , and the man only laughed . Thou canst not think how strange a people they are . When they are glad they go to the bird - sellers and buy of them a caged bird , and set it free that their joy may be greater , and when they are sad they scourge themselves with thorns that their sorrow may not grow less .
+24550	24595	24609	24613	a pale - faced Circassian	964	‘ One evening I met some negroes carrying a heavy palanquin through the bazaar . It was made of gilded bamboo , and the poles were of vermilion lacquer studded with brass peacocks . Across the windows hung thin curtains of muslin embroidered with beetles ’
+24649	24749	24640	24640	I	0	‘ At last they stopped at a square white house . There were no windows to it , only a little door like the door of a tomb . They set down the palanquin and knocked three times with a copper hammer . An Armenian in a caftan of green leather peered through the wicket , and when he saw them he opened , and spread a carpet on the ground , and the woman stepped out . As she went in , she turned round and smiled at me again . I had never seen any one so pale .
+24750	24793	24626	24627	the negroes	260	‘ When the moon rose I returned to the same place and sought for the house , but it was no longer there . When I saw that , I knew who the woman was , and wherefore she had smiled at me .
+24794	24859	24640	24640	I	0	‘ Certainly thou shouldst have been with me . On the feast of the New Moon the young Emperor came forth from his palace and went into the mosque to pray . His hair and beard were dyed with rose - leaves , and his cheeks were powdered with a fine gold dust . The palms of his feet and hands were yellow with saffron .
+24860	25011	24626	24627	the negroes	260	‘ At sunrise he went forth from his palace in a robe of silver , and at sunset he returned to it again in a robe of gold . The people flung themselves on the ground and hid their faces , but I would not do so . I stood by the stall of a seller of dates and waited . When the Emperor saw me , he raised his painted eyebrows and stopped . I stood quite still , and made him no obeisance . The people marvelled at my boldness , and counselled me to flee from the city . I paid no heed to them , but went and sat with the sellers of strange gods , who by reason of their craft are abominated . When I told them what I had done , each of them gave me a god and prayed me to leave them .
+25012	25122	24640	24640	I	0	‘ That night , as I lay on a cushion in the tea - house that is in the Street of Pomegranates , the guards of the Emperor entered and led me to the palace . As I went in they closed each door behind me , and put a chain across it . Inside was a great court with an arcade running all round . The walls were of white alabaster , set here and there with blue and green tiles . The pillars were of green marble , and the pavement of a kind of peach - blossom marble . I had never seen anything like it before .
+25123	25228	24626	24627	the negroes	260	‘ As I passed across the court two veiled women looked down from a balcony and cursed me . The guards hastened on , and the butts of the lances rang upon the polished floor . They opened a gate of wrought ivory , and I found myself in a watered garden of seven terraces . It was planted with tulip - cups and moonflowers , and silver - studded aloes . Like a slim reed of crystal a fountain hung in the dusky air . The cypress - trees were like burnt - out torches . From one of them a nightingale was singing .
+25229	25316	24640	24640	I	0	‘ At the end of the garden stood a little pavilion . As we approached it two eunuchs came out to meet us . Their fat bodies swayed as they walked , and they glanced curiously at me with their yellow - lidded eyes . One of them drew aside the captain of the guard , and in a low voice whispered to him . The other kept munching scented pastilles , which he took with an affected gesture out of an oval box of lilac enamel .
+25317	25372	24626	24627	the negroes	260	‘ After a few moments the captain of the guard dismissed the soldiers . They went back to the palace , the eunuchs following slowly behind and plucking the sweet mulberries from the trees as they passed . Once the elder of the two turned round , and smiled at me with an evil smile .
+25373	25404	24640	24640	I	0	‘ Then the captain of the guard motioned me towards the entrance of the pavilion . I walked on without trembling , and drawing the heavy curtain aside I entered in .
+25405	25466	24626	24627	the negroes	260	‘ The young Emperor was stretched on a couch of dyed lion skins , and a gerfalcon perched upon his wrist . Behind him stood a brass - turbaned Nubian , naked down to the waist , and with heavy earrings in his split ears . On a table by the side of the couch lay a mighty scimitar of steel .
+25467	25505	24640	24640	I	0	‘ When the Emperor saw me he frowned , and said to me , “ What is thy name ? Knowest thou not that I am Emperor of this city ? ” But I made him no answer .
+25506	25569	24626	24627	the negroes	260	‘ He pointed with his finger at the scimitar , and the Nubian seized it , and rushing forward struck at me with great violence . The blade whizzed through me , and did me no hurt . The man fell sprawling on the floor , and when he rose up his teeth chattered with terror and he hid himself behind the couch .
+25570	25675	24640	24640	I	0	‘ The Emperor leapt to his feet , and taking a lance from a stand of arms , he threw it at me . I caught it in its flight , and brake the shaft into two pieces . He shot at me with an arrow , but I held up my hands and it stopped in mid - air . Then he drew a dagger from a belt of white leather , and stabbed the Nubian in the throat lest the slave should tell of his dishonour . The man writhed like a trampled snake , and a red foam bubbled from his lips .
+25676	25767	24626	24627	the negroes	260	‘ As soon as he was dead the Emperor turned to me , and when he had wiped away the bright sweat from his brow with a little napkin of purfled and purple silk , he said to me , “ Art thou a prophet , that I may not harm thee , or the son of a prophet , that I can do thee no hurt ? I pray thee leave my city to - night , for while thou art in it I am no longer its lord . ”
+25768	25797	24640	24640	I	0	‘ And I answered him , “ I will go for half of thy treasure . Give me half of thy treasure , and I will go away . ”
+25798	25843	24626	24627	the negroes	260	‘ He took me by the hand , and led me out into the garden . When the captain of the guard saw me , he wondered . When the eunuchs saw me , their knees shook and they fell upon the ground in fear .
+25844	25956	24640	24640	I	0	‘ There is a chamber in the palace that has eight walls of red porphyry , and a brass - sealed ceiling hung with lamps . The Emperor touched one of the walls and it opened , and we passed down a corridor that was lit with many torches . In niches upon each side stood great wine - jars filled to the brim with silver pieces . When we reached the centre of the corridor the Emperor spake the word that may not be spoken , and a granite door swung back on a secret spring , and he put his hands before his face lest his eyes should be dazzled .
+25957	26133	24626	24627	the negroes	260	‘ Thou couldst not believe how marvellous a place it was . There were huge tortoise - shells full of pearls , and hollowed moonstones of great size piled up with red rubies . The gold was stored in coffers of elephant - hide , and the gold - dust in leather bottles . There were opals and sapphires , the former in cups of crystal , and the latter in cups of jade . Round green emeralds were ranged in order upon thin plates of ivory , and in one corner were silk bags filled , some with turquoise - stones , and others with beryls . The ivory horns were heaped with purple amethysts , and the horns of brass with chalcedonies and sards . The pillars , which were of cedar , were hung with strings of yellow lynx - stones . In the flat oval shields there were carbuncles , both wine - coloured and coloured like grass . And yet I have told thee but a tithe of what was there .
+26134	26250	24640	24640	I	0	‘ And when the Emperor had taken away his hands from before his face he said to me : “ This is my house of treasure , and half that is in it is thine , even as I promised to thee . And I will give thee camels and camel drivers , and they shall do thy bidding and take thy share of the treasure to whatever part of the world thou desirest to go . And the thing shall be done to - night , for I would not that the Sun , who is my father , should see that there is in my city a man whom I can not slay . ”
+26251	26317	24626	24627	the negroes	260	‘ But I answered him , “ The gold that is here is thine , and the silver also is thine , and thine are the precious jewels and the things of price . As for me , I have no need of these . Nor shall I take aught from thee but that little ring that thou wearest on the finger of thy hand . ”
+26318	26357	24640	24640	I	0	‘ And the Emperor frowned . “ It is but a ring of lead , ” he cried , “ nor has it any value . Therefore take thy half of the treasure and go from my city . ”
+26358	26391	24626	24627	the negroes	260	‘ “ Nay , ” I answered , “ but I will take nought but that leaden ring , for I know what is written within it , and for what purpose . ”
+26392	26425	24640	24640	I	0	‘ And the Emperor trembled , and besought me and said , “ Take all the treasure and go from my city . The half that is mine shall be thine also . ”
+26426	26512	24626	24627	the negroes	260	‘ And I did a strange thing , but what I did matters not , for in a cave that is but a day ’s journey from this place have , I hidden the Ring of Riches . It is but a day ’s journey from this place , and it waits for thy coming . He who has this Ring is richer than all the kings of the world . Come therefore and take it , and the world ’s riches shall be thine . ’
+26519	26526	26527	26527	he	772	‘ Love is better than Riches , ’
+26530	26538	26527	26527	he	772	‘ and the little Mermaid loves me . ’
+26539	26550	26552	26553	the Soul	933	‘ Nay , but there is nothing better than Riches , ’
+26555	26560	26562	26564	the young Fisherman	772	‘ Love is better , ’
+26624	26632	26615	26615	he	772	‘ Why dost thou call to me ? ’
+26638	26656	26634	26635	the Soul	933	‘ Come nearer , that I may speak with thee , for I have seen marvellous things . ’
+26686	26863	26680	26681	the Soul	933	‘ In a city that I know of there is an inn that standeth by a river . I sat there with sailors who drank of two different - coloured wines , and ate bread made of barley , and little salt fish served in bay leaves with vinegar . And as we sat and made merry , there entered to us an old man bearing a leathern carpet and a lute that had two horns of amber . And when he had laid out the carpet on the floor , he struck with a quill on the wire strings of his lute , and a girl whose face was veiled ran in and began to dance before us . Her face was veiled with a veil of gauze , but her feet were naked . Naked were her feet , and they moved over the carpet like little white pigeons . Never have I seen anything so marvellous ; and the city in which she dances is but a day ’s journey from this place . ’
+26904	26921	26899	26899	he	772	‘ It is but a day ’s journey , and I can return to my love , ’
+27012	27040	27006	27007	his Soul	771	‘ Let us not tarry , but get hence at once , for the Sea - gods are jealous , and have monsters that do their bidding . ’
+27094	27111	27086	27088	the young Fisherman	772	‘ Is this the city in which she dances of whom thou didst speak to me ? ’
+27118	27134	27116	27116	him	772	‘ It is not this city , but another . Nevertheless let us enter in . ’
+27176	27185	27170	27171	his Soul	771	‘ Take that silver cup and hide it . ’
+27239	27262	27222	27224	the young Fisherman	772	‘ Why didst thou tell me to take this cup and hide it , for it was an evil thing to do ? ’
+27269	27278	27267	27267	him	772	‘ Be at peace , be at peace . ’
+27302	27319	27294	27296	the young Fisherman	772	‘ Is this the city in which she dances of whom thou didst speak to me ? ’
+27326	27342	27324	27324	him	772	‘ It is not this city , but another . Nevertheless let us enter in . ’
+27386	27391	27380	27381	his Soul	771	‘ Smite that child . ’
+27438	27458	27426	27428	the young Fisherman	772	‘ Why didst thou tell me to smite the child , for it was an evil thing to do ? ’
+27465	27474	27460	27461	his Soul	771	‘ Be at peace , be at peace . ’
+27498	27515	27490	27492	the young Fisherman	772	‘ Is this the city in which she dances of whom thou didst speak to me ? ’
+27522	27539	27520	27520	him	772	‘ It may be that it is in this city , therefore let us enter in . ’
+27589	27606	27580	27580	he	772	‘ Let us go hence , for she who dances with white feet is not here . ’
+27612	27634	27580	27580	he	772	‘ Nay , but let us tarry , for the night is dark and there will be robbers on the way . ’
+27689	27711	27683	27684	the merchant	1032	‘ Why dost thou sit in the market - place , seeing that the booths are closed and the bales corded ? ’
+27719	27740	27713	27715	the young Fisherman	772	‘ I can find no inn in this city , nor have I any kinsman who might give me shelter . ’
+27741	27748	27750	27751	the merchant	1032	‘ Are we not all kinsmen ? ’
+27753	27775	27750	27751	the merchant	1032	‘ And did not one God make us ? Therefore come with me , for I have a guest - chamber . ’
+27946	27985	27937	27938	his Soul	771	‘ Rise up and go to the room of the merchant , even to the room in which he sleepeth , and slay him , and take from him his gold , for we have need of it . ’
+28066	28090	28056	28056	himself	1032	‘ Dost thou return evil for good , and pay with the shedding of blood for the kindness that I have shown thee ? ’
+28100	28104	28106	28106	he	771	‘ Strike him , ’
+28170	28189	28157	28159	the young Fisherman	772	‘ Why didst thou bid me slay the merchant and take his gold ? Surely thou art evil . ’
+28196	28205	28194	28194	him	772	‘ Be at peace , be at peace . ’
+28206	28209	28211	28213	the young Fisherman	772	‘ Nay , ’
+28215	28256	28211	28213	the young Fisherman	772	‘ I may not be at peace , for all that thou hast made me to do I hate . Thee also I hate , and I bid thee tell me wherefore thou hast wrought with me in this wise . ’
+28263	28291	28261	28261	him	772	‘ When thou didst send me forth into the world thou gavest me no heart , so I learned to do all these things and love them . ’
+28292	28297	28299	28301	the young Fisherman	772	‘ What sayest thou ? ’
+28303	28307	28309	28309	his	772	‘ Thou knowest , ’
+28312	28366	28309	28309	his	772	‘ thou knowest it well . Hast thou forgotten that thou gavest me no heart ? I trow not . And so trouble not thyself nor me , but be at peace , for there is no pain that thou shalt not give away , nor any pleasure that thou shalt not receive . ’
+28383	28417	28375	28375	he	772	‘ Nay , but thou art evil , and hast made me forget my love , and hast tempted me with temptations , and hast set my feet in the ways of sin . ’
+28424	28466	28422	28422	him	772	‘ Thou hast not forgotten that when thou didst send me forth into the world thou gavest me no heart . Come , let us go to another city , and make merry , for we have nine purses of gold . ’
+28488	28491	28492	28492	he	772	‘ Nay , ’
+28495	28539	28492	28492	he	772	‘ but I will have nought to do with thee , nor will I journey with thee anywhere , but even as I sent thee away before , so will I send thee away now , for thou hast wrought me no good . ’
+28603	28666	28584	28585	his Soul	771	‘ The spell that the Witch told thee avails thee no more , for I may not leave thee , nor mayest thou drive me forth . Once in his life may a man send his Soul away , but he who receiveth back his Soul must keep it with him for ever , and this is his punishment and his reward . ’
+28680	28694	28675	28675	his	772	‘ She was a false Witch in that she told me not that . ’
+28695	28698	28700	28701	his Soul	771	‘ Nay , ’
+28703	28721	28700	28701	his Soul	771	‘ but she was true to Him she worships , and whose servant she will be ever . ’
+28782	28868	28771	28773	the young Fisherman	772	‘ I will bind my hands that I may not do thy bidding , and close my lips that I may not speak thy words , and I will return to the place where she whom I love has her dwelling . Even to the sea will I return , and to the little bay where she is wo nt to sing , and I will call to her and tell her the evil I have done and the evil thou hast wrought on me . ’
+28877	29170	28870	28871	his Soul	771	‘ Who is thy love , that thou shouldst return to her ? The world has many fairer than she is . There are the dancing - girls of Samaris who dance in the manner of all kinds of birds and beasts . Their feet are painted with henna , and in their hands they have little copper bells . They laugh while they dance , and their laughter is as clear as the laughter of water . Come with me and I will show them to thee . For what is this trouble of thine about the things of sin ? Is that which is pleasant to eat not made for the eater ? Is there poison in that which is sweet to drink ? Trouble not thyself , but come with me to another city . There is a little city hard by in which there is a garden of tulip - trees . And there dwell in this comely garden white peacocks and peacocks that have blue breasts . Their tails when they spread them to the sun are like disks of ivory and like gilt disks . And she who feeds them dances for their pleasure , and sometimes she dances on her hands and at other times she dances with her feet . Her eyes are coloured with stibium , and her nostrils are shaped like the wings of a swallow . From a hook in one of her nostrils hangs a flower that is carved out of a pearl . She laughs while she dances , and the silver rings that are about her ankles tinkle like bells of silver . And so trouble not thyself any more , but come with me to this city . ’
+29337	29408	29330	29331	his Soul	771	‘ Surely thou hast but little joy out of thy love . Thou art as one who in time of death pours water into a broken vessel . Thou givest away what thou hast , and nought is given to thee in return . It were better for thee to come with me , for I know where the Valley of Pleasure lies , and what things are wrought there . ’
+29574	29611	29568	29569	the Soul	933	‘ I have tempted my master with evil , and his love is stronger than I am . I will tempt him now with good , and it may be that he will come with me . ’
+29622	29818	29613	29613	he	933	‘ I have told thee of the joy of the world , and thou hast turned a deaf ear to me . Suffer me now to tell thee of the world ’s pain , and it may be that thou wilt hearken . For of a truth pain is the Lord of this world , nor is there any one who escapes from its net . There be some who lack raiment , and others who lack bread . There be widows who sit in purple , and widows who sit in rags . To and fro over the fens go the lepers , and they are cruel to each other . The beggars go up and down on the highways , and their wallets are empty . Through the streets of the cities walks Famine , and the Plague sits at their gates . Come , let us go forth and mend these things , and make them not to be . Wherefore shouldst thou tarry here calling to thy love , seeing she comes not to thy call ? And what is love , that thou shouldst set this high store upon it ? ’
+29960	30019	29938	29939	the Soul	933	‘ Lo ! now I have tempted thee with evil , and I have tempted thee with good , and thy love is stronger than I am . Wherefore will I tempt thee no longer , but I pray thee to suffer me to enter thy heart , that I may be one with thee even as before . ’
+30020	30026	30028	30030	the young Fisherman	772	‘ Surely thou mayest enter , ’
+30032	30053	30028	30030	the young Fisherman	772	‘ for in the days when with no heart thou didst go through the world thou must have much suffered . ’
+30054	30057	30059	30060	his Soul	771	‘ Alas ! ’
+30062	30082	30059	30060	his Soul	771	‘ I can find no place of entrance , so compassed about with love is this heart of thine . ’
+30083	30093	30095	30097	the young Fisherman	772	‘ Yet I would that I could help thee , ’
+30466	30470	30472	30473	his Soul	771	‘ Flee away , ’
+30475	30539	30472	30473	his Soul	771	‘ for ever doth the sea come nigher , and if thou tarriest it will slay thee . Flee away , for I am afraid , seeing that thy heart is closed against me by reason of the greatness of thy love . Flee away to a place of safety . Surely thou wilt not send me without a heart into another world ? ’
+30559	30692	30553	30555	the little Mermaid	831	‘ Love is better than wisdom , and more precious than riches , and fairer than the feet of the daughters of men . The fires can not destroy it , nor can the waters quench it . I called on thee at dawn , and thou didst not come to my call . The moon heard thy name , yet hadst thou no heed of me . For evilly had I left thee , and to my own hurt had I wandered away . Yet ever did thy love abide with me , and ever was it strong , nor did aught prevail against it , though I have looked upon evil and looked upon good . And now that thou art dead , surely I will die with thee also . ’
+30903	31024	30897	30897	he	1472	‘ I will not bless the sea nor anything that is in it . Accursed be the Sea - folk , and accursed be all they who traffic with them . And as for him who for love ’s sake forsook God , and so lieth here with his leman slain by God ’s judgment , take up his body and the body of his leman , and bury them in the corner of the Field of the Fullers , and set no mark above them , nor sign of any kind , that none may know the place of their resting . For accursed were they in their lives , and accursed shall they be in their deaths also . ’
+31383	31400	31376	31376	he	1472	‘ What are the flowers that stand on the altar , and whence do they come ? ’
+31406	31425	31402	31402	they	1166	‘ What flowers they are we can not tell , but they come from the corner of the Fullers ’
+31428	31442	31402	31402	they	1166	’ And the Priest trembled , and returned to his own house and prayed .
+31561	31605	31606	31609	THE STAR - CHILD	1177	’ Field grew flowers of any kind , but the field remained barren even as before . Nor came the Sea - folk into the bay as they had been wo nt to do , for they went to another part of the sea .
+31727	31730	31736	31736	he	1182	‘ Ugh ! ’
+31748	31764	31736	31736	he	1182	‘ this is perfectly monstrous weather . Why does n’t the Government look to it ? ’
+31765	31772	31732	31733	the Wolf	1182	‘ Weet ! weet ! weet ! ’
+31778	31795	31732	31733	the Wolf	1182	‘ the old Earth is dead and they have laid her out in her white shroud . ’
+31796	31812	31819	31820	each other	182	‘ The Earth is going to be married , and this is her bridal dress , ’
+31849	31852	31854	31855	the Wolf	124	‘ Nonsense ! ’
+31857	31883	31854	31855	the Wolf	124	‘ I tell you that it is all the fault of the Government , and if you do n’t believe me I shall eat you . ’
+31903	31911	31918	31920	a born philosopher	1184	‘ Well , for my own part , ’
+31922	31951	31918	31920	a born philosopher	1184	‘ I do n’t care an atomic theory for explanations . If a thing is so , it is so , and at present it is terribly cold . ’
+32049	32073	32032	32032	they	1186	‘ Tu - whit ! Tu - whoo ! Tu - whit ! Tu - whoo ! what delightful weather we are having ! ’
+32316	32363	32310	32310	them	1189	‘ Why did we make merry , seeing that life is for the rich , and not for such as we are ? Better that we had died of cold in the forest , or that some wild beast had fallen upon us and slain us . ’
+32364	32367	32369	32370	his companion	339	‘ Truly , ’
+32372	32404	32369	32370	his companion	339	‘ much is given to some , and little is given to others . Injustice has parcelled out the world , nor is there equal division of aught save of sorrow . ’
+32486	32500	32501	32501	they	1189	‘ Why ! there is a crook of gold for whoever finds it , ’
+32692	32752	32686	32686	them	1189	‘ This is a bitter ending to our hope , nor have we any good fortune , for what doth a child profit to a man ? Let us leave it here , and go our way , seeing that we are poor men , and have children of our own whose bread we may not give to another . ’
+32759	32821	32757	32757	him	1201	‘ Nay , but it were an evil thing to leave the child to perish here in the snow , and though I am as poor as thou art , and have many mouths to feed , and but little in the pot , yet will I bring it home with me , and my wife shall have care of it . ’
+32882	32903	32876	32877	his comrade	1205	‘ Thou hast the child , therefore give me the cloak , for it is meet that we should share . ’
+32909	32927	32905	32905	he	1205	‘ Nay , for the cloak is neither mine nor thine , but the child ’s only , ’
+33002	33024	32997	32997	he	1201	‘ I have found something in the forest , and I have brought it to thee to have care of it , ’
+33033	33038	33039	33039	she	164	‘ What is it ? ’
+33042	33062	33039	33039	she	164	‘ Show it to me , for the house is bare , and we have need of many things . ’
+33077	33082	33083	33083	she	164	‘ Alack , goodman ! ’
+33086	33127	33083	33083	she	164	‘ have we not children of our own , that thou must needs bring a changeling to sit by the hearth ? And who knows if it will not bring us bad fortune ? And how shall we tend it ? ’
+33135	33146	33147	33147	he	1201	‘ Nay , but it is a Star - Child , ’
+33182	33211	33164	33164	she	164	‘ Our children lack bread , and shall we feed the child of another ? Who is there who careth for us ? And who giveth us food ? ’
+33212	33227	33228	33228	he	1201	‘ Nay , but God careth for the sparrows even , and feedeth them , ’
+33231	33243	33244	33244	she	164	‘ Do not the sparrows die of hunger in the winter ? ’
+33247	33255	33244	33244	she	164	‘ And is it not winter now ? ’
+33297	33319	33289	33289	she	164	‘ Wilt thou not close the door ? There cometh a bitter wind into the house , and I am cold . ’
+33320	33337	33338	33338	he	1201	‘ Into a house where a heart is hard cometh there not always a bitter wind ? ’
+33804	33839	33793	33794	the Woodcutter	1232	‘ We did not deal with thee as thou dealest with those who are left desolate , and have none to succour them . Wherefore art thou so cruel to all who need pity ? ’
+33864	33931	33842	33844	the old priest	1250	‘ The fly is thy brother . Do it no harm . The wild birds that roam through the forest have their freedom . Snare them not for thy pleasure . God made the blind - worm and the mole , and each has its place . Who art thou to bring pain into God ’s world ? Even the cattle of the field praise Him . ’
+34139	34175	34133	34133	he	1177	‘ See ! There sitteth a foul beggar - woman under that fair and green - leaved tree . Come , let us drive her hence , for she is ugly and ill - favoured . ’
+34246	34277	34234	34234	he	1262	‘ Surely thou art hard of heart and knowest not mercy , for what evil has this poor woman done to thee that thou shouldst treat her in this wise ? ’
+34299	34321	34290	34290	his	1177	‘ Who art thou to question me what I do ? I am no son of thine to do thy bidding . ’
+34322	34327	34329	34330	the Woodcutter	1232	‘ Thou speakest truly , ’
+34332	34347	34329	34330	the Woodcutter	1232	‘ yet did I show thee pity when I found thee in the forest . ’
+34427	34451	34414	34414	she	1877	‘ Didst thou not say that the child was found in the forest ? And was it not ten years from this day ? ’
+34457	34479	34453	34454	the Woodcutter	127	‘ Yea , it was in the forest that I found him , and it is ten years from this day . ’
+34480	34490	34491	34491	she	1877	‘ And what signs didst thou find with him ? ’
+34494	34519	34491	34491	she	1877	‘ Bare he not upon his neck a chain of amber ? Was not round him a cloak of gold tissue broidered with stars ? ’
+34520	34523	34525	34526	the Woodcutter	1232	‘ Truly , ’
+34528	34536	34538	34538	he	1232	‘ it was even as thou sayest . ’
+34572	34606	34564	34564	she	1877	‘ He is my little son whom I lost in the forest . I pray thee send for him quickly , for in search of him have I wandered over the whole world . ’
+34628	34648	34611	34612	his wife	164	‘ Go into the house , and there shalt thou find thy mother , who is waiting for thee . ’
+34677	34697	34671	34671	he	128	‘ Why , where is my mother ? For I see none here but this vile beggar - woman . ’
+34704	34710	34699	34700	the woman	1877	‘ I am thy mother . ’
+34711	34719	34721	34724	the Star - Child	1177	‘ Thou art mad to say so , ’
+34727	34763	34721	34724	the Star - Child	1177	‘ I am no son of thine , for thou art a beggar , and ugly , and in rags . Therefore get thee hence , and let me see thy foul face no more . ’
+34764	34782	34783	34783	she	1877	‘ Nay , but thou art indeed my little son , whom I bare in the forest , ’
+34801	34815	34816	34816	she	1877	‘ The robbers stole thee from me , and left thee to die , ’
+34819	34883	34816	34816	she	1877	‘ but I recognised thee when I saw thee , and the signs also have I recognised , the cloak of golden tissue and the amber chain . Therefore I pray thee come with me , for over the whole world have I wandered in search of thee . Come with me , my son , for I have need of thy love . ’
+34937	34947	34948	34948	he	1177	‘ If in very truth thou art my mother , ’
+34951	35011	34948	34948	he	1177	‘ it had been better hadst thou stayed away , and not come here to bring me to shame , seeing that I thought I was the child of some Star , and not a beggar ’s child , as thou tellest me that I am . Therefore get thee hence , and let me see thee no more . ’
+35012	35018	35019	35019	she	1877	‘ Alas ! my son , ’
+35022	35041	35019	35019	she	1877	‘ wilt thou not kiss me before I go ? For I have suffered much to find thee . ’
+35042	35045	35047	35050	the Star - Child	128	‘ Nay , ’
+35052	35075	35047	35050	the Star - Child	128	‘ but thou art too foul to look at , and rather would I kiss the adder or the toad than thee . ’
+35133	35166	35127	35127	they	1281	‘ Why , thou art as foul as the toad , and as loathsome as the adder . Get thee hence , for we will not suffer thee to play with us , ’
+35187	35219	35185	35185	himself	1177	‘ What is this that they say to me ? I will go to the well of water and look into it , and it shall tell me of my beauty . ’
+35271	35327	35256	35256	he	1177	‘ Surely this has come upon me by reason of my sin . For I have denied my mother , and driven her away , and been proud , and cruel to her . Wherefore I will go and seek her through the whole world , nor will I rest till I have found her . ’
+35351	35375	35341	35341	she	1286	‘ What doth it matter if thou hast lost thy comeliness ? Stay with us , and I will not mock at thee . ’
+35382	35429	35377	35377	he	1177	‘ Nay , but I have been cruel to my mother , and as a punishment has this evil been sent to me . Wherefore I must go hence , and wander through the world till I find her , and she give me her forgiveness . ’
+35570	35586	35564	35564	He	1177	‘ Thou canst go beneath the earth . Tell me , is my mother there ? ’
+35592	35604	35588	35589	the Mole	1256	‘ Thou hast blinded mine eyes . How should I know ? ’
+35611	35639	35605	35605	He	1177	‘ Thou canst fly over the tops of the tall trees , and canst see the whole world . Tell me , canst thou see my mother ? ’
+35645	35660	35641	35642	the Linnet	129	‘ Thou hast clipt my wings for thy pleasure . How should I fly ? ’
+35681	35687	35678	35678	he	1177	‘ Where is my mother ? ’
+35693	35707	35689	35690	the Squirrel	1295	‘ Thou hast slain mine . Dost thou seek to slay thine also ? ’
+36038	36047	36026	36026	their	1316	‘ What is thy business in the city ? ’
+36048	36056	36057	36057	he	1177	‘ I am seeking for my mother , ’
+36060	36082	36057	36057	he	1177	‘ and I pray ye to suffer me to pass , for it may be that she is in this city . ’
+36106	36161	36092	36092	them	1316	‘ Of a truth , thy mother will not be merry when she sees thee , for thou art more ill - favoured than the toad of the marsh , or the adder that crawls in the fen . Get thee gone . Get thee gone . Thy mother dwells not in this city . ’
+36178	36192	36171	36171	his	1177	‘ Who is thy mother , and wherefore art thou seeking for her ? ’
+36197	36242	36194	36194	he	1177	‘ My mother is a beggar even as I am , and I have treated her evilly , and I pray ye to suffer me to pass that she may give me her forgiveness , if it be that she tarrieth in this city . ’
+36305	36324	36300	36300	they	1317	‘ It is a beggar and the child of a beggar , and we have driven him away . ’
+36325	36328	36329	36329	he	1177	‘ Nay , ’
+36334	36360	36329	36329	he	1177	‘ but we will sell the foul thing for a slave , and his price shall be the price of a bowl of sweet wine . ’
+36379	36388	36398	36398	he	1320	‘ I will buy him for that price , ’
+36562	36565	36547	36549	the old man	1324	‘ Eat , ’
+36576	36579	36547	36549	the old man	1324	‘ Drink , ’
+36658	36791	36793	36793	he	1324	‘ In a wood that is nigh to the gate of this city of Giaours there are three pieces of gold . One is of white gold , and another is of yellow gold , and the gold of the third one is red . To - day thou shalt bring me the piece of white gold , and if thou bringest it not back , I will beat thee with a hundred stripes . Get thee away quickly , and at sunset I will be waiting for thee at the door of the garden . See that thou bringest the white gold , or it shall go ill with thee , for thou art my slave , and I have bought thee for the price of a bowl of sweet wine . ’
+37093	37109	37075	37078	the Star - Child	128	‘ I am myself but a slave , yet may I give thee thy freedom . ’
+37119	37136	37111	37112	the Hare	130	‘ Surely thou hast given me freedom , and what shall I give thee in return ? ’
+37146	37178	37138	37141	the Star - Child	128	‘ I am seeking for a piece of white gold , nor can I anywhere find it , and if I bring it not to my master he will beat me . ’
+37179	37185	37187	37188	the Hare	1355	‘ Come thou with me , ’
+37190	37212	37187	37188	the Hare	1355	‘ and I will lead thee to it , for I know where it is hidden , and for what purpose . ’
+37264	37296	37248	37248	he	128	‘ The service that I did to thee thou hast rendered back again many times over , and the kindness that I showed thee thou hast repaid a hundred - fold . ’
+37297	37300	37302	37303	the Hare	1355	‘ Nay , ’
+37305	37320	37302	37303	the Hare	1355	‘ but as thou dealt with me , so I did deal with thee , ’
+37405	37441	37384	37384	he	1177	‘ Give me a piece of money , or I must die of hunger . For they have thrust me out of the city , and there is no one who has pity on me . ’
+37442	37445	37447	37450	the Star - Child	128	‘ Alas ! ’
+37452	37484	37447	37450	the Star - Child	128	‘ I have but one piece of money in my wallet , and if I bring it not to my master he will beat me , for I am his slave . ’
+37544	37553	37528	37529	the Magician	1343	‘ Hast thou the piece of white gold ? ’
+37561	37567	37555	37558	the Star - Child	1177	‘ I have it not . ’
+37590	37593	37569	37570	the Magician	1343	‘ Eat , ’
+37602	37605	37569	37570	the Magician	1343	‘ Drink , ’
+37627	37658	37618	37619	the Magician	1343	‘ If to - day thou bringest me not the piece of yellow gold , I will surely keep thee as my slave , and give thee three hundred stripes . ’
+37728	37743	37722	37723	the Hare	1355	‘ Why art thou weeping ? And what dost thou seek in the wood ? ’
+37751	37785	37745	37748	the Star - Child	1177	‘ I am seeking for a piece of yellow gold that is hidden here , and if I find it not my master will beat me , and keep me as a slave . ’
+37786	37790	37792	37793	the Hare	1355	‘ Follow me , ’
+37825	37832	37834	37837	the Star - Child	128	‘ How shall I thank thee ? ’
+37839	37854	37834	37837	the Star - Child	128	‘ for lo ! this is the second time that you have succoured me . ’
+37855	37866	37868	37869	the Hare	1355	‘ Nay , but thou hadst pity on me first , ’
+37921	37935	37903	37904	the leper	1554	‘ Give me a piece of money or I shall die of hunger . ’
+37945	37978	37937	37940	the Star - Child	1177	‘ I have in my wallet but one piece of yellow gold , and if I bring it not to my master he will beat me and keep me as his slave . ’
+38032	38041	38016	38017	the Magician	1343	‘ Hast thou the piece of yellow gold ? ’
+38051	38057	38043	38046	the Star - Child	128	‘ I have it not . ’
+38096	38127	38087	38088	the Magician	1343	‘ If to - day thou bringest me the piece of red gold I will set thee free , but if thou bringest it not I will surely slay thee . ’
+38188	38214	38182	38183	the Hare	1355	‘ The piece of red gold that thou seekest is in the cavern that is behind thee . Therefore weep no more but be glad . ’
+38215	38222	38224	38227	the Star - Child	1177	‘ How shall I reward thee ? ’
+38229	38243	38224	38227	the Star - Child	1177	‘ for lo ! this is the third time thou hast succoured me . ’
+38244	38255	38257	38258	the Hare	1355	‘ Nay , but thou hadst pity on me first , ’
+38326	38340	38303	38304	the leper	1554	‘ Give me the piece of red money , or I must die , ’
+38363	38371	38342	38345	the Star - Child	1177	‘ Thy need is greater than mine . ’
+38417	38424	38405	38406	the guards	1758	‘ How beautiful is our lord ! ’
+38437	38449	38429	38429	citizens	1403	‘ Surely there is none so beautiful in the whole world ! ’
+38463	38476	38461	38461	himself	1554	‘ They are mocking me , and making light of my misery . ’
+38550	38569	38541	38541	they	1413	‘ Thou art our lord for whom we have been waiting , and the son of our King . ’
+38580	38618	38571	38574	the Star - Child	1177	‘ I am no king ’s son , but the child of a poor beggar - woman . And how say ye that I am beautiful , for I know that I am evil to look at ? ’
+38649	38660	38620	38620	he	1177	‘ How saith my lord that he is not beautiful ? ’
+38718	38762	38705	38706	the priests	1491	‘ It was prophesied of old that on this day should come he who was to rule over us . Therefore , let our lord take this crown and this sceptre , and be in his justice and mercy our King over us . ’
+38769	38831	38764	38764	he	1177	‘ I am not worthy , for I have denied the mother who bare me , nor may I rest till I have found her , and known her forgiveness . Therefore , let me go , for I must wander again over the world , and may not tarry here , though ye bring me the crown and the sceptre . ’
+38950	38996	38945	38945	he	1177	‘ Mother , I denied thee in the hour of my pride . Accept me in the hour of my humility . Mother , I gave thee hatred . Do thou give me love . Mother , I rejected thee . Receive thy child now . ’
+39029	39047	39009	39009	he	1177	‘ Thrice did I give thee of my mercy . Bid my mother speak to me once . ’
+39064	39090	39058	39058	he	1177	‘ Mother , my suffering is greater than I can bear . Give me thy forgiveness , and let me go back to the forest . ’
+39108	39111	39097	39097	her	1298	‘ Rise , ’
+39127	39130	39116	39116	his	1554	‘ Rise , ’
+39164	39174	39158	39159	the Queen	456	‘ This is thy father whom thou hast succoured . ’
+39180	39194	39176	39177	the King	1516	‘ This is thy mother whose feet thou hast washed with thy tears . ’
