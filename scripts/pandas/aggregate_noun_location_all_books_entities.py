@@ -20,10 +20,12 @@ if __name__ == '__main__':
 
     main_df = pd.concat(appended_data)
     main_df = main_df.filter(items=['cat', 'text', 'book_title', 'count', 'total_count'])
-    main_df = main_df.loc[main_df['cat'] == 'LOC']
+    loc_df = main_df.loc[main_df['cat'] == 'LOC']
+    gpe_df = main_df.loc[main_df['cat'] == 'GPE']
+    main_df = pd.concat([loc_df, gpe_df])
 
     # book_specific_noun_location_word_count
-    main_df = main_df.groupby(["text", "total_count", "book_title"], as_index=False)["count"].count()
+    main_df = main_df.groupby(["cat", "text", "total_count", "book_title"], as_index=False)["count"].count()
     # main_df = main_df.groupby(["text"], as_index=False)["total_count"].sum()
     main_df['total_count'] = main_df.groupby(["text"])['count'].transform('sum')
 

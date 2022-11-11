@@ -1,0 +1,1327 @@
+,cat,text,total_count,book_title,count
+0,GPE,Abracadabra,3,the_little_lame_prince_and_his_travelling_cloak,3
+1,GPE,Acroceraunia,1,the_rose_and_the_ring,1
+2,GPE,Africa,1,the_rose_and_the_ring,1
+3,GPE,Albuquerque,1,a_house_of_pomegranates,1
+4,GPE,All,1,the_rose_and_the_ring,1
+5,GPE,Alma,1,the_rose_and_the_ring,1
+6,GPE,America,3,the_magic_fishbone,1
+7,GPE,America,3,the_rose_and_the_ring,2
+8,GPE,Aragon,1,a_house_of_pomegranates,1
+9,GPE,Arecarp,6,the_brown_owl,6
+10,GPE,Ashter,1,a_house_of_pomegranates,1
+11,GPE,Asia,2,the_pied_piper_of_hamelin,1
+12,GPE,Asia,2,the_rose_and_the_ring,1
+13,GPE,Australia,4,melisande,1
+14,GPE,Australia,4,the_little_lame_prince_and_his_travelling_cloak,1
+15,GPE,Australia,4,the_rose_and_the_ring,2
+16,GPE,Australy,1,dymchurch_filt,1
+17,GPE,BERGERAC,1,prince_prigio,1
+18,GPE,BETSINDA,1,the_rose_and_the_ring,1
+19,GPE,Bisnagar,1,prince_prigio,1
+20,GPE,Blombodinga,8,the_rose_and_the_ring,8
+21,GPE,Blunderbusco,1,the_rose_and_the_ring,1
+22,GPE,Bohemia,1,a_house_of_pomegranates,1
+23,GPE,Bombardaro,2,the_rose_and_the_ring,2
+24,GPE,Bombardaro--,1,the_rose_and_the_ring,1
+25,GPE,Boots,1,prince_prigio,1
+26,GPE,Bosforo,6,the_rose_and_the_ring,6
+27,GPE,Britain,1,the_brown_owl,1
+28,GPE,Brunswick,1,the_pied_piper_of_hamelin,1
+29,GPE,Brunswick land,1,the_pied_piper_of_hamelin,1
+30,GPE,Buffon,1,prince_prigio,1
+31,GPE,Bulverhithe,2,dymchurch_filt,2
+32,GPE,Burgos,1,a_house_of_pomegranates,1
+33,GPE,COURT,1,the_rose_and_the_ring,1
+34,GPE,CRIM TARTARY,1,the_rose_and_the_ring,1
+35,GPE,Cappadocia,1,the_rose_and_the_ring,1
+36,GPE,Castile,1,a_house_of_pomegranates,1
+37,GPE,Cavolfiore,2,the_rose_and_the_ring,2
+38,GPE,Christendom,1,the_rose_and_the_ring,1
+39,GPE,Chrysea,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+40,GPE,Circassia,1,the_rose_and_the_ring,1
+41,GPE,College,1,the_rose_and_the_ring,1
+42,GPE,Court,3,the_happy_prince_and_other_tales,3
+43,GPE,Crim Tartary,26,the_rose_and_the_ring,20
+44,GPE,Crimea,1,the_rose_and_the_ring,1
+45,GPE,Dastard,1,prince_prigio,1
+46,GPE,Denmark,1,the_rose_and_the_ring,1
+47,GPE,Dover,1,dymchurch_filt,1
+48,GPE,Dymchurch,1,dymchurch_filt,1
+49,GPE,ESQUIRE,2,the_king_of_the_golden_river,2
+50,GPE,Egypt,13,a_house_of_pomegranates,3
+51,GPE,Egypt,13,the_brown_owl,1
+52,GPE,Egypt,13,the_happy_prince_and_other_tales,9
+53,GPE,England,23,a_house_of_pomegranates,3
+54,GPE,England,23,dymchurch_filt,6
+55,GPE,England,23,the_brown_owl,6
+56,GPE,England,23,the_little_lame_prince_and_his_travelling_cloak,5
+57,GPE,England,23,the_magic_fishbone,1
+58,GPE,England,23,the_rose_and_the_ring,2
+59,GPE,Esquire,1,the_king_of_the_golden_river,1
+60,GPE,Europe,7,a_house_of_pomegranates,1
+61,GPE,Europe,7,dymchurch_filt,1
+62,GPE,Europe,7,the_brown_owl,1
+63,GPE,Europe,7,the_happy_prince_and_other_tales,1
+64,GPE,Europe,7,the_little_lame_prince_and_his_travelling_cloak,1
+65,GPE,Europe,7,the_rose_and_the_ring,2
+66,GPE,Fairyland,9,the_light_princess_and_other_fairy_stories,7
+67,GPE,Falkenstein,16,prince_prigio,16
+68,GPE,Finland,1,the_happy_prince_and_other_tales,1
+69,GPE,Flesh,2,dymchurch_filt,2
+70,GPE,Fontainebleau,1,a_house_of_pomegranates,1
+71,GPE,France,6,a_house_of_pomegranates,2
+72,GPE,France,6,dymchurch_filt,2
+73,GPE,France,6,the_happy_prince_and_other_tales,1
+74,GPE,France,6,the_little_lame_prince_and_his_travelling_cloak,1
+75,GPE,GIGLIO,1,the_rose_and_the_ring,1
+76,GPE,Gaul,1,the_brown_owl,1
+77,GPE,Giantland,4,the_light_princess_and_other_fairy_stories,4
+78,GPE,Giglio,1,the_rose_and_the_ring,1
+79,GPE,Gluckstein,15,prince_prigio,15
+80,GPE,Goodwill,1,dymchurch_filt,1
+81,GPE,Granada,2,a_house_of_pomegranates,2
+82,GPE,Greece,1,the_brown_owl,1
+83,GPE,HAMELIN,1,the_pied_piper_of_hamelin,1
+84,GPE,Hadrian,1,a_house_of_pomegranates,1
+85,GPE,Hamelin,2,the_pied_piper_of_hamelin,2
+86,GPE,"Hamelin Town 's in Brunswick , By famous Hanover city",1,the_pied_piper_of_hamelin,1
+87,GPE,Hamelin town,1,the_pied_piper_of_hamelin,1
+88,GPE,Hampstead,1,the_little_lame_prince_and_his_travelling_cloak,1
+89,GPE,Hapsburg,1,a_house_of_pomegranates,1
+90,GPE,Hedzoff,2,the_rose_and_the_ring,2
+91,GPE,Here,1,the_little_lame_prince_and_his_travelling_cloak,1
+92,GPE,His Majesty,1,the_rose_and_the_ring,1
+93,GPE,His Majesty Padella,1,the_rose_and_the_ring,1
+94,GPE,Hogginarmo,1,the_rose_and_the_ring,1
+95,GPE,Hurray,1,the_rose_and_the_ring,1
+96,GPE,Illel,1,a_house_of_pomegranates,1
+97,GPE,India,41,a_house_of_pomegranates,2
+98,GPE,India,41,the_brown_owl,38
+99,GPE,India,41,the_happy_prince_and_other_tales,1
+100,GPE,Ireland,1,the_brown_owl,1
+101,GPE,"Islands , of which England",1,the_brown_owl,1
+102,GPE,It,8,the_little_lame_prince_and_his_travelling_cloak,1
+103,GPE,Japan,1,the_light_princess_and_other_fairy_stories,1
+104,GPE,Joan 's country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+105,GPE,Kensington,1,the_brown_owl,1
+106,GPE,King of Paflagonia--,1,the_rose_and_the_ring,1
+107,GPE,Lagobel,2,the_light_princess_and_other_fairy_stories,2
+108,GPE,Libya,1,a_house_of_pomegranates,1
+109,GPE,London,37,the_brown_owl,30
+110,GPE,London,37,the_little_lame_prince_and_his_travelling_cloak,6
+111,GPE,London,37,the_magic_fishbone,1
+112,GPE,Madrid,3,a_house_of_pomegranates,3
+113,GPE,Marsh,1,dymchurch_filt,1
+114,GPE,Mecca,1,a_house_of_pomegranates,1
+115,GPE,Mercury,1,the_light_princess_and_other_fairy_stories,1
+116,GPE,Merrymineral,2,the_brown_owl,2
+117,GPE,Mesopotamia,1,the_brown_owl,1
+118,GPE,Mexico,2,a_house_of_pomegranates,1
+119,GPE,Mexico,2,prince_prigio,1
+120,GPE,Moselle,1,the_pied_piper_of_hamelin,1
+121,GPE,Newgate,1,the_rose_and_the_ring,1
+122,GPE,Nomansland,27,the_little_lame_prince_and_his_travelling_cloak,27
+123,GPE,Nubia,1,the_brown_owl,1
+124,GPE,Ograria,1,the_rose_and_the_ring,1
+125,GPE,Old England,3,dymchurch_filt,2
+126,GPE,Ormuz,1,a_house_of_pomegranates,1
+127,GPE,Our dominions,1,prince_prigio,1
+128,GPE,Padan - Aram,1,the_brown_owl,1
+129,GPE,Padella,6,the_rose_and_the_ring,6
+130,GPE,Paflagonia,39,the_rose_and_the_ring,39
+131,GPE,Paflagonia--,1,the_rose_and_the_ring,1
+132,GPE,Pantouflia,15,prince_prigio,15
+133,GPE,Pantouflian,1,prince_prigio,1
+134,GPE,Paradise,2,the_happy_prince_and_other_tales,2
+135,GPE,Parma,1,a_house_of_pomegranates,1
+136,GPE,Persia,1,a_house_of_pomegranates,1
+137,GPE,Plymouth,1,dymchurch_filt,1
+138,GPE,Poltroon,1,prince_prigio,1
+139,GPE,Poluphloisboio,1,the_rose_and_the_ring,1
+140,GPE,ROSALBA,3,the_rose_and_the_ring,3
+141,GPE,Rat - land,1,the_pied_piper_of_hamelin,1
+142,GPE,Rhenish,1,the_pied_piper_of_hamelin,1
+143,GPE,Rimbombamento,2,the_rose_and_the_ring,2
+144,GPE,Rimini,1,a_house_of_pomegranates,1
+145,GPE,Robertsbridge,1,dymchurch_filt,1
+146,GPE,Rome,2,the_brown_owl,1
+147,GPE,Rome,2,the_rose_and_the_ring,1
+148,GPE,Rosses,1,the_fairies,1
+149,GPE,Rye,1,dymchurch_filt,1
+150,GPE,Samarcand,1,a_house_of_pomegranates,1
+151,GPE,Samaris,1,a_house_of_pomegranates,1
+152,GPE,Sans - Souci,1,the_happy_prince_and_other_tales,1
+153,GPE,Saragossa,1,a_house_of_pomegranates,1
+154,GPE,Sarragos,1,the_brown_owl,1
+155,GPE,Sauerkraut,1,the_rose_and_the_ring,1
+156,GPE,Schiraz,1,prince_prigio,1
+157,GPE,Scorpion,1,a_house_of_pomegranates,1
+158,GPE,Scotland,2,the_little_lame_prince_and_his_travelling_cloak,2
+159,GPE,Seville,2,a_house_of_pomegranates,2
+160,GPE,Sidon,1,a_house_of_pomegranates,1
+161,GPE,Slieveleague,1,the_fairies,1
+162,GPE,South Africa,1,prince_prigio,1
+163,GPE,South America,1,the_little_lame_prince_and_his_travelling_cloak,1
+164,GPE,Spain,9,a_house_of_pomegranates,9
+165,GPE,Spinachi,1,the_rose_and_the_ring,1
+166,GPE,St George,1,the_reluctant_dragon,1
+167,GPE,Staffordshire,3,the_little_lame_prince_and_his_travelling_cloak,3
+168,GPE,Stiria,1,the_king_of_the_golden_river,1
+169,GPE,Stoke - upon - Trent,2,the_little_lame_prince_and_his_travelling_cloak,2
+170,GPE,Stumpfelbahn,1,prince_prigio,1
+171,GPE,Syria,1,a_house_of_pomegranates,1
+172,GPE,THE CAPITAL XIX,1,the_rose_and_the_ring,1
+173,GPE,THE LAST SCENE IN THE PANTOMIME THE ROSE AND THE RING,1,the_rose_and_the_ring,1
+174,GPE,Tartary,3,a_house_of_pomegranates,1
+175,GPE,Tartary,3,the_pied_piper_of_hamelin,1
+176,GPE,Tartary,3,the_rose_and_the_ring,1
+177,GPE,The country,2,the_little_lame_prince_and_his_travelling_cloak,2
+178,GPE,The neighbouring country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+179,GPE,The town,1,prince_prigio,1
+180,GPE,Tierra,1,a_house_of_pomegranates,1
+181,GPE,Tierra - Nueva,1,a_house_of_pomegranates,1
+182,GPE,Toledo,1,a_house_of_pomegranates,1
+183,GPE,Town,2,prince_prigio,1
+184,GPE,Town,2,the_pied_piper_of_hamelin,1
+185,GPE,Transylvania,1,the_pied_piper_of_hamelin,1
+186,GPE,Turkey,1,the_rose_and_the_ring,1
+187,GPE,Tyre,1,a_house_of_pomegranates,1
+188,GPE,VII,1,the_pied_piper_of_hamelin,1
+189,GPE,Venice,1,a_house_of_pomegranates,1
+190,GPE,Wombwell,1,the_rose_and_the_ring,1
+191,GPE,a beautiful place,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+192,GPE,a city,3,a_house_of_pomegranates,3
+193,GPE,a city that I know of,1,a_house_of_pomegranates,1
+194,GPE,a country far north,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+195,GPE,"a country of which she could not remember the name , they were not to be afraid , but to go straight on",1,the_light_princess_and_other_fairy_stories,1
+196,GPE,a country quite unlike anything he had ever seen before,1,the_little_lame_prince_and_his_travelling_cloak,1
+197,GPE,a country where the King loved nothing on earth so much as music,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+198,GPE,a distant city,1,prince_prigio,1
+199,GPE,a dreary place,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+200,GPE,a dreary tumble - down village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+201,GPE,a foreign city,1,the_rose_and_the_ring,1
+202,GPE,a great metropolis,1,the_little_lame_prince_and_his_travelling_cloak,1
+203,GPE,a kingdom,1,the_brown_owl,1
+204,GPE,a large city,1,the_little_lame_prince_and_his_travelling_cloak,1
+205,GPE,a large rich country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+206,GPE,a little town,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+207,GPE,a little village,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+208,GPE,a mighty band Out of Hamelin town in Brunswick land,1,the_pied_piper_of_hamelin,1
+209,GPE,a nation,1,the_little_lame_prince_and_his_travelling_cloak,1
+210,GPE,a nice place,1,the_reluctant_dragon,1
+211,GPE,a restless country,1,the_little_lame_prince_and_his_travelling_cloak,1
+212,GPE,"a rich , lazy country",1,prince_prigio,1
+213,GPE,a set of small islands off the west coast of Europe,1,the_brown_owl,1
+214,GPE,a small town,1,a_house_of_pomegranates,1
+215,GPE,a strange desolate village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+216,GPE,a strange village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+217,GPE,a strath,1,the_little_lame_prince_and_his_travelling_cloak,1
+218,GPE,a strong - walled city that stood by a river,1,a_house_of_pomegranates,1
+219,GPE,a tiny village exactly like the spell - bound village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+220,GPE,a town,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+221,GPE,a very large kingdom,1,the_brown_owl,1
+222,GPE,a village as this,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+223,GPE,all Giantland,1,the_light_princess_and_other_fairy_stories,1
+224,GPE,all other countries,1,the_brown_owl,1
+225,GPE,an unrighteous nation,1,the_little_lame_prince_and_his_travelling_cloak,1
+226,GPE,another city,2,a_house_of_pomegranates,2
+227,GPE,another country,1,the_little_lame_prince_and_his_travelling_cloak,1
+228,GPE,big cities,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+229,GPE,capital,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+230,GPE,city,2,the_little_lame_prince_and_his_travelling_cloak,2
+231,GPE,countries,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+232,GPE,countries and villages which he had never known before,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+233,GPE,different countries,1,the_little_lame_prince_and_his_travelling_cloak,1
+234,GPE,each city,1,a_house_of_pomegranates,1
+235,GPE,each kingdom,1,the_brown_owl,1
+236,GPE,every city of the empire,1,the_rose_and_the_ring,1
+237,GPE,every other country,1,the_rose_and_the_ring,1
+238,GPE,every other fine city,1,the_little_lame_prince_and_his_travelling_cloak,1
+239,GPE,famous Hanover city,1,the_pied_piper_of_hamelin,1
+240,GPE,foreign countries,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+241,GPE,grey old cities,1,the_reluctant_dragon,1
+242,GPE,her country,3,melisande,1
+243,GPE,her native town,1,the_little_lame_prince_and_his_travelling_cloak,1
+244,GPE,her own country,1,prince_prigio,1
+245,GPE,her own kingdom,1,the_brown_owl,1
+246,GPE,here,6,the_brown_owl,2
+247,GPE,here,6,the_light_princess_and_other_fairy_stories,1
+248,GPE,here,6,the_necklace_of_princess_fiorimonde_and_other_stories,3
+249,GPE,here BEHIND THE THRONE,1,the_rose_and_the_ring,1
+250,GPE,his city,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+251,GPE,his country,5,a_house_of_pomegranates,1
+252,GPE,his country,5,prince_prigio,2
+253,GPE,his country,5,the_little_lame_prince_and_his_travelling_cloak,1
+254,GPE,his kingdom,4,the_brown_owl,1
+255,GPE,his kingdom,4,the_little_lame_prince_and_his_travelling_cloak,2
+256,GPE,his kingdom,4,the_rose_and_the_ring,1
+257,GPE,his own country,2,prince_prigio,1
+258,GPE,his whole dominions,1,a_house_of_pomegranates,1
+259,GPE,it,52,the_brown_owl,2
+260,GPE,it,52,the_light_princess_and_other_fairy_stories,1
+261,GPE,it,52,the_little_lame_prince_and_his_travelling_cloak,4
+262,GPE,it,52,the_necklace_of_princess_fiorimonde_and_other_stories,4
+263,GPE,its,14,the_light_princess_and_other_fairy_stories,1
+264,GPE,its,14,the_little_lame_prince_and_his_travelling_cloak,4
+265,GPE,itself,1,the_little_lame_prince_and_his_travelling_cloak,1
+266,GPE,little villages,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+267,GPE,many another country,1,the_little_lame_prince_and_his_travelling_cloak,1
+268,GPE,many towns,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+269,GPE,most other countries,1,the_little_lame_prince_and_his_travelling_cloak,1
+270,GPE,my city,5,a_house_of_pomegranates,3
+271,GPE,my city,5,the_happy_prince_and_other_tales,2
+272,GPE,my city of gold,1,the_happy_prince_and_other_tales,1
+273,GPE,my country,1,the_rose_and_the_ring,1
+274,GPE,my kingdom,4,the_brown_owl,1
+275,GPE,my kingdom,4,the_little_lame_prince_and_his_travelling_cloak,1
+276,GPE,my kingdom,4,the_necklace_of_princess_fiorimonde_and_other_stories,1
+277,GPE,nations,1,the_rose_and_the_ring,1
+278,GPE,neighboring countries,1,the_little_lame_prince_and_his_travelling_cloak,1
+279,GPE,new countries,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+280,GPE,no capital in the world like the great metropolis of Nomansland,1,the_little_lame_prince_and_his_travelling_cloak,1
+281,GPE,one kingdom,1,the_rose_and_the_ring,1
+282,GPE,"one of the busiest places in the world , where thousands of men work from morning till night to supply the whole world with every sort of thing that can be made out of clay",1,the_little_lame_prince_and_his_travelling_cloak,1
+283,GPE,"one of the chief manufacturing towns of Staffordshire , England",1,the_little_lame_prince_and_his_travelling_cloak,1
+284,GPE,one of those kingdoms where the laws of succession were not settled,1,the_rose_and_the_ring,1
+285,GPE,opodeldoc,1,the_brown_owl,1
+286,GPE,other countries,2,the_little_lame_prince_and_his_travelling_cloak,1
+287,GPE,other countries,2,the_rose_and_the_ring,1
+288,GPE,other countries beside Nomansland,1,the_little_lame_prince_and_his_travelling_cloak,1
+289,GPE,our Castle of Falkenstein,2,prince_prigio,2
+290,GPE,our city,3,the_necklace_of_princess_fiorimonde_and_other_stories,3
+291,GPE,our town,2,the_pied_piper_of_hamelin,2
+292,GPE,our village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+293,GPE,own country,2,melisande,1
+294,GPE,own country,2,the_little_lame_prince_and_his_travelling_cloak,1
+295,GPE,populous cities,1,the_king_of_the_golden_river,1
+296,GPE,smaller kingdoms,1,the_brown_owl,1
+297,GPE,some secret place,1,a_house_of_pomegranates,1
+298,GPE,such a country,1,the_rose_and_the_ring,1
+299,GPE,that Palace,1,the_magic_fishbone,1
+300,GPE,that capital,1,the_rose_and_the_ring,1
+301,GPE,that city,3,prince_prigio,1
+302,GPE,that city,3,the_necklace_of_princess_fiorimonde_and_other_stories,1
+303,GPE,that city,3,the_rose_and_the_ring,1
+304,GPE,that country,5,melisande,1
+305,GPE,that country,5,the_brown_owl,1
+306,GPE,that country,5,the_light_princess_and_other_fairy_stories,1
+307,GPE,that country,5,the_pied_piper_of_hamelin,1
+308,GPE,that village,2,a_house_of_pomegranates,1
+309,GPE,that village,2,the_necklace_of_princess_fiorimonde_and_other_stories,1
+310,GPE,the Archbishop of Blombodinga,1,the_rose_and_the_ring,1
+311,GPE,the Asturias,1,a_house_of_pomegranates,1
+312,GPE,the Celtic nations,1,the_light_princess_and_other_fairy_stories,1
+313,GPE,the Chinese Empire,1,the_light_princess_and_other_fairy_stories,1
+314,GPE,the Court,1,the_rose_and_the_ring,1
+315,GPE,the Crimean realm,1,the_rose_and_the_ring,1
+316,GPE,the Forest of Arden,1,the_little_lame_prince_and_his_travelling_cloak,1
+317,GPE,the Kingdom of Crim Tartary,1,the_rose_and_the_ring,1
+318,GPE,the Netherlands,1,a_house_of_pomegranates,1
+319,GPE,the Old Man of the Earth,3,the_light_princess_and_other_fairy_stories,2
+320,GPE,the Paflagonian capital,1,the_rose_and_the_ring,1
+321,GPE,the Paflagonian dominions,2,the_rose_and_the_ring,2
+322,GPE,the Palace,1,the_rose_and_the_ring,1
+323,GPE,the Queen Of the gay Northern Lights,1,the_fairies,1
+324,GPE,the Republic,1,the_little_lame_prince_and_his_travelling_cloak,1
+325,GPE,the Spanish,1,a_house_of_pomegranates,1
+326,GPE,the State,1,the_brown_owl,1
+327,GPE,the University of Bosforo,1,the_rose_and_the_ring,1
+328,GPE,the Western World,3,the_brown_owl,1
+329,GPE,the capital,5,the_little_lame_prince_and_his_travelling_cloak,2
+330,GPE,the capital,5,the_rose_and_the_ring,3
+331,GPE,the capital city of England,1,the_brown_owl,1
+332,GPE,the castle,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+333,GPE,the cave of the Old Man of the Sea,1,the_light_princess_and_other_fairy_stories,1
+334,GPE,the central county of England,1,the_little_lame_prince_and_his_travelling_cloak,1
+335,GPE,"the chief city where the King dwelt , and here he",1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+336,GPE,the chief manufacturing towns of Staffordshire,1,the_little_lame_prince_and_his_travelling_cloak,1
+337,GPE,the cities,2,a_house_of_pomegranates,2
+338,GPE,the cities and people of the plains,1,the_king_of_the_golden_river,1
+339,GPE,the city,44,a_house_of_pomegranates,25
+340,GPE,the city,44,the_brown_owl,3
+341,GPE,the city,44,the_happy_prince_and_other_tales,5
+342,GPE,the city,44,the_light_princess_and_other_fairy_stories,1
+343,GPE,the city,44,the_little_lame_prince_and_his_travelling_cloak,6
+344,GPE,the city,44,the_necklace_of_princess_fiorimonde_and_other_stories,4
+345,GPE,the city below him,1,the_little_lame_prince_and_his_travelling_cloak,1
+346,GPE,the city in which she dances,1,a_house_of_pomegranates,1
+347,GPE,the city in which she dances of whom thou didst speak to me,3,a_house_of_pomegranates,3
+348,GPE,the city of,1,a_house_of_pomegranates,1
+349,GPE,the city of Ashter,1,a_house_of_pomegranates,1
+350,GPE,the city of Illel,1,a_house_of_pomegranates,1
+351,GPE,the city that stood by the river he ruled,1,a_house_of_pomegranates,1
+352,GPE,the city where Prince Giglio ’s army,1,the_rose_and_the_ring,1
+353,GPE,the city where they were going,1,prince_prigio,1
+354,GPE,the country,50,prince_prigio,2
+355,GPE,the country,50,the_brown_owl,3
+356,GPE,the country,50,the_happy_prince_and_other_tales,1
+357,GPE,the country,50,the_light_princess_and_other_fairy_stories,3
+358,GPE,the country,50,the_little_lame_prince_and_his_travelling_cloak,11
+359,GPE,the country,50,the_necklace_of_princess_fiorimonde_and_other_stories,6
+360,GPE,the country,50,the_rose_and_the_ring,1
+361,GPE,the country at large,1,the_little_lame_prince_and_his_travelling_cloak,1
+362,GPE,the country for which they were bound,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+363,GPE,the country of the Ethiops,1,a_house_of_pomegranates,1
+364,GPE,the country of the Magi,2,the_brown_owl,1
+365,GPE,the country of the Tartars,2,a_house_of_pomegranates,1
+366,GPE,the country of those who curse the Moon,1,a_house_of_pomegranates,1
+367,GPE,the country place he found -- or made -- so full of strife,1,the_little_lame_prince_and_his_travelling_cloak,1
+368,GPE,the country where Joan dwelt and,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+369,GPE,the county,2,the_little_lame_prince_and_his_travelling_cloak,2
+370,GPE,the empire,1,the_rose_and_the_ring,1
+371,GPE,the enemy,1,the_brown_owl,1
+372,GPE,the finest city that ever was built,1,the_little_lame_prince_and_his_travelling_cloak,1
+373,GPE,the gay Northern Lights,1,the_fairies,1
+374,GPE,the gay country of France,1,a_house_of_pomegranates,1
+375,GPE,the great King of Nomansland,1,the_little_lame_prince_and_his_travelling_cloak,1
+376,GPE,the great city,2,the_happy_prince_and_other_tales,1
+377,GPE,the great city,2,the_little_lame_prince_and_his_travelling_cloak,1
+378,GPE,the great metropolis of Nomansland,1,the_little_lame_prince_and_his_travelling_cloak,1
+379,GPE,the kingdom,13,a_house_of_pomegranates,1
+380,GPE,the kingdom,13,melisande,1
+381,GPE,the kingdom,13,the_brown_owl,4
+382,GPE,the kingdom,13,the_king_of_the_golden_river,1
+383,GPE,the kingdom,13,the_light_princess_and_other_fairy_stories,1
+384,GPE,the kingdom,13,the_little_lame_prince_and_his_travelling_cloak,2
+385,GPE,the kingdom,13,the_rose_and_the_ring,3
+386,GPE,the kingdom of Pantouflia,1,prince_prigio,1
+387,GPE,the kingdom to which we all belong,1,the_brown_owl,1
+388,GPE,the kingdoms of Paflagonia and Crim Tartary,1,the_rose_and_the_ring,1
+389,GPE,the large city,1,the_king_of_the_golden_river,1
+390,GPE,the last town on the frontier before you come to Crim Tartary,1,the_rose_and_the_ring,1
+391,GPE,the little village,3,the_necklace_of_princess_fiorimonde_and_other_stories,2
+392,GPE,the little village,3,the_reluctant_dragon,1
+393,GPE,the lonely town,1,the_brown_owl,1
+394,GPE,the nation,8,melisande,2
+395,GPE,the nation,8,the_brown_owl,1
+396,GPE,the nation,8,the_light_princess_and_other_fairy_stories,1
+397,GPE,the nation,8,the_little_lame_prince_and_his_travelling_cloak,4
+398,GPE,the nation whose king,1,the_little_lame_prince_and_his_travelling_cloak,1
+399,GPE,the neighborhood,1,the_king_of_the_golden_river,1
+400,GPE,the neighbouring country of Crim Tartary,1,the_rose_and_the_ring,1
+401,GPE,the next country,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+402,GPE,the place,6,melisande,1
+403,GPE,the place,6,prince_prigio,1
+404,GPE,the place,6,the_little_lame_prince_and_his_travelling_cloak,1
+405,GPE,the place,6,the_necklace_of_princess_fiorimonde_and_other_stories,1
+406,GPE,"the principal city , from which you may remember she had set out on the day before",1,the_brown_owl,1
+407,GPE,the rich provinces of the Netherlands,1,a_house_of_pomegranates,1
+408,GPE,the royal town,1,prince_prigio,1
+409,GPE,the spell - bound village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+410,GPE,the suffering village,1,the_reluctant_dragon,1
+411,GPE,the town,48,a_house_of_pomegranates,4
+412,GPE,the town,48,prince_prigio,6
+413,GPE,the town,48,the_brown_owl,20
+414,GPE,the town,48,the_happy_prince_and_other_tales,2
+415,GPE,the town,48,the_king_of_the_golden_river,1
+416,GPE,the town,48,the_necklace_of_princess_fiorimonde_and_other_stories,7
+417,GPE,the town,48,the_pied_piper_of_hamelin,1
+418,GPE,the town,48,the_rose_and_the_ring,7
+419,GPE,the town of Arecarp,1,the_brown_owl,1
+420,GPE,the town of Gluckstein,1,prince_prigio,1
+421,GPE,the town where the coach stops for the night,1,the_rose_and_the_ring,1
+422,GPE,the towns,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+423,GPE,the two countries,1,a_house_of_pomegranates,1
+424,GPE,the very town where Mrs. Craik was born,1,the_little_lame_prince_and_his_travelling_cloak,1
+425,GPE,the village,30,a_house_of_pomegranates,5
+426,GPE,the village,30,the_light_princess_and_other_fairy_stories,1
+427,GPE,the village,30,the_necklace_of_princess_fiorimonde_and_other_stories,16
+428,GPE,the village,30,the_reluctant_dragon,8
+429,GPE,the village in which they dwelt,1,a_house_of_pomegranates,1
+430,GPE,the villages,2,a_house_of_pomegranates,2
+431,GPE,the walled cities of Egypt,1,a_house_of_pomegranates,1
+432,GPE,the walled cities of India,1,a_house_of_pomegranates,1
+433,GPE,the whole city,2,the_little_lame_prince_and_his_travelling_cloak,1
+434,GPE,the whole city,2,the_rose_and_the_ring,1
+435,GPE,the whole country,4,a_house_of_pomegranates,1
+436,GPE,the whole country,4,the_rose_and_the_ring,1
+437,GPE,the whole land,4,the_brown_owl,1
+438,GPE,the whole village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+439,GPE,their country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+440,GPE,their town,1,prince_prigio,1
+441,GPE,there,12,melisande,1
+442,GPE,there,12,the_brown_owl,3
+443,GPE,there,12,the_light_princess_and_other_fairy_stories,2
+444,GPE,there,12,the_little_lame_prince_and_his_travelling_cloak,3
+445,GPE,there,12,the_necklace_of_princess_fiorimonde_and_other_stories,1
+446,GPE,there,12,the_reluctant_dragon,1
+447,GPE,there,12,the_rose_and_the_ring,1
+448,GPE,this,1,the_little_lame_prince_and_his_travelling_cloak,1
+449,GPE,this celebrated university town was called Bosforo,1,the_rose_and_the_ring,1
+450,GPE,this city,10,a_house_of_pomegranates,10
+451,GPE,this city of Giaours,1,a_house_of_pomegranates,1
+452,GPE,this country,8,dymchurch_filt,1
+453,GPE,this country,8,the_brown_owl,2
+454,GPE,this country,8,the_light_princess_and_other_fairy_stories,1
+455,GPE,this country,8,the_little_lame_prince_and_his_travelling_cloak,1
+456,GPE,this country,8,the_necklace_of_princess_fiorimonde_and_other_stories,2
+457,GPE,this country,8,the_rose_and_the_ring,1
+458,GPE,this place,9,a_house_of_pomegranates,3
+459,GPE,this place,9,the_happy_prince_and_other_tales,1
+460,GPE,this place,9,the_necklace_of_princess_fiorimonde_and_other_stories,1
+461,GPE,this place,9,the_reluctant_dragon,1
+462,GPE,this place,9,the_rose_and_the_ring,1
+463,GPE,this realm,1,the_rose_and_the_ring,1
+464,GPE,this town,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+465,GPE,this village,3,the_necklace_of_princess_fiorimonde_and_other_stories,2
+466,GPE,this village,3,the_reluctant_dragon,1
+467,GPE,those countries,1,the_rose_and_the_ring,1
+468,GPE,those kingdoms where the laws of succession,1,the_rose_and_the_ring,1
+469,GPE,town,4,the_brown_owl,1
+470,GPE,town,4,the_little_lame_prince_and_his_travelling_cloak,2
+471,GPE,town,4,the_magic_fishbone,1
+472,GPE,towns,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+473,GPE,towns and villages which he had never seen before,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+474,GPE,university town,1,the_rose_and_the_ring,1
+475,GPE,villages,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+476,GPE,which country,1,the_rose_and_the_ring,1
+477,GPE,your country,1,melisande,1
+478,GPE,your country ’s saviour,1,melisande,1
+479,GPE,your town,1,the_pied_piper_of_hamelin,1
+480,GPE,your village,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+481,LOC,A charming place to live in,1,the_little_lame_prince_and_his_travelling_cloak,1
+482,LOC,"A great , broad , uneven space",1,the_light_princess_and_other_fairy_stories,1
+483,LOC,A pleasanter spot,1,the_pied_piper_of_hamelin,1
+484,LOC,A won’erful place for bees an ’ ducks ’ tis too,1,dymchurch_filt,1
+485,LOC,All Giantland,1,the_light_princess_and_other_fairy_stories,1
+486,LOC,All the rivers,1,prince_prigio,1
+487,LOC,Ameriky,1,dymchurch_filt,1
+488,LOC,Any place you love,1,the_happy_prince_and_other_tales,1
+489,LOC,"Ashy , Afriky",1,dymchurch_filt,1
+490,LOC,BAD Rocket,1,the_happy_prince_and_other_tales,1
+491,LOC,Crim Tartar,1,the_rose_and_the_ring,1
+492,LOC,Crim Tartary,26,the_rose_and_the_ring,6
+493,LOC,"Crim Tartary,--I",1,the_rose_and_the_ring,1
+494,LOC,Crim Tartary--,1,the_rose_and_the_ring,1
+495,LOC,Downs,2,the_reluctant_dragon,2
+496,LOC,Dymchurch Flit,1,dymchurch_filt,1
+497,LOC,Endymion,1,a_house_of_pomegranates,1
+498,LOC,Everything in Giantland,1,the_light_princess_and_other_fairy_stories,1
+499,LOC,Fairyland,9,the_light_princess_and_other_fairy_stories,2
+500,LOC,God ’s world,1,a_house_of_pomegranates,1
+501,LOC,Golden River,1,the_king_of_the_golden_river,1
+502,LOC,His world,1,a_house_of_pomegranates,1
+503,LOC,Inside,1,a_house_of_pomegranates,1
+504,LOC,It,8,the_brown_owl,1
+505,LOC,It,8,the_king_of_the_golden_river,1
+506,LOC,It,8,the_light_princess_and_other_fairy_stories,2
+507,LOC,It,8,the_necklace_of_princess_fiorimonde_and_other_stories,3
+508,LOC,Its,1,the_king_of_the_golden_river,1
+509,LOC,Koppelberg Hill,1,the_pied_piper_of_hamelin,1
+510,LOC,La Atocha,1,a_house_of_pomegranates,1
+511,LOC,Mossy,1,the_light_princess_and_other_fairy_stories,1
+512,LOC,Mount Skycrack,4,the_light_princess_and_other_fairy_stories,4
+513,LOC,No forests,1,the_light_princess_and_other_fairy_stories,1
+514,LOC,Old England,3,dymchurch_filt,1
+515,LOC,Old Winchelsea,1,dymchurch_filt,1
+516,LOC,Over yonder,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+517,LOC,Peasmarsh Fair,1,dymchurch_filt,1
+518,LOC,Romney Marsh,2,dymchurch_filt,2
+519,LOC,Running Water,1,dymchurch_filt,1
+520,LOC,SOUTHWEST WIND,1,the_king_of_the_golden_river,1
+521,LOC,Sherwood Forest,1,the_little_lame_prince_and_his_travelling_cloak,1
+522,LOC,THE BROWN OWL By Ford Madox Ford,1,the_brown_owl,1
+523,LOC,THE END,1,the_little_lame_prince_and_his_travelling_cloak,1
+524,LOC,THE FIREDRAKE,1,prince_prigio,1
+525,LOC,THE GOLDEN RIVER,4,the_king_of_the_golden_river,4
+526,LOC,THE GOLDEN RIVER Southwest Wind,1,the_king_of_the_golden_river,1
+527,LOC,THE KING OF THE GOLDEN RIVER,1,the_king_of_the_golden_river,1
+528,LOC,THE KING OF THE GOLDEN RIVER Southwest Wind,1,the_king_of_the_golden_river,1
+529,LOC,THE MOON,1,the_light_princess_and_other_fairy_stories,1
+530,LOC,That river,2,the_light_princess_and_other_fairy_stories,2
+531,LOC,The Bear,1,prince_prigio,1
+532,LOC,The British,1,the_brown_owl,1
+533,LOC,The Golden River,1,the_king_of_the_golden_river,1
+534,LOC,The Marsh,1,dymchurch_filt,1
+535,LOC,The Nile,1,a_house_of_pomegranates,1
+536,LOC,The black sea,1,a_house_of_pomegranates,1
+537,LOC,The forest,1,the_light_princess_and_other_fairy_stories,1
+538,LOC,The hill of the Remora,1,prince_prigio,1
+539,LOC,The lake,2,the_light_princess_and_other_fairy_stories,2
+540,LOC,The land,2,a_house_of_pomegranates,2
+541,LOC,The rest of the world,1,the_brown_owl,1
+542,LOC,The river Weser,1,the_pied_piper_of_hamelin,1
+543,LOC,The sea,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+544,LOC,The sides of the hill,1,prince_prigio,1
+545,LOC,The sides of the valley,1,the_brown_owl,1
+546,LOC,The smooth plain which was to form the battlefield,1,the_brown_owl,1
+547,LOC,The whole country - side,1,the_little_lame_prince_and_his_travelling_cloak,1
+548,LOC,The whole of this little valley,1,the_king_of_the_golden_river,1
+549,LOC,The whole place,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+550,LOC,The world,5,a_house_of_pomegranates,3
+551,LOC,The world,5,the_happy_prince_and_other_tales,1
+552,LOC,The world,5,the_pied_piper_of_hamelin,1
+553,LOC,There the wood,1,the_light_princess_and_other_fairy_stories,1
+554,LOC,These forests,1,the_light_princess_and_other_fairy_stories,1
+555,LOC,This rock,1,the_light_princess_and_other_fairy_stories,1
+556,LOC,Those opposite to them,1,the_light_princess_and_other_fairy_stories,1
+557,LOC,Waters,1,the_light_princess_and_other_fairy_stories,1
+558,LOC,Where the water,1,the_light_princess_and_other_fairy_stories,1
+559,LOC,Wild Basil,1,the_happy_prince_and_other_tales,1
+560,LOC,a Sabbath,1,a_house_of_pomegranates,1
+561,LOC,a basin of moss,1,the_light_princess_and_other_fairy_stories,1
+562,LOC,a beautiful place for a fight,1,the_reluctant_dragon,1
+563,LOC,a big lake on large flat leaves,1,the_happy_prince_and_other_tales,1
+564,LOC,a bit of rock,1,the_reluctant_dragon,1
+565,LOC,"a black , round - topped mountain , far away",1,the_light_princess_and_other_fairy_stories,1
+566,LOC,a cave,1,a_house_of_pomegranates,1
+567,LOC,a cave at the head of the bay,1,a_house_of_pomegranates,1
+568,LOC,a cave up to the roof,1,the_light_princess_and_other_fairy_stories,1
+569,LOC,a cavern,1,a_house_of_pomegranates,1
+570,LOC,a civilized wood,1,the_light_princess_and_other_fairy_stories,1
+571,LOC,a cleft of the rock,1,a_house_of_pomegranates,1
+572,LOC,a corner of the cave,1,the_light_princess_and_other_fairy_stories,1
+573,LOC,a country where there is a deep river,1,the_happy_prince_and_other_tales,1
+574,LOC,"a dark , stormy , foamless sea of shadows",1,the_light_princess_and_other_fairy_stories,1
+575,LOC,a dark line of hills,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+576,LOC,a deep cave underground,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+577,LOC,a deep gorge,1,the_brown_owl,1
+578,LOC,a deeper and bluer lake than theirs,1,the_light_princess_and_other_fairy_stories,1
+579,LOC,a delightful spot,1,the_happy_prince_and_other_tales,1
+580,LOC,a desert,2,the_king_of_the_golden_river,1
+581,LOC,a desert,2,the_little_lame_prince_and_his_travelling_cloak,1
+582,LOC,a ditch,1,the_happy_prince_and_other_tales,1
+583,LOC,a dried - up river,1,a_house_of_pomegranates,1
+584,LOC,a dry and thirsty ground,1,the_light_princess_and_other_fairy_stories,1
+585,LOC,a far off country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+586,LOC,"a flat , lonely shore",1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+587,LOC,a forest,3,the_light_princess_and_other_fairy_stories,1
+588,LOC,a forest,3,the_little_lame_prince_and_his_travelling_cloak,1
+589,LOC,a forest,3,the_rose_and_the_ring,1
+590,LOC,a frozen river,1,prince_prigio,1
+591,LOC,a glacier,1,the_king_of_the_golden_river,1
+592,LOC,a glimmering cave,1,the_light_princess_and_other_fairy_stories,1
+593,LOC,a grassy plain,1,the_light_princess_and_other_fairy_stories,1
+594,LOC,"a great basin hollowed out of a rock , and half - full of the clearest sea - water",1,the_light_princess_and_other_fairy_stories,1
+595,LOC,a great body of earth and stone,1,the_little_lame_prince_and_his_travelling_cloak,1
+596,LOC,a great cold sea,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+597,LOC,a great forest,3,the_light_princess_and_other_fairy_stories,2
+598,LOC,a great forest,3,the_little_lame_prince_and_his_travelling_cloak,1
+599,LOC,a great hill covered with gorse in flower,1,melisande,1
+600,LOC,a great pine - forest,1,a_house_of_pomegranates,1
+601,LOC,a great precipice of rock,1,the_light_princess_and_other_fairy_stories,1
+602,LOC,a great still lake,1,the_light_princess_and_other_fairy_stories,1
+603,LOC,"a high hill a round tower , and at the top of it",1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+604,LOC,a high sea,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+605,LOC,"a hillside,--so",1,the_little_lame_prince_and_his_travelling_cloak,1
+606,LOC,a hollow of the hill,1,prince_prigio,1
+607,LOC,a joyous land,1,the_pied_piper_of_hamelin,1
+608,LOC,a kind of heath,1,the_light_princess_and_other_fairy_stories,1
+609,LOC,a lake,1,the_light_princess_and_other_fairy_stories,1
+610,LOC,"a large glacier , of whose existence , notwithstanding his previous knowledge of the mountains , he had been absolutely ignorant",1,the_king_of_the_golden_river,1
+611,LOC,a large lake,1,the_little_lame_prince_and_his_travelling_cloak,1
+612,LOC,a large waste piece of land,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+613,LOC,a little city hard by in which there is a garden of tulip - trees,1,a_house_of_pomegranates,1
+614,LOC,"a lonely , rocky coast by the sea",1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+615,LOC,a lonely hill,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+616,LOC,a lonely loch,1,prince_prigio,1
+617,LOC,a lonely mountain,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+618,LOC,"a long , narrow , spearlike mountain",1,the_light_princess_and_other_fairy_stories,1
+619,LOC,a long chain of hills,1,the_little_lame_prince_and_his_travelling_cloak,1
+620,LOC,a long fertile valley,1,the_little_lame_prince_and_his_travelling_cloak,1
+621,LOC,a marvellous land,1,a_house_of_pomegranates,1
+622,LOC,a mass of awful mountains,1,the_light_princess_and_other_fairy_stories,1
+623,LOC,a meadow,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+624,LOC,a meadow near,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+625,LOC,"a mere mass of masonry , utterly forsaken and uninhabited",1,the_little_lame_prince_and_his_travelling_cloak,1
+626,LOC,"a most awful black hole , full of bats , rats , mice , toads , frogs , mosquitoes , bugs , fleas , serpents , and every kind of horror",1,the_rose_and_the_ring,1
+627,LOC,a neighbouring hill,1,prince_prigio,1
+628,LOC,a new cleft of the rocks above it,1,the_king_of_the_golden_river,1
+629,LOC,a new world,2,a_house_of_pomegranates,1
+630,LOC,a new world,2,the_little_lame_prince_and_his_travelling_cloak,1
+631,LOC,a nice dry spot to live in,1,the_happy_prince_and_other_tales,1
+632,LOC,a plain alone,1,the_light_princess_and_other_fairy_stories,1
+633,LOC,a plain just outside the town - walls,1,the_brown_owl,1
+634,LOC,a pool of rain,1,the_light_princess_and_other_fairy_stories,1
+635,LOC,"a pretty country landscape , like England , Scotland , France",1,the_little_lame_prince_and_his_travelling_cloak,1
+636,LOC,a remote part of the forest,1,a_house_of_pomegranates,1
+637,LOC,a respectable stream,1,the_little_lame_prince_and_his_travelling_cloak,1
+638,LOC,a ridge of bare red rocks,1,the_king_of_the_golden_river,1
+639,LOC,a river,5,a_house_of_pomegranates,2
+640,LOC,a river,5,prince_prigio,1
+641,LOC,a river,5,the_brown_owl,1
+642,LOC,a river,5,the_little_lame_prince_and_his_travelling_cloak,1
+643,LOC,a river of gold,1,the_king_of_the_golden_river,1
+644,LOC,a rocky basin of considerable depth,1,the_light_princess_and_other_fairy_stories,1
+645,LOC,a rocky shore,1,the_brown_owl,1
+646,LOC,a sea of molten lava,1,prince_prigio,1
+647,LOC,a secluded and mountainous part of Stiria,1,the_king_of_the_golden_river,1
+648,LOC,"a small , circular whirlpool , into which the waters descended",1,the_king_of_the_golden_river,1
+649,LOC,a smooth meadow,1,the_brown_owl,1
+650,LOC,a soft bank of moss,1,a_house_of_pomegranates,1
+651,LOC,"a sort of cave in the rock , where he provided himself a bed of withered leaves , and lay down too tired for hunger to keep him awake",1,the_light_princess_and_other_fairy_stories,1
+652,LOC,"a suitable place , very sunny and warm",1,melisande,1
+653,LOC,a tract of country,1,the_little_lame_prince_and_his_travelling_cloak,1
+654,LOC,a valley,1,a_house_of_pomegranates,1
+655,LOC,a valley of the most surprising and luxuriant fertility,1,the_king_of_the_golden_river,1
+656,LOC,a valley she knew nothing about,1,the_light_princess_and_other_fairy_stories,1
+657,LOC,a valley that is but a day ’s journey from this place,1,a_house_of_pomegranates,1
+658,LOC,"a valley with round , rocky sides",1,the_light_princess_and_other_fairy_stories,1
+659,LOC,a vast cave,1,the_light_princess_and_other_fairy_stories,1
+660,LOC,a vast desert of sand and rock,1,the_light_princess_and_other_fairy_stories,1
+661,LOC,a very dangerous place,1,the_happy_prince_and_other_tales,1
+662,LOC,a very rough sea,1,melisande,1
+663,LOC,a volcano,1,prince_prigio,1
+664,LOC,a well,1,the_little_lame_prince_and_his_travelling_cloak,1
+665,LOC,a wide plain,1,the_light_princess_and_other_fairy_stories,1
+666,LOC,a wild forest,1,the_light_princess_and_other_fairy_stories,1
+667,LOC,a wild moorland country,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+668,LOC,a world,1,the_light_princess_and_other_fairy_stories,1
+669,LOC,"a world that has no well , Darkly bright in forest dell",1,the_light_princess_and_other_fairy_stories,1
+670,LOC,"a world where never rain Glittered on the sunny plain;-- Such , my heart",1,the_light_princess_and_other_fairy_stories,1
+671,LOC,a world without the glance Of the ocean,1,the_light_princess_and_other_fairy_stories,1
+672,LOC,a world without the gleam Of the downward - going stream,1,the_light_princess_and_other_fairy_stories,1
+673,LOC,a world without the sound Of the rivulets underground,1,the_light_princess_and_other_fairy_stories,1
+674,LOC,all islands,1,melisande,1
+675,LOC,all the black pines,1,the_rose_and_the_ring,1
+676,LOC,all the lower part of the black hill,1,prince_prigio,1
+677,LOC,all the world,2,the_little_lame_prince_and_his_travelling_cloak,2
+678,LOC,an enormous place,1,the_happy_prince_and_other_tales,1
+679,LOC,an evil world,1,the_reluctant_dragon,1
+680,LOC,another big rock,1,the_little_lame_prince_and_his_travelling_cloak,1
+681,LOC,another part of the sea,1,a_house_of_pomegranates,1
+682,LOC,another part of the world,1,melisande,1
+683,LOC,another wood,1,the_light_princess_and_other_fairy_stories,1
+684,LOC,another world,1,a_house_of_pomegranates,1
+685,LOC,any beastly hill,1,the_reluctant_dragon,1
+686,LOC,any lake,1,the_light_princess_and_other_fairy_stories,1
+687,LOC,any other land you choose to name,1,the_little_lame_prince_and_his_travelling_cloak,1
+688,LOC,any place of the sea,2,a_house_of_pomegranates,2
+689,LOC,any space,1,the_light_princess_and_other_fairy_stories,1
+690,LOC,broad plains,1,the_king_of_the_golden_river,1
+691,LOC,broad sands,1,the_light_princess_and_other_fairy_stories,1
+692,LOC,cave to cave,1,a_house_of_pomegranates,1
+693,LOC,cloud - land,1,the_little_lame_prince_and_his_travelling_cloak,1
+694,LOC,country,1,the_little_lame_prince_and_his_travelling_cloak,1
+695,LOC,dark caverns,1,a_house_of_pomegranates,1
+696,LOC,deep holes,1,the_happy_prince_and_other_tales,1
+697,LOC,deep still pools,1,the_little_lame_prince_and_his_travelling_cloak,1
+698,LOC,desolate stretches of forest,1,the_little_lame_prince_and_his_travelling_cloak,1
+699,LOC,dry land,1,the_light_princess_and_other_fairy_stories,1
+700,LOC,earth,5,a_house_of_pomegranates,1
+701,LOC,earth,5,the_brown_owl,2
+702,LOC,earth,5,the_little_lame_prince_and_his_travelling_cloak,1
+703,LOC,earth,5,the_rose_and_the_ring,1
+704,LOC,earth so much as music,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+705,LOC,every land,1,the_brown_owl,1
+706,LOC,every spring in the country,1,the_light_princess_and_other_fairy_stories,1
+707,LOC,every stream,1,the_light_princess_and_other_fairy_stories,1
+708,LOC,every trace of land,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+709,LOC,far - off lands such as Mesopotamia and Padan - Aram and Ireland,1,the_brown_owl,1
+710,LOC,forest dell,1,the_light_princess_and_other_fairy_stories,1
+711,LOC,freezing mountain - tops,1,the_little_lame_prince_and_his_travelling_cloak,1
+712,LOC,grassy knolls,1,a_house_of_pomegranates,1
+713,LOC,great lakes that seemed to him almost as shoreless as the sea,1,the_little_lame_prince_and_his_travelling_cloak,1
+714,LOC,heaven,4,a_house_of_pomegranates,2
+715,LOC,heaven,4,the_light_princess_and_other_fairy_stories,1
+716,LOC,heaven,4,the_necklace_of_princess_fiorimonde_and_other_stories,1
+717,LOC,heaven and earth,1,the_little_lame_prince_and_his_travelling_cloak,1
+718,LOC,her country,3,melisande,1
+719,LOC,her country,3,the_necklace_of_princess_fiorimonde_and_other_stories,1
+720,LOC,her kingdom,1,the_brown_owl,1
+721,LOC,her lake,1,the_light_princess_and_other_fairy_stories,1
+722,LOC,her purple cavern in the hills,1,the_happy_prince_and_other_tales,1
+723,LOC,her thither,1,the_light_princess_and_other_fairy_stories,1
+724,LOC,his cave,1,the_reluctant_dragon,1
+725,LOC,his cleft in the rock,1,prince_prigio,1
+726,LOC,his country,5,prince_prigio,1
+727,LOC,his hill,1,prince_prigio,1
+728,LOC,his nest,1,prince_prigio,1
+729,LOC,his own country,2,the_little_lame_prince_and_his_travelling_cloak,1
+730,LOC,his own land,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+731,LOC,it,52,a_house_of_pomegranates,5
+732,LOC,it,52,the_brown_owl,2
+733,LOC,it,52,the_happy_prince_and_other_tales,2
+734,LOC,it,52,the_king_of_the_golden_river,6
+735,LOC,it,52,the_light_princess_and_other_fairy_stories,15
+736,LOC,it,52,the_little_lame_prince_and_his_travelling_cloak,8
+737,LOC,it,52,the_necklace_of_princess_fiorimonde_and_other_stories,2
+738,LOC,it,52,the_reluctant_dragon,1
+739,LOC,its,14,a_house_of_pomegranates,2
+740,LOC,its,14,the_king_of_the_golden_river,5
+741,LOC,its,14,the_light_princess_and_other_fairy_stories,1
+742,LOC,its,14,the_pied_piper_of_hamelin,1
+743,LOC,"its great hills , lakes",1,the_light_princess_and_other_fairy_stories,1
+744,LOC,lake - water,1,the_light_princess_and_other_fairy_stories,1
+745,LOC,land,6,the_light_princess_and_other_fairy_stories,1
+746,LOC,land,6,the_little_lame_prince_and_his_travelling_cloak,1
+747,LOC,land,6,the_necklace_of_princess_fiorimonde_and_other_stories,4
+748,LOC,land and sea,2,the_necklace_of_princess_fiorimonde_and_other_stories,2
+749,LOC,many strange places,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+750,LOC,mother Earth,1,the_light_princess_and_other_fairy_stories,1
+751,LOC,mountains,2,the_light_princess_and_other_fairy_stories,1
+752,LOC,mountains,2,the_little_lame_prince_and_his_travelling_cloak,1
+753,LOC,my dominions,1,the_rose_and_the_ring,1
+754,LOC,my kingdom,4,the_rose_and_the_ring,1
+755,LOC,my own dominions,1,the_rose_and_the_ring,1
+756,LOC,my own land,2,a_house_of_pomegranates,1
+757,LOC,my own land,2,the_necklace_of_princess_fiorimonde_and_other_stories,1
+758,LOC,my realm,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+759,LOC,my stream,1,the_king_of_the_golden_river,1
+760,LOC,my valley,1,a_house_of_pomegranates,1
+761,LOC,never rain Glittered on the sunny plain;-- Such,1,the_light_princess_and_other_fairy_stories,1
+762,LOC,none of these streams,1,the_king_of_the_golden_river,1
+763,LOC,ocean and land,1,the_light_princess_and_other_fairy_stories,1
+764,LOC,our country - side,1,the_reluctant_dragon,1
+765,LOC,ponds,2,the_little_lame_prince_and_his_travelling_cloak,2
+766,LOC,realms below,1,the_light_princess_and_other_fairy_stories,1
+767,LOC,river water,1,the_happy_prince_and_other_tales,1
+768,LOC,rivers,1,the_little_lame_prince_and_his_travelling_cloak,1
+769,LOC,sea,5,melisande,1
+770,LOC,sea,5,the_light_princess_and_other_fairy_stories,3
+771,LOC,sea,5,the_little_lame_prince_and_his_travelling_cloak,1
+772,LOC,sea - purple,1,a_house_of_pomegranates,1
+773,LOC,shore,7,the_light_princess_and_other_fairy_stories,5
+774,LOC,shore,7,the_necklace_of_princess_fiorimonde_and_other_stories,2
+775,LOC,sky - land,1,the_little_lame_prince_and_his_travelling_cloak,1
+776,LOC,smiling cultivated plains,1,the_little_lame_prince_and_his_travelling_cloak,1
+777,LOC,some mountain,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+778,LOC,"some other planet , probably Mercury",1,the_light_princess_and_other_fairy_stories,1
+779,LOC,some unknown region,1,the_light_princess_and_other_fairy_stories,1
+780,LOC,south and north,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+781,LOC,strange lands,2,the_happy_prince_and_other_tales,1
+782,LOC,strange lands,2,the_necklace_of_princess_fiorimonde_and_other_stories,1
+783,LOC,that cave,1,the_reluctant_dragon,1
+784,LOC,that country,5,the_light_princess_and_other_fairy_stories,1
+785,LOC,that dim twilight house that lies between,1,a_house_of_pomegranates,1
+786,LOC,that dreary plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+787,LOC,that mountain from which you see the Golden River issue,1,the_king_of_the_golden_river,1
+788,LOC,that river,1,the_king_of_the_golden_river,1
+789,LOC,the Beautiful Mountains,16,the_little_lame_prince_and_his_travelling_cloak,16
+790,LOC,the Black Sea,1,the_rose_and_the_ring,1
+791,LOC,the Cucumber,1,the_rose_and_the_ring,1
+792,LOC,the Dew,1,the_light_princess_and_other_fairy_stories,1
+793,LOC,the Downs,5,the_reluctant_dragon,5
+794,LOC,the Downs up there,1,the_reluctant_dragon,1
+795,LOC,the Earth,5,the_light_princess_and_other_fairy_stories,5
+796,LOC,the East,3,a_house_of_pomegranates,2
+797,LOC,the East,3,the_king_of_the_golden_river,1
+798,LOC,the Ethiops,1,a_house_of_pomegranates,1
+799,LOC,the Field of,1,a_house_of_pomegranates,1
+800,LOC,the Fire,1,the_light_princess_and_other_fairy_stories,1
+801,LOC,the Firedrake,3,prince_prigio,3
+802,LOC,the Gluckthal,1,prince_prigio,1
+803,LOC,the Golden River,21,the_king_of_the_golden_river,21
+804,LOC,the Hills,1,dymchurch_filt,1
+805,LOC,the Indian Sea,1,a_house_of_pomegranates,1
+806,LOC,the Isle of Wight,1,melisande,1
+807,LOC,the Koran,1,a_house_of_pomegranates,1
+808,LOC,the Lake of Shadows,1,the_light_princess_and_other_fairy_stories,1
+809,LOC,the Marsh,20,dymchurch_filt,20
+810,LOC,the Marshes,2,dymchurch_filt,2
+811,LOC,the Moon,2,the_happy_prince_and_other_tales,1
+812,LOC,the Moon,2,the_light_princess_and_other_fairy_stories,1
+813,LOC,the Moors,1,a_house_of_pomegranates,1
+814,LOC,the Mountain - Torrent,1,a_house_of_pomegranates,1
+815,LOC,the Mountains of the Moon,1,the_happy_prince_and_other_tales,1
+816,LOC,the New World,1,a_house_of_pomegranates,1
+817,LOC,the Nile,2,the_happy_prince_and_other_tales,2
+818,LOC,the Oak - tree,1,the_happy_prince_and_other_tales,1
+819,LOC,the Old Man of the Earth,3,the_light_princess_and_other_fairy_stories,1
+820,LOC,the Oxus,1,a_house_of_pomegranates,1
+821,LOC,the Pyramids,1,the_happy_prince_and_other_tales,1
+822,LOC,the Red Sea,2,the_rose_and_the_ring,2
+823,LOC,the Remora,5,prince_prigio,5
+824,LOC,the Sausage Islands,1,the_rose_and_the_ring,1
+825,LOC,the Sea,15,dymchurch_filt,1
+826,LOC,the Sea,15,the_light_princess_and_other_fairy_stories,14
+827,LOC,the Second Cataract,1,the_happy_prince_and_other_tales,1
+828,LOC,the South,2,a_house_of_pomegranates,2
+829,LOC,the Spring,1,the_happy_prince_and_other_tales,1
+830,LOC,the Tower,1,the_rose_and_the_ring,1
+831,LOC,the Treasure Valley,8,the_king_of_the_golden_river,8
+832,LOC,the Tree,1,the_happy_prince_and_other_tales,1
+833,LOC,the Valley of Pleasure,1,a_house_of_pomegranates,1
+834,LOC,the Valley of Shadows,1,the_light_princess_and_other_fairy_stories,1
+835,LOC,the Weser,2,the_pied_piper_of_hamelin,2
+836,LOC,the West Winds,1,the_king_of_the_golden_river,1
+837,LOC,the Western World,3,the_brown_owl,2
+838,LOC,the Woods,1,the_brown_owl,1
+839,LOC,the airy mountain,2,the_fairies,2
+840,LOC,the arbour,4,the_brown_owl,3
+841,LOC,the arbour,4,the_light_princess_and_other_fairy_stories,1
+842,LOC,the bank,6,the_brown_owl,1
+843,LOC,the bank,6,the_happy_prince_and_other_tales,2
+844,LOC,the bank,6,the_light_princess_and_other_fairy_stories,3
+845,LOC,the bank beside,1,the_king_of_the_golden_river,1
+846,LOC,the banks,1,the_light_princess_and_other_fairy_stories,1
+847,LOC,the banks of the Nile,1,the_happy_prince_and_other_tales,1
+848,LOC,the banks of the Oxus,1,a_house_of_pomegranates,1
+849,LOC,the banks of the little rivers and brooks near the clay pits,1,the_little_lame_prince_and_his_travelling_cloak,1
+850,LOC,the bare and willowy leagues of Downs,1,the_reluctant_dragon,1
+851,LOC,the battlefield,1,the_brown_owl,1
+852,LOC,the bay,3,a_house_of_pomegranates,3
+853,LOC,the beach,3,dymchurch_filt,1
+854,LOC,the beach,3,the_necklace_of_princess_fiorimonde_and_other_stories,2
+855,LOC,"the beautiful , wonderful world",1,the_little_lame_prince_and_his_travelling_cloak,1
+856,LOC,the bed of the lake,1,the_light_princess_and_other_fairy_stories,1
+857,LOC,the big sea,1,dymchurch_filt,1
+858,LOC,the biggest coral reef in the world,1,melisande,1
+859,LOC,the black hill,2,prince_prigio,2
+860,LOC,the black mountain - lake,1,the_fairies,1
+861,LOC,the blank plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+862,LOC,the blue hills,1,the_brown_owl,1
+863,LOC,the blue sea,1,the_brown_owl,1
+864,LOC,the blue waters,1,a_house_of_pomegranates,1
+865,LOC,the borders of Fairyland,1,the_light_princess_and_other_fairy_stories,1
+866,LOC,the borders of Giantland,3,the_light_princess_and_other_fairy_stories,3
+867,LOC,the borders of the forest,1,the_light_princess_and_other_fairy_stories,1
+868,LOC,the borders of the lake,1,the_light_princess_and_other_fairy_stories,1
+869,LOC,the bottom of the lake,1,the_light_princess_and_other_fairy_stories,1
+870,LOC,the bottom of the sea,2,a_house_of_pomegranates,1
+871,LOC,the bottom of the sea,2,the_light_princess_and_other_fairy_stories,1
+872,LOC,the bottom of the valley,1,a_house_of_pomegranates,1
+873,LOC,the bridgeless moat,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+874,LOC,the brink of the Golden River,1,the_king_of_the_golden_river,1
+875,LOC,the broad bleak sunshiny plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+876,LOC,the brook,1,dymchurch_filt,1
+877,LOC,the burning mountain of the Firedrake,1,prince_prigio,1
+878,LOC,the carnival of the country,1,the_light_princess_and_other_fairy_stories,1
+879,LOC,the cataract of the Golden River,1,the_king_of_the_golden_river,1
+880,LOC,the cave,22,a_house_of_pomegranates,1
+881,LOC,the cave,22,the_light_princess_and_other_fairy_stories,10
+882,LOC,the cave,22,the_necklace_of_princess_fiorimonde_and_other_stories,2
+883,LOC,the cave,22,the_reluctant_dragon,9
+884,LOC,the cave on the Downs,1,the_reluctant_dragon,1
+885,LOC,the cavern,2,the_light_princess_and_other_fairy_stories,1
+886,LOC,the cavern,2,the_pied_piper_of_hamelin,1
+887,LOC,the cavern that is behind thee,1,a_house_of_pomegranates,1
+888,LOC,the caves,1,a_house_of_pomegranates,1
+889,LOC,the center of the plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+890,LOC,the centre of the lake,1,the_light_princess_and_other_fairy_stories,1
+891,LOC,the centre of the plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+892,LOC,the centre of the town,1,the_brown_owl,1
+893,LOC,the channel,1,the_light_princess_and_other_fairy_stories,1
+894,LOC,the chasm through which it ran,1,the_king_of_the_golden_river,1
+895,LOC,the circular hollow,1,the_king_of_the_golden_river,1
+896,LOC,the cisterns of Samarcand,1,a_house_of_pomegranates,1
+897,LOC,"the clear , green water of the Gluckthal",1,prince_prigio,1
+898,LOC,the clear heaven,1,the_light_princess_and_other_fairy_stories,1
+899,LOC,the cleft below the hill,1,prince_prigio,1
+900,LOC,the cleft of the mountain,1,prince_prigio,1
+901,LOC,the cliffs,1,a_house_of_pomegranates,1
+902,LOC,"the cold , gray sea on every side",1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+903,LOC,the common,3,the_necklace_of_princess_fiorimonde_and_other_stories,3
+904,LOC,the cool glens,1,a_house_of_pomegranates,1
+905,LOC,the corner of the Fullers ’ Field,1,a_house_of_pomegranates,1
+906,LOC,the country,50,prince_prigio,1
+907,LOC,the country,50,the_brown_owl,1
+908,LOC,the country,50,the_happy_prince_and_other_tales,1
+909,LOC,the country,50,the_king_of_the_golden_river,1
+910,LOC,the country,50,the_light_princess_and_other_fairy_stories,8
+911,LOC,the country,50,the_little_lame_prince_and_his_travelling_cloak,4
+912,LOC,the country,50,the_necklace_of_princess_fiorimonde_and_other_stories,3
+913,LOC,the country,50,the_reluctant_dragon,1
+914,LOC,the country,50,the_rose_and_the_ring,3
+915,LOC,the country - side,1,the_happy_prince_and_other_tales,1
+916,LOC,the country far and near,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+917,LOC,the country of common people,2,the_light_princess_and_other_fairy_stories,2
+918,LOC,the country of the Magi,2,the_brown_owl,1
+919,LOC,the country of the Tartars,2,a_house_of_pomegranates,1
+920,LOC,the country round,3,the_king_of_the_golden_river,1
+921,LOC,the country round,3,the_necklace_of_princess_fiorimonde_and_other_stories,1
+922,LOC,the country round,3,the_reluctant_dragon,1
+923,LOC,the country round about,1,the_reluctant_dragon,1
+924,LOC,the country- side,1,the_reluctant_dragon,1
+925,LOC,the craggy hillside,1,the_fairies,1
+926,LOC,the dark clear lake,1,the_light_princess_and_other_fairy_stories,1
+927,LOC,the deep,8,a_house_of_pomegranates,7
+928,LOC,the deep,8,the_necklace_of_princess_fiorimonde_and_other_stories,1
+929,LOC,the deep - blue sea,1,the_brown_owl,1
+930,LOC,the deep river,1,the_happy_prince_and_other_tales,1
+931,LOC,the depth of the sea,1,a_house_of_pomegranates,1
+932,LOC,the depths of the sea,1,a_house_of_pomegranates,1
+933,LOC,the desert,3,a_house_of_pomegranates,1
+934,LOC,the desert,3,the_happy_prince_and_other_tales,1
+935,LOC,the desert,3,the_rose_and_the_ring,1
+936,LOC,the desert sands,1,the_reluctant_dragon,1
+937,LOC,the desolate plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+938,LOC,the distant mountains,1,the_little_lame_prince_and_his_travelling_cloak,1
+939,LOC,the ditch,3,the_happy_prince_and_other_tales,3
+940,LOC,the dry shore,1,a_house_of_pomegranates,1
+941,LOC,the duck - pond,2,the_happy_prince_and_other_tales,1
+942,LOC,the duck - pond,2,the_rose_and_the_ring,1
+943,LOC,the dunes,1,a_house_of_pomegranates,1
+944,LOC,the dying lake,1,the_light_princess_and_other_fairy_stories,1
+945,LOC,the earth,19,a_house_of_pomegranates,1
+946,LOC,the earth,19,prince_prigio,1
+947,LOC,the earth,19,the_brown_owl,3
+948,LOC,the earth,19,the_king_of_the_golden_river,1
+949,LOC,the earth,19,the_light_princess_and_other_fairy_stories,8
+950,LOC,the earth,19,the_little_lame_prince_and_his_travelling_cloak,1
+951,LOC,the earth,19,the_necklace_of_princess_fiorimonde_and_other_stories,3
+952,LOC,the earth,19,the_reluctant_dragon,1
+953,LOC,the eastern sky,1,the_happy_prince_and_other_tales,1
+954,LOC,the edge of a great forest,1,the_light_princess_and_other_fairy_stories,1
+955,LOC,the edge of the blue sea,1,the_brown_owl,1
+956,LOC,the edge of the mountain,1,a_house_of_pomegranates,1
+957,LOC,the empire of the New World,1,a_house_of_pomegranates,1
+958,LOC,the extreme west,1,the_brown_owl,1
+959,LOC,the fair forest,1,a_house_of_pomegranates,1
+960,LOC,the fairy forest,1,the_light_princess_and_other_fairy_stories,1
+961,LOC,the farthest ends of the world,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+962,LOC,the fen,1,a_house_of_pomegranates,1
+963,LOC,the fens,1,a_house_of_pomegranates,1
+964,LOC,the ferny pasture,1,dymchurch_filt,1
+965,LOC,the field,1,a_house_of_pomegranates,1
+966,LOC,the fields,5,the_necklace_of_princess_fiorimonde_and_other_stories,5
+967,LOC,the fiery lake,1,prince_prigio,1
+968,LOC,the firm turf of the mountain,1,the_king_of_the_golden_river,1
+969,LOC,the first range of the green and low hills,1,the_king_of_the_golden_river,1
+970,LOC,the flat rim of the land,1,a_house_of_pomegranates,1
+971,LOC,the foot of Mount Skycrack,1,the_light_princess_and_other_fairy_stories,1
+972,LOC,the foot of the mountain,2,the_light_princess_and_other_fairy_stories,2
+973,LOC,the forest,53,a_house_of_pomegranates,30
+974,LOC,the forest,53,the_brown_owl,3
+975,LOC,the forest,53,the_light_princess_and_other_fairy_stories,12
+976,LOC,the forest,53,the_rose_and_the_ring,8
+977,LOC,the fountain,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+978,LOC,the fountains of mother Earth,1,the_light_princess_and_other_fairy_stories,1
+979,LOC,the frontier between the two countries,1,a_house_of_pomegranates,1
+980,LOC,the frozen hill,1,prince_prigio,1
+981,LOC,the frozen mountain of the Remora,1,prince_prigio,1
+982,LOC,the garden of pomegranates,1,a_house_of_pomegranates,1
+983,LOC,the garden of poppies,1,a_house_of_pomegranates,1
+984,LOC,the gate of the city,1,a_house_of_pomegranates,1
+985,LOC,the gate of this city of Giaours,1,a_house_of_pomegranates,1
+986,LOC,the glacier,3,the_king_of_the_golden_river,3
+987,LOC,the gloomy region she had left,1,the_light_princess_and_other_fairy_stories,1
+988,LOC,the glowing desert,1,the_light_princess_and_other_fairy_stories,1
+989,LOC,the great cork - wood that surrounded the town,1,a_house_of_pomegranates,1
+990,LOC,the great deep green ocean,1,the_light_princess_and_other_fairy_stories,1
+991,LOC,the great sea,1,the_happy_prince_and_other_tales,1
+992,LOC,the great wood,1,a_house_of_pomegranates,1
+993,LOC,the green and low hills,1,the_king_of_the_golden_river,1
+994,LOC,the green water,1,a_house_of_pomegranates,1
+995,LOC,the green wood,1,the_happy_prince_and_other_tales,1
+996,LOC,the grim mouth of the cave,1,the_reluctant_dragon,1
+997,LOC,the ground,1,a_house_of_pomegranates,1
+998,LOC,the grove,1,the_happy_prince_and_other_tales,1
+999,LOC,the heart of the earth,1,the_light_princess_and_other_fairy_stories,1
+1000,LOC,the heart of the great deep green ocean,1,the_light_princess_and_other_fairy_stories,1
+1001,LOC,the heart of the precipice,1,the_light_princess_and_other_fairy_stories,1
+1002,LOC,the higher side of the lake,1,the_light_princess_and_other_fairy_stories,1
+1003,LOC,the highest hill on the island,1,melisande,1
+1004,LOC,the highest spirits in the world,1,the_king_of_the_golden_river,1
+1005,LOC,the hill,25,a_house_of_pomegranates,3
+1006,LOC,the hill,25,prince_prigio,5
+1007,LOC,the hill,25,the_brown_owl,1
+1008,LOC,the hill,25,the_happy_prince_and_other_tales,3
+1009,LOC,the hill,25,the_king_of_the_golden_river,2
+1010,LOC,the hill,25,the_necklace_of_princess_fiorimonde_and_other_stories,5
+1011,LOC,the hill,25,the_pied_piper_of_hamelin,1
+1012,LOC,the hill,25,the_reluctant_dragon,5
+1013,LOC,the hill - side,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1014,LOC,the hill - summits,1,a_house_of_pomegranates,1
+1015,LOC,the hill - top,2,prince_prigio,1
+1016,LOC,the hill - top,2,the_fairies,1
+1017,LOC,the hill on which she stood,1,the_light_princess_and_other_fairy_stories,1
+1018,LOC,the hill on which stood the little village,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1019,LOC,the hill outside,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1020,LOC,the hills,5,prince_prigio,1
+1021,LOC,the hills,5,the_brown_owl,1
+1022,LOC,the hills,5,the_happy_prince_and_other_tales,1
+1023,LOC,the hills,5,the_king_of_the_golden_river,1
+1024,LOC,the hills,5,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1025,LOC,the hills to feed on the long sweet grass,1,the_brown_owl,1
+1026,LOC,the hillside,2,the_king_of_the_golden_river,1
+1027,LOC,the hillside,2,the_little_lame_prince_and_his_travelling_cloak,1
+1028,LOC,the hole,2,the_light_princess_and_other_fairy_stories,2
+1029,LOC,the hole in the lake,1,the_light_princess_and_other_fairy_stories,1
+1030,LOC,the hot mud,1,a_house_of_pomegranates,1
+1031,LOC,the inside of the castle,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1032,LOC,the island,11,melisande,11
+1033,LOC,the island of Syria,1,a_house_of_pomegranates,1
+1034,LOC,the island where Melisande lived,1,melisande,1
+1035,LOC,the islands of the Indian Sea,1,a_house_of_pomegranates,1
+1036,LOC,the lake,49,the_fairies,1
+1037,LOC,the lake,49,the_light_princess_and_other_fairy_stories,48
+1038,LOC,the land,17,a_house_of_pomegranates,3
+1039,LOC,the land,17,dymchurch_filt,2
+1040,LOC,the land,17,melisande,1
+1041,LOC,the land,17,the_brown_owl,2
+1042,LOC,the land,17,the_light_princess_and_other_fairy_stories,1
+1043,LOC,the land,17,the_little_lame_prince_and_his_travelling_cloak,4
+1044,LOC,the land,17,the_necklace_of_princess_fiorimonde_and_other_stories,4
+1045,LOC,the last place in the world he had expected to see her in,1,the_brown_owl,1
+1046,LOC,the level ground,1,a_house_of_pomegranates,1
+1047,LOC,the level of the raging sea,1,the_light_princess_and_other_fairy_stories,1
+1048,LOC,the level plain,1,the_little_lame_prince_and_his_travelling_cloak,1
+1049,LOC,the little bay,1,a_house_of_pomegranates,1
+1050,LOC,the little bay where his love had been wo nt to sing,1,a_house_of_pomegranates,1
+1051,LOC,the little bay where she is wo nt to sing,1,a_house_of_pomegranates,1
+1052,LOC,the little rivers,1,the_little_lame_prince_and_his_travelling_cloak,1
+1053,LOC,the little valley,1,the_king_of_the_golden_river,1
+1054,LOC,the lonely beach,1,a_house_of_pomegranates,1
+1055,LOC,the lonely plain,2,the_little_lame_prince_and_his_travelling_cloak,2
+1056,LOC,the loveliest lake in the world,1,the_light_princess_and_other_fairy_stories,1
+1057,LOC,the lovely lake,1,the_light_princess_and_other_fairy_stories,1
+1058,LOC,the lower and snowless elevations,1,the_king_of_the_golden_river,1
+1059,LOC,the margin of the sea,1,the_reluctant_dragon,1
+1060,LOC,the marsh,1,a_house_of_pomegranates,1
+1061,LOC,the marsh - water,1,a_house_of_pomegranates,1
+1062,LOC,the marshes,3,a_house_of_pomegranates,3
+1063,LOC,the massy mountains,1,the_king_of_the_golden_river,1
+1064,LOC,the meadow,1,the_happy_prince_and_other_tales,1
+1065,LOC,the meadows,2,the_little_lame_prince_and_his_travelling_cloak,2
+1066,LOC,the mere,1,a_house_of_pomegranates,1
+1067,LOC,the middle of the lake,1,the_light_princess_and_other_fairy_stories,1
+1068,LOC,the middle of the plain,1,the_light_princess_and_other_fairy_stories,1
+1069,LOC,the midst of the glowing desert,1,the_light_princess_and_other_fairy_stories,1
+1070,LOC,the misty terrace,1,a_house_of_pomegranates,1
+1071,LOC,the moat,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1072,LOC,the moon,2,prince_prigio,2
+1073,LOC,the moor,10,the_happy_prince_and_other_tales,1
+1074,LOC,the moor,10,the_necklace_of_princess_fiorimonde_and_other_stories,9
+1075,LOC,the moor where Chrysea had met her fate,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1076,LOC,the most beautiful garden they had ever seen,1,the_happy_prince_and_other_tales,1
+1077,LOC,the mound where he and Chrysea had first played and sung,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1078,LOC,the mountain,19,a_house_of_pomegranates,4
+1079,LOC,the mountain,19,prince_prigio,5
+1080,LOC,the mountain,19,the_happy_prince_and_other_tales,3
+1081,LOC,the mountain,19,the_king_of_the_golden_river,1
+1082,LOC,the mountain,19,the_light_princess_and_other_fairy_stories,6
+1083,LOC,the mountain - side,1,the_pied_piper_of_hamelin,1
+1084,LOC,the mountain - sides,1,the_light_princess_and_other_fairy_stories,1
+1085,LOC,the mountain of the Firedrake,1,prince_prigio,1
+1086,LOC,the mountain side,1,the_pied_piper_of_hamelin,1
+1087,LOC,the mountain sides,1,the_king_of_the_golden_river,1
+1088,LOC,the mountain tops,1,the_king_of_the_golden_river,1
+1089,LOC,the mountains,17,a_house_of_pomegranates,3
+1090,LOC,the mountains,17,the_brown_owl,2
+1091,LOC,the mountains,17,the_king_of_the_golden_river,7
+1092,LOC,the mountains,17,the_light_princess_and_other_fairy_stories,4
+1093,LOC,the mountains,17,the_little_lame_prince_and_his_travelling_cloak,1
+1094,LOC,the mountains in Mexico,1,prince_prigio,1
+1095,LOC,the mountains of Tartary,1,a_house_of_pomegranates,1
+1096,LOC,the mountains which surrounded the lake,1,the_light_princess_and_other_fairy_stories,1
+1097,LOC,the mouth of the cave,3,the_light_princess_and_other_fairy_stories,1
+1098,LOC,the mouth of the cave,3,the_reluctant_dragon,2
+1099,LOC,the north of Europe,1,the_happy_prince_and_other_tales,1
+1100,LOC,the north seas,2,a_house_of_pomegranates,2
+1101,LOC,the oak forest,1,the_little_lame_prince_and_his_travelling_cloak,1
+1102,LOC,the ocean,1,the_light_princess_and_other_fairy_stories,1
+1103,LOC,the ocean - cavern,1,the_happy_prince_and_other_tales,1
+1104,LOC,the offshore mistes,1,dymchurch_filt,1
+1105,LOC,the old duck pond,1,the_happy_prince_and_other_tales,1
+1106,LOC,the opposite shore,1,the_light_princess_and_other_fairy_stories,1
+1107,LOC,the other side,2,the_brown_owl,1
+1108,LOC,the other side,2,the_light_princess_and_other_fairy_stories,1
+1109,LOC,the other side of the forest,1,a_house_of_pomegranates,1
+1110,LOC,the other side of the mountains,3,the_king_of_the_golden_river,3
+1111,LOC,the other side of the sea,1,the_light_princess_and_other_fairy_stories,1
+1112,LOC,the outer cave,1,the_light_princess_and_other_fairy_stories,1
+1113,LOC,the outside world,1,the_little_lame_prince_and_his_travelling_cloak,1
+1114,LOC,the outskirts of Fairyland,1,the_light_princess_and_other_fairy_stories,1
+1115,LOC,the outskirts of the Kingdom of Crim Tartary,1,the_rose_and_the_ring,1
+1116,LOC,the outskirts of the forest,1,a_house_of_pomegranates,1
+1117,LOC,the outskirts of the wood,1,a_house_of_pomegranates,1
+1118,LOC,the outskirts of this forest,1,the_light_princess_and_other_fairy_stories,1
+1119,LOC,the peak from which fell the Golden River,1,the_king_of_the_golden_river,1
+1120,LOC,the place,6,the_light_princess_and_other_fairy_stories,1
+1121,LOC,the place,6,the_reluctant_dragon,1
+1122,LOC,the place to which he bore her,1,the_light_princess_and_other_fairy_stories,1
+1123,LOC,the place where the end of the rainbow stands,1,the_light_princess_and_other_fairy_stories,1
+1124,LOC,the plain,15,a_house_of_pomegranates,3
+1125,LOC,the plain,15,the_light_princess_and_other_fairy_stories,2
+1126,LOC,the plain,15,the_little_lame_prince_and_his_travelling_cloak,9
+1127,LOC,the plain,15,the_reluctant_dragon,1
+1128,LOC,the plain round about,1,the_little_lame_prince_and_his_travelling_cloak,1
+1129,LOC,the plains,2,prince_prigio,1
+1130,LOC,the plains,2,the_king_of_the_golden_river,1
+1131,LOC,the plains below,1,the_king_of_the_golden_river,1
+1132,LOC,the pond,4,the_happy_prince_and_other_tales,3
+1133,LOC,the pond,4,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1134,LOC,the precipice,1,the_light_princess_and_other_fairy_stories,1
+1135,LOC,the quiet ocean,1,the_light_princess_and_other_fairy_stories,1
+1136,LOC,the raging sea,1,the_light_princess_and_other_fairy_stories,1
+1137,LOC,the rainbow of Fairyland,1,the_light_princess_and_other_fairy_stories,1
+1138,LOC,"the range of mountains which , as I told you before , overhung the Treasure Valley",1,the_king_of_the_golden_river,1
+1139,LOC,the real world,1,a_house_of_pomegranates,1
+1140,LOC,the reeds Of the black mountain - lake,1,the_fairies,1
+1141,LOC,the reeds of the river,1,the_happy_prince_and_other_tales,1
+1142,LOC,the rest of Old England,1,dymchurch_filt,1
+1143,LOC,the rest of the world,2,the_happy_prince_and_other_tales,1
+1144,LOC,the rest of the world,2,the_little_lame_prince_and_his_travelling_cloak,1
+1145,LOC,the richest soil in the kingdom,1,the_king_of_the_golden_river,1
+1146,LOC,the river,26,a_house_of_pomegranates,4
+1147,LOC,the river,26,the_brown_owl,2
+1148,LOC,the river,26,the_happy_prince_and_other_tales,7
+1149,LOC,the river,26,the_king_of_the_golden_river,10
+1150,LOC,the river,26,the_light_princess_and_other_fairy_stories,1
+1151,LOC,the river,26,the_pied_piper_of_hamelin,1
+1152,LOC,the river,26,the_rose_and_the_ring,1
+1153,LOC,the river 's brink,1,the_pied_piper_of_hamelin,1
+1154,LOC,the river Weser,1,the_pied_piper_of_hamelin,1
+1155,LOC,the rivers of the sea,1,a_house_of_pomegranates,1
+1156,LOC,the rivulets underground,1,the_light_princess_and_other_fairy_stories,1
+1157,LOC,the roadside,1,the_king_of_the_golden_river,1
+1158,LOC,the rock,5,prince_prigio,1
+1159,LOC,the rock,5,the_light_princess_and_other_fairy_stories,4
+1160,LOC,the rocks,2,the_king_of_the_golden_river,1
+1161,LOC,the rocks,2,the_light_princess_and_other_fairy_stories,1
+1162,LOC,the rocks of Mount Skycrack,1,the_light_princess_and_other_fairy_stories,1
+1163,LOC,the rocky shore,1,the_fairies,1
+1164,LOC,"the round , mossy cave",1,the_light_princess_and_other_fairy_stories,1
+1165,LOC,the round sea,1,a_house_of_pomegranates,1
+1166,LOC,the rushy glen,1,the_fairies,1
+1167,LOC,the salt - marshes,1,a_house_of_pomegranates,1
+1168,LOC,the same place,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1169,LOC,the sand,2,a_house_of_pomegranates,2
+1170,LOC,the sand of the shore,1,a_house_of_pomegranates,1
+1171,LOC,the sea,69,a_house_of_pomegranates,33
+1172,LOC,the sea,69,dymchurch_filt,6
+1173,LOC,the sea,69,melisande,4
+1174,LOC,the sea,69,the_brown_owl,3
+1175,LOC,the sea,69,the_happy_prince_and_other_tales,2
+1176,LOC,the sea,69,the_king_of_the_golden_river,1
+1177,LOC,the sea,69,the_light_princess_and_other_fairy_stories,9
+1178,LOC,the sea,69,the_little_lame_prince_and_his_travelling_cloak,3
+1179,LOC,the sea,69,the_necklace_of_princess_fiorimonde_and_other_stories,7
+1180,LOC,the sea,69,the_reluctant_dragon,1
+1181,LOC,the sea - coast,1,a_house_of_pomegranates,1
+1182,LOC,the sea - shore,7,a_house_of_pomegranates,1
+1183,LOC,the sea - shore,7,the_light_princess_and_other_fairy_stories,1
+1184,LOC,the sea - shore,7,the_necklace_of_princess_fiorimonde_and_other_stories,5
+1185,LOC,the sea that the night,1,a_house_of_pomegranates,1
+1186,LOC,the shallow water,3,a_house_of_pomegranates,3
+1187,LOC,the she - eagle 's nest,1,the_light_princess_and_other_fairy_stories,1
+1188,LOC,the shore,24,a_house_of_pomegranates,9
+1189,LOC,the shore,24,the_light_princess_and_other_fairy_stories,11
+1190,LOC,the shore,24,the_necklace_of_princess_fiorimonde_and_other_stories,4
+1191,LOC,the shore of the sea,6,a_house_of_pomegranates,6
+1192,LOC,the side of a lake,1,the_light_princess_and_other_fairy_stories,1
+1193,LOC,the side of a lonely mountain,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1194,LOC,the side of the cave,1,the_light_princess_and_other_fairy_stories,1
+1195,LOC,the side of the lake,1,the_light_princess_and_other_fairy_stories,1
+1196,LOC,the slippery side of the frozen hill,1,prince_prigio,1
+1197,LOC,"the smooth , black hill,--a chink no deeper than that under",1,prince_prigio,1
+1198,LOC,the snowy hills,1,the_king_of_the_golden_river,1
+1199,LOC,the solitary place where he had been speaking his mind,1,prince_prigio,1
+1200,LOC,the source of the Golden River,1,the_king_of_the_golden_river,1
+1201,LOC,the spot,1,the_little_lame_prince_and_his_travelling_cloak,1
+1202,LOC,the spot where we last were together,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1203,LOC,the still more desolate sea - coast,1,the_little_lame_prince_and_his_travelling_cloak,1
+1204,LOC,the stream,5,the_happy_prince_and_other_tales,1
+1205,LOC,the stream,5,the_king_of_the_golden_river,3
+1206,LOC,the stream,5,the_light_princess_and_other_fairy_stories,1
+1207,LOC,the summit of the Downs,1,the_reluctant_dragon,1
+1208,LOC,the surf,1,a_house_of_pomegranates,1
+1209,LOC,the thickly wooded land,1,the_little_lame_prince_and_his_travelling_cloak,1
+1210,LOC,the throne of the world,1,the_rose_and_the_ring,1
+1211,LOC,the tongue of Nomansland,1,the_little_lame_prince_and_his_travelling_cloak,1
+1212,LOC,the top of the Great Hall,1,the_happy_prince_and_other_tales,1
+1213,LOC,the top of the hill,1,prince_prigio,1
+1214,LOC,the top of the mountain,3,a_house_of_pomegranates,3
+1215,LOC,the tops of the distant mountains,1,the_little_lame_prince_and_his_travelling_cloak,1
+1216,LOC,the tops of the mountains,1,the_light_princess_and_other_fairy_stories,1
+1217,LOC,the uttermost parts of the world,1,the_brown_owl,1
+1218,LOC,the valley,19,a_house_of_pomegranates,5
+1219,LOC,the valley,19,prince_prigio,4
+1220,LOC,the valley,19,the_brown_owl,1
+1221,LOC,the valley,19,the_happy_prince_and_other_tales,1
+1222,LOC,the valley,19,the_king_of_the_golden_river,7
+1223,LOC,the valley,19,the_light_princess_and_other_fairy_stories,1
+1224,LOC,the valley below,1,the_light_princess_and_other_fairy_stories,1
+1225,LOC,the valley beneath,1,the_brown_owl,1
+1226,LOC,the valley beneath them,1,a_house_of_pomegranates,1
+1227,LOC,the valley itself,1,the_king_of_the_golden_river,1
+1228,LOC,the valley of the Remora,1,prince_prigio,1
+1229,LOC,the valleys,1,a_house_of_pomegranates,1
+1230,LOC,the valleys that are under the waves,1,a_house_of_pomegranates,1
+1231,LOC,the very bottom of the hill,1,prince_prigio,1
+1232,LOC,the very centre of the lake,1,the_light_princess_and_other_fairy_stories,1
+1233,LOC,the very pool where the golden plate had been found,1,the_light_princess_and_other_fairy_stories,1
+1234,LOC,the very summit,1,the_light_princess_and_other_fairy_stories,1
+1235,LOC,the very topmost peak of Mount Skycrack,1,the_light_princess_and_other_fairy_stories,1
+1236,LOC,the visible world,1,the_little_lame_prince_and_his_travelling_cloak,1
+1237,LOC,the volcano,1,prince_prigio,1
+1238,LOC,the volcano of the Firedrake,1,prince_prigio,1
+1239,LOC,the walls of the town,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1240,LOC,the waste of waters,1,the_light_princess_and_other_fairy_stories,1
+1241,LOC,the water,34,a_house_of_pomegranates,3
+1242,LOC,the water,34,melisande,1
+1243,LOC,the water,34,the_happy_prince_and_other_tales,3
+1244,LOC,the water,34,the_light_princess_and_other_fairy_stories,24
+1245,LOC,the water,34,the_necklace_of_princess_fiorimonde_and_other_stories,3
+1246,LOC,the water ’s edge,1,the_happy_prince_and_other_tales,1
+1247,LOC,the waters,2,a_house_of_pomegranates,1
+1248,LOC,the waters,2,dymchurch_filt,1
+1249,LOC,the waters howl mournfully every day at sunset,1,the_king_of_the_golden_river,1
+1250,LOC,the well of water,2,a_house_of_pomegranates,2
+1251,LOC,the wells,1,a_house_of_pomegranates,1
+1252,LOC,the wells that are at the bottom of the deep,1,a_house_of_pomegranates,1
+1253,LOC,the west,1,the_little_lame_prince_and_his_travelling_cloak,1
+1254,LOC,the west coast of Europe,1,the_brown_owl,1
+1255,LOC,the western half of the world,1,the_brown_owl,1
+1256,LOC,the white rocks,1,a_house_of_pomegranates,1
+1257,LOC,the whole country,4,the_necklace_of_princess_fiorimonde_and_other_stories,2
+1258,LOC,the whole earth,2,the_light_princess_and_other_fairy_stories,2
+1259,LOC,the whole heaven,1,the_king_of_the_golden_river,1
+1260,LOC,the whole land,4,the_brown_owl,2
+1261,LOC,the whole land,4,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1262,LOC,the whole place,1,the_light_princess_and_other_fairy_stories,1
+1263,LOC,the whole world,16,a_house_of_pomegranates,8
+1264,LOC,the whole world,16,prince_prigio,1
+1265,LOC,the whole world,16,the_happy_prince_and_other_tales,3
+1266,LOC,the whole world,16,the_light_princess_and_other_fairy_stories,1
+1267,LOC,the whole world,16,the_little_lame_prince_and_his_travelling_cloak,1
+1268,LOC,the whole world,16,the_necklace_of_princess_fiorimonde_and_other_stories,2
+1269,LOC,the wide ocean - bosom of the Downs,1,the_reluctant_dragon,1
+1270,LOC,the wide plain of the quiet ocean,1,the_light_princess_and_other_fairy_stories,1
+1271,LOC,the wide wet water,1,the_light_princess_and_other_fairy_stories,1
+1272,LOC,the wide world,2,a_house_of_pomegranates,1
+1273,LOC,the wide world,2,dymchurch_filt,1
+1274,LOC,the wilderness,1,the_rose_and_the_ring,1
+1275,LOC,the wood,10,a_house_of_pomegranates,5
+1276,LOC,the wood,10,the_light_princess_and_other_fairy_stories,5
+1277,LOC,the wood of which the Magician had spoken to him,1,a_house_of_pomegranates,1
+1278,LOC,the woodland,2,a_house_of_pomegranates,2
+1279,LOC,the woods,3,dymchurch_filt,1
+1280,LOC,the woods,3,the_light_princess_and_other_fairy_stories,1
+1281,LOC,the woods,3,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1282,LOC,the world,137,a_house_of_pomegranates,20
+1283,LOC,the world,137,dymchurch_filt,1
+1284,LOC,the world,137,melisande,4
+1285,LOC,the world,137,prince_prigio,6
+1286,LOC,the world,137,the_brown_owl,16
+1287,LOC,the world,137,the_happy_prince_and_other_tales,10
+1288,LOC,the world,137,the_king_of_the_golden_river,2
+1289,LOC,the world,137,the_light_princess_and_other_fairy_stories,4
+1290,LOC,the world,137,the_little_lame_prince_and_his_travelling_cloak,37
+1291,LOC,the world,137,the_necklace_of_princess_fiorimonde_and_other_stories,25
+1292,LOC,the world,137,the_pied_piper_of_hamelin,1
+1293,LOC,the world,137,the_reluctant_dragon,4
+1294,LOC,the world,137,the_rose_and_the_ring,7
+1295,LOC,the world itself,1,the_happy_prince_and_other_tales,1
+1296,LOC,the yellow shore of the sea,1,a_house_of_pomegranates,1
+1297,LOC,their deep woods,1,the_light_princess_and_other_fairy_stories,1
+1298,LOC,their own country,1,melisande,1
+1299,LOC,them,1,a_house_of_pomegranates,1
+1300,LOC,there all night,1,the_brown_owl,1
+1301,LOC,these parts,1,the_reluctant_dragon,1
+1302,LOC,these streams,1,the_king_of_the_golden_river,1
+1303,LOC,this desolate place,1,the_little_lame_prince_and_his_travelling_cloak,1
+1304,LOC,this forest,1,the_light_princess_and_other_fairy_stories,1
+1305,LOC,this hill,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1306,LOC,this lake,1,the_light_princess_and_other_fairy_stories,1
+1307,LOC,this little valley,1,the_king_of_the_golden_river,1
+1308,LOC,this place,9,a_house_of_pomegranates,2
+1309,LOC,this plain,1,the_light_princess_and_other_fairy_stories,1
+1310,LOC,this sea,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1311,LOC,this wood,1,a_house_of_pomegranates,1
+1312,LOC,this world,10,a_house_of_pomegranates,3
+1313,LOC,this world,10,the_light_princess_and_other_fairy_stories,2
+1314,LOC,this world,10,the_little_lame_prince_and_his_travelling_cloak,3
+1315,LOC,this world,10,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1316,LOC,this world,10,the_rose_and_the_ring,1
+1317,LOC,thy world,2,the_light_princess_and_other_fairy_stories,2
+1318,LOC,waters gushed and fruit - trees,1,the_pied_piper_of_hamelin,1
+1319,LOC,what forest,1,a_house_of_pomegranates,1
+1320,LOC,what land is beyond,1,the_necklace_of_princess_fiorimonde_and_other_stories,1
+1321,LOC,whatever part of the world thou desirest to go,1,a_house_of_pomegranates,1
+1322,LOC,world,1,the_brown_owl,1
+1323,LOC,yonder gloomy cavern,1,the_reluctant_dragon,1
+1324,LOC,yonder shoulder of the Downs up there,1,the_reluctant_dragon,1
+1325,LOC,your leaky lake,1,the_light_princess_and_other_fairy_stories,1
