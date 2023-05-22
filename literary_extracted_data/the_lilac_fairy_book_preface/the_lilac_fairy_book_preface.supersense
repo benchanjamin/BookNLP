@@ -1,0 +1,450 @@
+start_token	end_token	supersense_category	text
+4	4	verb.creation	Edited
+6	8	noun.person	Andrew Lang Preface
+11	11	noun.act	cases
+14	14	verb.cognition	engaged
+23	23	verb.motion	stopping
+25	25	noun.body	teeth
+32	32	noun.group	people
+35	35	verb.social	converted
+40	40	noun.person	ladies
+41	41	verb.contact	put
+43	43	noun.communication	questions
+46	46	noun.person	men
+48	48	noun.person	lawyers
+50	50	noun.person	dentists
+52	52	noun.person	clergymen
+61	61	verb.contact	sit
+65	65	noun.food	dinner
+66	66	noun.group	parties
+71	71	verb.cognition	know
+73	73	noun.person	ladies
+75	75	verb.communication	indicate
+77	77	noun.cognition	interest
+80	80	noun.act	occupations
+84	84	noun.person	neighbours
+88	88	noun.group	board
+95	95	verb.cognition	know
+101	101	verb.cognition	know
+107	107	verb.communication	ask
+111	111	verb.creation	writing
+121	121	verb.communication	ask
+123	123	noun.person	painter
+127	127	verb.contact	painting
+134	134	noun.person	lawyer
+136	136	verb.possession	Have
+139	139	noun.communication	cases
+148	148	verb.stative	are
+152	152	verb.communication	inquire
+157	157	verb.communication	writing
+166	166	verb.creation	writing
+173	173	verb.stative	is
+175	175	noun.state	case
+179	179	verb.emotion	dislike
+181	181	verb.cognition	reminded
+186	186	verb.stative	is
+189	189	noun.communication	question
+193	194	noun.person	fair being
+197	197	verb.emotion	care
+199	199	noun.person	bawbee
+203	203	verb.communication	writing
+208	208	verb.stative	be
+213	213	verb.communication	replied
+215	215	noun.person	Madam
+219	219	verb.social	engaged
+222	222	noun.communication	treatise
+223	223	verb.cognition	intended
+225	225	verb.cognition	prove
+227	227	noun.person	Normal
+228	228	verb.stative	is
+232	232	noun.communication	Totemism’—though
+234	234	noun.communication	answer
+236	236	verb.stative	be
+244	244	noun.attribute	significance
+248	248	noun.cognition	plan
+249	249	verb.perception	seems
+251	251	verb.stative	be
+253	253	verb.communication	answer
+258	258	verb.cognition	abandoned
+260	260	noun.communication	literature
+264	264	verb.creation	contemplating
+266	266	noun.communication	book
+281	281	noun.state	circumstance
+283	283	verb.stative	threatens
+285	285	verb.emotion	deprive
+291	291	noun.plant	root
+294	294	noun.person	inquirer
+301	301	noun.person	nymph
+306	306	noun.relation	rest
+310	311	verb.social	keep off
+314	314	noun.communication	topic
+317	317	noun.act	occupation
+319	319	verb.communication	said
+323	323	verb.creation	write
+326	327	noun.communication	fairy books
+335	335	noun.person	gentleman
+340	340	noun.person	educationist
+342	342	noun.person	expert
+344	344	noun.artifact	portraits
+346	347	noun.person	Queen Mary
+350	350	verb.communication	sent
+353	353	noun.communication	newspaper
+354	354	noun.communication	article
+359	359	verb.creation	written
+362	362	verb.stative	was
+367	367	noun.act	composition
+369	370	noun.artifact	fairy books
+378	378	verb.motion	came
+380	380	noun.location	England
+382	382	verb.social	visited
+386	386	verb.cognition	found
+389	389	verb.cognition	knew
+393	393	noun.artifact	portraits
+395	396	noun.person	Queen Mary
+406	406	verb.creation	write
+408	409	noun.communication	fairy books
+412	412	noun.time	life
+416	417	noun.person	Prince Prigio
+421	422	noun.person	Prince Ricardo
+427	427	noun.communication	Tales
+435	435	noun.person	Prigio
+438	438	verb.cognition	take
+440	440	noun.state	opportunity
+442	442	verb.communication	recommending
+444	445	noun.communication	fairy books
+448	448	noun.cognition	things
+455	455	noun.person	parents
+457	457	noun.person	guardians
+462	462	verb.cognition	heard
+467	467	verb.stative	are
+471	471	noun.act	adventure
+475	475	noun.person	Princes
+477	477	verb.social	marry
+480	480	noun.person	Princesses
+482	482	verb.stative	live
+489	490	noun.person	wicked witches
+492	492	noun.person	stepmothers
+494	494	noun.person	tutors
+496	496	noun.person	governesses
+500	500	verb.social	punished
+503	503	verb.motion	retire
+506	506	noun.location	country
+509	509	noun.possession	pensions
+512	512	verb.emotion	hate
+513	513	noun.act	cruelty
+517	517	verb.contact	put
+520	520	noun.person	stepmother
+523	523	noun.artifact	barrel
+525	525	verb.motion	send
+527	527	verb.motion	tobogganing
+530	530	noun.object	hill
+533	533	verb.stative	is
+536	537	noun.person	Prince Ricardo
+539	539	verb.contact	kill
+541	541	noun.person	Yellow
+542	542	noun.person	Dwarf
+546	546	verb.stative	was
+549	549	noun.act	fight
+551	551	noun.artifact	sword
+557	557	noun.person	dwarf
+559	559	noun.state	peace
+562	562	noun.body	ashes
+564	564	verb.change	died
+566	566	noun.artifact	harness
+569	569	noun.cognition	object
+572	572	noun.communication	confessions
+573	573	verb.stative	is
+578	578	verb.communication	advertising
+581	582	noun.artifact	fairy books
+585	585	verb.stative	are
+595	595	noun.person	bookseller
+596	596	verb.communication	says
+600	600	noun.state	truth
+601	601	verb.stative	is
+609	609	verb.possession	giving
+610	610	noun.possession	credit
+612	612	noun.possession	credit
+613	613	verb.stative	is
+617	618	noun.communication	fairy books
+624	624	noun.artifact	work
+626	627	noun.person	Mrs. Lang
+631	631	verb.creation	translated
+633	633	verb.creation	adapted
+637	637	noun.communication	French
+639	639	noun.communication	German
+641	641	noun.communication	Portuguese
+643	643	noun.communication	Italian
+645	645	noun.communication	Spanish
+651	651	noun.communication	languages
+654	654	noun.cognition	part
+656	656	verb.stative	been
+659	659	noun.person	Adam
+663	664	noun.person	Mark Twain
+668	670	noun.location	Garden of Eden
+672	672	noun.person	Eve
+673	673	verb.social	worked
+675	675	noun.person	Adam
+683	684	verb.communication	find out
+687	687	noun.communication	stories
+688	688	verb.stative	are
+691	691	verb.communication	advise
+703	703	verb.creation	write
+705	705	noun.communication	stories
+710	710	noun.body	head
+713	713	noun.state	reputation
+716	716	verb.creation	written
+719	720	noun.communication	fairy books
+724	724	noun.state	reputation
+726	726	noun.artifact	nurseries
+729	730	noun.location	United States
+732	732	noun.location	America
+734	734	verb.stative	is
+737	737	noun.communication	burden
+740	740	noun.state	honour
+746	746	verb.social	born
+750	750	verb.stative	weighs
+754	754	verb.change	killing
+760	760	noun.state	fash
+762	762	verb.stative	being
+764	764	noun.person	wife
+767	769	noun.person	Lord of Burleigh
+771	772	noun.person	Burleigh House
+774	775	noun.location	Stamford Town
+777	777	verb.stative	was
+782	782	noun.location	village
+783	783	noun.person	maiden
+784	784	verb.communication	espoused
+787	787	noun.person	peer
+791	791	verb.creation	wrote
+795	795	noun.communication	stories
+797	797	noun.group	People
+798	798	verb.communication	told
+802	802	noun.location	parts
+805	805	noun.object	world
+809	809	noun.communication	hieroglyphics
+811	812	noun.communication	Cretan signs
+815	815	noun.communication	syllabaries
+818	818	noun.communication	alphabets
+820	820	verb.creation	invented
+823	823	verb.stative	are
+826	826	verb.cognition	reading
+828	828	noun.act	writing
+831	831	verb.change	arose
+834	834	noun.plant	flowers
+836	836	noun.person	men
+837	837	verb.possession	had
+839	839	noun.act	education
+841	841	verb.communication	quarrel
+845	845	noun.person	grannies
+846	846	verb.communication	told
+850	850	noun.person	grandchildren
+856	856	verb.stative	became
+857	857	noun.person	grannies
+859	859	verb.communication	repeated
+863	863	noun.communication	tales
+867	867	noun.group	generation
+869	869	noun.person	Homer
+870	870	verb.cognition	knew
+872	872	noun.communication	stories
+874	875	verb.change	made up
+882	882	noun.quantity	half
+884	884	noun.quantity	dozen
+890	890	noun.communication	history
+892	892	noun.location	Greece
+896	896	noun.time	B.C.
+897	897	verb.stative	is
+899	899	noun.communication	string
+902	903	noun.communication	fairy tales
+907	907	noun.person	Theseus
+909	909	noun.person	Heracles
+916	916	verb.stative	is
+918	920	noun.group	Cabinet des Fes
+923	923	noun.communication	collection
+925	926	noun.communication	fairy tales
+928	928	noun.person	Shakespeare
+929	929	verb.contact	took
+932	932	verb.contact	put
+933	933	noun.object	bits
+943	943	noun.communication	plays
+949	949	verb.social	made
+957	957	verb.stative	was
+959	959	verb.social	Let
+960	960	noun.person	ladies
+962	962	noun.person	gentlemen
+963	964	verb.cognition	think of
+968	969	verb.motion	sit down
+971	971	verb.creation	write
+972	973	noun.communication	fairy tales
+979	979	verb.communication	typed
+982	982	verb.communication	send
+985	986	noun.person	Messrs. Longman
+988	988	noun.person	Co.
+991	991	verb.creation	published
+994	994	verb.cognition	think
+997	997	verb.creation	write
+1000	1001	noun.communication	fairy tale
+1002	1002	verb.stative	is
+1004	1004	noun.act	work
+1011	1011	noun.artifact	thing
+1012	1012	verb.stative	is
+1017	1017	verb.creation	write
+1020	1021	noun.communication	fairy tale
+1026	1027	verb.change	mix up
+1029	1030	verb.change	dress up
+1034	1035	noun.communication	old stories
+1038	1038	verb.contact	put
+1040	1040	noun.person	characters
+1043	1043	noun.artifact	dresses
+1046	1047	noun.person	Miss Thackeray
+1048	1048	verb.creation	did
+1061	1061	noun.person	girl
+1064	1064	verb.cognition	reads
+1066	1066	noun.communication	preface
+1068	1068	verb.communication	let
+1070	1070	verb.communication	insist
+1073	1073	verb.creation	presented
+1089	1089	noun.person	authors
+1091	1091	verb.social	try
+1093	1093	verb.creation	write
+1095	1096	noun.communication	fairy tales
+1097	1097	verb.stative	are
+1103	1103	verb.change	begin
+1107	1107	noun.person	boy
+1109	1109	noun.person	girl
+1111	1112	verb.motion	goes out
+1114	1114	verb.social	meets
+1116	1116	noun.person	fairies
+1118	1118	noun.plant	polyanthuses
+1120	1120	noun.plant	gardenias
+1122	1123	noun.plant	apple blossoms
+1126	1126	noun.plant	Flowers
+1128	1128	noun.plant	fruits
+1133	1133	noun.artifact	things
+1137	1137	noun.person	fairies
+1138	1138	verb.social	try
+1140	1140	verb.stative	be
+1144	1144	verb.social	fail
+1148	1148	verb.social	try
+1150	1150	verb.communication	preach
+1153	1153	verb.social	succeed
+1156	1156	noun.person	fairies
+1158	1158	verb.communication	preach
+1160	1161	verb.communication	talk slang
+1165	1165	noun.location	end
+1169	1169	noun.person	boy
+1171	1171	noun.person	girl
+1172	1173	verb.body	wakes up
+1175	1175	verb.perception	finds
+1180	1180	verb.creation	dreaming
+1183	1183	verb.stative	are
+1186	1187	noun.communication	fairy stories
+1192	1192	verb.social	preserved
+1196	1196	noun.cognition	sort
+1201	1201	noun.communication	stories
+1202	1202	verb.stative	are
+1209	1209	noun.location	Ireland
+1213	1213	noun.object	island
+1214	1214	verb.stative	was
+1216	1216	verb.communication	celebrated
+1219	1219	noun.attribute	wrongs
+1223	1223	noun.attribute	verdure
+1227	1227	noun.location	Asia
+1229	1229	verb.social	made
+1233	1233	verb.communication	say
+1237	1237	noun.location	Aryan
+1238	1238	noun.act	invasion
+1242	1242	noun.location	Moydart
+1248	1248	noun.location	Ardnamurchan
+1252	1252	noun.object	sea
+1253	1253	noun.object	streams
+1254	1254	verb.motion	run
+1258	1258	noun.object	rivers
+1264	1264	noun.object	hills
+1265	1265	verb.stative	are
+1269	1269	noun.person	men
+1270	1270	verb.cognition	remember
+1271	1272	noun.person	Prince Charlie
+1275	1275	verb.stative	are
+1277	1277	noun.location	Portugal
+1282	1282	noun.plant	fruits
+1283	1283	verb.change	grow
+1289	1289	noun.person	Hesperides
+1293	1293	verb.stative	are
+1296	1296	noun.location	Wales
+1300	1300	verb.communication	told
+1302	1304	noun.location	Arthur ’s Court
+1308	1308	verb.change	come
+1311	1311	noun.artifact	firesides
+1314	1314	noun.person	kinsmen
+1317	1317	noun.person	Welsh
+1320	1320	noun.person	Bretons
+1326	1326	noun.communication	tales
+1330	1330	noun.person	Scandinavian
+1331	1331	verb.communication	named
+1332	1332	noun.person	Topelius
+1336	1336	noun.communication	stories
+1338	1338	verb.communication	translated
+1340	1340	verb.creation	adapted
+1342	1343	noun.person	Mrs. Lang
+1357	1357	verb.creation	done
+1359	1360	noun.person	Major Campbell
+1365	1365	noun.communication	language
+1369	1370	noun.person	Brave Walter
+1372	1372	noun.person	Wolves
+1380	1380	noun.person	Lasse
+1385	1386	noun.animal	Raspberry Worm
+1390	1390	verb.creation	done
+1392	1392	noun.location	Topelius
+1394	1395	noun.person	Miss Harding
+1407	1408	noun.person	Miss Christie
+1413	1413	noun.person	author
+1418	1418	verb.communication	suggested
+1421	1421	noun.person	Editor
+1423	1423	noun.person	children
+1425	1425	noun.person	parents
+1427	1427	noun.person	guardians
+1429	1429	verb.emotion	like
+1432	1434	noun.person	Grey True Ghost
+1437	1437	noun.communication	Book
+1441	1441	verb.cognition	knows
+1444	1444	noun.person	children
+1446	1446	verb.emotion	like
+1454	1454	verb.possession	give
+1462	1462	noun.feeling	taste
+1466	1466	noun.person	mothers
+1469	1469	noun.person	aunts
+1471	1471	verb.stative	is
+1479	1479	verb.stative	was
+1482	1482	noun.person	Editor
+1483	1483	verb.cognition	knew
+1485	1486	noun.communication	ghost stories
+1489	1489	verb.consumption	fill
+1491	1491	noun.communication	volume
+1494	1494	verb.stative	were
+1497	1497	noun.feeling	joy
+1499	1499	noun.time	bedtime
+1507	1507	verb.stative	were
+1511	1511	noun.communication	source
+1514	1514	noun.feeling	pleasure
+1518	1518	noun.time	time
+1520	1520	noun.person	Editor
+1521	1521	verb.stative	was
+1526	1526	noun.state	dark
+1530	1530	verb.cognition	thought
+1535	1535	noun.person	ghost
+1536	1536	verb.stative	is
+1542	1542	verb.perception	see
+1552	1552	noun.person	persons
+1553	1553	verb.communication	said
+1555	1555	noun.person	ghosts
+1556	1556	verb.creation	brought
+1559	1559	noun.attribute	light
+1564	1564	verb.stative	is
+1572	1572	noun.feeling	emotions
+1573	1573	verb.stative	were
+1576	1576	noun.person	parents
+1579	1579	verb.emotion	desire
+1583	1583	verb.stative	endure
+1587	1587	noun.communication	reason
+1602	1602	verb.creation	illustrated
+1604	1605	noun.person	Mr. Ford

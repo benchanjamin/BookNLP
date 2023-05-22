@@ -1,0 +1,222 @@
+COREF	start_token	end_token	prop	cat	text
+16	6	8	PROP	PER	Andrew Lang Preface
+-1	13	13	PRON	PER	you
+-1	22	22	PRON	PER	you
+-1	32	32	NOM	PER	people
+-1	34	34	PRON	PER	you
+-1	40	40	NOM	PER	ladies
+-1	45	46	NOM	PER	the men
+-1	48	48	NOM	PER	lawyers
+-1	50	50	NOM	PER	dentists
+-1	52	52	NOM	PER	clergymen
+-1	63	63	PRON	PER	them
+0	68	68	PRON	PER	I
+-1	73	73	NOM	PER	ladies
+-1	76	76	PRON	PER	their
+-1	82	82	PRON	PER	their
+-1	82	84	NOM	PER	their casual neighbours
+-1	92	92	PRON	PER	they
+0	96	96	PRON	PER	me
+0	102	102	PRON	PER	me
+-1	105	105	PRON	PER	they
+-1	110	110	PRON	PER	you
+-1	119	119	PRON	PER	they
+-1	122	123	NOM	PER	a painter
+-1	126	126	PRON	PER	you
+-1	133	134	NOM	PER	a lawyer
+-1	137	137	PRON	PER	you
+-1	147	147	PRON	PER	they
+-1	156	156	PRON	PER	you
+0	163	163	PRON	PER	I
+0	178	178	PRON	PER	I
+-1	192	194	NOM	PER	the fair being
+0	201	201	PRON	PER	I
+-1	207	207	PRON	PER	she
+0	212	212	PRON	PER	I
+-1	215	215	NOM	PER	Madam
+-1	217	217	PRON	PER	I
+-1	255	255	PRON	PER	I
+1	275	276	PROP	LOC	the Potato
+-1	286	286	PRON	PER	us
+-1	288	288	PRON	PER	our
+-1	293	294	NOM	PER	The inquirer
+-1	300	317	NOM	PER	One nymph who , like the rest , could not keep off the horrid topic of my occupation
+-1	305	306	NOM	PER	the rest
+-1	316	316	PRON	PER	my
+-1	321	321	PRON	PER	You
+-1	330	330	PRON	PER	you
+-1	333	335	NOM	PER	A French gentleman
+-1	339	347	NOM	PER	an educationist and expert in portraits of Queen Mary
+17	346	347	PROP	PER	Queen Mary
+-1	351	351	PRON	PER	me
+-1	357	357	PRON	PER	he
+-1	361	361	PRON	PER	I
+-1	376	376	PRON	PER	He
+2	380	380	PROP	GPE	England
+-1	383	383	PRON	PER	me
+-1	388	388	PRON	PER	I
+17	395	396	PROP	PER	Queen Mary
+-1	398	398	PRON	PER	he
+0	403	403	PRON	PER	I
+0	411	411	PRON	PER	my
+18	416	417	PROP	PER	Prince Prigio
+19	421	422	PROP	PER	Prince Ricardo
+-1	429	435	NOM	FAC	a Fairy Court’—that of the aforesaid Prigio
+18	433	435	PROP	PER	the aforesaid Prigio
+-1	437	437	PRON	PER	I
+-1	451	451	PRON	PER	my
+-1	455	455	NOM	PER	parents
+-1	466	466	PRON	PER	They
+-1	474	475	NOM	PER	the Princes
+-1	478	480	NOM	PER	the right Princesses
+-1	488	490	NOM	PER	the wicked witches
+-1	492	492	NOM	PER	stepmothers
+-1	494	494	NOM	PER	tutors
+-1	496	496	NOM	PER	governesses
+-1	505	506	NOM	GPE	the country
+-1	511	511	PRON	PER	I
+-1	515	515	PRON	PER	I
+-1	518	520	NOM	PER	a wicked stepmother
+-1	526	526	PRON	PER	her
+-1	529	530	NOM	LOC	a hill
+19	536	537	PROP	PER	Prince Ricardo
+-1	540	542	NOM	PER	the Yellow Dwarf
+-1	556	557	NOM	PER	the dwarf
+-1	561	561	PRON	PER	his
+0	579	579	PRON	PER	my
+-1	594	594	PRON	PER	your
+-1	594	595	NOM	PER	your bookseller
+-1	604	604	PRON	PER	him
+20	626	627	PROP	PER	Mrs. Lang
+-1	634	634	PRON	PER	them
+0	653	653	PRON	PER	My
+21	659	659	PROP	PER	Adam
+22	663	664	PROP	PER	Mark Twain
+-1	667	670	NOM	FAC	the Garden of Eden
+23	672	672	PROP	PER	Eve
+21	675	675	PROP	PER	Adam
+0	678	678	PRON	PER	I
+0	682	682	PRON	PER	I
+0	700	700	PRON	PER	I
+0	708	708	PRON	PER	my
+-1	726	726	NOM	PER	nurseries
+-1	728	732	NOM	GPE	the United States of America
+-1	743	743	PRON	PER	I
+0	755	755	PRON	PER	me
+-1	763	775	NOM	PER	the wife of the Lord of Burleigh , Burleigh House by Stamford Town
+-1	766	769	NOM	PER	the Lord of Burleigh
+3	769	769	PROP	GPE	Burleigh
+4	771	772	PROP	FAC	Burleigh House
+-1	774	775	NOM	GPE	Stamford Town
+-1	781	787	NOM	PER	the village maiden espoused by that peer
+-1	786	787	NOM	PER	that peer
+-1	789	789	NOM	PER	Nobody
+-1	797	797	NOM	PER	People
+-1	799	799	PRON	PER	them
+-1	801	805	NOM	LOC	all parts of the world
+-1	804	805	NOM	LOC	the world
+-1	822	822	PRON	PER	They
+-1	836	836	NOM	PER	men
+-1	844	845	NOM	PER	The grannies
+-1	847	847	PRON	PER	them
+-1	849	850	NOM	PER	the grandchildren
+-1	854	855	NOM	PER	the grandchildren
+-1	857	857	NOM	PER	grannies
+-1	858	858	PRON	PER	they
+-1	865	867	NOM	PER	the new generation
+24	869	869	PROP	PER	Homer
+5	892	892	PROP	GPE	Greece
+25	907	907	PROP	PER	Theseus
+26	909	909	PROP	PER	Heracles
+27	913	913	PROP	PER	Minos
+28	915	915	PROP	PER	Perseus
+29	928	928	PROP	PER	Shakespeare
+-1	945	945	PRON	PER	he
+-1	952	952	PRON	PER	himself
+-1	956	956	PRON	PER	he
+-1	960	960	NOM	PER	ladies
+-1	962	962	NOM	PER	gentlemen
+-1	967	967	PRON	PER	they
+-1	977	977	PRON	PER	them
+-1	983	983	PRON	PER	them
+-1	993	993	PRON	PER	They
+-1	1006	1006	PRON	PER	They
+-1	1015	1015	NOM	PER	Nobody
+-1	1023	1023	PRON	PER	you
+-1	1039	1040	NOM	PER	the characters
+30	1046	1047	PROP	PER	Miss Thackeray
+-1	1059	1063	NOM	PER	any big girl of fourteen
+-1	1069	1069	PRON	PER	her
+-1	1082	1096	NOM	PER	the three hundred and sixty - five authors who try to write new fairy tales
+-1	1101	1101	PRON	PER	They
+-1	1105	1107	NOM	PER	a little boy
+-1	1115	1123	NOM	PER	the fairies of polyanthuses and gardenias and apple blossoms
+-1	1136	1137	NOM	PER	These fairies
+-1	1147	1147	PRON	PER	they
+-1	1155	1156	NOM	PER	Real fairies
+-1	1167	1169	NOM	PER	the little boy
+-1	1171	1171	NOM	PER	girl
+-1	1177	1177	PRON	PER	he
+-1	1190	1190	PRON	PER	we
+-1	1200	1200	PRON	PER	Our
+6	1209	1209	PROP	GPE	Ireland
+-1	1212	1213	NOM	LOC	that island
+-1	1218	1218	PRON	PER	her
+-1	1222	1222	PRON	PER	her
+7	1227	1227	PROP	GPE	Asia
+0	1231	1231	PRON	PER	I
+8	1242	1242	PROP	GPE	Moydart
+9	1244	1244	PROP	GPE	Knoydart
+10	1246	1246	PROP	GPE	Morar
+11	1248	1248	PROP	GPE	Ardnamurchan
+-1	1251	1253	NOM	LOC	the sea streams
+-1	1256	1258	NOM	LOC	great clear rivers
+-1	1260	1264	NOM	LOC	the saw - edged hills
+-1	1269	1269	NOM	PER	men
+31	1271	1272	PROP	PER	Prince Charlie
+12	1277	1277	PROP	GPE	Portugal
+13	1285	1289	PROP	LOC	the Garden of the Hesperides
+14	1295	1296	PROP	LOC	wild Wales
+32	1302	1302	PROP	PER	Arthur
+-1	1302	1304	NOM	FAC	Arthur ’s Court
+-1	1313	1317	NOM	PER	the kinsmen of the Welsh
+33	1319	1320	PROP	PER	the Bretons
+-1	1328	1332	NOM	PER	a learned Scandinavian named Topelius
+34	1332	1332	PROP	PER	Topelius
+20	1342	1343	PROP	PER	Mrs. Lang
+35	1347	1348	PROP	PER	The Jogi
+36	1354	1354	PROP	PER	Moti
+37	1359	1360	PROP	PER	Major Campbell
+38	1370	1372	PROP	PER	Walter hunted Wolves
+39	1379	1380	PROP	PER	Little Lasse
+40	1384	1386	PROP	PER	The Raspberry Worm
+34	1392	1392	PROP	GPE	Topelius
+41	1394	1395	PROP	PER	Miss Harding
+-1	1399	1401	NOM	PER	The Sea King
+42	1407	1408	PROP	PER	Miss Christie
+-1	1411	1413	NOM	PER	the same author
+-1	1420	1421	NOM	PER	the Editor
+-1	1423	1423	NOM	PER	children
+-1	1425	1425	NOM	PER	parents
+-1	1427	1427	NOM	PER	guardians
+-1	1431	1437	NOM	PER	The Grey True Ghost - Story Book
+-1	1440	1440	PRON	PER	He
+-1	1443	1444	NOM	PER	the children
+-1	1451	1451	PRON	PER	he
+-1	1457	1457	PRON	PER	them
+-1	1464	1466	NOM	PER	fond anxious mothers
+-1	1470	1470	PRON	PER	he
+-1	1478	1478	PRON	PER	he
+-1	1481	1482	NOM	PER	the Editor
+-1	1519	1520	NOM	PER	the Editor
+-1	1529	1529	PRON	PER	he
+-1	1534	1535	NOM	PER	a ghost
+-1	1539	1539	PRON	PER	we
+-1	1543	1543	PRON	PER	him
+-1	1548	1552	NOM	PER	older and better informed persons
+-1	1557	1557	PRON	PER	their
+-1	1561	1561	PRON	PER	them
+-1	1570	1570	NOM	PER	one
+-1	1576	1576	NOM	PER	parents
+-1	1580	1581	NOM	PER	the young
+43	1604	1605	PROP	PER	Mr. Ford

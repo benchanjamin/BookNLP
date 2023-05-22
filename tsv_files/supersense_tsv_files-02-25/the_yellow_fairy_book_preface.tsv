@@ -1,0 +1,271 @@
+start_token	end_token	supersense_category	text
+0	0	noun.communication	Title
+6	6	noun.person	Author
+8	10	noun.person	Andrew Lang PREFACE
+12	12	noun.person	Editor
+13	13	verb.cognition	thinks
+15	15	noun.person	children
+18	18	verb.communication	forgive
+21	21	verb.social	publishing
+23	24	noun.communication	Fairy Book
+40	40	verb.stative	is
+45	45	noun.person	children
+46	46	verb.stative	are
+51	51	verb.stative	are
+56	56	verb.communication	say
+59	59	verb.stative	are
+63	63	noun.person	Editor
+66	66	verb.emotion	care
+72	72	noun.group	people
+74	74	verb.communication	say
+79	79	verb.stative	is
+81	81	noun.person	gentleman
+83	83	verb.perception	seems
+85	85	verb.cognition	think
+88	88	verb.stative	is
+93	93	verb.creation	print
+96	97	noun.communication	fairy tales
+100	100	noun.artifact	pictures
+104	104	verb.creation	publish
+110	110	noun.communication	covers
+114	114	verb.communication	named
+115	118	noun.person	Mr. G. Laurence Gomme
+122	122	verb.stative	is
+123	123	noun.person	president
+127	127	noun.group	body
+130	132	noun.group	Folk Lore Society
+136	136	noun.time	year
+138	138	verb.social	makes
+140	140	noun.communication	address
+143	143	noun.person	subjects
+148	148	noun.person	Editor
+149	149	verb.stative	is
+150	150	noun.quantity	one
+153	155	noun.person	Mr. Joseph Jacobs
+159	159	verb.creation	published
+162	163	noun.communication	fairy tales
+166	166	noun.communication	pictures)(1
+168	168	verb.stative	is
+171	171	noun.person	Fancy
+176	176	noun.feeling	dismay
+178	179	noun.person	Mr. Jacobs
+184	184	noun.person	Editor
+188	188	verb.perception	heard
+190	190	noun.person	president
+191	191	verb.communication	say
+196	196	verb.cognition	think
+203	203	verb.creation	publish
+204	205	noun.communication	fairy books
+216	217	noun.communication	fairy books
+220	220	verb.communication	said
+225	225	verb.perception	see
+227	227	noun.state	harm
+233	233	verb.stative	were
+237	237	verb.contact	put
+241	241	noun.group	country
+246	246	verb.social	tried
+249	249	noun.group	jury
+251	251	noun.person	children
+259	259	verb.perception	see
+261	261	noun.state	harm
+266	266	verb.social	done
+271	272	noun.person	Father William
+275	275	noun.communication	poem
+278	278	verb.stative	are
+294	294	verb.possession	buy
+297	298	noun.person	Mr. Nutt
+302	302	noun.location	Strand
+305	305	verb.stative	is
+307	307	noun.communication	harm
+310	310	noun.communication	truth
+311	311	verb.stative	is
+314	316	noun.group	Folk Lore Society
+318	319	verb.stative	made up
+329	329	noun.person	men
+331	331	noun.person	women
+334	334	noun.location	country
+336	336	verb.stative	is
+339	339	verb.cognition	studying
+341	341	noun.time	history
+343	343	noun.cognition	geography
+345	346	noun.location	Fairy Land
+350	350	verb.stative	contained
+354	354	noun.communication	tales
+358	359	noun.group	country people
+360	360	verb.communication	tell
+363	363	noun.person	savages
+366	367	noun.person	Little Sioux
+373	374	noun.person	frosty Eskimo
+378	378	noun.group	people
+380	380	verb.cognition	thought
+382	382	verb.cognition	know
+385	385	noun.location	fairyland
+388	388	noun.event	inhabitants
+400	400	noun.relation	rest
+402	402	verb.stative	are
+404	404	noun.communication	tales
+406	406	noun.person	persons
+408	408	verb.stative	are
+410	410	noun.person	savages
+412	412	noun.person	rustics
+416	417	noun.person	Madame D’Aulnoy
+419	422	noun.person	Herr Hans Christian Andersen
+425	426	noun.person	Folk Lore
+431	431	noun.person	president
+433	433	verb.communication	say
+436	436	noun.communication	tales
+437	437	verb.stative	are
+443	443	noun.relation	rest
+449	449	verb.creation	published
+452	452	noun.relation	rest
+456	456	verb.communication	say
+460	460	noun.communication	stories
+462	462	verb.stative	are
+465	465	verb.cognition	read
+466	466	verb.stative	are
+476	476	verb.stative	are
+479	479	noun.artifact	pictures
+481	482	noun.person	Mr. Ford
+488	488	verb.cognition	think
+492	492	noun.artifact	pictures
+495	495	noun.communication	stories
+496	496	verb.stative	are
+499	499	verb.emotion	mislead
+500	500	noun.person	children
+506	506	verb.stative	are
+509	509	noun.state	fairies
+514	514	verb.stative	is
+517	517	noun.communication	question
+519	520	noun.person	Professor Huxley
+521	521	verb.cognition	thinks
+523	523	verb.stative	are
+527	527	noun.person	Editor
+529	529	verb.perception	saw
+535	535	verb.cognition	knows
+537	537	noun.group	people
+540	540	verb.perception	seen
+545	545	noun.location	Highlands
+548	548	verb.perception	heard
+550	550	noun.communication	music
+555	555	verb.stative	are
+557	558	noun.location	Nether Lochaber
+560	561	verb.motion	go to
+563	564	noun.location	Fairy Hill
+569	569	verb.perception	hear
+571	571	noun.communication	music
+578	578	noun.group	people
+588	588	noun.time	day
+594	594	verb.stative	are
+597	597	noun.animal	fairies
+601	601	noun.group	people
+602	603	verb.cognition	believe in
+609	609	noun.object	world
+613	613	noun.person	Greeks
+614	614	verb.cognition	believed
+620	620	noun.person	Egyptians
+624	624	noun.person	Hindoos
+628	629	noun.person	Red Indians
+638	638	verb.stative	are
+640	640	noun.animal	fairies
+646	646	noun.group	peoples
+649	649	verb.perception	seen
+651	651	verb.perception	heard
+655	657	noun.person	Rev. Mr. Baring
+659	659	noun.person	Gould
+660	660	verb.perception	saw
+662	662	noun.person	fairies
+665	665	verb.stative	was
+667	667	noun.person	boy
+671	671	verb.motion	travelling
+674	674	noun.location	land
+681	681	noun.motive	reasons
+684	684	noun.person	Editor
+685	685	verb.cognition	thinks
+688	688	verb.stative	are
+690	690	noun.animal	fairies
+695	695	verb.social	do
+698	698	noun.state	harm
+703	703	noun.location	England
+708	709	verb.emotion	frightened away
+711	711	noun.phenomenon	smoke
+713	713	noun.person	schoolmasters
+717	717	noun.person	Giants
+721	722	verb.change	died out
+726	726	noun.person	Dwarfs
+727	727	verb.stative	are
+731	731	noun.object	forests
+733	733	noun.location	Africa
+739	739	noun.communication	stories
+745	745	verb.communication	told
+747	747	noun.person	fairies
+751	751	noun.communication	stories
+755	755	verb.communication	told
+757	757	noun.person	Napoleon
+759	759	noun.person	Claverhouse
+761	762	noun.person	Julius Caesar
+765	767	noun.person	Joan of Arc
+773	773	verb.stative	existed
+777	777	noun.person	child
+782	782	verb.cognition	remember
+787	788	verb.social	grows up
+790	790	verb.stative	becomes
+792	792	noun.person	member
+801	801	noun.communication	tales
+804	804	noun.communication	book
+807	807	verb.communication	offered
+816	816	verb.creation	printed
+820	820	noun.act	entertainment
+824	824	noun.communication	facts
+827	827	verb.cognition	learn
+833	833	verb.cognition	leave
+839	839	noun.communication	Russian
+841	841	noun.communication	German
+843	843	noun.communication	French
+852	852	noun.communication	stories
+857	857	verb.communication	translated
+859	860	noun.person	Miss Cheape
+862	863	noun.person	Miss Alma
+866	868	noun.person	Miss Thyra Alleyne
+870	871	noun.person	Miss Sellar
+873	874	noun.person	Mr. Craigie
+877	877	verb.creation	did
+880	880	noun.communication	tales
+883	884	noun.person	Miss Blackley
+886	887	noun.person	Mrs. Dent
+890	891	noun.person	Mrs. Lang
+895	896	noun.person	Red Indian
+897	897	noun.communication	stories
+899	899	verb.contact	copied
+901	902	noun.communication	English versions
+903	903	verb.creation	published
+906	909	noun.group	Smithsonian Bureau of Ethnology
+912	912	noun.location	America
+914	915	noun.person	Mr. Ford
+916	916	verb.creation	did
+918	918	noun.artifact	pictures
+925	925	noun.person	children
+927	927	verb.cognition	find
+929	929	noun.communication	book
+939	939	verb.communication	submitted
+942	942	noun.cognition	consideration
+945	945	noun.person	Editor
+948	948	verb.communication	say
+950	952	noun.communication	good - bye
+955	955	verb.communication	advising
+960	960	verb.social	pursue
+962	962	noun.cognition	studies
+965	965	verb.cognition	read
+975	976	noun.person	Mr. Thackeray
+979	979	noun.artifact	pictures
+982	982	noun.person	author
+985	985	noun.communication	book
+987	987	verb.cognition	thinks
+992	992	noun.person	child
+994	994	noun.artifact	library
+997	997	noun.person	parents
+1000	1000	verb.communication	urged
+1002	1002	verb.possession	purchase
+1007	1007	noun.state	opportunity
+1013	1013	noun.act	education
+1014	1014	verb.stative	is
+1017	1018	noun.person	A. LANG

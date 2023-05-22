@@ -1,0 +1,294 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	1	NOM	PER	THE COBBLER
+0	3	4	PROP	PER	THE GHOSTS
+-1	10	16	NOM	PER	a cobbler who had very poor wits
+-1	22	22	PRON	PER	he
+-1	28	28	PRON	PER	himself
+-1	30	30	PRON	PER	his
+-1	30	32	NOM	PER	his widowed mother
+-1	39	39	PRON	PER	he
+-1	51	53	NOM	PER	a distant relative
+-1	57	57	PRON	PER	him
+-1	67	68	NOM	PER	the cobbler
+-1	70	70	PRON	PER	he
+-1	78	78	PRON	PER	his
+-1	91	91	PRON	PER	His
+-1	91	92	NOM	PER	His mother
+-1	94	94	PRON	PER	him
+-1	109	109	PRON	PER	she
+-1	112	112	PRON	PER	we
+-1	120	120	PRON	PER	we
+-1	131	131	PRON	PER	you
+1	140	140	PROP	PER	Heaven
+-1	142	142	PRON	PER	you
+-1	146	146	PRON	PER	you
+-1	152	152	PRON	PER	your
+-1	159	160	NOM	PER	the cobbler
+-1	170	170	PRON	PER	he
+-1	174	174	PRON	PER	we
+-1	185	185	PRON	PER	we
+-1	190	190	PRON	PER	we
+-1	197	197	PRON	PER	we
+-1	206	206	PRON	PER	we
+-1	212	212	PRON	PER	He
+-1	240	240	PRON	PER	he
+-1	244	244	PRON	PER	I
+-1	250	250	PRON	PER	We
+-1	253	254	NOM	FAC	the house
+-1	268	268	PRON	PER	ours
+-1	269	269	PRON	PER	we
+-1	278	278	PRON	PER	I
+-1	289	289	PRON	PER	He
+-1	302	303	NOM	PER	the widow
+-1	315	315	PRON	PER	she
+-1	332	333	NOM	PER	the cobbler
+-1	340	340	PRON	PER	he
+-1	349	349	PRON	PER	his
+-1	366	366	PRON	PER	he
+-1	371	371	PRON	PER	he
+-1	374	375	NOM	FAC	the street
+-1	378	378	PRON	PER	he
+-1	387	394	NOM	PER	a man who lives in his own house
+-1	392	392	PRON	PER	his
+-1	392	394	NOM	FAC	his own house
+-1	401	401	PRON	PER	his
+-1	413	413	PRON	PER	his
+-1	420	420	PRON	PER	I
+-1	429	429	PRON	PER	I
+-1	435	436	NOM	PER	the professor
+-1	445	445	PRON	PER	my
+-1	452	452	PRON	PER	he
+-1	455	456	NOM	PER	the professor
+-1	459	459	PRON	PER	he
+-1	463	463	PRON	PER	his
+-1	463	464	NOM	FAC	his library
+-1	468	468	PRON	PER	his
+-1	475	475	PRON	PER	you
+-1	480	481	NOM	PER	the professor
+-1	483	484	NOM	PER	The cobbler
+-1	488	488	PRON	PER	his
+-1	492	493	NOM	PER	The professor
+-1	496	496	PRON	PER	he
+-1	510	510	PRON	PER	he
+-1	514	514	PRON	PER	himself
+-1	524	524	PRON	PER	he
+-1	536	536	PRON	PER	I
+-1	582	582	PRON	PER	he
+-1	590	590	PRON	PER	him
+-1	600	600	PRON	PER	he
+-1	609	609	PRON	PER	you
+-1	612	612	NOM	PER	sir
+-1	615	616	NOM	PER	The professor
+-1	620	620	PRON	PER	him
+-1	623	623	PRON	PER	he
+-1	626	626	NOM	FAC	home
+-1	647	648	NOM	PER	the cobbler
+-1	659	659	PRON	PER	he
+-1	679	679	PRON	PER	he
+-1	682	682	PRON	PER	He
+-1	685	707	NOM	PER	none of his neighbours who had seen a ghost , though most had heard of such things , and many believed in them
+-1	687	687	PRON	PER	his
+-1	687	688	NOM	PER	his neighbours
+-1	696	701	NOM	PER	most had heard of such things
+-1	704	704	NOM	PER	many
+-1	716	717	NOM	PER	the cobbler
+-1	729	729	PRON	PER	I
+-1	748	748	PRON	PER	he
+-1	755	756	NOM	FAC	the churchyard
+-1	759	760	NOM	PER	a thief
+-1	768	768	PRON	PER	his
+-1	777	778	NOM	PER	the cobbler
+-1	784	784	PRON	PER	himself
+-1	789	789	PRON	PER	he
+-1	793	793	PRON	PER	him
+-1	798	798	PRON	PER	he
+-1	803	804	NOM	FAC	the church
+-1	807	808	NOM	PER	the cobbler
+-1	810	812	NOM	PER	the white figure
+-1	814	814	PRON	PER	he
+-1	819	819	PRON	PER	he
+-1	823	824	NOM	PER	a ghost
+-1	831	831	PRON	PER	his
+-1	836	838	NOM	PER	a remarkable character
+-1	842	843	NOM	PER	the thief
+-1	849	850	NOM	PER	the cobbler
+-1	855	855	PRON	PER	him
+-1	859	860	NOM	PER	the phantom
+-1	869	869	PRON	PER	he
+-1	881	881	PRON	PER	he
+-1	888	889	NOM	PER	the professor
+-1	893	893	PRON	PER	He
+-1	897	897	PRON	PER	his
+-1	903	905	NOM	PER	the supposed ghost
+-1	907	907	PRON	PER	him
+-1	915	915	PRON	PER	him
+-1	917	917	PRON	PER	his
+-1	922	923	NOM	PER	The cobbler
+-1	941	941	PRON	PER	he
+-1	948	949	NOM	PER	the thief
+-1	953	953	PRON	PER	his
+-1	965	965	PRON	PER	he
+-1	969	969	NOM	FAC	home
+-1	971	971	PRON	PER	his
+-1	971	972	NOM	PER	his mother
+-1	976	976	PRON	PER	his
+-1	979	980	NOM	PER	the ghost
+-1	990	990	PRON	PER	I
+-1	993	998	NOM	PER	a son with so little wit
+-1	1002	1004	NOM	PER	the old woman
+-1	1009	1010	NOM	PER	no ghost
+-1	1013	1014	NOM	PER	a thief
+-1	1025	1025	PRON	PER	we
+-1	1030	1030	PRON	PER	We
+-1	1032	1032	PRON	PER	his
+-1	1037	1037	PRON	PER	her
+-1	1037	1038	NOM	PER	her son
+-1	1047	1047	PRON	PER	my
+-1	1052	1052	PRON	PER	I
+-1	1059	1059	PRON	PER	You
+-1	1063	1064	NOM	PER	the man
+-1	1072	1073	NOM	PER	the widow
+-1	1078	1078	PRON	PER	him
+-1	1080	1080	PRON	PER	he
+-1	1098	1099	NOM	PER	the cobbler
+-1	1104	1104	PRON	PER	he
+-1	1114	1116	NOM	FAC	the churchyard unmolested
+-1	1118	1118	PRON	PER	He
+-1	1126	1126	PRON	PER	he
+-1	1138	1139	NOM	FAC	the church
+-1	1151	1151	PRON	PER	he
+-1	1155	1155	PRON	PER	his
+-1	1163	1163	PRON	PER	he
+-1	1168	1168	NOM	FAC	home
+-1	1171	1171	PRON	PER	his
+-1	1174	1175	NOM	PER	The ghost
+-1	1216	1218	NOM	PER	the old woman
+-1	1222	1222	PRON	PER	I
+-1	1225	1226	NOM	PER	a son
+-1	1237	1237	PRON	PER	his
+-1	1244	1244	PRON	PER	he
+-1	1256	1257	NOM	PER	timid women
+-1	1259	1259	NOM	PER	children
+-1	1280	1281	NOM	PER	the cobbler
+-1	1286	1286	PRON	PER	he
+-1	1299	1299	PRON	PER	he
+-1	1302	1306	NOM	FAC	a field behind his house
+-1	1305	1305	PRON	PER	his
+-1	1305	1306	NOM	FAC	his house
+-1	1307	1307	PRON	PER	he
+-1	1315	1315	PRON	PER	his
+-1	1315	1316	NOM	PER	his mother
+-1	1327	1328	NOM	PER	More ghosts
+-1	1332	1333	NOM	PER	the shoemaker
+-1	1337	1337	PRON	PER	they
+-1	1342	1342	PRON	PER	them
+-1	1344	1344	PRON	PER	They
+-1	1352	1352	PRON	PER	my
+-1	1360	1360	NOM	PER	others
+-1	1364	1364	PRON	PER	oneself
+-1	1377	1377	PRON	PER	mine
+-1	1382	1382	PRON	PER	he
+-1	1385	1386	NOM	FAC	the house
+-1	1427	1428	NOM	PER	the cobbler
+-1	1435	1435	PRON	PER	he
+-1	1457	1457	PRON	PER	he
+-1	1459	1459	NOM	FAC	home
+-1	1464	1464	PRON	PER	his
+-1	1468	1469	NOM	PER	The widow
+-1	1473	1473	PRON	PER	she
+-1	1481	1481	PRON	PER	she
+-1	1494	1494	PRON	PER	she
+-1	1497	1498	NOM	PER	the cobbler
+-1	1503	1503	PRON	PER	he
+-1	1507	1507	NOM	PER	ghosts
+-1	1509	1509	NOM	FAC	home
+-1	1513	1513	PRON	PER	they
+-1	1521	1521	PRON	PER	she
+-1	1527	1527	NOM	PER	one
+-1	1533	1534	NOM	LOC	the fields
+-1	1539	1539	PRON	PER	you
+-1	1545	1546	NOM	PER	the cobbler
+-1	1550	1550	PRON	PER	I
+-1	1556	1566	NOM	PER	a ghost that appeared to a man in his own house
+-1	1564	1564	PRON	PER	his
+-1	1564	1566	NOM	FAC	his own house
+-1	1575	1575	PRON	PER	he
+-1	1583	1583	PRON	PER	he
+-1	1591	1591	PRON	PER	his
+-1	1596	1598	NOM	PER	the old woman
+-1	1601	1601	PRON	PER	He
+-1	1628	1638	NOM	PER	one could really fall asleep in the face of the apparition
+-1	1651	1651	PRON	PER	me
+-1	1655	1656	NOM	PER	the cobbler
+-1	1659	1660	NOM	PER	the widow
+-1	1666	1666	PRON	PER	herself
+-1	1670	1670	PRON	PER	he
+-1	1677	1677	PRON	PER	his
+-1	1689	1689	PRON	PER	him
+-1	1699	1699	PRON	PER	him
+-1	1705	1705	PRON	PER	his
+-1	1705	1706	NOM	PER	his mother
+-1	1711	1712	NOM	PER	the cobbler
+-1	1715	1715	PRON	PER	his
+-1	1719	1719	PRON	PER	he
+-1	1726	1727	NOM	FAC	the house
+-1	1736	1737	NOM	FAC	the kitchen
+-1	1765	1766	NOM	PER	the cobbler
+-1	1784	1784	PRON	PER	he
+-1	1788	1788	PRON	PER	I
+-1	1801	1801	PRON	PER	he
+-1	1808	1808	PRON	PER	he
+-1	1817	1820	NOM	PER	a figure in white
+-1	1822	1822	PRON	PER	his
+-1	1827	1850	NOM	PER	a blacksmith who lived near , and he had run in in his night - shirt without so much as slippers on his feet
+-1	1834	1834	PRON	PER	he
+-1	1839	1839	PRON	PER	his
+-1	1849	1849	PRON	PER	his
+-1	1853	1854	NOM	PER	The ghost
+-1	1860	1861	NOM	PER	the cobbler
+-1	1866	1866	PRON	PER	his
+-1	1866	1867	NOM	PER	his mother
+-1	1871	1871	PRON	PER	he
+-1	1876	1876	PRON	PER	his
+-1	1880	1880	NOM	PER	Neighbour
+-1	1882	1882	NOM	PER	neighbour
+-1	1886	1887	NOM	PER	the blacksmith
+-1	1890	1890	PRON	PER	your
+-1	1890	1891	NOM	FAC	your house
+-1	1898	1900	NOM	PER	An old bird
+-1	1911	1912	NOM	PER	the cobbler
+-1	1914	1914	PRON	PER	himself
+-1	1917	1917	PRON	PER	he
+-1	1924	1924	PRON	PER	his
+-1	1928	1928	NOM	PER	Neighbour
+-1	1932	1933	NOM	PER	the blacksmith
+-1	1946	1946	PRON	PER	you
+-1	1949	1950	NOM	FAC	The house
+-1	1954	1954	PRON	PER	your
+-1	1960	1960	PRON	PER	your
+-1	1965	1965	PRON	PER	I
+-1	1970	1971	NOM	PER	a general
+-1	1978	1979	NOM	PER	the cobbler
+-1	1988	1988	PRON	PER	he
+-1	1995	1995	PRON	PER	you
+-1	1999	1999	NOM	PER	bum
+-1	2003	2004	NOM	PER	the blacksmith
+-1	2009	2009	PRON	PER	I
+-1	2013	2013	PRON	PER	my
+-1	2016	2016	PRON	PER	he
+-1	2022	2023	NOM	PER	the cobbler
+-1	2031	2031	PRON	PER	his
+-1	2031	2032	NOM	PER	his mother
+-1	2038	2038	PRON	PER	him
+-1	2046	2046	PRON	PER	his
+-1	2046	2047	NOM	FAC	his house
+-1	2058	2058	PRON	PER	he
+-1	2061	2061	PRON	PER	his
+-1	2067	2067	PRON	PER	he
+-1	2072	2072	PRON	PER	him
+-1	2074	2074	PRON	PER	his
+-1	2083	2084	NOM	PER	the widow
+-1	2089	2089	PRON	PER	he
+-1	2097	2097	PRON	PER	he
+-1	2114	2114	PRON	PER	his
+-1	2123	2123	PRON	PER	he

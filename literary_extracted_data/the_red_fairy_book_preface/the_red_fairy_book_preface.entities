@@ -1,0 +1,32 @@
+COREF	start_token	end_token	prop	cat	text
+-1	11	15	NOM	LOC	the fields of Fairy Land
+0	14	15	PROP	LOC	Fairy Land
+-1	16	16	PRON	PER	we
+-1	39	44	NOM	PER	some in the Red Fairy Book
+-1	56	58	NOM	PER	the old friends
+3	74	74	PROP	PER	Madame
+4	83	84	PROP	PER	Mrs. Hunt
+1	86	87	PROP	LOC	the Norse
+5	90	92	PROP	PER	Miss Minnie Wright
+6	98	99	PROP	PER	Mrs. Lang
+7	101	102	PROP	PER	Miss Bruce
+8	109	111	PROP	PER	Miss May Sellar
+9	113	114	PROP	PER	Miss Farquharson
+10	117	118	PROP	PER	Miss Blackley
+2	120	121	PROP	LOC	the German
+-1	133	134	NOM	PER	the Editor
+11	136	138	PROP	PER	Mr. William Morris
+-1	149	150	NOM	PER	The Editor
+-1	154	154	PRON	PER	his
+-1	154	155	NOM	PER	his friend
+12	157	159	PROP	PER	M. Charles Marelles
+-1	165	165	PRON	PER	his
+13	176	176	PROP	PER	Drakestail
+14	182	184	PROP	PER	Little Golden Hood
+15	191	193	PROP	PER	M. Henri Carnoy
+16	210	212	PROP	PER	Lady Frances Balfour
+17	221	221	PROP	PER	Jack
+18	228	229	PROP	PER	Messrs. Smith
+19	231	231	PROP	PER	Elder
+20	239	240	PROP	PER	Mr. Ralston
+-1	247	248	NOM	PER	A. L.

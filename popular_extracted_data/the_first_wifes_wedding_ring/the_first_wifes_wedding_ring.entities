@@ -1,0 +1,353 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	2	NOM	PER	THE FIRST WIFE
+-1	14	21	NOM	PER	a certain worthy man who was twice married
+-1	24	24	PRON	PER	his
+-1	24	26	NOM	PER	his first wife
+-1	27	27	PRON	PER	he
+-1	29	30	NOM	PER	a son
+-1	35	35	PRON	PER	his
+-1	35	36	NOM	PER	his mother
+-1	42	43	NOM	PER	a soldier
+-1	48	49	NOM	LOC	foreign lands
+-1	56	57	NOM	LOC	the world
+-1	61	61	NOM	FAC	home
+-1	67	67	PRON	PER	he
+-1	72	72	PRON	PER	I
+-1	74	74	PRON	PER	I
+-1	80	81	NOM	PER	the father
+-1	83	83	PRON	PER	him
+-1	88	88	PRON	PER	his
+-1	88	89	NOM	PER	his mother
+-1	107	107	PRON	PER	you
+-1	114	114	PRON	PER	you
+-1	121	121	PRON	PER	I
+-1	124	124	PRON	PER	you
+-1	127	127	PRON	PER	my
+-1	127	129	NOM	PER	my true son
+-1	138	139	NOM	PER	the father
+-1	148	148	PRON	PER	he
+-1	150	151	NOM	PER	one son
+-1	158	160	NOM	PER	the elder brother
+-1	168	169	NOM	PER	every one
+-1	171	171	PRON	PER	him
+-1	179	179	PRON	PER	he
+-1	188	188	PRON	PER	he
+-1	190	190	PRON	PER	his
+-1	194	194	PRON	PER	He
+-1	205	205	PRON	PER	his
+-1	205	206	NOM	PER	his mother
+-1	210	210	PRON	PER	him
+-1	214	214	PRON	PER	he
+-1	223	223	PRON	PER	his
+-1	231	231	PRON	PER	he
+-1	236	236	NOM	FAC	shelter
+-1	243	243	PRON	PER	he
+-1	251	251	PRON	PER	he
+-1	266	266	PRON	PER	He
+-1	283	283	PRON	PER	he
+-1	292	292	PRON	PER	his
+-1	292	293	NOM	PER	his father
+-1	295	297	NOM	PER	The old man
+-1	302	302	PRON	PER	him
+-1	307	307	PRON	PER	his
+-1	312	314	NOM	PER	the second wife
+-1	319	319	PRON	PER	She
+-1	326	326	PRON	PER	her
+-1	326	327	NOM	PER	her child
+-1	333	340	NOM	PER	the sole heir of his father 's goods
+-1	337	337	PRON	PER	his
+-1	337	338	NOM	PER	his father
+-1	343	343	PRON	PER	she
+-1	349	351	NOM	PER	the old man
+-1	359	359	PRON	PER	he
+-1	364	367	NOM	PER	the new - comer
+-1	369	369	PRON	PER	he
+-1	373	375	NOM	PER	the first wife
+-1	385	385	PRON	PER	I
+-1	393	393	PRON	PER	she
+-1	400	413	NOM	PER	the first vagrant who comes in with a brown face and a ragged coat
+-1	417	417	PRON	PER	he
+-1	419	419	PRON	PER	your
+-1	419	420	NOM	PER	your son
+-1	424	425	NOM	PER	the soldier
+-1	429	429	PRON	PER	his
+-1	433	433	PRON	PER	his
+-1	433	434	NOM	PER	his father
+-1	436	436	PRON	PER	him
+-1	446	446	PRON	PER	his
+0	452	452	PROP	PER	God
+-1	454	454	PRON	PER	you
+-1	475	475	PRON	PER	he
+-1	497	497	PRON	PER	you
+-1	501	501	NOM	FAC	church
+-1	503	503	NOM	PER	others
+-1	507	507	PRON	PER	you
+-1	511	511	PRON	PER	your
+-1	518	518	PRON	PER	you
+-1	525	525	PRON	PER	we
+-1	547	548	NOM	PER	the soldier
+-1	553	553	PRON	PER	I
+-1	558	558	NOM	FAC	home
+-1	564	564	PRON	PER	I
+-1	566	568	NOM	PER	the true heir
+-1	573	573	PRON	PER	we
+-1	577	577	PRON	PER	your
+-1	586	586	PRON	PER	he
+-1	593	595	NOM	LOC	the green fields
+-1	599	600	NOM	PER	the soldier
+-1	611	611	PRON	PER	I
+-1	615	615	PRON	PER	you
+-1	617	617	NOM	PER	comrade
+-1	621	621	PRON	PER	your
+-1	636	636	PRON	PER	he
+-1	641	641	PRON	PER	I
+-1	646	646	NOM	FAC	home
+-1	652	652	PRON	PER	I
+-1	654	656	NOM	PER	the true heir
+-1	661	661	PRON	PER	I
+-1	665	665	PRON	PER	your
+-1	674	675	NOM	FAC	the road
+-1	688	688	PRON	PER	they
+-1	697	698	NOM	PER	trimp tramp
+-1	714	714	NOM	PER	friend
+-1	735	735	PRON	PER	you
+-1	743	743	PRON	PER	I
+-1	750	751	NOM	PER	the soldier
+-1	756	756	PRON	PER	I
+-1	762	762	NOM	FAC	home
+-1	768	768	PRON	PER	I
+-1	770	772	NOM	PER	the true heir
+-1	777	777	PRON	PER	we
+-1	781	781	PRON	PER	you
+-1	790	790	PRON	PER	he
+-1	801	801	PRON	PER	he
+-1	815	818	NOM	LOC	a dark gloomy forest
+-1	823	823	PRON	PER	him
+-1	827	827	PRON	PER	he
+-1	829	848	NOM	PER	a small , weazened old woman , who was trying to lift a bundle of sticks on to her back
+-1	847	847	PRON	PER	her
+-1	856	856	PRON	PER	you
+-1	858	859	NOM	PER	good mother
+-1	863	864	NOM	PER	the soldier
+-1	867	867	PRON	PER	he
+-1	873	873	PRON	PER	her
+-1	877	877	PRON	PER	you
+-1	884	886	NOM	PER	the old crone
+-1	893	893	PRON	PER	I
+-1	896	896	PRON	PER	you
+-1	900	900	PRON	PER	you
+-1	906	906	PRON	PER	you
+-1	911	911	PRON	PER	I
+-1	916	916	NOM	PER	dame
+-1	920	921	NOM	PER	the soldier
+-1	925	925	PRON	PER	he
+-1	929	929	PRON	PER	he
+-1	943	944	NOM	LOC	the wood
+-1	958	958	PRON	PER	his
+-1	963	963	PRON	PER	He
+-1	974	974	PRON	PER	he
+-1	981	981	PRON	PER	You
+-1	988	988	NOM	PER	comrade
+-1	991	991	PRON	PER	you
+-1	995	995	PRON	PER	me
+-1	999	999	PRON	PER	I
+-1	1008	1009	NOM	PER	the soldier
+-1	1012	1012	PRON	PER	my
+-1	1015	1015	PRON	PER	my
+-1	1020	1020	PRON	PER	Your
+-1	1025	1026	NOM	PER	the giant
+-1	1044	1044	PRON	PER	you
+-1	1058	1058	PRON	PER	you
+-1	1065	1065	PRON	PER	you
+-1	1084	1084	PRON	PER	you
+-1	1089	1090	NOM	FAC	The nest
+-1	1103	1103	PRON	PER	you
+-1	1107	1108	NOM	PER	the king
+-1	1110	1110	PRON	PER	you
+-1	1134	1134	PRON	PER	you
+-1	1138	1138	PRON	PER	my
+-1	1138	1139	NOM	PER	my servant
+-1	1153	1154	NOM	PER	the soldier
+-1	1164	1164	PRON	PER	I
+-1	1172	1172	PRON	PER	he
+-1	1175	1176	NOM	PER	the giant
+-1	1175	1178	NOM	FAC	the giant 's abode
+-1	1180	1180	PRON	PER	he
+-1	1186	1190	NOM	PER	the little weazened old woman
+-1	1192	1192	PRON	PER	She
+-1	1198	1198	PRON	PER	him
+-1	1203	1204	NOM	PER	the soldier
+-1	1210	1210	PRON	PER	He
+-1	1214	1214	PRON	PER	she
+-1	1216	1217	NOM	PER	the giant
+-1	1216	1219	NOM	PER	the giant 's wife
+-1	1226	1226	PRON	PER	her
+-1	1226	1227	NOM	PER	her husband
+-1	1231	1231	PRON	PER	her
+-1	1240	1240	PRON	PER	you
+-1	1248	1249	NOM	PER	the giant
+-1	1253	1253	PRON	PER	you
+-1	1258	1259	NOM	PER	the soldier
+-1	1263	1263	PRON	PER	he
+-1	1267	1267	PRON	PER	he
+-1	1274	1276	NOM	PER	the old woman
+-1	1288	1288	PRON	PER	he
+-1	1292	1293	NOM	PER	the giant
+-1	1295	1295	PRON	PER	him
+-1	1297	1305	NOM	LOC	a certain place on the outskirts of the forest
+-1	1304	1305	NOM	LOC	the forest
+-1	1309	1309	PRON	PER	him
+-1	1318	1318	PRON	PER	you
+-1	1325	1325	PRON	PER	you
+-1	1338	1338	PRON	PER	he
+-1	1364	1364	PRON	PER	thee
+-1	1369	1369	PRON	PER	me
+-1	1373	1374	NOM	PER	the soldier
+-1	1378	1379	NOM	PER	the giant
+-1	1381	1381	PRON	PER	he
+-1	1388	1388	PRON	PER	he
+-1	1407	1407	PRON	PER	he
+-1	1413	1413	PRON	PER	he
+-1	1417	1418	NOM	PER	the giant
+-1	1420	1420	PRON	PER	him
+-1	1422	1422	PRON	PER	he
+-1	1435	1435	PRON	PER	he
+-1	1439	1439	PRON	PER	they
+-1	1445	1446	NOM	PER	the giant
+-1	1449	1449	PRON	PER	I
+-1	1453	1454	NOM	PER	idle servants
+-1	1458	1458	PRON	PER	I
+-1	1470	1471	NOM	PER	the soldier
+-1	1476	1476	PRON	PER	he
+-1	1481	1481	PRON	PER	his
+-1	1493	1493	PRON	PER	he
+-1	1495	1495	NOM	FAC	home
+-1	1502	1502	PRON	PER	he
+-1	1514	1515	NOM	PER	the giant
+1	1517	1517	PROP	PER	Matters
+-1	1531	1531	PRON	PER	he
+-1	1536	1536	PRON	PER	he
+-1	1538	1541	NOM	PER	the little old woman
+-1	1552	1552	PRON	PER	she
+-1	1555	1555	PRON	PER	He
+-1	1559	1559	PRON	PER	you
+-1	1561	1561	PRON	PER	he
+-1	1564	1564	NOM	PER	others
+-1	1573	1573	PRON	PER	you
+-1	1585	1585	PRON	PER	him
+-1	1588	1588	PRON	PER	you
+-1	1600	1602	NOM	FAC	the old place
+-1	1615	1615	PRON	PER	he
+-1	1618	1618	PRON	PER	her
+-1	1620	1622	NOM	PER	the old woman
+-1	1632	1632	PRON	PER	he
+-1	1636	1638	NOM	FAC	the old place
+-1	1649	1649	PRON	PER	his
+-1	1662	1662	PRON	PER	he
+-1	1674	1674	PRON	PER	his
+-1	1684	1684	PRON	PER	He
+-1	1697	1699	NOM	FAC	the old spot
+-1	1703	1703	NOM	FAC	home
+-1	1717	1717	PRON	PER	he
+-1	1730	1730	PRON	PER	him
+-1	1742	1742	PRON	PER	his
+-1	1750	1751	NOM	PER	the giant
+-1	1750	1753	NOM	FAC	the giant 's home
+-1	1756	1757	NOM	LOC	the forest
+-1	1773	1773	PRON	PER	his
+-1	1777	1778	NOM	PER	the giant
+-1	1780	1781	NOM	PER	the soldier
+-1	1787	1789	NOM	LOC	an open plain
+-1	1806	1806	PRON	PER	her
+-1	1809	1810	NOM	PER	the soldier
+-1	1812	1812	PRON	PER	his
+-1	1812	1813	NOM	PER	his mother
+-1	1819	1819	PRON	PER	He
+-1	1839	1839	PRON	PER	his
+-1	1844	1845	NOM	PER	the giant
+-1	1850	1850	PRON	PER	he
+-1	1854	1854	PRON	PER	himself
+-1	1866	1866	PRON	PER	his
+-1	1872	1872	PRON	PER	his
+-1	1875	1876	NOM	GPE	the capital
+-1	1878	1878	PRON	PER	He
+-1	1883	1903	NOM	PER	a good - humoured , fellow who showed him the way , and pointed out everything of interest on the road
+-1	1891	1891	PRON	PER	him
+-1	1902	1903	NOM	FAC	the road
+-1	1906	1906	PRON	PER	they
+-1	1926	1934	NOM	PER	three beautiful ladies who were the king 's daughters
+-1	1931	1932	NOM	PER	the king
+-1	1931	1934	NOM	PER	the king 's daughters
+-1	1937	1939	NOM	PER	The two eldest
+-1	1944	1946	NOM	PER	two neighbouring princes
+-1	1950	1951	NOM	PER	the companion
+-1	1957	1960	NOM	PER	the youngest to marry
+-1	1964	1965	NOM	PER	the soldier
+-1	1969	1969	PRON	PER	she
+-1	1979	1979	PRON	PER	She
+-1	1986	1986	PRON	PER	his
+-1	1986	1987	NOM	PER	his companion
+-1	1991	1991	PRON	PER	she
+-1	1995	2002	NOM	PER	the man who shall find the crown jewels
+-1	2009	2013	NOM	LOC	the stone - wood forest
+-1	2016	2017	NOM	PER	the king
+-1	2016	2019	NOM	FAC	the king 's domains
+-1	2027	2027	PRON	PER	she
+-1	2031	2043	NOM	PER	the man who should fetch down the moon for her to play with
+-1	2040	2040	PRON	PER	her
+-1	2054	2055	NOM	LOC	the wood
+-1	2057	2059	NOM	LOC	an enchanted forest
+-1	2064	2064	PRON	PER	she
+-1	2067	2067	PRON	PER	we
+-1	2070	2070	PRON	PER	my
+-1	2070	2071	NOM	PER	my mother
+-1	2077	2078	NOM	PER	the soldier
+-1	2081	2081	PRON	PER	he
+-1	2083	2083	PRON	PER	his
+-1	2091	2091	PRON	PER	he
+-1	2094	2094	PRON	PER	himself
+-1	2098	2098	PRON	PER	he
+-1	2103	2104	NOM	PER	the king
+-1	2106	2106	PRON	PER	His
+-1	2109	2110	NOM	PER	the princess
+-1	2115	2116	NOM	PER	the king
+-1	2122	2122	PRON	PER	him
+-1	2125	2125	PRON	PER	he
+-1	2127	2127	PRON	PER	himself
+-1	2131	2131	PRON	PER	his
+-1	2131	2134	NOM	PER	his bride - elect
+-1	2148	2148	PRON	PER	I
+-1	2150	2150	PRON	PER	my
+-1	2150	2152	NOM	PER	my old father
+-1	2154	2154	NOM	PER	madam
+-1	2157	2157	PRON	PER	he
+-1	2160	2161	NOM	PER	the princess
+-1	2165	2165	PRON	PER	you
+-1	2171	2171	PRON	PER	she
+-1	2174	2176	NOM	PER	A good son
+-1	2178	2180	NOM	PER	a good husband
+-1	2184	2184	PRON	PER	he
+-1	2186	2186	PRON	PER	his
+-1	2186	2188	NOM	GPE	his native village
+-1	2204	2204	PRON	PER	his
+-1	2207	2207	PRON	PER	His
+-1	2207	2208	NOM	PER	His stepmother
+-1	2211	2211	PRON	PER	him
+-1	2220	2220	NOM	FAC	court
+-1	2224	2224	PRON	PER	her
+-1	2224	2225	NOM	PER	her husband
+-1	2231	2231	PRON	PER	You
+-1	2237	2238	NOM	FAC	the homestead
+-1	2244	2244	PRON	PER	you
+-1	2248	2248	PRON	FAC	it
+-1	2250	2250	PRON	PER	I
+-1	2261	2261	PRON	PER	he
+-1	2264	2264	PRON	PER	he
+-1	2269	2269	PRON	PER	he
+-1	2280	2281	NOM	LOC	those parts
+-1	2284	2285	NOM	PER	the soldier
+-1	2287	2287	PRON	PER	his
+-1	2287	2288	NOM	PER	his wife
+-1	2290	2291	NOM	GPE	the city
+-1	2296	2296	PRON	PER	her
+-1	2301	2301	PRON	PER	her

@@ -1,0 +1,372 @@
+COREF	start_token	end_token	prop	cat	text
+-1	13	21	NOM	PER	a child who had Good Luck for his godfather
+-1	20	20	PRON	PER	his
+-1	20	21	NOM	PER	his godfather
+-1	24	24	PRON	PER	I
+3	31	32	PROP	PER	Good Luck
+-1	34	35	NOM	PER	the parents
+-1	38	38	PRON	PER	I
+-1	47	47	PRON	PER	he
+-1	50	50	PRON	PER	I
+-1	65	67	NOM	PER	the old couple
+-1	69	69	PRON	PER	They
+-1	76	77	NOM	PER	the father
+-1	82	83	NOM	PER	the son
+-1	87	88	NOM	PER	every man
+-1	91	91	PRON	PER	he
+-1	98	98	PRON	PER	he
+-1	111	111	PRON	PER	his
+-1	111	112	NOM	PER	his father
+-1	116	118	NOM	PER	Many a one
+-1	130	130	PRON	PER	he
+-1	136	136	PRON	PER	his
+-1	136	137	NOM	PER	his godfather
+-1	140	140	PRON	PER	he
+3	143	144	PROP	PER	Good Luck
+-1	153	153	PRON	PER	his
+-1	157	157	PRON	PER	he
+3	160	161	PROP	PER	Good Luck
+-1	163	163	PRON	PER	his
+-1	169	169	PRON	PER	his
+-1	169	170	NOM	PER	his adversary
+-1	173	173	PRON	PER	he
+3	179	180	PROP	PER	Good Luck
+-1	182	182	PRON	PER	him
+4	190	190	PROP	PER	Misfortune
+-1	192	192	PRON	PER	him
+3	194	195	PROP	PER	Good Luck
+-1	199	199	PRON	PER	her
+-1	201	202	NOM	FAC	the pathway
+-1	204	204	PRON	PER	his
+-1	204	205	NOM	PER	his godson
+-1	214	215	NOM	PER	the godfather
+-1	218	218	PRON	PER	his
+-1	225	225	PRON	PER	he
+-1	228	228	PRON	PER	him
+-1	232	233	NOM	PER	the lad
+-1	238	238	PRON	PER	his
+-1	238	239	NOM	PER	his father
+-1	238	241	NOM	FAC	his father 's farm
+-1	242	243	NOM	PER	the farmer
+-1	260	260	PRON	PER	his
+-1	260	261	NOM	PER	his son
+-1	268	268	PRON	PER	he
+3	272	273	PROP	PER	Good Luck
+-1	278	279	NOM	PER	The boy
+-1	288	288	PRON	PER	he
+-1	292	293	NOM	FAC	the fields
+3	295	296	PROP	PER	Good Luck
+-1	298	298	PRON	PER	him
+-1	301	301	PRON	PER	Your
+-1	310	310	PRON	PER	us
+-1	310	311	NOM	PER	us all
+-1	315	317	NOM	PER	the old farmer
+-1	320	320	PRON	PER	He
+-1	324	324	PRON	PER	me
+3	334	335	PROP	PER	Good Luck
+-1	334	337	NOM	PER	Good Luck 's godson
+-1	340	340	PRON	PER	I
+5	343	343	PROP	PER	Fortune
+-1	345	345	PRON	PER	I
+-1	352	353	NOM	PER	the godfather
+-1	356	356	PRON	PER	we
+-1	364	364	PRON	PER	our
+-1	364	365	NOM	PER	our neighbours
+-1	367	367	PRON	PER	ourselves
+-1	372	374	NOM	PER	the other boys
+-1	376	376	NOM	PER	said--"Simon
+-1	378	379	NOM	PER	the shoemaker
+-1	378	381	NOM	PER	the shoemaker 's son
+-1	387	387	PRON	PER	his
+-1	387	388	NOM	PER	his godfather
+-1	390	390	PRON	PER	He
+-1	392	392	PRON	PER	him
+6	399	399	PROP	PER	Peter
+-1	405	405	PRON	PER	thy
+-1	405	406	NOM	PER	thy godfather
+-1	411	416	NOM	PER	any alderman"--that Good Luck 's godson
+-1	420	420	PRON	PER	He
+-1	424	424	PRON	PER	me
+-1	436	438	NOM	PER	the old farmer
+-1	442	442	PRON	PER	his
+-1	442	443	NOM	PER	his son
+-1	449	454	NOM	FAC	the largest farm in the country
+-1	453	454	NOM	LOC	the country
+-1	456	458	NOM	PER	The other boys
+-1	465	465	PRON	PER	they
+-1	468	469	NOM	PER	the farmer
+-1	475	475	PRON	PER	they
+7	484	484	PROP	PER	Neighbour
+-1	489	492	NOM	FAC	a fine farm of
+-1	493	493	PRON	PER	yours
+-1	495	495	PRON	PER	Your
+-1	501	501	PRON	PER	Your
+-1	517	517	PRON	PER	your
+-1	517	518	NOM	FAC	your road
+-1	521	521	PRON	PER	you
+-1	525	525	PRON	PER	you
+-1	535	538	NOM	PER	poor folk like us
+-1	538	538	PRON	PER	us
+-1	547	548	NOM	PER	a man
+-1	553	553	PRON	PER	his
+-1	562	562	PRON	PER	his
+-1	562	563	NOM	PER	his godfather
+-1	574	575	NOM	PER	the farmer
+-1	578	580	NOM	PER	Many a man
+-1	587	587	PRON	PER	he
+-1	595	596	NOM	PER	the clerk
+-1	598	599	NOM	PER	the sexton
+-1	603	603	PRON	PER	his
+8	613	613	PROP	PER	Godson
+3	617	618	PROP	PER	Good Luck
+-1	623	623	PRON	PER	him
+-1	625	626	NOM	FAC	the field
+-1	629	629	PRON	PER	I
+-1	637	638	NOM	PER	the farmer
+-1	641	641	PRON	PER	You
+-1	651	652	NOM	PER	the godfather
+-1	656	657	NOM	FAC	every field
+-1	658	658	PRON	PER	you
+-1	664	664	PRON	PER	you
+-1	672	672	PRON	PER	Your
+-1	679	679	PRON	PER	your
+-1	679	680	NOM	PER	your father
+-1	691	692	NOM	PER	the farmer
+-1	703	705	NOM	PER	a young man
+-1	709	709	PRON	PER	his
+-1	719	723	NOM	PER	none of the Good People
+-1	721	723	NOM	PER	the Good People
+-1	727	727	PRON	PER	his
+9	731	731	PROP	PER	Fortunatus
+-1	750	751	NOM	PER	the godfather
+-1	754	754	PRON	PER	I
+-1	758	758	PRON	PER	I
+-1	765	765	PRON	PER	he
+9	768	768	PROP	PER	Fortunatus
+-1	772	773	NOM	PER	the farmer
+-1	789	789	PRON	PER	he
+-1	799	799	PRON	PER	his
+-1	805	807	NOM	GPE	the royal city
+-1	824	824	PRON	PER	him
+-1	833	835	NOM	PER	these young courtiers
+-1	840	840	PRON	PER	he
+-1	843	844	NOM	PER	A man
+-1	852	852	PRON	PER	himself
+-1	857	857	PRON	PER	he
+-1	863	863	PRON	PER	his
+-1	868	869	NOM	PER	a bystander
+-1	874	875	NOM	PER	the Princess
+-1	878	878	PRON	PER	her
+-1	878	879	NOM	VEH	her carriage
+-1	881	881	PRON	PER	She
+-1	883	884	NOM	PER	the King
+-1	883	887	NOM	PER	the King 's only daughter
+-1	889	889	PRON	PER	She
+-1	897	897	PRON	PER	her
+-1	904	906	NOM	PER	an exquisite creature
+-1	910	911	NOM	PER	the farmer
+-1	916	917	NOM	PER	not one
+-1	921	921	PRON	PER	her
+-1	925	925	PRON	PER	She
+-1	929	929	NOM	PER	suitors
+-1	933	933	PRON	PER	her
+-1	938	939	NOM	PER	the bystander
+-1	942	942	PRON	PER	She
+-1	946	949	NOM	PER	the Prince of Moonshine
+0	949	949	PROP	GPE	Moonshine
+-1	952	952	PRON	PER	he
+-1	959	960	NOM	PER	the King
+-1	962	962	PRON	PER	he
+-1	965	971	NOM	PER	a richer son - in - law
+-1	973	974	NOM	PER	The Princess
+-1	978	980	NOM	PER	the highest bidder
+-1	985	985	PRON	PER	I
+-1	990	990	PRON	PER	my
+-1	990	991	NOM	PER	my godfather
+-1	1002	1003	NOM	PER	the farmer
+-1	1006	1006	PRON	PER	he
+-1	1010	1010	PRON	PER	his
+-1	1015	1015	NOM	FAC	home
+3	1017	1018	PROP	PER	Good Luck
+-1	1023	1024	NOM	FAC	the farm
+-1	1029	1029	NOM	PER	Godfather
+-1	1033	1035	NOM	PER	the young man
+-1	1038	1038	PRON	PER	I
+-1	1043	1044	NOM	PER	the King
+-1	1043	1046	NOM	PER	the King 's daughter
+-1	1050	1050	PRON	PER	her
+3	1065	1066	PROP	PER	Good Luck
+-1	1070	1070	PRON	PER	I
+-1	1074	1074	PRON	PER	I
+-1	1077	1077	PRON	PER	you
+-1	1084	1084	PRON	PER	you
+-1	1086	1087	NOM	PER	the Princess
+-1	1094	1095	NOM	PER	the King's
+-1	1098	1098	PRON	PER	they
+-1	1100	1100	PRON	PER	he
+10	1105	1105	PROP	PER	Tush
+-1	1109	1110	NOM	PER	the farmer
+11	1113	1114	PROP	PER	The King
+-1	1120	1126	NOM	PER	a rich son - in - law
+-1	1130	1132	NOM	PER	A wise man
+-1	1137	1138	NOM	GPE	a kingdom
+-1	1140	1140	PRON	PER	his
+-1	1146	1146	PRON	PER	his
+3	1151	1152	PROP	PER	Good Luck
+-1	1156	1156	PRON	PER	I
+-1	1159	1159	PRON	PER	you
+-1	1160	1172	NOM	GPE	a district where the earth only wants mining to be flooded with wealth
+-1	1163	1172	NOM	LOC	the earth only wants mining to be flooded with wealth
+-1	1201	1201	PRON	PER	him
+-1	1203	1208	NOM	PER	many a poorer man than you
+-1	1204	1206	NOM	PER	a poorer man
+-1	1208	1208	PRON	PER	you
+-1	1222	1224	NOM	PER	the indignant godson
+-1	1227	1227	PRON	PER	You
+-1	1233	1234	NOM	PER	A hillman
+-1	1238	1240	NOM	PER	a better godfather
+-1	1243	1243	PRON	PER	me
+-1	1256	1256	PRON	PER	you
+-1	1262	1262	PRON	PER	your
+-1	1265	1268	NOM	PER	those who want it
+3	1276	1277	PROP	PER	Good Luck
+5	1279	1280	PROP	PER	Dame Fortune
+-1	1282	1282	PRON	PER	She
+-1	1284	1286	NOM	PER	handsome young men
+-1	1295	1295	PRON	PER	her
+-1	1297	1298	NOM	PER	the godfather
+-1	1300	1300	PRON	PER	she
+-1	1307	1307	PRON	PER	You
+-1	1312	1312	PRON	PER	me
+-1	1314	1314	PRON	PER	your
+-1	1319	1319	PRON	PER	she
+-1	1323	1323	PRON	PER	you
+-1	1326	1326	PRON	PER	me
+-1	1330	1330	PRON	PER	I
+-1	1335	1336	NOM	PER	the farmer
+-1	1341	1341	PRON	PER	I
+-1	1344	1344	PRON	PER	you
+-1	1351	1351	PRON	PER	you
+-1	1353	1353	PRON	PER	him
+-1	1356	1356	PRON	PER	me
+5	1360	1361	PROP	PER	Dame Fortune
+-1	1363	1364	NOM	PER	the godfather
+-1	1368	1368	PRON	PER	he
+3	1374	1375	PROP	PER	Good Luck
+-1	1380	1380	PRON	PER	he
+-1	1382	1382	PRON	PER	your
+-1	1384	1384	PRON	PER	he
+-1	1390	1390	PRON	PER	me
+-1	1396	1396	PRON	PER	me
+-1	1401	1402	NOM	PER	the Dame
+-1	1406	1406	PRON	PER	ye
+-1	1408	1409	NOM	PER	young man
+-1	1411	1411	PRON	PER	you
+-1	1411	1412	NOM	PER	you mortals
+-1	1420	1420	PRON	PER	your
+-1	1425	1425	PRON	PER	you
+-1	1432	1432	PRON	PER	your
+-1	1436	1436	PRON	PER	your
+-1	1441	1441	PRON	PER	I
+-1	1451	1452	NOM	PER	the farmer
+-1	1456	1456	PRON	PER	I
+-1	1459	1459	PRON	PER	I
+-1	1463	1463	PRON	PER	my
+-1	1466	1466	PRON	PER	I
+-1	1475	1475	PRON	PER	yours
+5	1479	1480	PROP	PER	Dame Fortune
+-1	1484	1484	PRON	PER	she
+-1	1487	1487	PRON	PER	him
+-1	1493	1494	NOM	PER	a prince
+-1	1499	1500	NOM	PER	a clown
+-1	1502	1503	NOM	PER	poor partners
+-1	1507	1508	NOM	PER	the farmer
+-1	1511	1511	PRON	PER	My
+-1	1535	1535	PRON	PER	You
+-1	1543	1544	NOM	PER	the Dame
+-1	1547	1549	NOM	PER	the young man
+-1	1551	1551	PRON	PER	her
+-1	1562	1562	PRON	PER	he
+-1	1565	1565	PRON	PER	I
+-1	1572	1572	PRON	PER	I
+-1	1579	1579	PRON	PER	I
+-1	1582	1582	PRON	PER	you
+5	1588	1589	PROP	PER	Dame Fortune
+-1	1592	1594	NOM	PER	the young man
+-1	1600	1600	PRON	PER	her
+-1	1602	1602	PRON	PER	he
+-1	1612	1612	PRON	PER	his
+-1	1612	1613	NOM	PER	his godfather
+-1	1615	1615	PRON	PER	He
+-1	1621	1621	PRON	PER	He
+-1	1628	1628	PRON	PER	He
+-1	1636	1636	PRON	PER	himself
+-1	1649	1649	PRON	PER	his
+-1	1649	1650	NOM	PER	his person
+-1	1657	1657	PRON	PER	his
+-1	1678	1678	NOM	PER	one
+-1	1682	1682	PRON	PER	his
+-1	1686	1687	NOM	PER	the Princess
+-1	1690	1693	NOM	PER	the Prince of Moonshine
+-1	1702	1703	NOM	PER	the King
+-1	1706	1706	PRON	PER	I
+-1	1709	1709	PRON	PER	you
+-1	1711	1714	NOM	PER	the Prince of Gold
+-1	1718	1718	PRON	PER	I
+-1	1720	1720	PRON	PER	I
+-1	1727	1727	PRON	PER	her
+-1	1731	1733	NOM	PER	the young Prince
+-1	1736	1736	PRON	PER	he
+-1	1742	1742	PRON	PER	his
+-1	1745	1745	PRON	PER	his
+-1	1750	1750	PRON	PER	she
+-1	1754	1754	PRON	PER	him
+-1	1778	1779	NOM	PER	the King
+-1	1784	1784	PRON	PER	I
+-1	1786	1789	NOM	PER	the Prince of Gold
+-1	1791	1796	NOM	PER	a son - in - law
+-1	1799	1800	NOM	PER	The Prince
+-1	1802	1802	PRON	PER	his
+-1	1802	1803	NOM	PER	his bride
+-1	1806	1807	NOM	GPE	the city
+-1	1813	1813	PRON	PER	Her
+-1	1817	1817	PRON	PER	her
+-1	1825	1825	PRON	PER	her
+-1	1831	1832	NOM	VEH	the train
+12	1834	1837	PROP	PER	the Prince of Moonshine
+-1	1848	1848	PRON	PER	his
+-1	1852	1854	NOM	VEH	the bridal chariot
+-1	1858	1859	NOM	GPE	the city
+-1	1867	1867	PRON	FAC	it
+3	1880	1881	PROP	PER	Good Luck
+-1	1889	1889	PRON	PER	his
+-1	1889	1890	NOM	PER	his godson
+-1	1895	1895	PRON	PER	he
+-1	1901	1901	PRON	PER	him
+-1	1905	1928	NOM	PER	the Prince of Gold no friend who can tell him that there is a loose stone above the archway that is tottering to fall
+1	1908	1908	PROP	GPE	Gold
+-1	1914	1914	PRON	PER	him
+-1	1932	1932	PRON	PER	they
+3	1935	1936	PROP	PER	Good Luck
+-1	1938	1938	PRON	PER	his
+-1	1941	1941	PRON	PER	his
+-1	1944	1945	NOM	PER	the Prince
+-1	1951	1951	PRON	PER	they
+-1	1963	1964	NOM	PER	the Prince
+-1	1968	1968	PRON	PER	He
+-1	1977	1977	PRON	PER	his
+-1	1983	1983	PRON	PER	We
+-1	1995	1996	NOM	PER	the King
+-1	1999	1999	PRON	PER	he
+-1	2001	2001	PRON	PER	his
+-1	2001	2002	NOM	PER	his daughter
+-1	2004	2007	NOM	PER	the Prince of Moonshine
+2	2007	2007	PROP	LOC	Moonshine
+-1	2024	2024	PRON	PER	you
+5	2032	2033	PROP	PER	Dame Fortune
+-1	2032	2036	NOM	PER	Dame Fortune of the godfather
+-1	2035	2036	NOM	PER	the godfather
+-1	2040	2040	PRON	PER	I
+3	2044	2045	PROP	PER	Good Luck
+-1	2048	2048	PRON	PER	I
+-1	2089	2089	PRON	PER	they

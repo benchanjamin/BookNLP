@@ -1,0 +1,208 @@
+COREF	start_token	end_token	prop	cat	text
+20	8	9	PROP	PER	JOSEPH JACOBS
+0	10	10	PRON	PER	My
+21	12	13	PROP	PER	Little Peggy
+0	23	23	PRON	PER	I
+-1	28	28	PRON	PER	your
+-1	28	29	NOM	PER	your Mummey
+-1	32	32	PRON	PER	she
+0	34	34	PRON	PER	my
+-1	34	36	NOM	PER	my little May
+-1	43	45	NOM	PER	the little boys
+1	49	49	PROP	GPE	England
+-1	54	54	PRON	PER	their
+-1	54	55	NOM	PER	their mummeys
+-1	60	60	PRON	PER	them
+-1	62	62	PRON	PER	their
+0	71	71	PRON	PER	My
+-1	71	72	NOM	PER	My friend
+22	73	74	PROP	PER	Mr. Batten
+-1	85	85	PRON	PER	you
+23	93	93	PROP	PER	Tom
+-1	101	108	NOM	PER	The little old woman that went to market
+-1	115	115	PRON	PER	you
+0	119	119	PRON	PER	I
+-1	129	129	PRON	PER	your
+-1	129	131	NOM	PER	your own self
+0	140	140	PRON	PER	I
+-1	149	153	NOM	PER	all the mummeys of Europe
+2	153	153	PROP	GPE	Europe
+-1	157	157	PRON	PER	their
+-1	168	168	PRON	PER	They
+-1	172	172	PRON	PER	them
+-1	174	174	PRON	PER	they
+3	178	178	PROP	GPE	Germany
+4	180	180	PROP	GPE	Russia
+5	183	183	PROP	GPE	Italy
+6	185	185	PROP	GPE	France
+7	188	188	PROP	GPE	Holland
+8	190	190	PROP	GPE	Scotland
+1	194	194	PROP	GPE	England
+9	196	196	PROP	GPE	Norway
+-1	200	203	NOM	GPE	every country in Europe
+2	203	203	PROP	GPE	Europe
+-1	205	205	PRON	PER	you
+-1	210	210	PRON	PER	your
+22	217	218	PROP	PER	Mr. Batten
+-1	225	225	PRON	PER	your
+-1	235	235	PRON	PER	yours
+-1	241	241	PRON	PER	him
+-1	243	243	PRON	PER	he
+-1	247	247	PRON	PER	you
+-1	253	253	PRON	PER	your
+-1	259	259	PRON	PER	you
+-1	264	266	NOM	PER	other little girls
+-1	268	268	NOM	PER	boys
+-1	275	275	PRON	PER	their
+-1	275	276	NOM	PER	their mummeys
+-1	278	278	NOM	PER	papas
+-1	286	286	PRON	PER	you
+-1	290	290	PRON	PER	them
+-1	291	291	PRON	PER	you
+-1	296	296	PRON	PER	you
+-1	299	303	NOM	PER	a number of common friends
+-1	306	309	NOM	PER	The Cinder - Maid
+24	314	317	PROP	PER	The Earl of Cattenborough
+-1	322	325	NOM	PER	The Master - Maid
+-1	329	329	PRON	PER	you
+-1	333	334	NOM	PER	one another
+-1	336	336	PRON	PER	them
+-1	339	339	PRON	PER	you
+-1	341	342	NOM	PER	old friends
+-1	360	360	PRON	PER	you
+10	363	365	PROP	LOC	the Great Sea
+-1	368	369	NOM	LOC	whatever land
+-1	370	370	PRON	PER	you
+-1	373	373	PRON	PER	you
+-1	376	376	NOM	PER	girls
+-1	378	378	NOM	PER	boys
+-1	383	385	NOM	PER	grown - ups
+-1	411	411	PRON	PER	you
+-1	413	413	PRON	PER	your
+-1	413	415	NOM	PER	your new friends
+-1	423	423	PRON	PER	you
+-1	425	425	PRON	PER	they
+-1	436	436	PRON	PER	them
+-1	438	438	PRON	PER	you
+-1	445	445	PRON	PER	your
+-1	455	455	PRON	PER	you
+-1	463	463	PRON	PER	your
+-1	463	467	NOM	PER	your old , old Ganpa
+25	466	467	PROP	PER	old Ganpa
+-1	470	470	PRON	PER	you
+0	472	472	PRON	PER	me
+0	475	475	PRON	PER	I
+21	480	480	PROP	PER	Peggy
+21	482	482	PROP	PER	Peggy
+-1	486	486	PRON	PER	you
+25	493	493	PROP	PER	Ganpa
+25	495	495	PROP	PER	Ganpa
+26	512	513	PROP	PER	the Grimms
+-1	515	515	PRON	PER	their
+-1	520	522	NOM	PER	folk - lorists
+-1	531	536	NOM	GPE	all the other countries of Europe
+2	536	536	PROP	GPE	Europe
+3	539	539	PROP	GPE	Germany
+-1	548	565	NOM	LOC	a corner in the whole continent that has not been ransacked for these products of the popular fancy
+-1	551	553	NOM	GPE	the whole continent
+26	567	568	PROP	PER	The Grimms
+-1	569	569	PRON	PER	themselves
+-1	571	574	NOM	PER	most of their followers
+-1	573	573	PRON	PER	their
+-1	573	574	NOM	PER	their followers
+-1	599	604	NOM	LOC	the European Folk - Lore field
+27	606	607	PROP	PER	Von Hahn
+28	638	642	PROP	PER	Mr. S. Baring - Gould
+0	647	647	PRON	PER	I
+0	648	648	PRON	PER	myself
+-1	678	682	NOM	GPE	all the countries of Europe
+2	682	682	PROP	GPE	Europe
+29	693	696	PROP	PER	Miss M. Roalfe Cox
+2	731	731	PROP	GPE	Europe
+-1	742	744	NOM	GPE	each particular country
+0	750	750	PRON	PER	me
+2	780	780	PROP	GPE	Europe
+0	802	802	PRON	PER	I
+-1	830	830	NOM	PER	scholars
+-1	843	846	NOM	PER	different families of MSS
+30	857	858	PROP	PER	Higher Critics
+31	866	867	PROP	PER	Holy Writ
+-1	869	877	NOM	PER	Every one who has had to tell fairy tales
+-1	879	879	NOM	PER	children
+-1	886	888	NOM	PER	the child mind
+-1	892	892	PRON	PER	you
+-1	896	897	NOM	PER	the children
+-1	908	908	PRON	PER	you
+-1	910	910	PRON	PER	us
+-1	945	948	NOM	PER	a single folk artist
+-1	949	956	NOM	PER	no serious student of Miss Cox 's volume
+29	953	954	PROP	PER	Miss Cox
+11	995	995	PROP	GPE	Denmark
+12	997	997	PROP	GPE	Greece
+3	999	999	PROP	GPE	Germany
+13	1002	1002	PROP	GPE	Florence
+32	1020	1023	PROP	PER	the late Mr. Newell
+-1	1034	1036	NOM	PER	the same children
+14	1040	1040	PROP	GPE	Barcelona
+15	1043	1043	PROP	GPE	Boston
+8	1076	1076	PROP	GPE	Scotland
+16	1080	1080	PROP	GPE	Sicily
+17	1083	1083	PROP	GPE	Brittany
+18	1087	1087	PROP	GPE	Albania
+-1	1105	1111	NOM	PER	one definite literary artist among the folk
+0	1114	1114	PRON	PER	I
+-1	1139	1142	NOM	PER	all the European folks
+0	1146	1146	PRON	PER	I
+0	1162	1162	PRON	PER	I
+-1	1181	1184	NOM	PER	English - speaking children
+0	1186	1186	PRON	PER	I
+0	1194	1194	PRON	PER	I
+-1	1207	1212	NOM	LOC	the English Folk - Lore field
+-1	1235	1238	NOM	PER	English - speaking children
+-1	1242	1242	PRON	PER	they
+2	1260	1260	PROP	GPE	Europe
+0	1266	1266	PRON	PER	I
+0	1276	1276	PRON	PER	I
+-1	1286	1290	NOM	PER	the English story - teller
+0	1292	1292	PRON	PER	I
+-1	1299	1299	PRON	PER	my[viii
+-1	1303	1304	NOM	PER	little ones
+-1	1311	1311	PRON	PER	them
+0	1321	1321	PRON	PER	I
+0	1329	1329	PRON	PER	me
+-1	1334	1339	NOM	PER	the children of the present day
+0	1341	1341	PRON	PER	I
+0	1370	1370	PRON	PER	I
+-1	1381	1388	NOM	PER	the serious student of the Folk - Tale
+0	1401	1401	PRON	PER	I
+-1	1411	1413	NOM	GPE	all European countries
+-1	1424	1427	NOM	LOC	each of the countries
+-1	1426	1427	NOM	GPE	the countries
+19	1441	1442	PROP	LOC	the Scandinavian
+0	1446	1446	PRON	PER	I
+-1	1453	1455	NOM	LOC	the Celtic fields
+0	1466	1466	PRON	PER	my
+-1	1489	1491	NOM	PER	all European children
+0	1528	1528	PRON	PER	I
+0	1535	1535	PRON	PER	I
+-1	1551	1568	NOM	PER	those of my colleagues and friends who have aided in various ways in the preparation of this volume
+0	1553	1553	PRON	PER	my
+-1	1553	1554	NOM	PER	my colleagues
+-1	1556	1556	NOM	PER	friends
+-1	1573	1573	PRON	PER	their
+0	1595	1595	PRON	PER	I
+29	1605	1607	PROP	PER	Miss Roalfe Cox
+0	1614	1614	PRON	PER	my
+33	1626	1627	PROP	PER	Prof. Crane
+0	1629	1629	PRON	PER	me
+-1	1643	1643	PRON	PER	his
+34	1648	1651	PROP	PER	Sir James G. Frazer
+0	1654	1654	PRON	PER	my
+-1	1668	1668	PRON	PER	him
+35	1674	1677	PROP	PER	Mr. E. S. Hartland
+0	1685	1685	PRON	PER	I
+0	1690	1690	PRON	PER	my
+-1	1690	1694	NOM	PER	my old friend and publisher
+36	1696	1699	PROP	PER	Dr. G. H. Putnam
+-1	1705	1705	PRON	PER	he
+37	1715	1717	PROP	PER	J. J. July

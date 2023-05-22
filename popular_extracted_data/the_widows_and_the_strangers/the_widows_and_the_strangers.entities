@@ -1,0 +1,317 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	1	NOM	PER	THE WIDOWS
+0	3	4	PROP	PER	THE STRANGERS
+-1	14	28	NOM	PER	two poor old widows who lived in the same hamlet and under the same roof
+-1	21	23	NOM	FAC	the same hamlet
+-1	32	33	NOM	FAC	the cottages
+-1	39	39	PRON	PER	them
+-1	41	41	PRON	PER	they
+-1	44	46	NOM	FAC	a separate dwelling
+-1	50	50	PRON	PER	they
+-1	62	62	PRON	PER	they
+-1	68	69	NOM	PER	one dame
+-1	74	74	PRON	PER	she
+-1	81	82	NOM	PER	the other
+-1	87	87	PRON	PER	she
+-1	101	102	NOM	PER	the widows
+-1	101	104	NOM	FAC	the widows ' cottages
+-1	107	108	NOM	FAC	a monastery
+-1	110	115	NOM	PER	a few pious and charitable brethren
+-1	117	117	PRON	PER	their
+-1	133	134	NOM	PER	these monks
+-1	140	140	NOM	PER	neighbours
+-1	144	144	PRON	PER	their
+-1	149	151	NOM	PER	the old women
+-1	171	174	NOM	PER	the covetous old widow
+-1	184	184	PRON	PER	her
+-1	188	188	PRON	PER	she
+-1	191	191	PRON	PER	she
+-1	198	198	PRON	PER	her
+-1	206	206	PRON	PER	she
+-1	219	221	NOM	PER	some belated vagabond
+-1	233	234	NOM	PER	every fool
+-1	244	244	PRON	PER	she
+-1	249	250	NOM	PER	a monk
+-1	255	255	PRON	PER	his
+-1	259	259	PRON	PER	his
+-1	263	263	PRON	PER	him
+-1	268	269	NOM	PER	The widow
+-1	276	279	NOM	PER	one of the brotherhood
+-1	278	279	NOM	PER	the brotherhood
+-1	287	288	NOM	PER	the monk
+-1	290	290	PRON	PER	her
+-1	295	295	PRON	PER	I
+-1	297	297	PRON	PER	I
+-1	300	300	PRON	PER	your
+-1	304	304	PRON	PER	my
+-1	304	305	NOM	PER	my daughter
+-1	320	320	PRON	PER	he
+-1	327	328	NOM	PER	the widow
+-1	334	334	PRON	PER	she
+-1	336	337	NOM	PER	the monk
+-1	343	343	PRON	PER	his
+-1	347	349	NOM	PER	the good woman
+-1	355	364	NOM	PER	any one who was likely to return her kindness sevenfold
+-1	362	362	PRON	PER	her
+-1	366	367	NOM	PER	The brother
+-1	377	377	PRON	PER	he
+-1	379	379	PRON	PER	himself
+-1	380	381	NOM	PER	the widow
+-1	385	385	PRON	PER	her
+-1	390	390	PRON	PER	she
+-1	400	400	PRON	PER	his
+-1	431	432	NOM	PER	the monk
+-1	431	434	NOM	PER	the monk 's person
+-1	436	436	PRON	PER	she
+-1	438	438	PRON	PER	her
+-1	441	441	PRON	PER	his
+-1	447	447	PRON	PER	her
+-1	447	448	NOM	PER	her visitor
+-1	450	459	NOM	PER	one of the brotherhood whom she had not seen before
+-1	452	459	NOM	PER	the brotherhood whom she had not seen before
+-1	455	455	PRON	PER	she
+-1	465	465	PRON	PER	his
+-1	473	481	NOM	PER	the kindly but rough countenances of her charitable patrons
+-1	479	479	PRON	PER	her
+-1	479	481	NOM	PER	her charitable patrons
+-1	485	485	PRON	PER	she
+-1	500	501	NOM	PER	the monk
+-1	503	503	PRON	PER	her
+-1	506	506	PRON	PER	she
+-1	518	518	PRON	PER	her
+-1	518	519	NOM	FAC	her room
+-1	523	524	NOM	PER	the monk
+-1	531	531	PRON	PER	him
+-1	537	537	PRON	PER	his
+-1	551	551	PRON	PER	his
+-1	561	561	PRON	PER	her
+-1	573	573	PRON	PER	her
+-1	579	579	PRON	PER	he
+-1	584	584	PRON	PER	he
+-1	596	597	NOM	PER	the monk
+-1	614	615	NOM	PER	the wealthy
+-1	624	627	NOM	PER	the poor and destitute
+-1	637	638	NOM	PER	the widow
+-1	653	654	NOM	PER	good Christians
+-1	658	659	NOM	PER	poor folk
+-1	678	678	PRON	PER	my
+-1	678	679	NOM	PER	my daughter
+-1	683	684	NOM	PER	the monk
+-1	691	691	PRON	PER	his
+-1	698	698	PRON	PER	me
+-1	706	706	PRON	PER	your
+-1	706	707	NOM	FAC	your cottage
+-1	713	713	PRON	PER	you
+-1	717	718	NOM	PER	the widow
+-1	731	732	NOM	PER	the monk
+1	739	740	PROP	PER	the Scriptures
+-1	755	755	PRON	PER	He
+-1	760	761	NOM	PER	the poor
+-1	764	765	PROP	PER	the Lord
+-1	771	771	PRON	PER	he
+-1	778	778	PRON	PER	him
+-1	800	801	NOM	PER	the widow
+-1	806	806	PRON	PER	her
+-1	809	811	NOM	PER	the holy man
+-1	817	817	PRON	PER	his
+-1	821	821	PRON	PER	My
+-1	821	822	NOM	PER	My daughter
+-1	826	827	NOM	PER	the monk
+-1	836	836	PRON	PER	you
+-1	842	842	PRON	PER	your
+-1	850	850	PRON	PER	yourself
+-1	852	852	PRON	PER	I
+-1	862	864	NOM	PER	the good brother
+-1	869	870	NOM	PER	two strangers
+-1	875	876	NOM	FAC	the monastery
+-1	878	878	PRON	PER	Their
+-1	878	879	NOM	FAC	Their house
+-1	894	894	PRON	PER	they
+-1	895	895	PRON	PER	themselves
+-1	914	914	PRON	PER	Our
+-1	914	915	NOM	FAC	Our house
+-1	923	924	NOM	PER	the monk
+-1	927	928	NOM	PER	The strangers
+-1	927	931	NOM	FAC	The strangers ' lodging room
+-1	937	937	PRON	PER	we
+-1	945	947	NOM	PER	these poor souls
+-1	950	950	PRON	PER	You
+-1	958	958	PRON	PER	your
+-1	963	963	PRON	PER	you
+-1	974	974	PRON	PER	they
+-1	979	979	PRON	PER	you
+-1	987	987	PRON	PER	our
+-1	987	988	NOM	PER	our guests
+-1	992	993	NOM	PER	The widow
+-1	997	997	PRON	PER	her
+-1	1008	1009	NOM	PER	holy father
+-1	1013	1013	PRON	PER	she
+-1	1023	1024	NOM	FAC	the place
+-1	1027	1027	PRON	PER	you
+-1	1032	1052	NOM	PER	a poor old widow like me , that am in a case rather to borrow myself than to lend to others
+-1	1037	1037	PRON	PER	me
+-1	1047	1047	PRON	PER	myself
+-1	1052	1052	NOM	PER	others
+-1	1057	1057	PRON	PER	you
+-1	1059	1059	PRON	PER	us
+-1	1065	1066	NOM	PER	the monk
+-1	1069	1071	NOM	PER	These poor strangers
+-1	1082	1083	NOM	PER	The widow
+-1	1088	1089	NOM	PER	meddling busybody
+-1	1091	1091	PRON	PER	him
+-1	1093	1094	NOM	PER	the Baroness
+-1	1096	1096	PRON	PER	me
+-1	1105	1105	PRON	PER	she
+-1	1114	1114	PRON	PER	she
+-1	1117	1119	NOM	FAC	an inner room
+-1	1125	1125	PRON	PER	her
+-1	1129	1129	PRON	PER	They
+-1	1143	1144	NOM	PER	the widow
+-1	1147	1147	PRON	PER	she
+-1	1162	1162	PRON	PER	she
+-1	1172	1173	NOM	PER	the Baroness
+-1	1175	1175	PRON	PER	she
+-1	1193	1193	PRON	PER	her
+-1	1205	1205	PRON	PER	she
+-1	1208	1208	PRON	PER	herself
+-1	1214	1214	PRON	PER	my
+-1	1238	1248	NOM	PER	two wandering bodies that have been tramping miles through the storm
+-1	1253	1253	PRON	PER	their
+-1	1260	1260	PRON	PER	they
+-1	1262	1263	NOM	PER	decent folk
+-1	1269	1269	PRON	PER	they
+-1	1282	1284	NOM	PER	the good fathers
+-1	1298	1298	PRON	PER	their
+-1	1304	1306	NOM	PER	the good woman
+-1	1314	1314	PRON	PER	she
+-1	1326	1326	PRON	PER	she
+-1	1330	1330	PRON	PER	her
+-1	1334	1342	NOM	PER	a couple of good - for - nothing tramps
+-1	1349	1349	PRON	PER	her
+-1	1355	1355	PRON	PER	they
+-1	1359	1359	PRON	PER	them
+-1	1362	1362	PRON	PER	she
+-1	1369	1369	PRON	PER	I
+-1	1414	1415	NOM	PER	the widow
+-1	1432	1432	PRON	PER	she
+-1	1437	1437	PRON	PER	my
+-1	1437	1438	NOM	PER	my goodman
+-1	1444	1444	PRON	PER	we
+-1	1454	1454	PRON	PER	I
+-1	1458	1458	PRON	PER	myself
+-1	1467	1467	NOM	PER	tramps
+-1	1472	1472	PRON	PER	she
+-1	1492	1492	PRON	PER	she
+-1	1497	1497	PRON	PER	she
+-1	1506	1506	PRON	PER	my
+-1	1515	1515	PRON	PER	she
+-1	1520	1520	PRON	PER	I
+-1	1522	1523	NOM	PER	the father
+-1	1531	1531	PRON	PER	she
+-1	1535	1536	NOM	PER	the monk
+-1	1575	1575	PRON	PER	you
+-1	1579	1582	NOM	PER	the poor houseless strangers
+-1	1586	1587	NOM	PER	the monk
+-1	1594	1595	NOM	PER	good father
+-1	1599	1599	PRON	PER	she
+-1	1606	1606	PRON	PER	me
+-1	1615	1615	PRON	PER	my
+-1	1628	1630	NOM	PER	These poor strangers
+-1	1634	1635	NOM	PER	the monk
+-1	1642	1642	PRON	PER	yourself
+-1	1653	1653	PRON	PER	he
+-1	1660	1661	NOM	PER	the widow
+-1	1665	1665	PRON	PER	he
+-1	1674	1674	PRON	PER	her
+-1	1674	1675	NOM	PER	her neighbour
+-1	1678	1678	PRON	PER	he
+-1	1692	1693	NOM	PER	This widow
+-1	1697	1721	NOM	PER	those liberal souls whose possessions always make them feel uneasy unless they are being accepted , or used , or borrowed by some one else
+-1	1704	1704	PRON	PER	them
+-1	1708	1708	PRON	PER	they
+-1	1719	1721	NOM	PER	some one else
+-1	1723	1723	PRON	PER	She
+-1	1725	1725	PRON	PER	herself
+-1	1730	1731	NOM	PER	the Baroness
+-1	1733	1733	PRON	PER	she
+-1	1742	1743	NOM	PER	the king
+-1	1744	1744	PRON	PER	himself
+-1	1754	1754	PRON	PER	she
+-1	1757	1759	NOM	PER	the poor strangers
+-1	1765	1766	NOM	PER	the brotherhood
+-1	1768	1769	NOM	PER	The monk
+-1	1780	1781	NOM	FAC	the monastery
+-1	1790	1790	PRON	PER	he
+-1	1797	1798	NOM	PER	the widow
+-1	1802	1802	PRON	PER	she
+-1	1806	1806	PRON	PER	he
+-1	1808	1808	PRON	PER	them
+-1	1816	1816	PRON	PER	he
+-1	1818	1820	NOM	PER	a messenger outside
+-1	1835	1835	PRON	PER	he
+-1	1839	1840	NOM	PER	the widow
+-1	1850	1850	PRON	PER	she
+-1	1858	1859	NOM	PER	the monk
+-1	1881	1882	NOM	PER	the widows
+-1	1881	1884	NOM	FAC	the widows ' house
+-1	1892	1894	NOM	PER	the old women
+-1	1904	1905	NOM	FAC	both cottages
+-1	1922	1922	PRON	PER	they
+-1	1924	1925	NOM	PER	the monk
+-1	1934	1935	NOM	FAC	the monastery
+-1	1942	1942	NOM	PER	each
+-1	1946	1946	PRON	PER	them
+-1	1948	1949	NOM	LOC	the hill
+-1	1956	1956	PRON	PER	he
+-1	1958	1958	PRON	PER	them
+-1	1961	1961	PRON	PER	they
+-1	1969	1970	NOM	FAC	the convent
+-1	1972	1972	PRON	PER	they
+-1	1989	1991	NOM	PER	the liberal widow
+-1	1996	1996	PRON	PER	thine
+-1	1999	1999	NOM	PER	daughter
+-1	2003	2004	NOM	PER	the monk
+-1	2007	2007	PRON	PER	thy
+-1	2018	2019	NOM	PER	the strangers
+-1	2021	2022	NOM	PER	good father
+-1	2026	2028	NOM	PER	the perplexed widow
+-1	2031	2031	PRON	PER	Ye
+-1	2033	2034	NOM	PER	the strangers
+-1	2038	2039	NOM	PER	the monk
+-1	2044	2044	PRON	PER	thy
+-1	2052	2053	NOM	PER	the unfortunate
+-1	2057	2057	PRON	PER	thy
+-1	2062	2062	PRON	PER	thee
+-1	2068	2070	NOM	PER	the other widow
+-1	2072	2072	PRON	PER	he
+-1	2079	2079	PRON	PER	his
+-1	2086	2086	PRON	PER	her
+-1	2091	2091	PRON	PER	I
+-1	2093	2093	PRON	PER	you
+-1	2096	2096	NOM	PER	dame
+-1	2137	2139	NOM	PER	the illiberal widow
+-1	2142	2142	PRON	PER	her
+-1	2155	2155	PRON	PER	I
+-1	2161	2161	PRON	PER	ourselves
+-1	2162	2164	NOM	PER	the good father
+-1	2168	2169	NOM	PER	The monk
+-1	2186	2186	PRON	PER	I
+-1	2192	2192	PRON	PER	he
+-1	2200	2200	PRON	PER	my
+-1	2200	2201	NOM	PER	my daughter
+-1	2206	2206	PRON	PER	thou
+-1	2212	2213	NOM	PER	the unfortunate
+-1	2219	2219	PRON	PER	thine
+-1	2231	2231	PRON	PER	thou
+-1	2238	2238	PRON	PER	thou
+-1	2244	2244	PRON	PER	he
+-1	2256	2257	NOM	PER	the monk
+-1	2265	2265	PRON	PER	him
+-1	2278	2278	PRON	PER	his
+-1	2295	2296	NOM	PER	the monk
+-1	2304	2305	NOM	PER	the widows
+-1	2309	2310	NOM	FAC	the monastery
+-1	2312	2312	PRON	PER	they
+-1	2315	2316	NOM	PER	the brotherhood
+-1	2320	2320	PRON	PER	their
+-1	2320	2322	NOM	PER	their strange visitor

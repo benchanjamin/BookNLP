@@ -1,0 +1,1119 @@
+COREF	start_token	end_token	prop	cat	text
+-1	2	5	NOM	FAC	A House of Pomegranates
+22	8	14	PROP	PER	Oscar Wilde THE BIRTHDAY OF THE INFANTA
+23	16	23	PROP	PER	MRS . WILLIAM H. GRENFELL OF TAPLOW COURT
+24	25	26	PROP	PER	LADY DESBOROUGH
+-1	33	34	NOM	PER	the Infanta
+-1	36	36	PRON	PER	She
+-1	51	55	NOM	FAC	the gardens of the palace
+-1	54	55	NOM	FAC	the palace
+-1	58	58	PRON	PER	she
+-1	60	62	NOM	PER	a real Princess
+-1	64	67	NOM	PER	the Infanta of Spain
+0	67	67	PROP	GPE	Spain
+-1	69	69	PRON	PER	she
+-1	79	84	NOM	PER	the children of quite poor people
+-1	82	84	NOM	PER	quite poor people
+-1	96	98	NOM	GPE	the whole country
+-1	100	100	PRON	PER	she
+-1	128	128	PRON	PER	their
+-1	135	135	NOM	PER	soldiers
+-1	151	151	PRON	PER	We
+-1	157	157	PRON	PER	you
+-1	171	171	PRON	PER	their
+-1	212	212	PRON	PER	their
+-1	234	236	NOM	FAC	the dim arcades
+-1	275	277	NOM	PER	The little Princess
+-1	278	278	PRON	PER	herself
+-1	283	284	NOM	FAC	the terrace
+-1	286	286	PRON	PER	her
+-1	286	287	NOM	PER	her companions
+-1	310	310	PRON	PER	she
+-1	317	321	NOM	PER	children of her own rank
+-1	319	319	PRON	PER	her
+-1	324	324	PRON	PER	she
+-1	332	332	PRON	PER	her
+-1	339	340	NOM	PER	the King
+-1	345	345	PRON	PER	she
+-1	349	363	NOM	PER	any of her young friends whom she liked to come and amuse themselves with her
+-1	351	351	PRON	PER	her
+-1	351	353	NOM	PER	her young friends
+-1	355	355	PRON	PER	she
+-1	361	361	PRON	PER	themselves
+-1	363	363	PRON	PER	her
+-1	371	374	NOM	PER	these slim Spanish children
+-1	376	376	PRON	PER	they
+-1	380	381	NOM	PER	the boys
+-1	383	383	PRON	PER	their
+-1	393	394	NOM	PER	the girls
+-1	400	400	PRON	PER	their
+-1	410	410	PRON	PER	their
+-1	421	422	NOM	PER	the Infanta
+-1	445	445	PRON	PER	Her
+-1	485	485	PRON	PER	her
+-1	488	488	PRON	PER	she
+-1	495	495	PRON	PER	her
+-1	502	502	PRON	PER	her
+-1	516	516	PRON	PER	her
+-1	521	521	PRON	PER	she
+-1	532	533	NOM	FAC	the palace
+-1	534	537	NOM	PER	the sad melancholy King
+-1	539	539	PRON	PER	them
+-1	542	542	PRON	PER	him
+-1	544	544	PRON	PER	his
+-1	544	545	NOM	PER	his brother
+25	547	550	PROP	PER	Don Pedro of Aragon
+-1	553	553	PRON	PER	he
+-1	557	557	PRON	PER	his
+-1	557	558	NOM	PER	his confessor
+-1	560	564	NOM	PER	the Grand Inquisitor of Granada
+1	564	564	PROP	GPE	Granada
+-1	568	568	PRON	PER	his
+-1	576	577	NOM	PER	the King
+-1	581	581	PRON	PER	he
+-1	584	585	NOM	PER	the Infanta
+-1	591	593	NOM	PER	the assembling counters
+-1	598	598	PRON	PER	her
+-1	601	609	NOM	PER	the grim Duchess of Albuquerque who always accompanied her
+-1	609	609	PRON	PER	her
+-1	611	611	PRON	PER	he
+-1	614	616	NOM	PER	the young Queen
+-1	618	618	PRON	PER	her
+-1	618	619	NOM	PER	her mother
+-1	632	632	PRON	PER	him
+-1	637	641	NOM	GPE	the gay country of France
+2	641	641	PROP	GPE	France
+-1	652	653	NOM	GPE	the Spanish
+-1	664	664	PRON	PER	her
+-1	664	665	NOM	PER	her child
+-1	669	669	PRON	PER	she
+-1	677	678	NOM	FAC	the orchard
+-1	700	705	NOM	FAC	the now grass - grown courtyard
+-1	711	711	PRON	PER	his
+-1	714	714	PRON	PER	her
+-1	716	716	PRON	PER	he
+-1	725	725	PRON	PER	her
+-1	727	727	PRON	PER	him
+-1	729	729	PRON	PER	She
+-1	734	736	NOM	PER	a Moorish physician
+-1	747	747	PRON	PER	his
+-1	763	763	NOM	PER	men
+-1	767	769	NOM	FAC	the Holy Office
+-1	772	772	PRON	PER	her
+-1	782	788	NOM	FAC	the black marble chapel of the Palace
+-1	787	788	NOM	FAC	the Palace
+-1	792	793	NOM	PER	the monks
+-1	796	796	PRON	PER	her
+-1	811	812	NOM	PER	the King
+-1	825	825	PRON	PER	his
+-1	833	833	PRON	PER	her
+0	859	859	PROP	GPE	Spain
+-1	875	876	NOM	PER	a King
+-1	878	878	PRON	PER	he
+-1	898	898	PRON	PER	his
+-1	909	909	PRON	PER	he
+-1	913	913	PRON	PER	her
+-1	917	917	PRON	PER	he
+-1	920	920	PRON	PER	her
+-1	923	926	NOM	FAC	the Castle of Fontainebleau
+3	926	926	PROP	GPE	Fontainebleau
+-1	929	929	PRON	PER	he
+-1	938	938	PRON	PER	she
+-1	942	942	PRON	PER	They
+-1	951	953	NOM	PER	the Papal Nuncio
+-1	958	960	NOM	PER	the French King
+-1	962	964	NOM	PER	all the Court
+-1	967	967	PRON	PER	he
+-1	975	975	PRON	PER	him
+-1	994	994	PRON	PER	his
+-1	997	997	PRON	PER	he
+-1	1000	1000	PRON	PER	his
+-1	1000	1001	NOM	VEH	his carriage
+4	1013	1013	PROP	GPE	Burgos
+-1	1015	1024	NOM	GPE	a small town on the frontier between the two countries
+-1	1022	1024	NOM	GPE	the two countries
+5	1032	1032	PROP	GPE	Madrid
+-1	1041	1045	NOM	FAC	the Church of La Atocha
+6	1044	1045	PROP	FAC	La Atocha
+-1	1063	1066	NOM	PER	nearly three hundred heretics
+-1	1071	1072	NOM	PER	many Englishmen
+-1	1087	1087	PRON	PER	he
+-1	1090	1090	PRON	PER	her
+-1	1102	1102	PRON	PER	his
+-1	1102	1103	NOM	GPE	his country
+7	1109	1109	PROP	GPE	England
+-1	1114	1119	NOM	LOC	the empire of the New World
+8	1117	1119	PROP	LOC	the New World
+-1	1121	1121	PRON	PER	He
+-1	1126	1126	PRON	PER	her
+-1	1131	1131	PRON	PER	his
+-1	1135	1135	PRON	PER	her
+-1	1137	1137	PRON	PER	he
+-1	1163	1164	NOM	PER	its servants
+-1	1166	1166	PRON	PER	he
+-1	1177	1177	PRON	PER	he
+-1	1181	1181	PRON	PER	her
+-1	1190	1190	PRON	PER	she
+-1	1194	1194	PRON	PER	she
+-1	1196	1196	PRON	PER	he
+-1	1217	1217	PRON	PER	he
+-1	1225	1230	NOM	FAC	the great Trappist monastery at Granada
+1	1230	1230	PROP	GPE	Granada
+-1	1234	1234	PRON	PER	he
+-1	1241	1241	PRON	PER	he
+-1	1247	1249	NOM	PER	the little Infanta
+-1	1254	1254	PRON	PER	his
+-1	1254	1255	NOM	PER	his brother
+0	1262	1262	PROP	GPE	Spain
+-1	1276	1277	NOM	PER	the Queen
+-1	1289	1289	PRON	PER	he
+-1	1293	1293	PRON	PER	her
+-1	1298	1298	PRON	PER	her
+-1	1300	1300	PRON	PER	his
+-1	1300	1303	NOM	FAC	his castle in Aragon
+9	1303	1303	PROP	GPE	Aragon
+-1	1317	1317	PRON	PER	he
+-1	1321	1321	PRON	PER	his
+-1	1321	1323	NOM	GPE	his whole dominions
+-1	1328	1328	PRON	PER	he
+-1	1332	1332	PRON	PER	his
+-1	1332	1333	NOM	PER	his ministers
+-1	1343	1344	NOM	PER	the Emperor
+-1	1345	1345	PRON	PER	himself
+-1	1348	1348	PRON	PER	him
+-1	1352	1352	PRON	PER	him
+-1	1356	1360	NOM	PER	the lovely Archduchess of Bohemia
+10	1360	1360	PROP	GPE	Bohemia
+-1	1362	1362	PRON	PER	his
+-1	1362	1363	NOM	PER	his niece
+-1	1368	1368	PRON	PER	he
+-1	1370	1371	NOM	PER	the ambassadors
+-1	1373	1373	PRON	PER	their
+-1	1373	1374	NOM	PER	their master
+-1	1376	1379	NOM	PER	the King of Spain
+0	1379	1379	PROP	GPE	Spain
+26	1384	1384	PROP	PER	Sorrow
+-1	1389	1389	PRON	PER	she
+-1	1392	1394	NOM	PER	a barren bride
+-1	1395	1395	PRON	PER	he
+-1	1397	1397	PRON	PER	her
+-1	1406	1406	PRON	PER	his
+-1	1408	1423	NOM	GPE	the rich provinces of the Netherlands , which soon after , at the Emperor ’s instigation
+-1	1412	1413	NOM	GPE	the Netherlands
+-1	1420	1421	NOM	PER	the Emperor
+-1	1427	1427	PRON	PER	him
+-1	1432	1437	NOM	PER	some fanatics of the Reformed Church
+-1	1435	1437	NOM	ORG	the Reformed Church
+-1	1439	1439	PRON	PER	His
+-1	1466	1466	PRON	PER	him
+-1	1471	1471	PRON	PER	he
+-1	1473	1474	NOM	PER	the Infanta
+-1	1477	1478	NOM	FAC	the terrace
+-1	1480	1480	PRON	PER	She
+-1	1483	1484	NOM	PER	the Queen
+-1	1497	1497	PRON	PER	her
+2	1513	1513	PROP	GPE	France
+-1	1518	1518	PRON	PER	she
+-1	1531	1531	PRON	PER	her
+-1	1535	1538	NOM	PER	the stately Spanish gentlemen
+-1	1547	1548	NOM	PER	the children
+-1	1551	1551	PRON	PER	his
+-1	1560	1560	PRON	PER	his
+-1	1589	1589	PRON	PER	He
+-1	1591	1591	PRON	PER	his
+-1	1594	1594	PRON	PER	his
+-1	1599	1600	NOM	PER	the Infanta
+-1	1611	1612	NOM	PER	the King
+-1	1616	1616	PRON	PER	She
+-1	1628	1628	PRON	PER	her
+-1	1632	1632	PRON	PER	he
+-1	1637	1637	PRON	PER	her
+-1	1639	1639	PRON	PER	her
+-1	1653	1653	PRON	PER	he
+-1	1656	1658	NOM	FAC	that gloomy chapel
+-1	1669	1669	PRON	PER	she
+-1	1679	1679	PRON	PER	him
+-1	1690	1690	NOM	PER	everybody
+-1	1697	1697	PRON	PER	he
+-1	1727	1727	PRON	PER	Her
+-1	1727	1728	NOM	PER	Her uncle
+-1	1730	1732	NOM	PER	the Grand Inquisitor
+-1	1738	1738	PRON	PER	They
+-1	1743	1744	NOM	FAC	the terrace
+-1	1748	1748	PRON	PER	her
+-1	1753	1753	PRON	PER	she
+-1	1755	1755	PRON	PER	her
+25	1761	1762	PROP	PER	Don Pedro
+-1	1767	1767	PRON	PER	she
+-1	1774	1789	NOM	FAC	a long pavilion of purple silk that had been erected at the end of the garden
+-1	1788	1789	NOM	FAC	the garden
+-1	1791	1793	NOM	PER	the other children
+-1	1815	1826	NOM	PER	A procession of noble boys , fantastically dressed as _ toreadors _
+-1	1818	1819	NOM	PER	noble boys
+-1	1824	1826	NOM	PER	_ toreadors _
+-1	1832	1832	PRON	PER	her
+-1	1835	1868	NOM	PER	the young Count of Tierra - Nueva , a wonderfully handsome lad of about fourteen years of age , uncovering his head with all the grace of a born hidalgo and grandee of Spain
+11	1839	1841	PROP	GPE	Tierra - Nueva
+-1	1843	1852	NOM	PER	a wonderfully handsome lad of about fourteen years of age
+-1	1855	1855	PRON	PER	his
+-1	1862	1864	NOM	PER	a born hidalgo
+0	1868	1868	PROP	GPE	Spain
+-1	1871	1871	PRON	PER	her
+-1	1889	1890	NOM	FAC	the arena
+-1	1892	1893	NOM	PER	The children
+-1	1895	1895	PRON	PER	themselves
+-1	1900	1900	PRON	PER	their
+-1	1906	1907	NOM	PER	each other
+25	1910	1911	PROP	PER	Don Pedro
+-1	1913	1915	NOM	PER	the Grand Inquisitor
+-1	1923	1924	NOM	PER	the Duchess
+-1	1926	1929	NOM	PER	the Camerera - Mayor
+-1	1931	1931	PRON	PER	she
+-1	1935	1956	NOM	PER	a thin , hard - featured woman with a yellow ruff , did not look quite so bad - tempered as usual
+-1	1966	1966	PRON	PER	her
+-1	1971	1971	PRON	PER	her
+-1	1989	1990	NOM	PER	the Infanta
+-1	2000	2000	PRON	PER	she
+12	2007	2007	PROP	GPE	Seville
+-1	2016	2019	NOM	PER	the Duke of Parma
+13	2019	2019	PROP	GPE	Parma
+-1	2021	2021	PRON	PER	her
+-1	2021	2022	NOM	PER	her father
+-1	2024	2027	NOM	PER	Some of the boys
+-1	2026	2027	NOM	PER	the boys
+-1	2048	2048	PRON	PER	them
+-1	2050	2050	NOM	PER	others
+-1	2055	2055	PRON	PER	their
+-1	2059	2060	NOM	PER	the bull
+-1	2069	2069	PRON	PER	he
+-1	2071	2071	PRON	PER	them
+-1	2078	2078	PRON	PER	himself
+-1	2080	2080	PRON	PER	he
+-1	2089	2089	PRON	PER	he
+-1	2107	2108	NOM	FAC	the arena
+-1	2110	2110	PRON	PER	his
+-1	2115	2117	NOM	PER	no live bull
+-1	2123	2123	PRON	PER	He
+-1	2133	2134	NOM	PER	the children
+-1	2139	2139	PRON	PER	they
+-1	2148	2148	PRON	PER	their
+-1	2170	2170	PRON	PER	they
+-1	2173	2176	NOM	PER	grown - up people
+-1	2204	2204	PRON	PER	their
+-1	2204	2205	NOM	PER	their riders
+-1	2208	2214	NOM	PER	the young Count of Tierra - Nueva
+-1	2219	2219	PRON	PER	his
+-1	2227	2228	NOM	PER	the Infanta
+-1	2238	2238	PRON	PER	he
+-1	2240	2240	PRON	PER	his
+27	2265	2268	PROP	PER	little Monsieur de Lorraine
+-1	2270	2277	NOM	PER	the son of the French Ambassador at Madrid
+-1	2273	2277	NOM	PER	the French Ambassador at Madrid
+5	2277	2277	PROP	GPE	Madrid
+-1	2279	2280	NOM	FAC	The arena
+-1	2298	2305	NOM	PER	two Moorish pages in yellow and black liveries
+-1	2315	2319	NOM	PER	a French posture - master
+-1	2343	2353	NOM	FAC	a small theatre that had been built up for the purpose
+-1	2355	2355	PRON	PER	They
+-1	2361	2361	PRON	PER	their
+-1	2378	2379	NOM	PER	the Infanta
+-1	2387	2390	NOM	PER	some of the children
+-1	2389	2390	NOM	PER	the children
+-1	2403	2405	NOM	PER	the Grand Inquisitor
+-1	2406	2406	PRON	PER	himself
+-1	2411	2411	PRON	PER	he
+25	2417	2418	PROP	PER	Don Pedro
+-1	2423	2423	PRON	PER	him
+-1	2453	2455	NOM	PER	An African juggler
+-1	2479	2480	NOM	FAC	the arena
+-1	2482	2482	PRON	PER	he
+-1	2485	2485	PRON	PER	his
+-1	2522	2522	PRON	PER	their
+-1	2548	2549	NOM	PER	The children
+-1	2557	2557	PRON	PER	their
+-1	2571	2572	NOM	PER	the juggler
+-1	2597	2597	PRON	PER	he
+-1	2602	2611	NOM	PER	the little daughter of the Marquess de Las - Torres
+-1	2606	2611	NOM	PER	the Marquess de Las - Torres
+14	2609	2611	PROP	GPE	Las - Torres
+-1	2624	2625	NOM	FAC	the pavilion
+-1	2629	2629	PRON	PER	their
+-1	2645	2655	NOM	PER	the dancing boys from the church of Nuestra Senora Del Pilar
+-1	2649	2655	NOM	FAC	the church of Nuestra Senora Del Pilar
+-1	2660	2661	NOM	PER	The Infanta
+-1	2683	2684	NOM	PER	the Virgin
+-1	2688	2688	PRON	PER	her
+-1	2693	2699	NOM	PER	none of the royal family of Spain
+-1	2695	2698	NOM	PER	the royal family of
+0	2699	2699	PROP	GPE	Spain
+-1	2702	2706	NOM	FAC	the great cathedral of Saragossa
+15	2706	2706	PROP	GPE	Saragossa
+-1	2708	2710	NOM	PER	a mad priest
+-1	2722	2724	NOM	PER	Elizabeth of England
+7	2724	2724	PROP	GPE	England
+-1	2734	2738	NOM	PER	the Prince of the Asturias
+16	2737	2738	PROP	LOC	the Asturias
+-1	2741	2741	PRON	PER	she
+-1	2749	2750	NOM	PER	Our Lady
+-1	2768	2769	NOM	PER	The boys
+-1	2781	2781	PRON	PER	their
+-1	2804	2804	PRON	PER	their
+-1	2808	2808	PRON	PER	they
+-1	2820	2820	PRON	PER	their
+-1	2828	2828	NOM	PER	Everybody
+-1	2837	2837	PRON	PER	they
+-1	2853	2853	PRON	PER	their
+-1	2863	2863	PRON	PER	they
+-1	2866	2866	PRON	PER	their
+-1	2870	2870	PRON	PER	their
+-1	2875	2876	NOM	PER	the Infanta
+-1	2878	2878	PRON	PER	she
+-1	2880	2880	PRON	PER	their
+-1	2891	2891	PRON	PER	she
+-1	2899	2905	NOM	FAC	the shrine of Our Lady of Pilar
+-1	2902	2905	NOM	PER	Our Lady of Pilar
+28	2905	2905	PROP	PER	Pilar
+-1	2912	2912	PRON	PER	she
+-1	2915	2915	PRON	PER	her
+-1	2917	2921	NOM	PER	A troop of handsome Egyptians
+-1	2924	2925	NOM	PER	the gipsies
+-1	2935	2936	NOM	FAC	the arena
+-1	2954	2954	PRON	PER	their
+-1	2958	2958	PRON	PER	their
+-1	2969	2969	PRON	PER	their
+-1	2978	2978	PRON	PER	they
+25	2982	2983	PROP	PER	Don Pedro
+-1	2984	2984	PRON	PER	they
+-1	2987	2987	PRON	PER	him
+-1	2990	2992	NOM	PER	some of them
+-1	2992	2992	PRON	PER	them
+-1	3002	3002	PRON	PER	he
+-1	3005	3018	NOM	PER	two of their tribe hanged for sorcery in the market - place at Seville
+-1	3007	3007	PRON	PER	their
+-1	3007	3008	NOM	PER	their tribe
+-1	3013	3018	NOM	FAC	the market - place at Seville
+12	3018	3018	PROP	GPE	Seville
+-1	3021	3023	NOM	PER	the pretty Infanta
+-1	3025	3025	PRON	PER	them
+-1	3027	3027	PRON	PER	she
+-1	3032	3032	PRON	PER	her
+-1	3035	3035	PRON	PER	her
+-1	3041	3041	PRON	PER	they
+-1	3049	3049	PRON	PER	she
+-1	3056	3056	NOM	PER	anybody
+-1	3059	3059	PRON	PER	they
+-1	3070	3071	NOM	PER	the zithers
+-1	3073	3073	PRON	PER	their
+-1	3079	3079	PRON	PER	their
+-1	3086	3086	PRON	PER	they
+-1	3099	3101	NOM	PER	all the children
+25	3105	3106	PROP	PER	Don Pedro
+-1	3115	3115	PRON	PER	his
+-1	3118	3118	PRON	PER	they
+-1	3121	3121	PRON	PER	their
+-1	3127	3128	NOM	FAC	the enclosure
+-1	3130	3130	PRON	PER	their
+-1	3141	3141	PRON	PER	their
+-1	3150	3150	PRON	PER	they
+-1	3153	3153	PRON	PER	themselves
+-1	3168	3169	NOM	PER	the zithers
+-1	3181	3181	PRON	PER	they
+-1	3188	3188	PRON	PER	they
+-1	3208	3208	PRON	PER	their
+-1	3210	3213	NOM	PER	some little Barbary apes
+-1	3219	3219	PRON	PER	his
+-1	3227	3229	NOM	PER	the wizened apes
+-1	3237	3272	NOM	PER	two gipsy boys who seemed to be their masters , and fought with tiny swords , and fired off guns , and went through a regular soldier ’s drill just like the King ’s own bodyguard
+-1	3244	3244	PRON	PER	their
+-1	3244	3245	NOM	PER	their masters
+-1	3261	3263	NOM	PER	a regular soldier
+-1	3268	3269	NOM	PER	the King
+-1	3268	3272	NOM	PER	the King ’s own bodyguard
+-1	3276	3277	NOM	PER	the gipsies
+-1	3299	3301	NOM	PER	the little Dwarf
+-1	3304	3304	PRON	PER	he
+-1	3307	3308	NOM	FAC	the arena
+-1	3312	3312	PRON	PER	his
+-1	3317	3317	PRON	PER	his
+-1	3326	3327	NOM	PER	the children
+-1	3338	3339	NOM	PER	the Infanta
+-1	3340	3340	PRON	PER	herself
+-1	3345	3346	NOM	PER	the Camerera
+-1	3351	3351	PRON	PER	her
+0	3359	3359	PROP	GPE	Spain
+-1	3361	3362	NOM	PER	a King
+-1	3361	3364	NOM	PER	a King ’s daughter
+-1	3367	3367	PRON	PER	her
+-1	3367	3368	NOM	PER	her equals
+-1	3374	3379	NOM	PER	a Princess of the blood royal
+-1	3384	3388	NOM	PER	those who were her inferiors
+-1	3387	3387	PRON	PER	her
+-1	3392	3393	NOM	PER	The Dwarf
+-1	3405	3407	NOM	FAC	the Spanish Court
+-1	3421	3423	NOM	PER	a little monster
+-1	3431	3431	PRON	PER	his
+-1	3437	3437	PRON	PER	He
+-1	3449	3450	NOM	LOC	the forest
+-1	3453	3476	NOM	PER	two of the nobles who happened to have been hunting in a remote part of the great cork - wood that surrounded the town
+-1	3468	3476	NOM	LOC	the great cork - wood that surrounded the town
+-1	3475	3476	NOM	GPE	the town
+-1	3484	3484	PRON	PER	them
+-1	3486	3487	NOM	FAC	the Palace
+-1	3492	3493	NOM	PER	the Infanta
+-1	3495	3495	PRON	PER	his
+-1	3495	3496	NOM	PER	his father
+-1	3500	3504	NOM	PER	a poor charcoal - burner
+-1	3515	3520	NOM	PER	so ugly and useless a child
+-1	3528	3528	PRON	PER	him
+-1	3530	3530	PRON	PER	his
+-1	3534	3534	PRON	PER	his
+-1	3540	3540	PRON	PER	he
+-1	3552	3553	NOM	PER	the children
+-1	3556	3556	PRON	PER	he
+-1	3566	3566	PRON	PER	them
+-1	3575	3575	PRON	PER	he
+-1	3577	3577	PRON	PER	them
+-1	3588	3588	PRON	PER	them
+-1	3592	3592	PRON	PER	he
+-1	3597	3597	PRON	PER	themselves
+29	3606	3606	PROP	PER	Nature
+-1	3616	3619	NOM	PER	others to mock at
+-1	3623	3624	NOM	PER	the Infanta
+-1	3626	3626	PRON	PER	she
+-1	3629	3629	PRON	PER	him
+-1	3631	3631	PRON	PER	He
+-1	3635	3635	PRON	PER	his
+-1	3638	3638	PRON	PER	her
+-1	3645	3645	PRON	PER	her
+-1	3659	3659	PRON	PER	she
+-1	3662	3667	NOM	PER	the great ladies of the Court
+-1	3666	3667	NOM	FAC	the Court
+30	3671	3671	PROP	PER	Caffarelli
+-1	3673	3676	NOM	PER	the famous Italian treble
+-1	3679	3680	NOM	PER	the Pope
+-1	3684	3684	PRON	PER	his
+-1	3684	3686	NOM	FAC	his own chapel
+5	3688	3688	PROP	GPE	Madrid
+-1	3690	3690	PRON	PER	he
+-1	3693	3694	NOM	PER	the King
+-1	3701	3701	PRON	PER	his
+-1	3704	3704	PRON	PER	she
+-1	3708	3708	PRON	PER	her
+31	3724	3725	PROP	PER	the Camerera
+-1	3730	3730	PRON	PER	him
+-1	3732	3733	NOM	FAC	the arena
+-1	3735	3735	PRON	PER	her
+-1	3739	3739	PRON	PER	he
+-1	3752	3752	PRON	PER	his
+-1	3756	3756	PRON	PER	he
+-1	3758	3758	PRON	PER	his
+-1	3761	3761	PRON	PER	his
+-1	3770	3770	PRON	PER	her
+-1	3780	3780	PRON	PER	his
+-1	3794	3795	NOM	PER	the Infanta
+-1	3797	3797	PRON	PER	she
+-1	3803	3805	NOM	PER	the little Dwarf
+-1	3810	3811	NOM	FAC	the arena
+-1	3818	3818	PRON	PER	her
+-1	3818	3819	NOM	PER	her uncle
+31	3828	3829	PROP	PER	The Camerera
+-1	3850	3850	PRON	PER	her
+-1	3850	3851	NOM	PER	her Highness
+-1	3857	3858	NOM	FAC	the Palace
+-1	3869	3869	PRON	PER	her
+-1	3877	3877	PRON	PER	her
+22	3897	3898	PROP	PER	The Infanta
+-1	3911	3913	NOM	PER	the little dwarf
+-1	3919	3919	PRON	PER	her
+-1	3928	3928	PRON	PER	her
+-1	3931	3937	NOM	PER	the young Count of Tierra - Nueva
+11	3935	3937	PROP	GPE	Tierra - Nueva
+-1	3939	3939	PRON	PER	his
+-1	3943	3943	PRON	PER	she
+-1	3947	3947	PRON	PER	her
+-1	3947	3948	NOM	FAC	her apartments
+-1	3950	3951	NOM	PER	the children
+-1	3959	3959	PRON	PER	they
+-1	3970	3972	NOM	PER	the little Dwarf
+-1	3975	3975	PRON	PER	he
+-1	3983	3984	NOM	PER	the Infanta
+-1	3988	3988	PRON	PER	her
+-1	3993	3993	PRON	PER	he
+-1	3998	3998	PRON	PER	he
+-1	4002	4003	NOM	FAC	the garden
+32	4027	4028	PROP	PER	The Flowers
+-1	4033	4033	PRON	PER	his
+-1	4038	4038	PRON	PER	their
+-1	4038	4040	NOM	FAC	their beautiful home
+-1	4044	4044	PRON	PER	they
+-1	4046	4046	PRON	PER	him
+-1	4051	4052	NOM	FAC	the walks
+-1	4056	4056	PRON	PER	his
+-1	4059	4059	PRON	PER	his
+-1	4067	4067	PRON	PER	they
+-1	4071	4071	PRON	PER	their
+-1	4077	4077	PRON	PER	He
+-1	4092	4092	PRON	PER	we
+33	4097	4098	PROP	PER	the Tulips
+-1	4101	4101	PRON	PER	He
+-1	4119	4122	NOM	PER	the great scarlet Lilies
+-1	4125	4125	PRON	PER	they
+-1	4133	4133	PRON	PER	He
+-1	4135	4137	NOM	PER	a perfect horror
+34	4141	4142	PROP	PER	the Cactus
+-1	4147	4147	PRON	PER	he
+-1	4154	4154	PRON	PER	his
+-1	4162	4162	PRON	PER	his
+-1	4166	4166	PRON	PER	he
+-1	4168	4168	PRON	PER	me
+-1	4176	4176	PRON	PER	he
+-1	4179	4179	PRON	PER	me
+-1	4180	4180	PRON	PER	I
+-1	4183	4183	PRON	PER	him
+-1	4185	4185	PRON	PER	my
+-1	4191	4191	PRON	PER	he
+-1	4197	4197	PRON	PER	my
+-1	4210	4210	PRON	PER	I
+22	4214	4215	PROP	PER	the Infanta
+-1	4218	4218	PRON	PER	myself
+-1	4226	4226	PRON	PER	he
+-1	4231	4231	PRON	PER	her
+-1	4235	4235	PRON	PER	she
+-1	4240	4240	NOM	PER	Thief
+-1	4242	4242	NOM	PER	thief
+-1	4244	4244	NOM	PER	thief
+-1	4251	4251	PRON	PER	her
+-1	4255	4277	NOM	PER	the red Geraniums , who did not usually give themselves airs , and were known to have a great many poor relations themselves
+-1	4264	4264	PRON	PER	themselves
+-1	4277	4277	PRON	PER	themselves
+-1	4284	4284	PRON	PER	they
+-1	4286	4286	PRON	PER	him
+35	4290	4291	PROP	PER	the Violets
+-1	4296	4296	PRON	PER	he
+-1	4303	4303	PRON	PER	he
+-1	4309	4309	PRON	PER	they
+-1	4320	4320	PRON	PER	his
+-1	4331	4331	NOM	PER	one
+-1	4334	4335	NOM	PER	a person
+-1	4337	4337	PRON	PER	he
+-1	4345	4349	NOM	PER	some of the Violets themselves
+-1	4347	4348	NOM	PER	the Violets
+-1	4349	4349	PRON	PER	themselves
+-1	4355	4357	NOM	PER	the little Dwarf
+-1	4364	4364	PRON	PER	he
+-1	4372	4372	PRON	PER	he
+-1	4390	4390	PRON	PER	himself
+-1	4400	4402	NOM	PER	the old Sundial
+-1	4406	4409	NOM	PER	an extremely remarkable individual
+-1	4422	4429	NOM	PER	a person than the Emperor Charles V. himself
+-1	4425	4426	NOM	PER	the Emperor
+36	4427	4428	PROP	PER	Charles V.
+-1	4429	4429	PRON	PER	himself
+-1	4431	4431	PRON	PER	he
+37	4437	4439	PROP	PER	the little Dwarf
+-1	4444	4444	PRON	PER	he
+-1	4453	4453	PRON	PER	his
+-1	4474	4474	PRON	PER	herself
+-1	4480	4481	NOM	PER	every one
+-1	4484	4487	NOM	PER	the children of Kings
+-1	4489	4489	NOM	PER	Kings
+-1	4493	4498	NOM	PER	the children of charcoal - burners
+-1	4500	4502	NOM	PER	charcoal - burners
+-1	4521	4522	NOM	PER	the Peacock
+-1	4561	4561	PRON	PER	their
+-1	4570	4573	NOM	PER	the huge stone Tritons
+38	4583	4584	PROP	PER	the Birds
+-1	4586	4586	PRON	PER	him
+-1	4588	4588	PRON	PER	They
+-1	4591	4591	PRON	PER	him
+-1	4594	4595	NOM	LOC	the forest
+-1	4600	4605	NOM	PER	an elf after the eddying leaves
+-1	4621	4621	PRON	PER	his
+-1	4627	4627	PRON	PER	They
+-1	4631	4631	PRON	PER	his
+-1	4643	4643	PRON	PER	herself
+39	4657	4658	PROP	PER	the Moon
+-1	4677	4677	PRON	PER	he
+-1	4682	4682	PRON	PER	them
+-1	4720	4721	NOM	GPE	the city
+-1	4727	4727	PRON	PER	he
+-1	4732	4732	PRON	PER	them
+-1	4738	4738	PRON	PER	them
+-1	4742	4742	PRON	PER	his
+-1	4752	4752	PRON	PER	them
+-1	4756	4756	PRON	PER	he
+-1	4760	4760	PRON	PER	they
+-1	4765	4765	PRON	PER	him
+-1	4769	4769	PRON	PER	his
+-1	4772	4772	PRON	PER	their
+-1	4775	4775	PRON	PER	they
+-1	4781	4782	NOM	PER	each other
+-1	4785	4787	NOM	PER	the little Dwarf
+-1	4792	4792	PRON	PER	he
+-1	4797	4797	PRON	PER	them
+-1	4805	4805	PRON	PER	them
+-1	4807	4808	NOM	PER	the Infanta
+-1	4809	4809	PRON	PER	herself
+-1	4814	4814	PRON	PER	him
+-1	4816	4816	PRON	PER	she
+-1	4818	4818	PRON	PER	him
+-1	4820	4820	PRON	PER	They
+-1	4829	4829	PRON	PER	he
+-1	4840	4840	PRON	PER	they
+-1	4842	4842	PRON	PER	their
+40	4867	4868	PROP	PER	The Lizards
+-1	4875	4875	PRON	PER	him
+-1	4879	4879	PRON	PER	he
+-1	4887	4887	PRON	PER	himself
+-1	4895	4895	PRON	PER	they
+-1	4901	4901	PRON	PER	him
+-1	4907	4907	PRON	PER	him
+-1	4912	4912	PRON	PER	they
+-1	4916	4917	NOM	PER	Every one
+-1	4928	4928	PRON	PER	they
+-1	4950	4950	PRON	PER	he
+-1	4964	4965	NOM	PER	that one
+-1	4967	4967	NOM	PER	one
+-1	4976	4976	PRON	PER	him
+40	4979	4980	PROP	PER	The Lizards
+-1	5013	5013	PRON	PER	them
+-1	5027	5027	PRON	PER	their
+-1	5044	5044	PRON	PER	they
+-1	5060	5063	NOM	PER	Well - bred people
+-1	5073	5073	PRON	PER	we
+-1	5076	5077	NOM	PER	No one
+-1	5080	5080	PRON	PER	us
+-1	5085	5086	NOM	FAC	the walks
+-1	5100	5100	PRON	PER	we
+-1	5107	5107	PRON	PER	we
+-1	5110	5111	NOM	PER	the gardener
+-1	5114	5114	PRON	PER	he
+-1	5116	5116	PRON	PER	us
+-1	5151	5151	PRON	PER	They
+-1	5153	5154	NOM	PER	mere vagrants
+-1	5156	5157	NOM	PER	the gipsies
+-1	5171	5171	PRON	PER	they
+-1	5173	5173	PRON	PER	their
+-1	5192	5192	PRON	PER	they
+-1	5194	5196	NOM	PER	the little Dwarf
+-1	5205	5205	PRON	PER	his
+-1	5208	5209	NOM	FAC	the terrace
+-1	5211	5212	NOM	FAC	the palace
+-1	5215	5215	PRON	PER	He
+-1	5225	5225	PRON	PER	his
+-1	5230	5230	PRON	PER	they
+-1	5236	5236	PRON	PER	his
+-1	5241	5241	PRON	PER	his
+-1	5247	5247	PRON	PER	they
+-1	5253	5255	NOM	PER	the little Dwarf
+-1	5262	5262	PRON	PER	He
+-1	5282	5284	NOM	LOC	the whole world
+-1	5289	5290	NOM	PER	the Infanta
+-1	5294	5294	PRON	PER	she
+-1	5297	5297	PRON	PER	him
+-1	5304	5304	PRON	PER	she
+-1	5306	5306	PRON	PER	him
+-1	5316	5316	PRON	PER	he
+-1	5319	5319	PRON	PER	he
+-1	5324	5324	PRON	PER	her
+-1	5326	5326	PRON	PER	She
+-1	5330	5330	PRON	PER	him
+-1	5332	5332	PRON	PER	her
+-1	5339	5339	PRON	PER	him
+-1	5342	5342	PRON	PER	he
+-1	5347	5347	PRON	PER	her
+-1	5354	5354	PRON	PER	her
+-1	5355	5355	PRON	PER	his
+-1	5355	5356	NOM	PER	his playmate
+-1	5360	5360	PRON	PER	her
+-1	5369	5369	PRON	PER	he
+-1	5374	5375	NOM	FAC	a palace
+-1	5378	5378	PRON	PER	he
+-1	5386	5386	PRON	PER	He
+41	5411	5411	PROP	PER	Pan
+-1	5416	5416	PRON	PER	He
+-1	5439	5440	NOM	LOC	the mere
+-1	5442	5442	PRON	PER	He
+-1	5473	5473	PRON	PER	he
+-1	5512	5513	NOM	FAC	the orchards
+-1	5517	5517	PRON	PER	He
+-1	5525	5525	PRON	PER	their
+-1	5525	5526	NOM	FAC	their nests
+-1	5531	5532	NOM	PER	a fowler
+-1	5539	5539	PRON	PER	he
+-1	5543	5545	NOM	PER	the young ones
+-1	5546	5546	PRON	PER	himself
+-1	5555	5555	PRON	PER	them
+-1	5564	5564	PRON	PER	They
+-1	5575	5575	PRON	PER	his
+-1	5580	5580	PRON	PER	She
+-1	5600	5600	PRON	PER	their
+-1	5630	5630	PRON	PER	their
+-1	5641	5641	PRON	PER	she
+-1	5646	5647	NOM	LOC	the forest
+-1	5651	5651	PRON	PER	him
+-1	5653	5653	PRON	PER	He
+-1	5656	5656	PRON	PER	her
+-1	5657	5657	PRON	PER	his
+-1	5681	5681	PRON	PER	her
+-1	5690	5691	NOM	FAC	the hut
+-1	5696	5696	PRON	PER	he
+-1	5704	5704	PRON	PER	her
+-1	5707	5707	PRON	PER	they
+-1	5727	5728	NOM	LOC	the forest
+-1	5731	5732	NOM	PER	a Bishop
+-1	5736	5736	PRON	PER	his
+-1	5749	5749	PRON	PER	their
+-1	5755	5755	PRON	PER	their
+-1	5761	5762	NOM	PER	the falconers
+-1	5770	5770	PRON	PER	their
+-1	5778	5787	NOM	PER	the grape - treaders , with purple hands and feet
+-1	5801	5804	NOM	PER	the charcoal - burners
+-1	5807	5807	PRON	PER	their
+-1	5831	5832	NOM	PER	the robbers
+-1	5836	5836	PRON	PER	their
+-1	5836	5837	NOM	FAC	their caves
+-1	5842	5842	PRON	PER	them
+-1	5848	5848	PRON	PER	he
+-1	5856	5861	NOM	FAC	the long dusty road to Toledo
+17	5861	5861	PROP	GPE	Toledo
+-1	5863	5864	NOM	PER	The monks
+-1	5893	5894	NOM	PER	the soldiers
+-1	5898	5898	PRON	PER	their
+-1	5901	5922	NOM	PER	three barefooted men , in strange yellow dresses painted all over with wonderful figures , and carrying lighted candles in their hands
+-1	5921	5921	PRON	PER	their
+-1	5934	5935	NOM	LOC	the forest
+-1	5939	5939	PRON	PER	she
+-1	5942	5942	PRON	PER	he
+-1	5945	5949	NOM	LOC	a soft bank of moss
+-1	5951	5951	PRON	PER	her
+-1	5955	5955	PRON	PER	her
+-1	5957	5957	PRON	PER	his
+-1	5961	5961	PRON	PER	he
+-1	5967	5967	PRON	PER	he
+-1	5970	5970	PRON	PER	he
+-1	5975	5975	PRON	PER	He
+-1	5978	5978	PRON	PER	her
+-1	5997	5997	PRON	PER	she
+-1	6000	6000	PRON	PER	her
+-1	6005	6005	PRON	PER	she
+-1	6011	6011	PRON	PER	she
+-1	6018	6018	PRON	PER	he
+-1	6021	6021	PRON	PER	her
+-1	6024	6024	PRON	PER	He
+-1	6027	6027	PRON	PER	her
+-1	6050	6050	PRON	PER	her
+-1	6056	6056	PRON	PER	she
+-1	6058	6058	PRON	PER	He
+-1	6067	6067	PRON	PER	him
+-1	6071	6073	NOM	FAC	The whole palace
+-1	6101	6101	PRON	PER	He
+-1	6111	6111	PRON	PER	he
+-1	6120	6120	PRON	PER	he
+-1	6133	6133	PRON	PER	He
+-1	6139	6139	PRON	PER	himself
+-1	6141	6143	NOM	FAC	a splendid hall
+-1	6149	6149	PRON	PER	he
+-1	6153	6154	NOM	LOC	the forest
+22	6185	6187	PROP	PER	the little Infanta
+-1	6201	6201	PRON	PER	him
+-1	6220	6221	NOM	FAC	the hall
+-1	6237	6238	NOM	PER	the King
+-1	6248	6248	PRON	PER	he
+-1	6253	6253	PRON	PER	she
+-1	6259	6259	PRON	PER	He
+-1	6267	6267	PRON	PER	he
+-1	6282	6283	NOM	FAC	another room
+-1	6286	6288	NOM	FAC	a prettier room
+-1	6290	6290	PRON	PER	he
+-1	6294	6299	NOM	FAC	the one he had just left
+-1	6296	6296	PRON	PER	he
+-1	6324	6336	NOM	PER	some Flemish artists who had spent more than seven years in its composition
+-1	6335	6335	PRON	FAC	its
+-1	6342	6349	NOM	FAC	the chamber of _ Jean le Fou _
+42	6345	6349	PROP	PER	_ Jean le Fou _
+-1	6352	6352	PRON	PER	he
+-1	6356	6399	NOM	PER	that mad King who was so enamoured of the chase , that he had often tried in his delirium to mount the huge rearing horses , and to drag down the stag on which the great hounds were leaping , sounding his hunting horn
+-1	6368	6368	PRON	PER	he
+-1	6373	6373	PRON	PER	his
+-1	6397	6397	PRON	PER	his
+-1	6404	6404	PRON	PER	his
+-1	6417	6420	NOM	FAC	the council - room
+-1	6433	6434	NOM	PER	the ministers
+0	6442	6442	PROP	GPE	Spain
+-1	6451	6454	NOM	FAC	the house of Hapsburg
+18	6454	6454	PROP	GPE	Hapsburg
+-1	6456	6458	NOM	PER	The little Dwarf
+-1	6464	6464	PRON	PER	him
+-1	6494	6494	PRON	PER	him
+-1	6501	6501	PRON	PER	he
+-1	6504	6507	NOM	PER	the charcoal - burners
+-1	6510	6517	NOM	PER	the Comprachos , who hunt only at night
+-1	6521	6521	PRON	PER	they
+-1	6523	6524	NOM	PER	a man
+-1	6527	6527	PRON	PER	him
+-1	6534	6534	PRON	PER	him
+-1	6537	6537	PRON	PER	he
+22	6540	6542	PROP	PER	the pretty Infanta
+-1	6548	6548	PRON	PER	He
+-1	6552	6552	PRON	PER	her
+-1	6558	6558	PRON	PER	her
+-1	6560	6560	PRON	PER	he
+-1	6563	6563	PRON	PER	her
+-1	6566	6566	PRON	PER	she
+-1	6569	6571	NOM	FAC	the room beyond
+-1	6573	6573	PRON	PER	He
+-1	6588	6588	PRON	PER	She
+-1	6591	6591	NOM	FAC	here
+-1	6594	6595	NOM	FAC	The room
+-1	6602	6605	NOM	FAC	a throne - room
+-1	6612	6613	NOM	PER	foreign ambassadors
+-1	6616	6617	NOM	PER	the King
+-1	6630	6630	PRON	PER	them
+-1	6635	6649	NOM	FAC	the same room in which , many years before , envoys had appeared from England
+-1	6645	6645	NOM	PER	envoys
+7	6649	6649	PROP	GPE	England
+-1	6657	6657	PRON	PER	their
+-1	6657	6658	NOM	PER	their Queen
+-1	6661	6674	NOM	PER	one of the Catholic sovereigns of Europe , with the Emperor ’s eldest son
+-1	6663	6667	NOM	PER	the Catholic sovereigns of Europe
+19	6667	6667	PROP	GPE	Europe
+-1	6670	6671	NOM	PER	the Emperor
+-1	6670	6674	NOM	PER	the Emperor ’s eldest son
+20	6720	6720	PROP	GPE	Castile
+-1	6766	6767	NOM	PER	the Infanta
+-1	6795	6840	NOM	PER	the Papal Nuncio , who alone had the right to be seated in the King ’s presence on the occasion of any public ceremonial , and whose Cardinal ’s hat , with its tangled scarlet tassels , lay on a purple _ tabouret _ in front
+-1	6808	6809	NOM	PER	the King
+43	6822	6822	PROP	PER	Cardinal
+36	6857	6858	PROP	PER	Charles V.
+-1	6868	6868	PRON	PER	his
+44	6875	6876	PROP	PER	Philip II
+-1	6882	6883	NOM	PER	the Netherlands
+45	6912	6912	PROP	PER	Holbein
+-1	6929	6931	NOM	PER	that famous master
+-1	6932	6932	PRON	PER	himself
+-1	6935	6937	NOM	PER	the little Dwarf
+-1	6945	6945	PRON	PER	He
+-1	6950	6950	PRON	PER	his
+-1	6965	6965	PRON	PER	his
+-1	6973	6973	PRON	PER	he
+-1	6978	6979	NOM	PER	the Infanta
+-1	6981	6981	PRON	PER	she
+-1	6985	6986	NOM	FAC	the pavilion
+-1	6991	6991	PRON	PER	her
+-1	6996	6996	PRON	PER	him
+-1	6998	6998	PRON	PER	he
+-1	7001	7001	PRON	PER	his
+-1	7007	7008	NOM	FAC	the Palace
+-1	7019	7020	NOM	LOC	the forest
+-1	7047	7048	NOM	LOC	the forest
+-1	7060	7061	NOM	FAC	the garden
+-1	7080	7082	NOM	LOC	the cool glens
+-1	7085	7086	NOM	LOC	grassy knolls
+-1	7162	7162	PRON	PER	she
+-1	7166	7166	PRON	PER	he
+-1	7170	7170	PRON	PER	her
+-1	7172	7172	PRON	PER	She
+-1	7176	7176	PRON	PER	him
+-1	7178	7180	NOM	LOC	the fair forest
+-1	7186	7186	PRON	PER	he
+-1	7190	7190	PRON	PER	her
+-1	7197	7197	PRON	PER	his
+-1	7204	7204	PRON	PER	he
+-1	7207	7209	NOM	FAC	the next room
+-1	7212	7214	NOM	FAC	all the rooms
+-1	7304	7304	PRON	PER	he
+-1	7320	7321	NOM	FAC	the room
+-1	7323	7323	PRON	PER	he
+-1	7329	7329	PRON	PER	him
+-1	7331	7331	PRON	PER	His
+-1	7341	7341	PRON	PER	his
+-1	7345	7345	PRON	PER	he
+-1	7353	7353	PRON	PER	he
+-1	7357	7358	NOM	PER	the figure
+-1	7364	7364	PRON	PER	he
+22	7369	7370	PROP	PER	The Infanta
+-1	7374	7375	NOM	PER	a monster
+-1	7381	7381	PRON	PER	he
+-1	7391	7393	NOM	PER	all other people
+-1	7414	7416	NOM	PER	The little Dwarf
+-1	7425	7425	PRON	PER	He
+-1	7432	7432	PRON	PER	him
+-1	7436	7436	PRON	PER	its
+-1	7444	7444	PRON	PER	he
+-1	7445	7445	PRON	PER	himself
+-1	7449	7449	PRON	PER	He
+-1	7451	7451	PRON	PER	it
+-1	7459	7459	PRON	PER	him
+-1	7464	7464	PRON	PER	He
+-1	7467	7467	PRON	PER	it
+-1	7474	7474	PRON	PER	him
+-1	7480	7480	PRON	PER	he
+-1	7486	7486	PRON	PER	he
+-1	7488	7488	PRON	PER	himself
+-1	7490	7490	PRON	PER	He
+-1	7502	7502	PRON	PER	his
+-1	7509	7510	NOM	PER	the monster
+-1	7512	7512	PRON	PER	his
+-1	7522	7522	PRON	PER	He
+-1	7528	7528	PRON	PER	his
+-1	7533	7534	NOM	PER	the monster
+-1	7541	7541	PRON	PER	He
+-1	7553	7553	PRON	PER	him
+-1	7558	7559	NOM	PER	the monster
+-1	7564	7564	PRON	PER	his
+-1	7573	7573	PRON	PER	He
+-1	7575	7575	PRON	PER	his
+-1	7578	7578	PRON	PER	his
+-1	7583	7583	PRON	PER	him
+-1	7585	7585	PRON	PER	He
+-1	7597	7597	PRON	PER	He
+-1	7607	7607	PRON	PER	him
+-1	7609	7609	PRON	PER	He
+-1	7621	7621	PRON	PER	He
+-1	7634	7635	NOM	FAC	the room
+-1	7646	7646	PRON	FAC	its
+-1	7669	7679	NOM	PER	The sleeping Faun that lay in the alcove by the doorway
+-1	7681	7681	PRON	PER	its
+-1	7681	7683	NOM	PER	its twin brother
+-1	7698	7698	PRON	PER	her
+-1	7706	7706	PRON	PER	herself
+46	7710	7710	PROP	PER	Echo
+-1	7712	7712	PRON	PER	He
+-1	7716	7716	PRON	PER	her
+-1	7719	7720	NOM	LOC	the valley
+-1	7723	7723	PRON	PER	she
+-1	7726	7726	PRON	PER	him
+-1	7732	7732	PRON	PER	she
+-1	7738	7738	PRON	PER	she
+-1	7744	7744	PRON	PER	she
+-1	7751	7753	NOM	LOC	the real world
+-1	7773	7773	PRON	PER	He
+-1	7779	7779	PRON	PER	his
+-1	7786	7786	PRON	PER	he
+-1	7792	7792	PRON	PER	it
+-1	7794	7795	NOM	PER	The monster
+-1	7809	7809	PRON	PER	It
+-1	7811	7811	PRON	PER	it
+-1	7820	7820	PRON	PER	its
+-1	7831	7831	PRON	PER	him
+-1	7833	7833	PRON	PER	he
+-1	7845	7846	NOM	LOC	the ground
+-1	7851	7851	PRON	PER	he
+-1	7865	7865	PRON	PER	He
+-1	7866	7866	PRON	PER	himself
+-1	7868	7869	NOM	PER	the monster
+-1	7875	7875	PRON	PER	him
+-1	7877	7879	NOM	PER	all the children
+-1	7885	7893	NOM	PER	the little Princess who he had thought loved him
+-1	7889	7889	PRON	PER	he
+-1	7893	7893	PRON	PER	him
+-1	7895	7895	PRON	PER	she
+-1	7902	7902	PRON	PER	his
+-1	7909	7909	PRON	PER	his
+-1	7915	7915	PRON	PER	they
+-1	7918	7918	PRON	PER	him
+-1	7920	7921	NOM	LOC	the forest
+-1	7930	7930	PRON	PER	him
+-1	7933	7933	PRON	PER	he
+-1	7938	7938	PRON	PER	his
+-1	7938	7939	NOM	PER	his father
+-1	7942	7942	PRON	PER	him
+-1	7947	7947	PRON	PER	him
+-1	7949	7949	PRON	PER	his
+-1	7957	7957	PRON	PER	his
+-1	7961	7961	PRON	PER	he
+-1	7969	7971	NOM	PER	The sprawling monster
+-1	7985	7985	PRON	PER	It
+-1	7994	7994	PRON	PER	he
+-1	8001	8001	PRON	PER	him
+-1	8009	8009	PRON	PER	He
+-1	8014	8014	PRON	PER	he
+-1	8021	8021	PRON	PER	his
+-1	8024	8024	PRON	PER	his
+-1	8027	8027	PRON	PER	He
+-1	8048	8049	NOM	PER	the Infanta
+-1	8050	8050	PRON	PER	herself
+-1	8054	8054	PRON	PER	her
+-1	8054	8055	NOM	PER	her companions
+-1	8063	8063	PRON	PER	they
+-1	8065	8068	NOM	PER	the ugly little dwarf
+-1	8078	8078	PRON	PER	his
+-1	8090	8090	PRON	PER	they
+-1	8103	8103	PRON	PER	him
+-1	8106	8106	PRON	PER	him
+-1	8109	8109	PRON	PER	His
+-1	8116	8117	NOM	PER	the Infanta
+-1	8121	8121	PRON	PER	his
+-1	8128	8128	PRON	PER	he
+-1	8147	8147	PRON	PER	she
+-1	8149	8149	PRON	PER	her
+-1	8157	8159	NOM	PER	the little Dwarf
+-1	8165	8165	PRON	PER	his
+-1	8174	8174	PRON	PER	he
+-1	8182	8182	PRON	PER	his
+-1	8187	8187	PRON	PER	he
+22	8204	8205	PROP	PER	the Infanta
+-1	8214	8214	PRON	PER	you
+-1	8218	8218	PRON	PER	me
+-1	8226	8228	NOM	PER	all the children
+-1	8231	8231	PRON	PER	you
+-1	8239	8239	PRON	PER	you
+-1	8244	8246	NOM	PER	the Barbary apes
+-1	8255	8257	NOM	PER	the little Dwarf
+-1	8263	8264	NOM	PER	the Infanta
+-1	8266	8266	PRON	PER	her
+-1	8273	8273	PRON	PER	her
+-1	8273	8274	NOM	PER	her uncle
+-1	8280	8281	NOM	FAC	the terrace
+-1	8283	8284	NOM	PER	the Chamberlain
+21	8294	8294	PROP	GPE	Mexico
+-1	8297	8299	NOM	FAC	the Holy Office
+-1	8306	8306	PRON	PER	My
+-1	8306	8309	NOM	PER	My funny little dwarf
+-1	8314	8314	PRON	PER	she
+-1	8318	8318	PRON	PER	you
+-1	8321	8321	PRON	PER	him
+-1	8326	8326	PRON	PER	him
+-1	8330	8330	PRON	PER	me
+-1	8333	8333	PRON	PER	They
+-1	8336	8337	NOM	PER	each other
+25	8344	8345	PROP	PER	Don Pedro
+-1	8351	8352	NOM	PER	the Dwarf
+-1	8357	8357	PRON	PER	his
+-1	8362	8362	PRON	PER	You
+-1	8367	8367	PRON	PER	he
+-1	8376	8376	PRON	PER	You
+-1	8380	8386	NOM	PER	The Infanta of Spain and the Indies
+0	8383	8383	PROP	GPE	Spain
+-1	8385	8386	NOM	PER	the Indies
+-1	8394	8396	NOM	PER	the little Dwarf
+-1	8401	8403	NOM	PER	A whipping master
+25	8411	8412	PROP	PER	Don Pedro
+-1	8416	8416	PRON	PER	he
+-1	8420	8421	NOM	FAC	the terrace
+-1	8424	8425	NOM	PER	the Chamberlain
+-1	8430	8430	PRON	PER	he
+-1	8433	8435	NOM	PER	the little dwarf
+-1	8439	8439	PRON	PER	his
+-1	8442	8442	PRON	PER	his
+-1	8450	8450	PRON	PER	he
+-1	8452	8452	PRON	PER	his
+-1	8466	8467	NOM	PER	the Infanta
+-1	8469	8469	PRON	PER	he
+47	8474	8476	PROP	PER	Mi bella Princesa
+-1	8479	8479	PRON	PER	your
+-1	8479	8482	NOM	PER	your funny little dwarf
+-1	8494	8494	PRON	PER	he
+-1	8499	8499	PRON	PER	he
+-1	8503	8504	NOM	PER	the King
+-1	8512	8512	PRON	PER	he
+-1	8519	8520	NOM	PER	the Infanta
+-1	8526	8526	PRON	PER	his
+-1	8533	8534	NOM	PER	the Chamberlain
+22	8537	8538	PROP	PER	the Infanta
+-1	8542	8542	PRON	PER	her
+-1	8564	8564	PRON	PER	me
+-1	8570	8570	PRON	PER	she
+-1	8574	8574	PRON	PER	she
+-1	8578	8579	NOM	FAC	the garden

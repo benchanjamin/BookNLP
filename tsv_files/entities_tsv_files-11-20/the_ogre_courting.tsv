@@ -1,0 +1,328 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	1	NOM	PER	THE OGRE
+-1	7	7	NOM	PER	ogres
+-1	10	14	NOM	PER	the terror of certain districts
+-1	13	14	NOM	GPE	certain districts
+-1	23	25	NOM	FAC	a whole neighbourhood
+-1	34	34	PRON	PER	his
+-1	46	59	NOM	PER	merchants too old and tough to be eaten , in one way and another
+-1	61	62	NOM	PER	the Ogre
+-1	70	72	NOM	PER	those who knew
+-1	76	82	NOM	FAC	huge cellars full of gold and jewels
+-1	85	85	NOM	FAC	yards
+-1	87	88	NOM	FAC	barns groaning
+-1	89	94	NOM	PER	with the weight of stolen goods
+-1	98	98	PRON	PER	he
+-1	105	105	PRON	PER	he
+-1	114	114	PRON	PER	he
+-1	117	117	PRON	PER	his
+-1	117	118	NOM	FAC	his stores
+-1	124	125	NOM	PER	most ogres
+-1	127	127	PRON	PER	he
+-1	132	132	PRON	PER	he
+-1	136	137	NOM	PER	no one
+-1	153	153	PRON	PER	him
+-1	156	156	PRON	PER	he
+-1	159	160	NOM	PER	the people
+-1	163	163	PRON	PER	their
+-1	174	174	PRON	PER	him
+-1	179	179	PRON	PER	they
+-1	184	185	NOM	PER	A man
+-1	193	193	PRON	PER	he
+-1	195	196	NOM	PER	a sailor
+-1	202	202	PRON	PER	him
+-1	214	215	NOM	PER	an ogre
+-1	230	230	PRON	PER	he
+-1	238	238	PRON	PER	he
+-1	240	241	NOM	PER	little wives
+-1	243	246	NOM	PER	all the short women
+-1	255	255	PRON	PER	his
+-1	255	256	NOM	PER	his wives
+-1	262	262	PRON	PER	he
+-1	266	267	NOM	PER	fresh ones
+-1	269	269	NOM	PER	Some
+-1	271	271	PRON	PER	he
+-1	273	273	PRON	PER	his
+-1	273	274	NOM	PER	his wives
+-1	276	276	NOM	PER	some
+-1	278	278	PRON	PER	he
+-1	285	285	PRON	PER	he
+-1	288	288	PRON	PER	them
+-1	292	292	NOM	PER	Everybody
+-1	305	317	NOM	PER	not a father who dare refuse his daughter if she were asked for
+-1	306	307	NOM	PER	a father
+-1	311	311	PRON	PER	his
+-1	311	312	NOM	PER	his daughter
+-1	314	314	PRON	PER	she
+0	319	320	PROP	PER	The Ogre
+-1	327	328	NOM	PER	a woman
+-1	330	330	PRON	PER	he
+-1	332	332	PRON	PER	her
+-1	338	340	NOM	PER	a good housewife
+-1	346	347	NOM	PER	the Ogre
+-1	351	351	PRON	PER	his
+-1	351	355	NOM	PER	his twenty - fourth wife
+-1	361	361	NOM	PER	man
+-1	371	390	NOM	PER	the person of the smallest and most notable woman of the district , the daughter of a certain poor farmer
+-1	374	382	NOM	PER	the smallest and most notable woman of the district
+-1	381	382	NOM	GPE	the district
+-1	384	390	NOM	PER	the daughter of a certain poor farmer
+-1	387	390	NOM	PER	a certain poor farmer
+-1	392	392	PRON	PER	He
+-1	397	397	PRON	PER	he
+-1	404	404	PRON	PER	his
+-1	404	416	NOM	PER	his daughter , who had in consequence remained single beyond her first youth
+-1	414	414	PRON	PER	her
+-1	418	418	NOM	PER	Everybody
+1	422	423	PROP	PER	Managing Molly
+-1	429	430	NOM	PER	the Ogre
+-1	432	434	NOM	PER	The tall girls
+-1	436	436	PRON	PER	themselves
+-1	438	438	PRON	PER	they
+-1	447	448	NOM	PER	Poor thing
+-1	451	452	NOM	PER	The slatterns
+-1	455	455	NOM	FAC	house
+-1	457	457	NOM	FAC	house
+-1	462	462	PRON	PER	their
+-1	466	466	PRON	PER	they
+-1	489	491	NOM	PER	the giant widower
+-1	494	495	NOM	PER	the farmer
+-1	497	497	PRON	PER	he
+-1	500	501	NOM	FAC	the field
+-1	504	504	PRON	PER	his
+1	510	510	PROP	PER	Molly
+-1	515	516	NOM	PER	The farmer
+-1	523	523	PRON	PER	he
+-1	528	528	PRON	PER	he
+-1	535	535	PRON	PER	he
+-1	544	544	PRON	PER	his
+-1	544	545	NOM	PER	his friends
+-1	551	551	PRON	PER	he
+-1	554	555	NOM	PER	the Ogre
+-1	558	558	PRON	PER	himself
+-1	562	563	NOM	FAC	the farm
+1	568	569	PROP	PER	Managing Molly
+-1	573	573	PRON	PER	herself
+-1	581	581	PRON	PER	I
+-1	583	583	PRON	PER	you
+-1	588	588	PRON	PER	I
+-1	593	593	PRON	PER	she
+-1	595	595	PRON	PER	her
+-1	595	596	NOM	PER	her father
+-1	601	602	NOM	PER	the Ogre
+-1	606	606	PRON	PER	his
+-1	612	612	PRON	PER	you
+-1	626	626	PRON	PER	his
+-1	626	627	NOM	PER	his daughter
+-1	630	631	NOM	PER	the farmer
+-1	651	651	PRON	PER	his
+0	660	661	PROP	PER	the Ogre
+-1	665	665	PRON	PER	she
+-1	696	697	NOM	PER	the Ogre
+1	700	700	PROP	PER	Molly
+-1	707	708	NOM	PER	the Ogre
+-1	714	714	PRON	PER	his
+1	736	736	PROP	PER	Molly
+-1	738	738	PRON	PER	her
+-1	738	739	NOM	PER	her father
+0	750	751	PROP	PER	The Ogre
+-1	762	762	PRON	PER	I
+-1	766	766	PRON	PER	my
+-1	766	767	NOM	PER	my dear
+-1	770	770	PRON	PER	you
+-1	780	780	PRON	PER	my
+-1	783	783	PRON	PER	I
+-1	802	802	NOM	PER	sir
+1	806	806	PROP	PER	Molly
+-1	819	819	PRON	PER	you
+-1	826	837	NOM	PER	Not one of all the extravagant hussies I have had as wives
+-1	833	833	PRON	PER	I
+-1	837	837	NOM	PER	wives
+-1	846	847	NOM	PER	the Ogre
+-1	850	850	PRON	PER	he
+-1	853	853	PRON	PER	himself
+-1	867	868	NOM	PER	a housewife
+-1	872	872	PRON	PER	he
+-1	877	877	PRON	PER	he
+-1	900	900	PRON	PER	you
+-1	905	905	NOM	PER	neighbour
+-1	909	909	PRON	PER	he
+-1	912	913	NOM	PER	the farmer
+1	917	917	PROP	PER	Molly
+-1	919	920	NOM	FAC	the room
+-1	923	923	PRON	PER	I
+-1	937	938	NOM	PER	the farmer
+-1	942	942	PRON	PER	I
+1	947	947	PROP	PER	Molly
+-1	950	950	PRON	PER	you
+-1	953	953	NOM	FAC	home
+-1	957	957	PRON	PER	We
+-1	960	960	PRON	PER	our
+-1	970	971	NOM	PER	the Ogre
+-1	981	981	PRON	PER	she
+-1	983	983	PRON	PER	my
+-1	983	984	NOM	PER	my wife
+-1	987	988	NOM	PER	The Ogre
+-1	1003	1004	NOM	PER	the farmer
+-1	1007	1007	PRON	PER	his
+-1	1007	1008	NOM	PER	his daughter
+-1	1011	1011	PRON	PER	I
+1	1020	1020	PROP	PER	Molly
+-1	1024	1025	NOM	PER	the farmer
+-1	1032	1032	PRON	PER	her
+-1	1042	1042	PRON	PER	I
+-1	1050	1056	NOM	PER	the man who deprives me of her
+-1	1054	1054	PRON	PER	me
+-1	1056	1056	PRON	PER	her
+-1	1058	1058	PRON	PER	Our
+-1	1058	1060	NOM	PER	Our wealthiest farmer
+-1	1076	1076	PRON	PER	He
+-1	1093	1095	NOM	PER	such a wife
+-1	1097	1097	PRON	PER	I
+-1	1103	1103	PRON	PER	I
+-1	1107	1107	PRON	PER	myself
+-1	1119	1119	PRON	PER	his
+-1	1119	1121	NOM	PER	his thrifty bride
+-1	1127	1127	PRON	PER	he
+-1	1138	1138	PRON	PER	We
+-1	1162	1162	PRON	PER	we
+-1	1168	1169	NOM	PER	the farmer
+-1	1174	1175	NOM	PER	the Ogre
+-1	1185	1185	PRON	PER	you
+-1	1189	1189	NOM	PER	man
+-1	1195	1195	PRON	PER	my
+-1	1197	1197	PRON	PER	your
+-1	1204	1204	PRON	PER	your
+-1	1210	1210	PRON	PER	your
+-1	1222	1222	PRON	PER	you
+-1	1224	1224	PRON	PER	her
+-1	1228	1229	NOM	PER	the farmer
+-1	1232	1232	PRON	PER	She
+-1	1237	1237	PRON	PER	she
+-1	1246	1246	PRON	PER	you
+-1	1250	1250	PRON	PER	her
+-1	1254	1254	PRON	PER	you
+0	1269	1270	PROP	PER	the Ogre
+-1	1274	1274	PRON	PER	us
+-1	1276	1277	NOM	PER	each other
+-1	1281	1281	PRON	PER	he
+-1	1287	1287	PRON	PER	he
+-1	1295	1296	NOM	PER	the farmer
+-1	1301	1302	NOM	PER	the farmer
+-1	1312	1312	PRON	PER	him
+-1	1330	1330	PRON	PER	he
+-1	1332	1333	NOM	PER	the Ogre
+-1	1338	1338	PRON	PER	you
+1	1342	1342	PROP	PER	Molly
+-1	1344	1344	PRON	PER	she
+-1	1358	1359	NOM	PER	the Ogre
+1	1370	1370	PROP	PER	Molly
+-1	1374	1374	PRON	PER	him
+-1	1384	1384	PRON	PER	she
+-1	1387	1387	PRON	PER	I
+-1	1391	1394	NOM	PER	any lover of mine
+-1	1396	1398	NOM	FAC	a new farmhouse
+-1	1402	1402	PRON	PER	I
+-1	1424	1426	NOM	PER	the old woman
+-1	1428	1428	PRON	PER	her
+-1	1432	1432	PRON	PER	I
+-1	1438	1438	PRON	PER	I
+-1	1456	1457	NOM	PER	the Ogre
+-1	1463	1464	NOM	FAC	the house
+-1	1467	1467	PRON	PER	my
+-1	1480	1480	PRON	PER	he
+-1	1482	1482	PRON	FAC	it
+-1	1483	1483	PRON	PER	himself
+1	1494	1494	PROP	PER	Molly
+1	1517	1517	PROP	PER	Molly
+-1	1520	1520	PRON	PER	I
+-1	1529	1531	NOM	PER	the old woman
+-1	1533	1533	PRON	PER	her
+-1	1536	1536	PRON	PER	I
+-1	1539	1539	PRON	PER	you
+-1	1547	1547	PRON	PER	they
+-1	1549	1551	NOM	PER	the old woman
+-1	1556	1556	PRON	PER	her
+1	1565	1565	PROP	PER	Molly
+0	1568	1569	PROP	PER	the Ogre
+-1	1573	1573	PRON	PER	you
+-1	1581	1581	PRON	PER	she
+-1	1593	1593	PRON	PER	I
+-1	1600	1601	NOM	PER	the Ogre
+-1	1608	1608	PRON	PER	you
+1	1619	1619	PROP	PER	Molly
+-1	1632	1633	NOM	PER	The Ogre
+-1	1651	1651	PRON	PER	he
+-1	1656	1656	PRON	PER	his
+-1	1664	1665	NOM	FAC	the room
+1	1684	1684	PROP	PER	Molly
+-1	1706	1706	PRON	PER	me
+-1	1718	1718	PRON	PER	we
+-1	1725	1727	NOM	PER	the tired Ogre
+-1	1733	1733	PRON	PER	he
+-1	1741	1741	PRON	PER	he
+-1	1744	1744	PRON	PER	he
+-1	1759	1759	PRON	PER	he
+-1	1765	1765	PRON	PER	he
+-1	1772	1772	PRON	PER	his
+-1	1775	1775	PRON	PER	he
+-1	1795	1795	PRON	PER	he
+-1	1799	1799	PRON	PER	she
+-1	1801	1804	NOM	PER	a very managing woman
+-1	1818	1818	PRON	PER	me
+-1	1822	1822	PRON	PER	he
+-1	1825	1825	NOM	FAC	home
+-1	1829	1829	PRON	PER	he
+1	1833	1834	PROP	PER	Managing Molly
+-1	1838	1838	PRON	PER	him
+-1	1844	1844	PRON	PER	she
+-1	1849	1849	PRON	PER	he
+-1	1856	1856	PRON	PER	her
+1	1860	1860	PROP	PER	Molly
+-1	1863	1863	PRON	PER	he
+-1	1867	1867	PRON	PER	she
+-1	1869	1870	NOM	PER	the farmer
+-1	1872	1872	PRON	PER	him
+-1	1877	1877	PRON	PER	he
+-1	1882	1883	NOM	PER	the Ogre
+-1	1886	1886	PRON	PER	they
+-1	1888	1888	PRON	PER	him
+-1	1889	1890	NOM	PER	the farmer
+-1	1897	1897	PRON	PER	He
+-1	1899	1900	NOM	PER	the bride
+-1	1904	1904	PRON	PER	you
+-1	1913	1913	PRON	PER	him
+-1	1914	1914	PRON	PER	I
+0	1924	1925	PROP	PER	the Ogre
+-1	1928	1929	NOM	PER	the messenger
+-1	1934	1934	PRON	PER	He
+-1	1936	1936	PRON	PER	she
+-1	1941	1941	PRON	PER	you
+-1	1944	1944	PRON	PER	her
+-1	1954	1954	PRON	PER	She
+-1	1961	1962	NOM	FAC	the farm
+-1	1972	1973	NOM	PER	the Ogre
+-1	1979	1979	PRON	PER	she
+-1	1985	1986	NOM	PER	the messenger
+-1	1990	1990	PRON	PER	She
+-1	1992	1992	PRON	PER	you
+-1	2002	2002	PRON	PER	she
+-1	2016	2017	NOM	FAC	the yard
+-1	2021	2022	NOM	PER	the Ogre
+-1	2026	2026	PRON	PER	him
+-1	2028	2028	PRON	PER	them
+-1	2029	2029	NOM	FAC	home
+-1	2033	2033	PRON	PER	he
+-1	2041	2041	PRON	PER	him
+-1	2047	2053	NOM	PER	The farmer , who overheard this order
+-1	2060	2060	PRON	PER	his
+-1	2065	2065	PRON	PER	he
+-1	2068	2069	NOM	FAC	the yard
+-1	2070	2070	PRON	PER	he
+-1	2072	2072	NOM	FAC	home
+-1	2080	2080	PRON	PER	you
+-1	2091	2092	NOM	PER	the Ogre
+-1	2101	2103	NOM	PER	the old woman
+1	2117	2118	PROP	PER	Managing Molly
+-1	2125	2125	PRON	PER	she
+-1	2139	2139	PRON	PER	her

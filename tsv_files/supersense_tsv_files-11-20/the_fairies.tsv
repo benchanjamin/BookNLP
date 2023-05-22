@@ -1,0 +1,91 @@
+start_token	end_token	supersense_category	text
+1	1	noun.person	Fairies
+3	4	noun.person	William Allingham
+7	8	noun.object	airy mountain
+12	12	noun.object	rushy
+13	13	noun.object	glen
+18	18	verb.social	go
+23	23	noun.feeling	fear
+26	26	noun.person	men
+28	29	noun.person	Wee folk
+31	32	noun.group	good folk
+38	38	noun.person	Green
+39	39	noun.artifact	jacket
+42	42	noun.artifact	cap
+46	46	noun.animal	owl
+48	48	noun.animal	feather
+54	54	noun.object	shore
+56	56	verb.change	make
+61	61	verb.stative	live
+64	64	noun.food	pancakes
+67	67	noun.event	tide
+69	69	noun.object	foam
+74	74	noun.object	reeds
+78	78	noun.object	mountain
+80	80	noun.object	lake
+83	83	noun.animal	frogs
+86	86	noun.animal	watchdogs
+89	89	noun.time	night
+95	95	noun.object	hill
+97	98	noun.location	top The
+100	100	noun.person	King
+101	101	verb.stative	sits
+104	104	verb.stative	is
+113	113	verb.possession	lost
+115	115	noun.cognition	wits
+119	119	noun.artifact	bridge
+121	122	noun.body	white mist
+123	123	noun.object	Columbkill
+125	125	verb.motion	crosses
+130	130	noun.act	journeys
+132	132	noun.location	Slieveleague
+134	134	noun.location	Rosses
+137	138	verb.motion	going up
+141	141	noun.communication	music
+145	145	noun.time	nights
+148	148	verb.consumption	sup
+151	152	noun.location	Queen Of
+154	156	noun.location	gay Northern Lights
+159	159	verb.possession	stole
+161	161	noun.person	Bridget
+164	164	noun.time	years
+169	170	verb.motion	came down
+173	173	noun.person	friends
+174	174	verb.stative	were
+179	179	verb.motion	took
+186	186	noun.time	night
+188	188	noun.time	morrow
+191	191	verb.cognition	thought
+194	194	verb.stative	was
+200	200	verb.stative	was
+203	203	noun.feeling	sorrow
+207	207	verb.stative	kept
+214	214	noun.object	lake
+218	218	noun.object	bed
+220	220	noun.communication	fig
+222	222	noun.plant	leaves
+224	224	verb.social	Watching
+227	227	verb.body	wake
+232	232	noun.object	hillside
+236	236	noun.plant	mosses
+241	241	verb.contact	planted
+242	243	noun.plant	thorn trees
+246	246	noun.feeling	pleasure
+254	254	noun.person	man
+258	258	verb.communication	dig
+266	266	verb.perception	find
+269	269	noun.plant	thorns
+272	272	noun.artifact	bed
+274	274	noun.time	night
+278	279	noun.object	airy mountain
+283	284	noun.location	rushy glen
+289	289	verb.motion	go
+292	292	noun.act	hunting
+294	294	noun.feeling	fear
+297	297	noun.person	men
+299	300	noun.person	Wee folk
+303	303	noun.person	folk
+309	310	noun.person	Green jacket
+313	313	noun.artifact	cap
+317	317	noun.animal	owl
+319	319	noun.animal	feather

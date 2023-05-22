@@ -1,0 +1,62 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	1	NOM	PER	THE HILLMAN
+-1	3	4	NOM	PER	THE HOUSEWIFE
+-1	11	13	NOM	PER	the Good People
+-1	19	19	PRON	PER	They
+-1	27	27	PRON	PER	they
+-1	32	34	NOM	PER	the human race
+-1	48	48	PRON	PER	them
+-1	52	52	PRON	PER	they
+-1	61	93	NOM	PER	a certain Housewife who had a sharp eye to her own interests in temporal matters , and gave alms of what she had no use for , for the good of her soul
+-1	70	70	PRON	PER	her
+-1	82	82	PRON	PER	she
+-1	92	92	PRON	PER	her
+-1	97	98	NOM	PER	a Hillman
+-1	101	101	PRON	PER	her
+-1	106	106	PRON	PER	you
+-1	108	108	PRON	PER	us
+-1	112	113	NOM	PER	good Mother
+-1	117	117	PRON	PER	he
+-1	125	126	NOM	LOC	the hill
+-1	139	139	PRON	PER	he
+-1	146	153	NOM	PER	the servant lass who had opened the door
+-1	164	165	NOM	PER	the Housewife
+-1	168	168	NOM	PER	One
+-1	176	177	NOM	PER	the maid
+-1	186	186	PRON	PER	she
+-1	188	188	PRON	PER	her
+-1	196	196	PRON	PER	you
+-1	212	213	NOM	PER	the Hillmen
+-1	219	221	NOM	PER	such nimble workers
+-1	224	224	PRON	PER	they
+-1	231	231	PRON	PER	they
+-1	234	234	NOM	FAC	home
+-1	239	241	NOM	PER	the Good People
+-1	250	250	PRON	PER	you
+-1	258	258	PRON	PER	your
+-1	262	262	PRON	PER	your
+-1	269	270	NOM	PER	the maid
+-1	281	282	NOM	PER	the tinker
+-1	291	292	NOM	PER	the dwarf
+-1	296	296	PRON	PER	her
+-1	313	314	NOM	PER	the Housewife
+-1	331	332	NOM	PER	the maid
+-1	346	347	NOM	PER	the children
+-1	364	365	NOM	PER	no one
+-1	386	391	NOM	PER	good - for - nothing hussy
+-1	395	396	NOM	PER	the Housewife
+-1	399	399	PRON	PER	she
+-1	403	403	PRON	PER	herself
+-1	406	406	PRON	PER	you
+-1	412	412	PRON	PER	your
+-1	462	462	PRON	PER	her
+-1	465	466	NOM	PER	The Housewife
+-1	501	503	NOM	PER	the good woman
+-1	573	574	NOM	PER	the housewife
+-1	593	593	PRON	PER	me
+-1	595	595	PRON	PER	I
+-1	597	597	NOM	FAC	house
+-1	628	628	PRON	PER	You
+0	636	636	PROP	PER	Mother
+-1	642	643	NOM	PER	the Hillman
+-1	644	644	PRON	PER	himself

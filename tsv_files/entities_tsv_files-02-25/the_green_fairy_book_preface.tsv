@@ -1,0 +1,130 @@
+COREF	start_token	end_token	prop	cat	text
+3	8	9	PROP	PER	Andrew Lang
+-1	43	43	NOM	PER	children
+-1	45	45	PRON	PER	you
+-1	51	51	PRON	PER	we
+-1	62	62	PRON	PER	you
+-1	84	85	NOM	GPE	many countries
+-1	106	107	NOM	PER	one Chinese
+-1	111	112	NOM	GPE	these nations
+-1	117	117	PRON	PER	they
+-1	133	133	NOM	PER	men
+-1	137	137	NOM	PER	children
+-1	139	139	PRON	PER	their
+-1	152	152	PRON	PER	they
+-1	168	168	PRON	PER	they
+-1	176	176	PRON	PER	you
+-1	183	183	PRON	PER	They
+-1	186	186	NOM	PER	witches
+-1	189	189	NOM	PER	people
+-1	203	203	PRON	PER	their
+-1	203	204	NOM	PER	their owners
+-1	219	220	NOM	LOC	the world
+-1	241	243	NOM	PER	the old grannies
+-1	245	245	PRON	PER	them
+-1	249	249	PRON	PER	them
+-1	251	253	NOM	PER	the little grandchildren
+-1	257	257	PRON	PER	they
+-1	260	260	PRON	PER	their
+-1	264	264	NOM	PER	grannies
+-1	266	266	PRON	PER	they
+-1	268	268	PRON	PER	them
+-1	272	272	PRON	PER	them
+1	303	303	PROP	GPE	Egypt
+4	306	306	PROP	PER	Joseph
+5	321	321	PROP	PER	Homer
+2	325	325	PROP	GPE	Greece
+-1	334	334	PRON	PER	he
+0	347	347	PRON	PER	I
+-1	349	349	PRON	PER	you
+-1	356	356	PRON	PER	you
+-1	363	365	NOM	PER	men into swine
+-1	368	376	NOM	PER	the man who bores out the big foolish giant
+6	397	401	PROP	PER	Jack the Giant - Killer
+-1	411	412	NOM	LOC	the world
+-1	421	428	NOM	PER	men who were childlike for their own amusement
+-1	426	426	PRON	PER	their
+-1	431	431	PRON	PER	they
+-1	433	433	NOM	PER	children
+-1	438	450	NOM	PER	grown - up people who have not forgotten how they once were children
+-1	447	447	PRON	PER	they
+-1	450	450	NOM	PER	children
+-1	472	472	PRON	PER	You
+-1	480	495	NOM	PER	the boy who is kind to beasts , and polite , and generous , and brave
+-1	501	501	PRON	PER	his
+-1	513	513	PRON	PER	their
+-1	513	514	NOM	PER	their hearers
+-1	529	529	PRON	PER	them
+-1	536	536	PRON	PER	we
+-1	540	540	PRON	PER	we
+-1	553	556	NOM	PER	grown - up people
+-1	567	567	NOM	PER	children
+-1	578	579	NOM	PER	no witches
+-1	587	587	NOM	PER	people
+-1	594	595	NOM	PER	wicked giants
+-1	599	599	PRON	PER	you
+0	621	621	PRON	PER	I
+-1	626	664	NOM	PER	a child who killed a very tall man merely because Jack killed the giants , or who was unkind to his stepmother , if he had one , because , in fairy tales , the stepmother is often disagreeable
+-1	630	633	NOM	PER	a very tall man
+6	636	636	PROP	PER	Jack
+-1	638	639	NOM	PER	the giants
+-1	646	646	PRON	PER	his
+-1	646	647	NOM	PER	his stepmother
+-1	650	650	PRON	PER	he
+-1	660	661	NOM	PER	the stepmother
+-1	675	675	PRON	PER	they
+-1	679	679	PRON	PER	you
+-1	692	693	NOM	LOC	the world
+-1	696	696	PRON	PER	he
+-1	705	705	PRON	PER	He
+-1	713	713	PRON	PER	you
+-1	716	716	PRON	PER	his
+0	723	723	PRON	PER	I
+-1	728	728	PRON	PER	you
+-1	733	736	NOM	PER	the magicians and dragons
+-1	740	740	PRON	PER	you
+-1	743	746	NOM	PER	a really brave boy
+-1	748	748	NOM	PER	girl
+-1	751	751	PRON	PER	their
+-1	751	752	NOM	PER	their master
+-1	759	759	PRON	PER	their
+-1	769	772	NOM	PER	The Half - Chick
+-1	776	778	NOM	PER	very little children
+-1	782	783	NOM	PER	older ones
+7	790	792	PROP	PER	Heart of Ice
+-1	809	810	NOM	PER	clever men
+-1	812	812	NOM	PER	women
+8	816	817	PROP	PER	Madame d’Aulnoy
+9	820	823	PROP	PER	the Count de Caylus
+-1	833	835	NOM	PER	not many people
+-1	852	852	PRON	PER	they
+-1	858	858	PRON	PER	their
+-1	864	864	PRON	PER	they
+10	873	873	PROP	PER	Heaven
+-1	876	876	PRON	PER	them
+-1	880	880	PRON	PER	we
+-1	882	882	PRON	PER	you
+-1	896	896	PRON	PER	you
+11	905	907	PROP	PER	the Brothers Grimm
+-1	911	911	PRON	PER	them
+-1	917	918	NOM	PER	old women
+12	922	923	PROP	PER	M. Sebillot
+13	925	927	PROP	PER	M. Charles Marelles
+-1	932	932	PRON	PER	us
+-1	936	936	PRON	PER	their
+-1	936	939	NOM	PER	their own French people
+14	943	944	PROP	PER	Mr. Ford
+-1	953	954	NOM	PER	the ladies
+15	956	957	PROP	PER	Miss Blackley
+16	959	961	PROP	PER	Miss Alma Alleyne
+17	963	965	PROP	PER	Miss Eleanor Sellar
+18	967	969	PROP	PER	Miss May Sellar
+19	971	972	PROP	PER	Miss Wright
+20	975	976	PROP	PER	Mrs. Lang
+-1	995	995	PRON	PER	we
+-1	1000	1000	PRON	PER	you
+-1	1022	1022	PRON	PER	we
+-1	1038	1038	PRON	PER	you
+-1	1048	1052	NOM	PER	other children who have none
+-1	1056	1056	PRON	PER	them
+-1	1060	1060	PRON	PER	your

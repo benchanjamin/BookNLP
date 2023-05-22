@@ -1,0 +1,91 @@
+COREF	start_token	end_token	prop	cat	text
+13	8	13	PROP	PER	Andrew Lang Preface Each Fairy Book
+-1	18	19	NOM	PER	the Editor
+-1	37	38	NOM	PER	the Editor
+-1	43	43	PRON	PER	he
+-1	45	46	NOM	PER	the Editor
+-1	50	55	NOM	PER	the author of the Fairy Tales
+-1	59	63	NOM	PER	a distinguished man of science
+-1	66	67	NOM	PER	the Editor
+-1	70	73	NOM	PER	the Author of Nature
+-1	88	91	NOM	PER	a single modern mind
+-1	93	94	NOM	PER	The Editor
+-1	107	110	NOM	PER	peasant or savage grandmothers
+0	116	117	PROP	GPE	New Caledonia
+1	119	119	PROP	GPE	Zululand
+-1	126	128	NOM	LOC	the Polar regions
+2	130	130	PROP	GPE	Greece
+3	133	133	PROP	GPE	Spain
+4	136	136	PROP	GPE	Italy
+5	139	140	PROP	LOC	far Lochaber
+-1	154	155	NOM	PER	British children
+-1	160	161	NOM	PER	the Editor
+-1	181	182	NOM	PER	wicked stepmothers
+-1	185	187	NOM	PER	other naughty characters
+-1	202	202	NOM	PER	ladies
+-1	204	204	NOM	PER	children
+-1	212	212	PRON	PER	They
+-1	215	216	NOM	PER	the Editor
+-1	218	218	PRON	PER	he
+14	227	227	PROP	PER	Shakespeare
+15	229	229	PROP	PER	Dumas
+16	232	233	PROP	PER	Charles Dickens
+-1	242	243	NOM	PER	the Editor
+-1	251	251	PRON	PER	he
+-1	261	261	NOM	PER	nobody
+-1	291	293	NOM	PER	some savage grandmother
+-1	298	300	NOM	PER	a savage granddaughter
+-1	303	304	NOM	PER	the granddaughter
+-1	308	308	PRON	PER	her
+-1	312	313	NOM	PER	various tellers
+-1	318	318	PRON	PER	their
+-1	331	332	NOM	LOC	the world
+17	347	347	PROP	PER	Homer
+-1	355	356	NOM	PER	somebody else
+18	361	361	PROP	PER	Jason
+-1	369	371	NOM	PER	the enchantress Medea
+19	387	387	PROP	PER	Samoyeds
+20	389	389	PROP	PER	Samoans
+21	391	391	PROP	PER	Hindoos
+22	393	393	PROP	PER	Japanese
+23	411	413	PROP	PER	the brothers Grimm
+-1	425	425	NOM	PER	children
+-1	435	435	PRON	PER	their
+-1	435	437	NOM	PER	their dear mothers
+-1	440	441	NOM	PER	the Editor
+-1	444	444	PRON	PER	they
+-1	448	448	PRON	PER	his
+-1	456	459	NOM	PER	the Folk Lore Society
+-1	462	468	NOM	PER	students of Herr Kohler and M. Cosquin
+24	464	465	PROP	PER	Herr Kohler
+25	467	468	PROP	PER	M. Cosquin
+26	471	473	PROP	PER	M. Henri Guidoz
+27	475	476	PROP	PER	Professor Child
+28	479	481	PROP	PER	Mr. Max Muller
+-1	491	492	NOM	PER	the Editor
+-1	491	494	NOM	PER	the Editor ’s customers
+-1	496	496	PRON	PER	he
+-1	498	498	PRON	PER	them
+-1	506	506	PRON	PER	his
+-1	524	524	NOM	PER	mothers
+-1	526	526	NOM	PER	nurses
+6	528	528	PROP	GPE	Hungary
+-1	534	535	NOM	PER	Russian nurseries
+29	537	538	PROP	PER	the Servians
+30	554	555	PROP	PER	the Roumanians
+-1	560	562	NOM	LOC	the Baltic shores
+7	567	567	PROP	GPE	Sicily
+8	573	573	PROP	GPE	Finland
+9	576	576	PROP	GPE	Iceland
+10	579	579	PROP	GPE	Japan
+11	582	582	PROP	GPE	Tunis
+12	585	585	PROP	GPE	Portugal
+-1	589	590	NOM	PER	many children
+-1	596	597	NOM	LOC	these places
+-1	604	604	PRON	PER	their
+-1	607	607	NOM	LOC	rivers
+-1	622	627	NOM	PER	The peoples who tell the stories
+-1	642	642	PRON	PER	they
+31	658	659	PROP	PER	Mrs. Lang
+32	664	665	PROP	PER	Miss Lang
+33	667	668	PROP	PER	Miss Blackley

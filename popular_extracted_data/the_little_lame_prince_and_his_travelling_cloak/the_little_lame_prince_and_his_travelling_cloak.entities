@@ -1,0 +1,5287 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	3	NOM	PER	The Little Lame Prince
+-1	5	5	PRON	PER	His
+18	10	12	PROP	PER	Dinah Maria Mulock
+-1	17	17	PRON	PER	he
+-1	19	26	NOM	PER	the most beautiful Prince that ever was born
+-1	32	33	NOM	PER	a prince
+-1	35	35	NOM	PER	people
+-1	46	46	PRON	PER	he
+-1	52	52	PRON	PER	his
+-1	63	67	NOM	PER	a new - born baby
+-1	69	69	PRON	PER	His
+-1	89	89	PRON	PER	his
+-1	98	98	PRON	PER	he
+-1	113	115	NOM	PER	a splendid baby
+-1	118	118	NOM	PER	everybody
+-1	123	123	PRON	PER	him
+-1	126	126	PRON	PER	his
+-1	126	127	NOM	PER	his father
+-1	129	129	NOM	PER	mother
+-1	131	136	NOM	PER	the King and Queen of Nomansland
+1	136	136	PROP	GPE	Nomansland
+-1	142	142	PRON	PER	him
+-1	144	144	PRON	PER	their
+-1	158	158	PRON	PER	themselves
+-1	160	160	PRON	PER	their
+-1	160	161	NOM	PER	their subjects
+-1	167	170	NOM	PER	a son and heir
+-1	172	179	NOM	PER	The only person who was not quite happy
+-1	181	182	NOM	PER	the king
+-1	181	184	NOM	PER	the king 's brother
+-1	186	189	NOM	PER	the heir - presumptive
+-1	195	195	NOM	PER	king
+-1	200	204	NOM	PER	the baby not been born
+-1	208	208	PRON	PER	his
+-1	208	209	NOM	PER	his Majesty
+-1	214	214	PRON	PER	him
+-1	221	221	PRON	PER	him
+-1	226	227	NOM	PER	the Queen
+-1	230	230	PRON	PER	he
+-1	232	232	PRON	PER	him
+-1	245	245	PRON	PER	he
+-1	257	257	PRON	PER	us
+-1	259	259	PRON	PER	he
+-1	262	263	NOM	PER	The Prince
+-1	278	279	NOM	GPE	the country
+-1	285	285	PRON	PER	him
+-1	286	291	NOM	PER	four - and - twenty godfathers
+-1	293	293	NOM	PER	godmothers
+-1	300	300	PRON	PER	him
+-1	308	308	PRON	PER	their
+-1	311	311	PRON	PER	him
+-1	314	314	PRON	PER	he
+-1	319	319	PRON	PER	he
+-1	320	320	PRON	PER	himself
+-1	328	331	NOM	PER	the god - father
+-1	333	333	NOM	PER	godmother
+-1	336	336	PRON	PER	he
+-1	344	344	PRON	PER	his
+-1	357	358	NOM	PER	the rich
+-1	363	364	NOM	PER	the poor
+-1	368	368	NOM	GPE	town
+-1	368	374	NOM	FAC	town - halls for the working men
+-1	372	374	NOM	PER	the working men
+-1	380	381	NOM	FAC	the streets
+-1	383	383	PRON	PER	their
+-1	383	384	NOM	PER	their wives
+-1	392	393	NOM	PER	the children
+-1	395	396	NOM	FAC	the schoolrooms
+1	399	399	PROP	GPE	Nomansland
+0	402	402	PRON	PER	I
+0	422	422	PRON	PER	I
+-1	427	427	PRON	PER	our
+-1	430	432	NOM	GPE	many another country
+-1	436	437	NOM	FAC	the Palace
+-1	444	445	NOM	FAC	other palaces
+-1	447	447	PRON	FAC	it
+-1	459	459	NOM	PER	people
+-1	473	473	PRON	FAC	it
+-1	475	485	NOM	FAC	the room which , though the Prince was six weeks old
+-1	480	481	NOM	PER	the Prince
+-1	487	487	PRON	PER	his
+-1	487	488	NOM	PER	his mother
+-1	489	490	NOM	PER	the Queen
+-1	495	495	NOM	PER	Nobody
+-1	497	497	PRON	PER	she
+-1	512	512	PRON	PER	she
+-1	517	517	PRON	PER	herself
+-1	529	529	NOM	PER	anybody
+-1	531	531	NOM	PER	nobody
+-1	535	535	PRON	PER	her
+-1	538	539	NOM	LOC	the world
+-1	544	545	NOM	PER	the baby
+-1	552	557	NOM	PER	All the people in the palace
+-1	556	557	NOM	FAC	the palace
+-1	564	564	PRON	PER	themselves
+-1	569	574	NOM	PER	the ladies - in - waiting
+-1	585	588	NOM	PER	The poor little kitchenmaid
+-1	591	591	PRON	PER	her
+-1	603	605	NOM	PER	a pretty girl
+-1	624	625	NOM	PER	the Prince
+-1	626	626	PRON	PER	himself
+-1	628	633	NOM	PER	All the people in the palace
+-1	632	633	NOM	FAC	the palace
+-1	640	640	PRON	PER	themselves
+-1	649	650	NOM	PER	the queen
+-1	655	655	NOM	PER	everybody
+-1	662	662	PRON	PER	them
+-1	665	670	NOM	PER	the ladies - in - waiting
+-1	673	676	NOM	PER	the poor little kitchenmaid
+-1	681	681	PRON	PER	herself
+-1	683	683	PRON	PER	her
+-1	698	700	NOM	PER	a pretty girl
+-1	702	702	PRON	PER	she
+-1	710	712	NOM	PER	the royal household
+-1	715	715	PRON	PER	itself
+-1	723	725	NOM	PER	the little Prince
+-1	729	729	PRON	PER	his
+-1	732	732	PRON	PER	his
+-1	740	740	PRON	PER	his
+-1	740	742	NOM	PER	his Royal Highness
+-1	754	756	NOM	PER	any common baby
+-1	759	759	PRON	PER	he
+-1	766	766	PRON	PER	they
+-1	768	768	PRON	PER	him
+-1	774	808	NOM	PER	the Queen his mother , who , though her royal robes had been brought and laid upon the bed , was , as everybody well knew , quite unable to rise and put them on
+-1	776	776	PRON	PER	his
+-1	776	777	NOM	PER	his mother
+-1	782	782	PRON	PER	her
+-1	797	797	NOM	PER	everybody
+-1	810	810	PRON	PER	She
+-1	812	812	PRON	PER	her
+-1	812	813	NOM	PER	her baby
+-1	820	820	PRON	PER	him
+-1	826	826	PRON	PER	him
+-1	829	829	PRON	PER	she
+-1	836	836	PRON	PER	he
+-1	840	840	PRON	PER	her
+-1	845	845	PRON	PER	she
+-1	847	847	PRON	PER	him
+-1	857	857	PRON	PER	she
+-1	859	859	PRON	PER	he
+-1	875	877	NOM	PER	all the guests
+-1	880	880	PRON	PER	themselves
+-1	887	887	PRON	PER	her
+-1	894	894	NOM	PER	anybody
+-1	896	896	PRON	PER	She
+-1	898	901	NOM	PER	a very uncomplaining person
+-1	903	904	NOM	PER	the Queen
+-1	907	907	PRON	PER	her
+19	910	910	PROP	PER	Dolorez
+-1	918	918	PRON	PER	she
+-1	923	923	NOM	PER	All
+-1	926	927	NOM	PER	the King
+-1	928	928	PRON	PER	himself
+-1	934	934	PRON	PER	her
+-1	938	938	PRON	PER	she
+-1	953	953	PRON	PER	She
+-1	956	956	PRON	PER	her
+-1	965	965	PRON	PER	they
+-1	972	972	PRON	PER	her
+-1	979	980	NOM	PER	The company
+-1	983	991	NOM	PER	great and notable persons in this and neighboring countries
+-1	988	988	NOM	GPE	this
+-1	990	991	NOM	GPE	neighboring countries
+-1	994	1000	NOM	PER	the four - and - twenty godfathers
+-1	1002	1002	NOM	PER	godmothers
+-1	1012	1050	NOM	PER	the people who would be most useful to his Royal Highness , should he ever want friends , which did not seem likely . What such want could possibly happen to the heir of the powerful monarch of Nomansland
+-1	1020	1020	PRON	PER	his
+-1	1020	1022	NOM	PER	his Royal Highness
+-1	1025	1025	PRON	PER	he
+-1	1028	1028	NOM	PER	friends
+-1	1046	1050	NOM	PER	the powerful monarch of Nomansland
+1	1050	1050	PROP	GPE	Nomansland
+-1	1052	1052	PRON	PER	They
+-1	1061	1061	PRON	PER	their
+-1	1064	1064	PRON	PER	their
+-1	1068	1068	NOM	PER	dukes
+-1	1070	1070	NOM	PER	duchesses
+-1	1072	1072	NOM	PER	prince
+-1	1074	1074	NOM	PER	princesses
+-1	1080	1080	PRON	PER	they
+-1	1083	1084	NOM	PER	the child
+-1	1091	1091	NOM	PER	each
+-1	1094	1094	PRON	PER	him
+-1	1111	1112	NOM	PER	six heralds
+-1	1138	1138	PRON	PER	they
+-1	1146	1146	PRON	PER	his
+-1	1152	1152	PRON	PER	his
+-1	1162	1162	NOM	PER	everybody
+-1	1169	1185	NOM	PER	the little Prince himself , who moaned faintly under his christening robes , which nearly smothered him
+-1	1172	1172	PRON	PER	himself
+-1	1178	1178	PRON	PER	his
+-1	1185	1185	PRON	PER	him
+-1	1191	1192	NOM	PER	very few
+-1	1195	1196	NOM	PER	the Prince
+-1	1200	1201	NOM	FAC	the chapel
+-1	1209	1209	PRON	PER	His
+-1	1209	1210	NOM	PER	His nurse
+-1	1213	1213	PRON	PER	his
+-1	1213	1215	NOM	PER	his ordinary one
+-1	1218	1220	NOM	PER	the state nursemaid
+-1	1222	1229	NOM	PER	an elegant and fashionable young lady of rank
+-1	1237	1237	PRON	PER	him
+-1	1241	1242	NOM	FAC	the chapel
+-1	1250	1250	PRON	PER	her
+-1	1257	1257	PRON	PER	she
+-1	1259	1263	NOM	PER	the baby with the other
+-1	1266	1266	PRON	PER	she
+-1	1270	1270	PRON	PER	him
+-1	1286	1286	PRON	PER	she
+-1	1290	1290	PRON	PER	him
+-1	1312	1312	NOM	PER	nobody
+-1	1318	1319	NOM	PER	The baby
+-1	1330	1336	NOM	PER	no person a step or two behind
+-1	1346	1346	PRON	PER	he
+-1	1358	1358	PRON	PER	his
+-1	1385	1386	NOM	VEH	the procession
+-1	1391	1393	NOM	VEH	Such a procession
+-1	1395	1399	NOM	PER	Heralds in blue and silver
+-1	1411	1415	NOM	PER	little girls in dazzling white
+-1	1423	1423	PRON	PER	they
+-1	1429	1430	NOM	PER	the nurse
+-1	1433	1439	NOM	PER	the four - and - twenty godfathers
+-1	1441	1441	NOM	PER	godmothers
+-1	1455	1455	PRON	PER	they
+-1	1460	1460	PRON	PER	their
+-1	1460	1462	NOM	PER	their small godson
+-1	1472	1476	NOM	PER	a baby - face inside
+-1	1496	1496	PRON	PER	him
+-1	1498	1498	PRON	PER	he
+-1	1507	1508	NOM	PER	The procession
+-1	1517	1521	NOM	PER	Heralds in blue and silver
+-1	1539	1539	PRON	PER	them
+-1	1545	1545	PRON	PER	they
+-1	1548	1549	NOM	PER	the King
+-1	1551	1551	PRON	PER	his
+-1	1551	1552	NOM	VEH	his train
+-1	1557	1558	NOM	PER	the Prince
+-1	1560	1560	PRON	PER	his
+-1	1560	1561	NOM	PER	his attendants
+-1	1587	1590	NOM	PER	the eldest little girl
+-1	1592	1594	NOM	PER	the next eldest
+-1	1597	1597	PRON	PER	she
+-1	1604	1604	PRON	PER	her
+-1	1609	1609	PRON	PER	I
+-1	1614	1615	NOM	PER	the Prince
+-1	1619	1621	NOM	PER	a fairy godmother
+-1	1626	1626	PRON	PER	he
+-1	1648	1648	NOM	PER	children
+-1	1649	1649	NOM	PER	somebody
+-1	1651	1653	NOM	PER	not a child
+-1	1659	1660	NOM	PER	a child
+-1	1664	1675	NOM	PER	nobody had seen before , and who certainly had not been invited
+-1	1678	1678	PRON	PER	she
+-1	1685	1685	PRON	PER	She
+-1	1687	1723	NOM	PER	a little old woman dressed all in grey : grey gown , grey hooded cloak , of a material excessively fine , and a tint that seemed perpetually changing , like the grey of an evening sky
+-1	1725	1725	PRON	PER	Her
+-1	1730	1730	PRON	PER	her
+-1	1735	1735	PRON	PER	her
+-1	1752	1752	PRON	PER	her
+-1	1755	1755	PRON	PER	her
+-1	1763	1764	NOM	PER	the Prince
+-1	1771	1771	PRON	PER	his
+-1	1777	1777	PRON	PER	she
+-1	1783	1783	PRON	PER	him
+-1	1792	1793	NOM	PER	the baby
+-1	1798	1802	NOM	PER	The grand young lady nurse
+-1	1812	1812	PRON	PER	me
+-1	1816	1816	NOM	PER	anybody
+-1	1823	1823	NOM	PER	anybody--
+0	1839	1839	PRON	PER	I
+-1	1841	1844	NOM	PER	young ladies of rank
+-1	1850	1851	NOM	PER	speaking--"Old woman
+-1	1853	1853	PRON	PER	you
+-1	1862	1863	NOM	PER	the baby
+-1	1868	1869	NOM	PER	the Prince
+-1	1875	1875	PRON	PER	his
+-1	1875	1877	NOM	PER	his Royal Highness
+-1	1888	1888	PRON	PER	I
+-1	1891	1891	PRON	PER	him
+-1	1893	1893	PRON	PER	I
+-1	1895	1895	PRON	PER	his
+-1	1895	1896	NOM	PER	his godmother
+-1	1900	1900	PRON	PER	You
+-1	1904	1907	NOM	PER	the elegant lady nurse
+-1	1910	1910	PRON	PER	You
+-1	1915	1917	NOM	PER	all the gentlemen
+-1	1919	1921	NOM	PER	ladies in waiting
+-1	1924	1924	PRON	PER	You
+-1	1930	1933	NOM	PER	the heralds and pages
+-1	1936	1936	PRON	PER	they
+-1	1952	1953	NOM	PER	The Prince
+-1	1957	1957	PRON	PER	itself
+-1	1961	1962	NOM	PER	the King
+-1	1964	1964	PRON	PER	his
+-1	1964	1965	NOM	VEH	his train
+-1	1971	1972	NOM	FAC	the palace
+-1	1993	1999	NOM	PER	the little old woman clothed in grey
+-1	2001	2001	PRON	PER	She
+-1	2003	2003	PRON	PER	herself
+-1	2010	2010	PRON	PER	her
+-1	2015	2017	NOM	PER	the little Prince
+-1	2028	2031	NOM	PER	the young lady nurse
+-1	2039	2039	PRON	PER	her
+-1	2048	2048	PRON	PER	his
+-1	2048	2050	NOM	PER	his Royal Highness
+-1	2053	2053	PRON	PER	yourself
+-1	2059	2060	NOM	PER	old woman
+-1	2063	2064	NOM	PER	the King
+-1	2072	2073	NOM	PER	The King
+-1	2077	2077	PRON	PER	me
+-1	2086	2088	NOM	PER	the old woman
+-1	2096	2096	PRON	PER	she
+-1	2103	2103	PRON	PER	his
+-1	2103	2104	NOM	PER	his Majesty
+-1	2108	2108	PRON	PER	hers
+-1	2111	2111	PRON	PER	My
+-1	2111	2112	NOM	PER	My friend
+-1	2114	2115	NOM	FAC	the palace
+-1	2117	2118	NOM	PER	the King
+-1	2117	2120	NOM	PER	the King 's wife
+-1	2124	2124	NOM	PER	Kings
+-1	2124	2126	NOM	PER	Kings ' wives
+-1	2129	2129	NOM	PER	queens
+-1	2133	2135	NOM	PER	the lady nurse
+-1	2143	2143	PRON	PER	You
+-1	2149	2151	NOM	PER	the old woman
+-1	2156	2156	PRON	PER	I
+-1	2158	2158	PRON	PER	her
+-1	2158	2159	NOM	PER	her Majesty
+-1	2163	2163	PRON	PER	I
+-1	2165	2165	PRON	PER	her
+-1	2167	2167	PRON	PER	her
+-1	2167	2168	NOM	PER	her child
+-1	2173	2173	PRON	PER	you
+-1	2175	2175	PRON	PER	him
+-1	2182	2182	PRON	PER	she
+-1	2191	2193	NOM	PER	the young lady
+-1	2198	2198	PRON	PER	her
+-1	2203	2203	PRON	PER	him
+-1	2205	2205	PRON	PER	my
+-1	2208	2208	PRON	PER	I
+-1	2210	2210	PRON	PER	his
+-1	2210	2211	NOM	PER	his godmother
+-1	2216	2216	PRON	PER	him
+-1	2218	2218	PRON	PER	he
+-1	2220	2220	PRON	PER	me
+-1	2224	2224	PRON	PER	You
+-1	2226	2226	PRON	PER	him
+-1	2230	2232	NOM	PER	all the group
+-1	2242	2245	NOM	PER	the little old woman
+-1	2252	2252	PRON	PER	Her
+-1	2281	2281	NOM	PER	babies
+-1	2286	2286	PRON	PER	His
+-1	2286	2287	NOM	PER	His Majesty
+-1	2295	2300	NOM	PER	a gentleman - in - waiting
+-1	2303	2303	PRON	PER	His
+-1	2303	2304	NOM	PER	His Majesty
+-1	2318	2320	NOM	PER	the old woman
+-1	2328	2330	NOM	PER	the little Prince
+-1	2332	2332	PRON	PER	she
+-1	2334	2334	PRON	PER	him
+-1	2348	2348	NOM	PER	nobody
+20	2355	2356	PROP	PER	Prince Dolor
+-1	2361	2361	PRON	PER	your
+-1	2361	2362	NOM	PER	your mother
+19	2363	2363	PROP	PER	Dolorez
+-1	2372	2372	NOM	PER	Everybody
+-1	2389	2391	NOM	PER	the old woman
+1	2396	2396	PROP	GPE	Nomansland
+-1	2399	2400	NOM	PER	the king
+-1	2402	2403	NOM	PER	the queen
+-1	2414	2414	PRON	PER	They
+-1	2418	2418	PRON	PER	their
+-1	2434	2434	PRON	PER	their
+-1	2437	2437	PRON	PER	they
+-1	2441	2442	NOM	PER	Old woman
+-1	2444	2444	PRON	PER	you
+-1	2453	2459	NOM	PER	the eldest lady - in - waiting
+-1	2466	2466	PRON	PER	you
+-1	2472	2472	PRON	PER	my
+-1	2478	2478	PRON	PER	you
+-1	2486	2486	PRON	PER	you
+-1	2491	2491	PRON	PER	her
+-1	2491	2494	NOM	PER	her most gracious Majesty
+19	2497	2497	PROP	PER	Dolorez
+19	2505	2505	PROP	PER	Dolorez
+-1	2509	2511	NOM	PER	the old woman
+-1	2517	2529	NOM	PER	The first gentleman , called the Gold - stick - in - waiting
+-1	2535	2535	PRON	PER	her
+-1	2543	2543	PRON	PER	their
+-1	2547	2547	PRON	PER	her
+-1	2556	2556	PRON	PER	their
+-1	2564	2564	NOM	PER	anybody
+-1	2586	2587	NOM	FAC	the palace
+-1	2599	2603	NOM	PER	some of the Royal family
+-1	2601	2603	NOM	PER	the Royal family
+-1	2611	2611	PRON	PER	he
+-1	2613	2613	PRON	PER	she
+-1	2622	2622	PRON	PER	They
+-1	2631	2632	NOM	PER	Some one
+-1	2635	2641	NOM	PER	One -- two -- three -- four
+-1	2650	2651	NOM	PER	the queen
+-1	2660	2661	NOM	PER	the Queen
+-1	2663	2663	PRON	PER	Her
+-1	2663	2664	NOM	PER	Her Majesty
+-1	2674	2674	PRON	PER	she
+-1	2681	2681	PRON	PER	her
+-1	2685	2685	PRON	PER	her
+-1	2696	2696	PRON	PER	her
+-1	2696	2697	NOM	PER	her women
+-1	2706	2706	PRON	PER	they
+-1	2714	2714	PRON	PER	she
+-1	2724	2724	PRON	PER	her
+-1	2729	2729	PRON	PER	she
+-1	2733	2733	PRON	PER	her
+-1	2740	2740	NOM	PER	one
+-1	2744	2749	NOM	LOC	the tops of the distant mountains
+-1	2747	2749	NOM	LOC	the distant mountains
+-1	2751	2753	NOM	LOC	the Beautiful Mountains
+-1	2756	2756	PRON	PER	they
+-1	2761	2761	PRON	PER	she
+-1	2768	2768	PRON	PER	she
+-1	2774	2776	NOM	PER	the little Prince
+-1	2781	2781	PRON	PER	his
+-1	2781	2782	NOM	PER	his mother
+-1	2781	2784	NOM	FAC	his mother 's room
+-1	2788	2789	NOM	PER	no mother
+-1	2792	2792	PRON	PER	him
+-1	2797	2797	PRON	PER	he
+-1	2807	2807	PRON	PER	him
+-1	2809	2809	NOM	PER	mother
+-1	2817	2817	PRON	PER	his
+-1	2817	2818	NOM	PER	his Godmother
+-1	2820	2829	NOM	PER	the little old woman in grey who called herself so
+-1	2828	2828	PRON	PER	herself
+-1	2832	2832	PRON	PER	she
+-1	2838	2838	PRON	PER	her
+-1	2841	2841	PRON	PER	they
+-1	2847	2847	PRON	PER	she
+-1	2851	2852	NOM	FAC	the chapel
+-1	2861	2863	NOM	PER	the bewildered crowd
+-1	2865	2865	NOM	PER	nobody
+-1	2868	2868	NOM	PER	nobody
+-1	2872	2872	PRON	PER	her
+-1	2875	2876	NOM	PER	the nurse
+-1	2878	2889	NOM	PER	the ordinary homely one , coming out of the Prince 's nursery
+-1	2886	2887	NOM	PER	the Prince
+-1	2886	2889	NOM	FAC	the Prince 's nursery
+-1	2903	2903	PRON	PER	his
+-1	2916	2916	PRON	PER	she
+-1	2925	2925	PRON	PER	she
+-1	2941	2941	PRON	PER	She
+-1	2943	2943	PRON	PER	her
+-1	2946	2946	PRON	PER	her
+-1	2953	2953	PRON	PER	she
+-1	2958	2960	NOM	PER	the old woman
+-1	2967	2967	NOM	PER	Everybody
+-1	2972	2975	NOM	PER	the poor little Prince
+0	2977	2977	PRON	PER	I
+-1	2979	2979	NOM	PER	people
+-1	2984	2985	NOM	PER	motherless children
+-1	2988	2988	NOM	PER	princes
+-1	2990	2990	NOM	PER	peasants
+-1	2992	2992	PRON	PER	He
+-1	2994	2996	NOM	FAC	a magnificent nursery
+-1	3003	3003	NOM	PER	attendants
+-1	3015	3015	NOM	PER	Nobody
+-1	3021	3021	PRON	PER	him
+-1	3029	3029	PRON	PER	him
+-1	3036	3036	PRON	PER	him
+-1	3042	3043	NOM	PER	some people
+-1	3049	3049	PRON	PER	he
+-1	3052	3054	NOM	PER	a sweet baby
+-1	3061	3061	PRON	PER	it
+-1	3069	3070	NOM	PER	the Prince
+-1	3072	3072	PRON	PER	his
+-1	3072	3073	NOM	PER	his mother
+-1	3075	3078	NOM	PER	children of his age
+-1	3077	3077	PRON	PER	his
+-1	3087	3087	PRON	PER	she
+-1	3095	3095	PRON	PER	him
+-1	3098	3100	NOM	PER	a beautiful baby
+-1	3101	3101	PRON	PER	he
+-1	3116	3116	PRON	PER	his
+-1	3132	3132	PRON	PER	his
+-1	3134	3134	PRON	PER	they
+-1	3139	3139	PRON	PER	he
+-1	3143	3143	PRON	PER	them
+-1	3155	3155	PRON	PER	he
+-1	3164	3164	PRON	PER	his
+-1	3164	3165	NOM	PER	his nurse
+-1	3169	3169	PRON	PER	him
+-1	3172	3172	PRON	PER	them
+-1	3174	3174	PRON	PER	he
+-1	3187	3187	NOM	PER	people
+-1	3194	3195	NOM	PER	A prince
+-1	3203	3203	PRON	PER	his
+-1	3216	3217	NOM	GPE	the country
+-1	3223	3223	PRON	PER	him
+-1	3226	3228	NOM	PER	poor little boy
+-1	3231	3231	NOM	PER	nobody
+-1	3245	3245	PRON	PER	his
+-1	3257	3257	PRON	PER	his
+-1	3263	3263	PRON	PER	his
+-1	3272	3272	PRON	PER	his
+-1	3278	3278	NOM	PER	people
+-1	3283	3283	PRON	PER	him
+-1	3295	3295	NOM	PER	Everybody
+-1	3299	3299	NOM	PER	nobody
+-1	3316	3319	NOM	PER	the poor little Prince
+-1	3324	3324	NOM	PER	nobody
+-1	3328	3331	NOM	PER	the King his father
+-1	3330	3330	PRON	PER	his
+-1	3330	3331	NOM	PER	his father
+-1	3339	3340	NOM	PER	great people
+-1	3347	3347	PRON	PER	his
+-1	3347	3348	NOM	PER	his Majesty
+-1	3354	3354	PRON	PER	his
+-1	3354	3355	NOM	PER	his son
+-1	3359	3359	PRON	PER	his
+-1	3368	3368	PRON	PER	his
+-1	3368	3369	NOM	GPE	his kingdom
+-1	3371	3371	NOM	PER	People
+-1	3374	3374	PRON	PER	he
+-1	3378	3379	NOM	PER	the Queen
+-1	3383	3383	PRON	PER	she
+-1	3388	3389	NOM	PER	an invalid
+-1	3392	3392	PRON	PER	he
+-1	3396	3396	PRON	PER	her
+-1	3398	3398	PRON	PER	he
+-1	3405	3405	PRON	PER	He
+-1	3407	3407	PRON	PER	himself
+-1	3409	3409	PRON	PER	her
+-1	3409	3411	NOM	FAC	her empty rooms
+-1	3413	3425	NOM	FAC	the only rooms in the palace whence one could see the Beautiful Mountains
+-1	3417	3418	NOM	FAC	the palace
+-1	3420	3420	NOM	PER	one
+2	3423	3425	PROP	LOC	the Beautiful Mountains
+-1	3436	3436	PRON	PER	he
+-1	3438	3438	PRON	PER	she
+-1	3446	3446	PRON	PER	his
+-1	3450	3450	PRON	PER	her
+-1	3461	3461	NOM	PER	nobody
+-1	3467	3467	PRON	PER	he
+-1	3470	3471	NOM	PER	the Prince
+-1	3489	3489	PRON	PER	him
+-1	3491	3491	PRON	PER	his
+-1	3491	3492	NOM	PER	his godfathers
+-1	3494	3494	NOM	PER	godmothers
+-1	3503	3506	NOM	PER	the little old woman
+-1	3511	3511	PRON	PER	his
+-1	3511	3512	NOM	PER	his mother
+19	3513	3513	PROP	PER	Dolorez
+-1	3525	3526	NOM	PER	the Prince
+-1	3530	3530	PRON	PER	his
+-1	3537	3540	NOM	PER	the King his father
+-1	3539	3539	PRON	PER	his
+-1	3539	3540	NOM	PER	his father
+-1	3549	3549	PRON	PER	his
+-1	3549	3550	NOM	PER	his Majesty
+-1	3563	3564	NOM	PER	the child
+-1	3570	3570	PRON	PER	he
+-1	3572	3574	NOM	PER	the Crown Prince
+-1	3581	3581	PRON	PER	his
+-1	3581	3583	NOM	PER	his royal brother
+20	3590	3591	PROP	PER	Prince Dolor
+-1	3597	3598	NOM	FAC	the room
+-1	3601	3601	PRON	PER	himself
+-1	3604	3604	PRON	PER	his
+-1	3608	3608	PRON	PER	his
+-1	3627	3628	NOM	PER	the father
+-1	3635	3635	PRON	PER	his
+-1	3635	3636	NOM	PER	his son
+-1	3642	3642	PRON	PER	his
+-1	3642	3644	NOM	PER	his Royal Highness
+-1	3648	3648	PRON	PER	he
+-1	3651	3652	NOM	PER	the nurse
+-1	3666	3666	PRON	PER	your
+-1	3666	3667	NOM	PER	your Majesty
+-1	3678	3678	PRON	PER	his
+-1	3678	3680	NOM	PER	his Royal Highness
+-1	3684	3684	PRON	PER	he
+-1	3687	3688	NOM	PER	the nurse
+-1	3697	3697	PRON	PER	me
+-1	3701	3702	NOM	PER	the King
+-1	3708	3708	PRON	PER	He
+-1	3716	3716	PRON	PER	he
+-1	3721	3721	PRON	PER	he
+-1	3724	3724	NOM	PER	brother
+-1	3726	3726	PRON	PER	You
+-1	3732	3732	NOM	PER	children
+-1	3743	3743	PRON	PER	him
+-1	3753	3755	NOM	PER	the Crown Prince
+-1	3761	3769	NOM	PER	the nurse , who did not understand at all
+-1	3780	3780	PRON	PER	her
+-1	3787	3787	PRON	PER	your
+-1	3787	3788	NOM	PER	your Majesty
+-1	3795	3795	PRON	PER	his
+-1	3795	3797	NOM	PER	his Royal Highness
+-1	3826	3826	PRON	PER	his
+-1	3826	3828	NOM	PER	his dear mother
+-1	3834	3834	PRON	PER	she
+-1	3840	3840	PRON	PER	she
+-1	3842	3847	NOM	PER	the sweetest woman that ever lived
+-1	3852	3852	PRON	PER	my
+-1	3852	3854	NOM	PER	my little son
+-1	3859	3860	NOM	PER	the Prince
+-1	3864	3864	PRON	PER	his
+-1	3864	3865	NOM	PER	his father
+-1	3876	3876	PRON	PER	his
+-1	3876	3877	NOM	PER	his mother's
+-1	3879	3879	PRON	PER	his
+-1	3879	3882	NOM	PER	his Majesty the King
+-1	3881	3882	NOM	PER	the King
+-1	3887	3887	PRON	PER	his
+-1	3892	3893	NOM	PER	the boy
+-1	3896	3896	PRON	PER	him
+-1	3901	3902	NOM	PER	a boy
+-1	3911	3913	NOM	PER	the royal countenance
+-1	3918	3918	PRON	PER	I
+-1	3935	3936	NOM	PER	a prince
+-1	3942	3947	NOM	PER	all the doctors in my kingdom
+-1	3946	3946	PRON	PER	my
+-1	3946	3947	NOM	GPE	my kingdom
+-1	3951	3951	PRON	PER	They
+-1	3955	3955	NOM	PER	each
+-1	3972	3972	PRON	PER	they
+-1	3985	3986	NOM	PER	the prince
+-1	3992	3992	PRON	PER	he
+-1	3994	3995	NOM	PER	an infant
+-1	4006	4006	PRON	PER	his
+-1	4013	4013	NOM	PER	nobody
+-1	4018	4018	NOM	PER	nobody
+-1	4022	4024	NOM	PER	all the nurses
+-1	4040	4043	NOM	PER	the faithful country nurse
+-1	4063	4065	NOM	PER	all the others
+-1	4067	4067	PRON	PER	her
+-1	4071	4071	PRON	PER	she
+-1	4076	4076	PRON	PER	her
+-1	4087	4119	NOM	PER	the young lady nurse who had carried the baby that fatal day , and who was a sort of connection of the Crown Prince , being his wife 's second cousin once removed
+-1	4094	4095	NOM	PER	the baby
+-1	4108	4110	NOM	PER	the Crown Prince
+-1	4113	4113	PRON	PER	his
+-1	4113	4117	NOM	PER	his wife 's second cousin
+-1	4121	4123	NOM	PER	the poor woman
+-1	4131	4133	NOM	LOC	the Beautiful Mountains
+-1	4137	4137	PRON	PER	she
+-1	4144	4144	NOM	FAC	there
+-1	4149	4149	PRON	PER	her
+-1	4156	4157	NOM	PER	the King
+-1	4173	4173	PRON	PER	his
+-1	4173	4174	NOM	PER	his son
+-1	4186	4186	PRON	PER	he
+-1	4191	4191	PRON	PER	him
+-1	4201	4201	PRON	PER	his
+-1	4201	4202	NOM	PER	his Majesty
+-1	4210	4210	PRON	PER	he
+20	4213	4214	PROP	PER	Prince Dolor
+-1	4217	4217	PRON	PER	they
+-1	4219	4219	PRON	PER	him
+-1	4220	4220	PRON	PER	his
+-1	4220	4222	NOM	PER	his Royal Highness
+-1	4242	4244	NOM	PER	the poor child
+-1	4247	4247	PRON	PER	themselves
+-1	4254	4256	NOM	PER	the Crown Prince
+-1	4262	4266	NOM	PER	any of the differing doctors
+-1	4264	4266	NOM	PER	the differing doctors
+-1	4271	4271	PRON	PER	him
+-1	4278	4282	NOM	PER	the safest doctor of all
+-1	4287	4287	PRON	PER	his
+-1	4292	4292	PRON	PER	her
+-1	4295	4295	PRON	PER	He
+-1	4304	4304	PRON	PER	his
+-1	4311	4311	PRON	PER	his
+-1	4324	4324	PRON	PER	his
+-1	4333	4333	PRON	PER	his
+-1	4333	4334	NOM	PER	his mother
+-1	4343	4344	NOM	LOC	the world
+-1	4347	4348	NOM	PER	the King
+-1	4352	4352	PRON	PER	he
+-1	4358	4360	NOM	PER	the little fellow
+-1	4368	4368	PRON	PER	he
+-1	4375	4375	PRON	PER	himself
+-1	4378	4378	PRON	PER	his
+-1	4384	4384	PRON	PER	his
+-1	4388	4388	PRON	PER	he
+-1	4395	4399	NOM	PER	most children of his age
+-1	4398	4398	PRON	PER	his
+-1	4402	4404	NOM	PER	Poor little man
+-1	4406	4406	PRON	PER	he
+-1	4408	4408	PRON	PER	his
+-1	4412	4412	PRON	PER	he
+-1	4422	4422	PRON	PER	I
+-1	4424	4424	NOM	PER	brother
+-1	4428	4444	NOM	PER	the Crown Prince , who was more constant than ever in his attendance upon the sick monarch
+-1	4439	4439	PRON	PER	his
+-1	4442	4444	NOM	PER	the sick monarch
+-1	4451	4451	PRON	PER	me
+-1	4453	4453	PRON	PER	I
+-1	4456	4456	PRON	PER	you
+-1	4458	4458	NOM	PER	Regent
+-1	4463	4463	PRON	PER	my
+-1	4466	4466	PRON	PER	you
+-1	4471	4471	PRON	PER	my
+-1	4471	4474	NOM	PER	my poor little boy
+-1	4486	4486	PRON	PER	us
+-1	4492	4492	PRON	PER	I
+-1	4494	4494	PRON	PER	your
+-1	4494	4495	NOM	PER	your Majesty
+-1	4497	4497	NOM	PER	everybody
+-1	4500	4500	PRON	PER	you
+-1	4512	4512	PRON	PER	He
+-1	4518	4518	NOM	PER	everybody
+-1	4534	4535	NOM	PER	The King
+-1	4543	4544	NOM	PER	the Queen
+-1	4551	4551	PRON	PER	her
+-1	4551	4553	NOM	FAC	her very room
+20	4558	4559	PROP	PER	Prince Dolor
+-1	4564	4564	NOM	PER	father
+-1	4566	4566	NOM	PER	mother
+-1	4578	4579	NOM	PER	a Prince
+-1	4581	4581	PRON	PER	He
+-1	4590	4590	PRON	PER	He
+-1	4592	4593	NOM	PER	a king
+1	4596	4596	PROP	GPE	Nomansland
+-1	4600	4601	NOM	GPE	other countries
+-1	4603	4604	NOM	PER	the people
+-1	4617	4618	NOM	PER	The king
+-1	4624	4625	NOM	PER	the king
+-1	4634	4635	NOM	GPE	the nation
+-1	4640	4640	PRON	PER	his
+-1	4647	4648	NOM	PER	the queen
+-1	4650	4650	PRON	PER	their
+-1	4650	4652	NOM	FAC	their splendid mausoleum
+-1	4654	4654	NOM	PER	crowds
+-1	4661	4663	NOM	FAC	the royal palace
+-1	4668	4670	NOM	PER	the new monarch
+-1	4672	4672	PRON	PER	They
+-1	4675	4675	PRON	PER	him
+-1	4677	4679	NOM	PER	the Prince Regent
+-1	4682	4682	PRON	PER	they
+-1	4690	4693	NOM	FAC	the council - chamber
+-1	4696	4696	PRON	PER	his
+-1	4701	4708	NOM	PER	one of the gentlemen - in - waiting
+-1	4703	4708	NOM	PER	the gentlemen - in - waiting
+-1	4710	4710	PRON	PER	him
+-1	4714	4714	PRON	PER	him
+-1	4719	4724	NOM	PER	a king!--to the chair of state
+-1	4731	4731	PRON	PER	his
+-1	4734	4734	PRON	PER	he
+-1	4756	4756	PRON	PER	he
+-1	4768	4768	PRON	PER	their
+-1	4772	4772	PRON	PER	his
+-1	4776	4776	PRON	PER	their
+-1	4785	4785	PRON	PER	he
+-1	4793	4793	PRON	PER	him
+-1	4798	4800	NOM	PER	a fine king
+-1	4802	4802	PRON	PER	you
+-1	4806	4812	NOM	PER	the first lord - in - waiting
+-1	4814	4820	NOM	PER	a friend of the Prince Regent 's
+-1	4817	4819	NOM	PER	the Prince Regent
+-1	4822	4911	NOM	PER	the Crown Prince that used to be , who , in the deepest mourning , stood silently beside the throne of his young nephew . He was a handsome man , very grand and clever looking ) . " What a king ! who can never stand to receive his subjects , never walk in processions , who , to the last day of his life , will have to be carried about like a baby . Very unfortunate ! " " Exceedingly unfortunate , " repeated the second lord
+-1	4843	4843	PRON	PER	his
+-1	4843	4845	NOM	PER	his young nephew
+-1	4847	4847	PRON	PER	He
+-1	4849	4851	NOM	PER	a handsome man
+-1	4862	4863	NOM	PER	a king
+-1	4871	4871	PRON	PER	his
+-1	4871	4872	NOM	PER	his subjects
+-1	4886	4886	PRON	PER	his
+-1	4896	4897	NOM	PER	a baby
+-1	4909	4911	NOM	PER	the second lord
+-1	4919	4920	NOM	GPE	a nation
+-1	4922	4923	NOM	PER	its king
+-1	4925	4926	NOM	PER	a child
+-1	4929	4931	NOM	PER	such a child
+-1	4933	4935	NOM	PER	a permanent cripple
+-1	4944	4944	PRON	PER	us
+-1	4951	4953	NOM	PER	the first lord
+-1	4963	4973	NOM	PER	the Regent , who stood erect and pretended to hear nothing
+-1	4976	4976	PRON	PER	I
+-1	4983	4994	NOM	PER	children with very large heads and great broad foreheads and staring eyes
+-1	5001	5001	PRON	PER	us
+-1	5018	5018	PRON	PER	I
+-1	5023	5025	NOM	PER	the Crown Prince
+-1	5034	5034	PRON	PER	his
+-1	5039	5039	PRON	PER	my
+-1	5042	5042	NOM	PER	regent
+-1	5049	5049	PRON	PER	his
+-1	5049	5051	NOM	PER	his Royal Highness
+-1	5053	5053	PRON	PER	his
+-1	5053	5054	NOM	PER	his Majesty
+-1	5056	5056	PRON	PER	I
+-1	5065	5067	NOM	PER	the little child
+-1	5077	5077	PRON	PER	I
+-1	5080	5080	PRON	PER	my
+-1	5085	5086	NOM	GPE	the country
+-1	5091	5092	NOM	GPE	the country
+-1	5099	5101	NOM	PER	the Crown Prince
+-1	5103	5103	NOM	PER	generalissimo
+-1	5111	5111	PRON	PER	his
+-1	5118	5118	PRON	PER	he
+-1	5129	5130	NOM	GPE	the country
+-1	5142	5143	NOM	PER	the king
+-1	5145	5145	NOM	PER	queen
+20	5152	5153	PROP	PER	Prince Dolor
+-1	5156	5157	NOM	LOC	the land
+-1	5162	5162	PRON	PER	his
+-1	5162	5163	NOM	PER	his uncle
+-1	5167	5167	NOM	PER	everybody
+-1	5176	5179	NOM	PER	the poor little Prince
+-1	5183	5185	NOM	PER	a clever uncle
+-1	5190	5190	PRON	PER	him
+-1	5202	5203	NOM	PER	the Regent
+-1	5206	5206	PRON	PER	his
+-1	5206	5207	NOM	PER	his wife
+-1	5209	5209	PRON	PER	her
+-1	5209	5211	NOM	PER	her seven sons
+-1	5215	5215	PRON	PER	them
+-1	5217	5218	NOM	FAC	the palace
+-1	5226	5226	PRON	PER	they
+-1	5243	5244	NOM	GPE	the country
+-1	5252	5252	PRON	GPE	it
+-1	5260	5261	NOM	PER	the Regent
+-1	5263	5263	PRON	PER	his
+-1	5263	5264	NOM	PER	his sons
+-1	5267	5267	PRON	PER	they
+-1	5273	5275	NOM	PER	the Crown Prince
+-1	5281	5283	NOM	PER	the Royal family
+-1	5291	5291	PRON	PER	they
+-1	5293	5295	NOM	PER	very fine children
+-1	5297	5301	NOM	PER	the whole seven of them
+-1	5301	5301	PRON	PER	them
+-1	5309	5309	PRON	PER	they
+-1	5329	5329	PRON	PER	his
+-1	5351	5351	PRON	PER	they
+-1	5353	5355	NOM	PER	very fine children
+-1	5361	5361	PRON	PER	them
+-1	5371	5371	PRON	PER	They
+-1	5377	5377	PRON	PER	they
+-1	5391	5393	NOM	PER	the other child
+-1	5395	5395	PRON	PER	his
+20	5398	5399	PROP	PER	Prince Dolor
+-1	5403	5403	NOM	PER	people
+-1	5408	5408	PRON	PER	him
+-1	5409	5409	PRON	PER	his
+-1	5409	5410	NOM	PER	his Majesty
+-1	5419	5422	NOM	PER	a poor little fellow
+-1	5424	5439	NOM	PER	a helpless cripple , with only head and trunk , and no legs to speak of
+-1	5441	5441	PRON	PER	he
+-1	5447	5447	NOM	PER	anybody
+-1	5451	5463	NOM	PER	people daring enough to peer over the high wall of the palace garden
+-1	5461	5463	NOM	FAC	the palace garden
+-1	5470	5471	NOM	PER	a footman
+-1	5491	5491	NOM	PER	nobody
+-1	5494	5494	PRON	PER	him
+-1	5496	5510	NOM	PER	a pretty little boy , with a bright intelligent face , and large melancholy eyes
+-1	5519	5519	PRON	PER	they
+-1	5521	5521	PRON	PER	his
+-1	5521	5522	NOM	PER	his mother
+-1	5526	5526	PRON	PER	she
+-1	5540	5540	PRON	PER	They
+-1	5543	5547	NOM	PER	people , those childish eyes
+-1	5549	5549	PRON	PER	they
+-1	5560	5560	NOM	PER	anybody
+-1	5572	5572	PRON	PER	they
+-1	5583	5584	NOM	PER	the child
+-1	5590	5595	NOM	PER	every naughty person in the palace
+-1	5594	5595	NOM	FAC	the palace
+20	5600	5601	PROP	PER	Prince Dolor
+-1	5603	5603	PRON	PER	He
+-1	5611	5611	PRON	PER	he
+-1	5621	5622	NOM	PER	a child
+-1	5624	5626	NOM	PER	many other children
+-1	5633	5633	PRON	PER	him
+-1	5636	5637	NOM	PER	bad people
+-1	5641	5642	NOM	PER	grumbling people
+-1	5645	5645	PRON	PER	themselves
+-1	5648	5651	NOM	PER	ill - natured people
+0	5656	5656	PRON	PER	I
+-1	5660	5660	PRON	PER	they
+-1	5665	5685	NOM	PER	a poor little fellow who did not in the least know what had befallen him , or what lay before him
+-1	5679	5679	PRON	PER	him
+-1	5685	5685	PRON	PER	him
+-1	5688	5688	PRON	PER	his
+-1	5704	5704	PRON	PER	he
+-1	5707	5707	PRON	PER	himself
+-1	5712	5712	PRON	PER	him
+-1	5714	5714	PRON	PER	his
+-1	5717	5718	NOM	PER	other people
+-1	5727	5727	NOM	PER	everybody
+-1	5729	5729	PRON	PER	him
+-1	5736	5736	PRON	PER	his
+-1	5736	5737	NOM	PER	his uncle
+-1	5738	5739	NOM	PER	the Regent
+0	5749	5749	PRON	PER	I
+-1	5755	5755	NOM	PER	uncles
+-1	5759	5759	PRON	PER	They
+-1	5762	5764	NOM	PER	very excellent people
+-1	5770	5771	NOM	PER	little boys
+-1	5773	5773	NOM	PER	girls
+-1	5776	5787	NOM	PER	the " cruel uncle " of " The Babes in the Wood
+-1	5783	5787	NOM	PER	The Babes in the Wood
+0	5789	5789	PRON	PER	I
+-1	5799	5808	NOM	PER	this " cruel uncle " of whom I am telling
+0	5806	5806	PRON	PER	I
+0	5811	5811	PRON	PER	I
+-1	5818	5818	PRON	PER	He
+-1	5827	5827	NOM	PER	anybody
+-1	5830	5830	PRON	PER	him
+-1	5833	5833	PRON	PER	he
+-1	5840	5840	PRON	PER	he
+-1	5846	5846	PRON	PER	he
+-1	5855	5856	NOM	GPE	the country
+-1	5859	5859	PRON	PER	he
+-1	5861	5894	NOM	PER	a man who had been always accustomed to consider himself first and foremost , believing that whatever he wanted was sure to be right , and , therefore , he ought to have it
+-1	5870	5870	PRON	PER	himself
+-1	5878	5878	PRON	PER	he
+-1	5890	5890	PRON	PER	he
+-1	5897	5897	PRON	PER	he
+-1	5909	5911	NOM	PER	people like him
+-1	5911	5911	PRON	PER	him
+-1	5917	5917	PRON	PER	they
+-1	5921	5921	PRON	PER	they
+-1	5931	5931	PRON	PER	he
+-1	5936	5939	NOM	FAC	the council - chamber
+-1	5948	5949	NOM	PER	the ministers
+-1	5951	5954	NOM	GPE	the country at large
+-1	5956	5958	NOM	PER	the young King
+-1	5972	5972	PRON	PER	him
+2	5977	5979	PROP	LOC	the Beautiful Mountains
+-1	5982	5982	PRON	PER	he
+-1	5994	5994	PRON	PER	him
+-1	6005	6005	PRON	PER	his
+1	6012	6012	PROP	GPE	Nomansland
+0	6018	6018	PRON	PER	I
+-1	6028	6028	PRON	PER	he
+-1	6037	6038	NOM	PER	the King
+-1	6049	6059	NOM	PER	a guard of honour composed of two whole regiments of soldiers
+-1	6061	6062	NOM	GPE	the nation
+-1	6070	6073	NOM	PER	the poor little Prince
+-1	6075	6075	NOM	PER	nobody
+-1	6078	6078	PRON	PER	him
+-1	6079	6079	NOM	PER	king
+2	6091	6093	PROP	LOC	the Beautiful Mountains
+-1	6095	6095	PRON	PER	He
+-1	6100	6101	NOM	FAC	the road
+-1	6114	6117	NOM	PER	the physician in attendance
+-1	6120	6130	NOM	PER	the nurse who had been sent to take care of him
+-1	6130	6130	PRON	PER	him
+-1	6132	6132	PRON	PER	They
+-1	6134	6134	PRON	PER	his
+-1	6145	6146	NOM	FAC	the mausoleum
+-1	6148	6148	PRON	PER	his
+-1	6148	6149	NOM	PER	his parents
+20	6152	6153	PROP	PER	Prince Dolor
+-1	6159	6160	NOM	GPE	The country
+-1	6166	6166	PRON	PER	him
+-1	6171	6171	PRON	PER	him
+-1	6174	6174	PRON	PER	his
+-1	6174	6175	NOM	PER	his uncle
+-1	6178	6178	PRON	PER	his
+-1	6181	6183	NOM	PER	That illustrious personage
+-1	6185	6185	PRON	PER	his
+-1	6204	6204	PRON	PER	he
+-1	6223	6235	NOM	PER	the little lame prince , whom everybody seemed so easily to have forgotten
+-1	6229	6229	NOM	PER	everybody
+-1	6238	6238	NOM	PER	everybody
+-1	6242	6245	NOM	PER	a few kind souls
+-1	6247	6249	NOM	PER	mothers of families
+-1	6249	6249	NOM	PER	families
+-1	6254	6254	PRON	PER	his
+-1	6259	6272	NOM	PER	some servants about the palace , who had been familiar with his sweet ways
+-1	6262	6263	NOM	FAC	the palace
+-1	6270	6270	PRON	PER	his
+20	6283	6285	PROP	PER	Poor Prince Dolor
+2	6292	6294	PROP	LOC	the Beautiful Mountains
+1	6301	6301	PROP	GPE	Nomansland
+-1	6304	6305	NOM	PER	few people
+-1	6308	6308	PRON	PER	them
+-1	6314	6314	PRON	PER	his
+-1	6314	6316	NOM	PER	his Royal Highness
+-1	6320	6320	PRON	PER	he
+-1	6324	6324	NOM	GPE	there
+-1	6327	6327	PRON	PER	They
+-1	6335	6335	NOM	PER	anybody
+-1	6341	6342	NOM	LOC	the mountains
+-1	6345	6345	PRON	PER	them
+-1	6347	6348	NOM	LOC	the sea
+-1	6351	6354	NOM	LOC	a tract of country
+-1	6397	6399	NOM	LOC	that dreary plain
+-1	6408	6408	PRON	LOC	it
+-1	6426	6426	PRON	LOC	it
+-1	6476	6480	NOM	LOC	the center of the plain
+-1	6479	6480	NOM	LOC	the plain
+-1	6494	6494	NOM	PER	nobody
+-1	6497	6497	NOM	FAC	there
+-1	6505	6506	NOM	PER	human creatures
+-1	6511	6512	NOM	LOC	the spot
+-1	6523	6527	NOM	LOC	the centre of the plain
+-1	6526	6527	NOM	LOC	the plain
+-1	6535	6535	PRON	FAC	it
+-1	6541	6548	NOM	PER	anybody to see , which there never was
+-1	6572	6572	PRON	FAC	it
+-1	6585	6585	PRON	FAC	it
+-1	6594	6594	PRON	FAC	it
+-1	6596	6599	NOM	FAC	the Irish round towers
+-1	6604	6604	NOM	PER	people
+-1	6609	6609	NOM	PER	nobody
+-1	6625	6625	PRON	PER	they
+-1	6637	6638	NOM	FAC	this tower
+-1	6640	6640	PRON	FAC	It
+-1	6661	6661	PRON	PER	you
+-1	6681	6681	PRON	FAC	Its
+-1	6691	6691	PRON	FAC	it
+-1	6704	6705	NOM	LOC	the plain
+-1	6712	6713	NOM	LOC	a desert
+-1	6724	6730	NOM	LOC	the still more desolate sea - coast
+-1	6732	6732	NOM	PER	nobody
+-1	6735	6735	PRON	LOC	it
+-1	6742	6743	NOM	FAC	the tower
+-1	6745	6745	PRON	LOC	it
+-1	6750	6751	NOM	LOC	the plain
+-1	6756	6756	PRON	PER	themselves
+-1	6771	6787	NOM	PER	none but so clever a man as the present king of Nomansland would ever have thought of
+-1	6778	6782	NOM	PER	the present king of Nomansland
+1	6782	6782	PROP	GPE	Nomansland
+-1	6790	6790	PRON	PER	he
+0	6797	6797	PRON	PER	I
+-1	6802	6802	NOM	PER	People
+-1	6814	6824	NOM	PER	a gang of condemned criminals , who were set to work
+-1	6830	6830	PRON	PER	they
+-1	6836	6836	NOM	PER	nobody
+-1	6858	6859	NOM	FAC	this tower
+-1	6863	6872	NOM	LOC	a mere mass of masonry , utterly forsaken and uninhabited
+-1	6887	6889	NOM	PER	some ingenious architect
+-1	6892	6895	NOM	FAC	a perfect little house
+-1	6899	6900	NOM	FAC	four rooms
+-1	6910	6910	PRON	PER	you
+-1	6946	6948	NOM	FAC	a dwelling complete
+-1	6971	6976	NOM	LOC	A charming place to live in
+-1	6979	6979	PRON	PER	you
+-1	6983	6983	NOM	FAC	there
+-1	6996	6996	NOM	PER	nobody
+-1	7012	7014	NOM	FAC	that lonely tower
+-1	7017	7017	PRON	FAC	it
+-1	7041	7042	NOM	PER	a child
+-1	7047	7047	PRON	FAC	its
+-1	7047	7049	NOM	PER	its only inhabitant
+-1	7052	7055	NOM	PER	a nurse of course
+-1	7058	7062	NOM	PER	a poor little solitary child
+-1	7070	7071	NOM	LOC	the plain
+-1	7081	7081	PRON	FAC	it
+-1	7090	7108	NOM	PER	a man also big and equally black , carrying before him on the saddle a woman and a child
+-1	7100	7100	PRON	PER	him
+-1	7104	7105	NOM	PER	a woman
+-1	7107	7108	NOM	PER	a child
+-1	7110	7111	NOM	PER	The woman
+-1	7113	7113	PRON	PER	she
+-1	7126	7126	PRON	PER	she
+-1	7128	7133	NOM	PER	a criminal under sentence of death
+-1	7136	7136	PRON	PER	her
+-1	7148	7148	PRON	PER	She
+-1	7152	7154	NOM	FAC	the lonely tower
+-1	7156	7157	NOM	PER	the child
+-1	7167	7168	NOM	PER	the child
+-1	7179	7179	PRON	PER	she
+-1	7186	7186	PRON	PER	him
+-1	7189	7193	NOM	PER	those who put him there
+-1	7192	7192	PRON	PER	him
+-1	7198	7198	PRON	PER	his
+-1	7202	7202	PRON	PER	his
+-1	7207	7207	PRON	PER	he
+-1	7210	7213	NOM	PER	a little gentle boy
+-1	7221	7221	PRON	PER	he
+-1	7227	7227	PRON	PER	his
+-1	7239	7240	NOM	PER	the man
+-1	7245	7245	PRON	PER	he
+-1	7262	7262	PRON	PER	him
+-1	7265	7265	PRON	PER	he
+-1	7271	7271	PRON	PER	his
+-1	7286	7289	NOM	PER	the little forlorn boy
+20	7291	7292	PROP	PER	Prince Dolor
+-1	7299	7299	PRON	PER	He
+-1	7316	7316	PRON	PER	him
+-1	7321	7321	PRON	PER	He
+-1	7333	7333	PRON	PER	His
+-1	7349	7349	PRON	PER	his
+-1	7353	7353	PRON	PER	he
+-1	7354	7354	PRON	PER	himself
+-1	7361	7362	NOM	PER	these two
+-1	7364	7366	NOM	PER	the condemned woman
+-1	7368	7370	NOM	PER	the black man
+-1	7372	7373	NOM	PER	The latter
+-1	7388	7388	PRON	PER	they
+-1	7393	7394	NOM	FAC	the tower
+-1	7416	7419	NOM	PER	The deaf - mute
+-1	7422	7422	PRON	PER	his
+-1	7451	7451	PRON	PER	he
+-1	7457	7458	NOM	FAC	the tower
+-1	7471	7472	NOM	PER	the woman
+-1	7474	7475	NOM	PER	the child
+-1	7477	7477	PRON	PER	themselves
+-1	7491	7491	PRON	PER	they
+-1	7495	7495	PRON	PER	them
+-1	7496	7496	NOM	FAC	there
+-1	7498	7499	NOM	PER	the man
+-1	7513	7513	PRON	PER	his
+-1	7523	7524	NOM	LOC	the plain
+-1	7528	7528	PRON	PER	they
+-1	7533	7533	PRON	PER	him
+-1	7543	7543	PRON	PER	He
+-1	7545	7545	PRON	PER	his
+-1	7551	7552	NOM	FAC	the tower
+-1	7568	7568	PRON	PER	He
+-1	7571	7572	NOM	PER	the Prince
+-1	7580	7581	NOM	PER	the child
+-1	7597	7597	PRON	PER	his
+20	7602	7603	PROP	PER	Prince Dolor
+-1	7608	7608	PRON	PER	He
+-1	7614	7615	NOM	PER	a prince
+-1	7631	7631	PRON	PER	he
+-1	7636	7636	PRON	PER	His
+-1	7636	7637	NOM	PER	His nurse
+-1	7642	7642	PRON	PER	him
+-1	7645	7645	PRON	PER	she
+-1	7647	7649	NOM	PER	a wicked woman
+-1	7653	7653	PRON	PER	she
+-1	7661	7661	NOM	PER	people
+-1	7665	7665	PRON	PER	she
+-1	7674	7691	NOM	PER	a little innocent child , who was dependent upon her for every comfort and pleasure of his life
+-1	7683	7683	PRON	PER	her
+-1	7690	7690	PRON	PER	his
+-1	7702	7702	NOM	PER	nobody
+-1	7709	7709	PRON	PER	him
+-1	7712	7712	PRON	PER	he
+-1	7717	7717	PRON	PER	He
+-1	7721	7721	NOM	FAC	room
+-1	7727	7728	NOM	FAC	four rooms
+-1	7730	7730	NOM	FAC	parlour
+-1	7732	7732	NOM	FAC	kitchen
+-1	7734	7734	PRON	PER	his
+-1	7734	7735	NOM	PER	his nurse
+-1	7734	7739	NOM	FAC	his nurse 's bed - room
+-1	7742	7742	PRON	PER	his
+-1	7777	7777	PRON	PER	he
+-1	7805	7805	PRON	PER	he
+-1	7809	7809	PRON	PER	he
+-1	7820	7820	PRON	PER	he
+-1	7843	7844	NOM	FAC	the tower,--and
+-1	7875	7877	NOM	LOC	the blank plain
+-1	7884	7884	PRON	PER	he
+-1	7892	7892	PRON	PER	his
+-1	7892	7893	NOM	PER	his nurse
+-1	7899	7899	PRON	PER	him
+-1	7902	7902	PRON	PER	she
+-1	7908	7908	PRON	PER	herself
+-1	7910	7910	PRON	PER	She
+-1	7913	7915	NOM	PER	a stupid woman
+20	7918	7919	PROP	PER	Prince Dolor
+-1	7924	7926	NOM	PER	a stupid boy
+-1	7929	7929	PRON	PER	they
+-1	7936	7936	PRON	PER	his
+-1	7942	7942	PRON	PER	I
+-1	7947	7947	PRON	PER	you
+-1	7949	7949	PRON	PER	me
+-1	7975	7975	PRON	PER	he
+-1	7984	7984	PRON	PER	he
+-1	7990	7990	PRON	PER	he
+-1	7994	7994	PRON	PER	himself
+-1	8005	8005	PRON	PER	he
+-1	8010	8013	NOM	PER	a big little boy
+-1	8021	8021	PRON	PER	he
+-1	8028	8031	NOM	PER	the deaf - mute
+-1	8033	8033	PRON	PER	him
+1	8049	8049	PROP	GPE	Nomansland
+0	8051	8051	PRON	PER	I
+-1	8065	8065	PRON	PER	they
+-1	8067	8067	PRON	PER	him
+-1	8071	8073	NOM	LOC	the outside world
+-1	8077	8077	PRON	PER	him
+-1	8093	8094	NOM	PER	the boy
+-1	8096	8096	PRON	PER	He
+-1	8107	8107	PRON	PER	himself
+-1	8115	8115	PRON	PER	his
+-1	8115	8116	NOM	PER	his nurse
+-1	8123	8123	PRON	PER	he
+-1	8126	8126	PRON	PER	their
+-1	8130	8130	PRON	PER	she
+-1	8134	8134	PRON	PER	She
+-1	8149	8149	PRON	PER	him
+-1	8152	8152	PRON	PER	himself
+-1	8155	8155	PRON	PER	he
+-1	8160	8160	PRON	PER	he
+-1	8165	8165	PRON	PER	He
+-1	8167	8167	PRON	PER	he
+20	8169	8170	PROP	PER	Prince Dolor
+-1	8173	8173	PRON	PER	she
+-1	8176	8176	PRON	PER	him
+-1	8179	8179	PRON	PER	my
+-1	8179	8180	NOM	PER	my prince
+-1	8185	8185	PRON	PER	your
+-1	8185	8187	NOM	PER	your royal highness
+-1	8192	8193	NOM	PER	a prince
+-1	8195	8195	PRON	PER	he
+-1	8202	8202	PRON	PER	He
+-1	8210	8211	NOM	LOC	the world
+-1	8215	8215	PRON	PER	he
+-1	8218	8218	PRON	PER	his
+-1	8221	8221	PRON	PER	He
+-1	8234	8234	PRON	PER	him
+-1	8241	8241	PRON	PER	He
+-1	8261	8261	PRON	PER	you
+-1	8273	8273	PRON	PER	you
+-1	8283	8283	PRON	PER	his
+-1	8285	8285	PRON	PER	he
+-1	8289	8289	PRON	PER	his
+-1	8293	8293	PRON	PER	his
+-1	8296	8296	PRON	PER	he
+-1	8312	8312	PRON	PER	he
+-1	8319	8319	PRON	PER	his
+-1	8338	8339	NOM	LOC	the plain
+-1	8345	8345	PRON	PER	he
+-1	8349	8349	PRON	PER	He
+-1	8355	8355	PRON	PER	he
+-1	8371	8372	NOM	LOC	the plain
+-1	8382	8382	PRON	PER	he
+-1	8385	8385	PRON	PER	his
+-1	8385	8386	NOM	PER	his nurse
+-1	8389	8389	PRON	PER	him
+-1	8394	8394	PRON	PER	he
+-1	8398	8399	NOM	FAC	the tower
+-1	8401	8401	PRON	PER	he
+-1	8404	8404	PRON	PER	he
+-1	8414	8414	PRON	PER	he
+-1	8433	8433	PRON	PER	him
+-1	8439	8439	PRON	PER	I
+-1	8441	8441	PRON	PER	I
+-1	8443	8443	NOM	PER	somebody
+-1	8446	8446	PRON	PER	me
+-1	8464	8464	PRON	PER	me
+-1	8467	8467	PRON	PER	my
+-1	8478	8478	PRON	PER	his
+-1	8482	8483	NOM	PER	the boy
+-1	8482	8486	NOM	PER	the boy 's one friend
+-1	8492	8492	PRON	PER	his
+-1	8515	8515	PRON	PER	his
+-1	8519	8519	PRON	PER	him
+20	8525	8526	PROP	PER	Prince Dolor
+-1	8536	8536	PRON	PER	his
+-1	8556	8560	NOM	FAC	the parapet of the tower
+-1	8559	8560	NOM	FAC	the tower
+-1	8567	8567	PRON	PER	It
+-1	8572	8572	PRON	PER	he
+-1	8583	8583	PRON	PER	he
+-1	8586	8586	PRON	PER	he
+-1	8597	8597	PRON	PER	he
+-1	8608	8608	PRON	PER	I
+-1	8610	8610	PRON	PER	I
+-1	8618	8619	NOM	PER	a person
+-1	8621	8635	NOM	PER	a real live person , who would be fond of me and kind to me
+-1	8631	8631	PRON	PER	me
+-1	8635	8635	PRON	PER	me
+-1	8639	8639	PRON	PER	I
+-1	8641	8641	NOM	PER	somebody
+-1	8649	8649	PRON	PER	he
+-1	8655	8655	PRON	PER	him
+-1	8674	8674	PRON	PER	himself
+-1	8677	8677	PRON	PER	he
+-1	8682	8682	PRON	PER	you
+-1	8684	8684	PRON	PER	he
+-1	8698	8700	NOM	PER	A little woman
+-1	8705	8705	PRON	PER	he
+-1	8707	8707	PRON	PER	himself
+-1	8712	8712	PRON	PER	his
+-1	8718	8719	NOM	PER	other children
+-1	8722	8722	PRON	PER	she
+-1	8725	8726	NOM	PER	a child
+-1	8728	8728	PRON	PER	she
+-1	8730	8732	NOM	PER	an old woman
+-1	8734	8734	PRON	PER	Her
+-1	8740	8740	PRON	PER	her
+-1	8752	8752	PRON	PER	her
+-1	8754	8754	PRON	PER	she
+-1	8758	8758	PRON	PER	she
+-1	8770	8770	PRON	PER	she
+-1	8781	8781	PRON	PER	My
+-1	8781	8782	NOM	PER	My dear
+-1	8786	8786	PRON	PER	her
+-1	8796	8796	PRON	PER	her
+-1	8798	8798	PRON	PER	she
+-1	8805	8805	PRON	PER	his
+-1	8807	8809	NOM	PER	own little boy
+-1	8811	8811	PRON	PER	I
+-1	8816	8816	PRON	PER	you
+-1	8818	8818	PRON	PER	you
+-1	8821	8821	PRON	PER	you
+-1	8823	8823	PRON	PER	me
+-1	8827	8827	PRON	PER	you
+-1	8830	8830	PRON	PER	me
+-1	8833	8833	PRON	PER	I
+-1	8842	8842	PRON	PER	She
+-1	8849	8849	PRON	PER	his
+-1	8849	8853	NOM	PER	his shoulders--'My own little boy
+-1	8855	8855	PRON	PER	I
+-1	8860	8860	PRON	PER	you
+-1	8862	8862	PRON	PER	you
+-1	8865	8865	PRON	PER	you
+-1	8867	8867	PRON	PER	me
+-1	8875	8875	PRON	PER	you
+-1	8880	8880	NOM	PER	madam
+-1	8884	8885	NOM	PER	the Prince
+-1	8893	8893	NOM	PER	princes
+-1	8901	8901	PRON	PER	I
+-1	8906	8906	PRON	PER	you
+-1	8909	8909	PRON	PER	I
+-1	8912	8912	PRON	PER	you
+-1	8916	8916	PRON	PER	my
+-1	8916	8917	NOM	PER	my mother
+-1	8921	8921	PRON	PER	he
+-1	8924	8925	NOM	PER	little boys
+-1	8928	8929	NOM	PER	a mother
+-1	8939	8939	PRON	PER	his
+-1	8947	8948	NOM	PER	the visitor
+-1	8964	8964	PRON	PER	his
+-1	8971	8971	PRON	PER	his
+-1	8974	8974	PRON	PER	I
+-1	8977	8977	PRON	PER	your
+-1	8977	8978	NOM	PER	your mother
+-1	8981	8981	PRON	PER	she
+-1	8983	8987	NOM	PER	a dear friend of mine
+-1	8987	8987	PRON	PER	mine
+-1	8990	8990	PRON	PER	you
+-1	8994	8994	PRON	PER	her
+-1	8997	8997	PRON	PER	you
+-1	9004	9004	PRON	PER	you
+-1	9006	9006	PRON	PER	her
+-1	9011	9011	PRON	PER	me
+-1	9016	9016	PRON	PER	She
+-1	9021	9021	PRON	PER	I
+-1	9024	9024	PRON	PER	she
+-1	9028	9028	PRON	PER	you
+-1	9031	9031	PRON	PER	she
+-1	9033	9033	PRON	PER	you
+-1	9040	9040	PRON	PER	I
+-1	9043	9043	PRON	PER	I
+-1	9047	9047	PRON	PER	you
+-1	9049	9049	PRON	PER	I
+-1	9052	9052	PRON	PER	my
+-1	9052	9055	NOM	PER	my poor little boy
+-1	9061	9061	PRON	PER	you
+-1	9063	9063	PRON	PER	me
+20	9068	9069	PROP	PER	Prince Dolor
+-1	9073	9076	NOM	PER	The little old woman
+-1	9080	9080	PRON	PER	his
+-1	9086	9086	PRON	PER	he
+-1	9095	9096	NOM	PER	other children
+-1	9101	9101	PRON	PER	his
+-1	9110	9110	PRON	PER	he
+-1	9121	9121	NOM	PER	children
+-1	9137	9137	PRON	PER	him
+-1	9143	9143	PRON	PER	she
+-1	9147	9147	PRON	PER	I
+-1	9149	9149	PRON	PER	your
+-1	9152	9152	PRON	PER	my
+-1	9152	9153	NOM	PER	my prince
+-1	9157	9157	PRON	PER	she
+-1	9162	9162	PRON	PER	I
+-1	9164	9165	NOM	PER	a prince
+-1	9168	9168	PRON	PER	my
+20	9171	9171	PROP	PER	Dolor
+-1	9174	9174	PRON	PER	you
+-1	9176	9176	PRON	PER	me
+-1	9177	9177	PRON	PER	yours
+-1	9179	9179	NOM	PER	madam
+-1	9182	9185	NOM	PER	The little old woman
+-1	9195	9195	PRON	PER	I
+-1	9205	9205	PRON	PER	I
+-1	9211	9211	PRON	PER	I
+-1	9223	9223	PRON	PER	I
+-1	9226	9226	PRON	PER	you
+-1	9227	9227	PRON	PER	yours
+-1	9230	9230	PRON	PER	you
+-1	9234	9234	PRON	PER	me
+-1	9236	9236	PRON	PER	your
+-1	9239	9239	PRON	PER	I
+-1	9241	9241	PRON	PER	your
+-1	9241	9242	NOM	PER	your godmother
+-1	9250	9252	NOM	PER	the little prince
+-1	9255	9255	PRON	PER	I
+-1	9258	9258	PRON	PER	I
+-1	9261	9261	PRON	PER	you
+-1	9264	9264	PRON	PER	I
+-1	9266	9266	PRON	PER	you
+-1	9271	9271	PRON	PER	you
+-1	9276	9276	PRON	PER	me
+-1	9280	9280	PRON	PER	they
+-1	9293	9293	PRON	PER	they
+-1	9300	9300	PRON	PER	you
+-1	9307	9310	NOM	PER	the little old woman
+-1	9317	9317	PRON	PER	you
+-1	9319	9319	NOM	PER	godmother
+-1	9321	9321	PRON	PER	I
+-1	9330	9330	PRON	PER	my
+-1	9336	9336	PRON	PER	my
+-1	9348	9348	PRON	PER	you
+-1	9361	9361	PRON	PER	you
+-1	9364	9364	NOM	PER	godmother
+-1	9367	9367	PRON	PER	you
+-1	9369	9369	PRON	PER	me
+-1	9384	9389	NOM	PER	A little boy to play with
+-1	9392	9394	NOM	PER	The old woman
+-1	9407	9407	PRON	PER	I
+-1	9411	9411	PRON	PER	you
+-1	9413	9413	PRON	PER	My
+-1	9413	9414	NOM	PER	My child
+-1	9416	9416	PRON	PER	I
+-1	9420	9420	PRON	PER	your
+-1	9427	9427	PRON	PER	I
+-1	9430	9430	PRON	PER	you
+-1	9438	9438	PRON	PER	you
+-1	9443	9443	PRON	PER	you
+-1	9449	9449	PRON	PER	I
+-1	9457	9457	PRON	PER	My
+-1	9457	9460	NOM	PER	My poor little man
+-1	9464	9466	NOM	PER	the old woman
+-1	9473	9473	PRON	PER	her
+-1	9479	9479	PRON	PER	me
+-1	9489	9491	NOM	PER	the wondering child
+-1	9493	9493	PRON	PER	His
+-1	9493	9494	NOM	PER	His godmother
+-1	9496	9496	PRON	PER	him
+-1	9498	9498	PRON	PER	her
+-1	9502	9502	PRON	PER	him
+-1	9511	9511	PRON	PER	he
+-1	9513	9513	PRON	PER	her
+-1	9529	9529	PRON	PER	his
+-1	9535	9535	PRON	PER	You
+-1	9542	9542	PRON	PER	my
+-1	9546	9546	PRON	PER	I
+-1	9550	9550	PRON	PER	me
+-1	9552	9552	PRON	PER	you
+-1	9560	9560	PRON	PER	I
+-1	9564	9564	PRON	PER	I
+-1	9570	9570	PRON	PER	me
+-1	9576	9576	PRON	PER	myself
+-1	9579	9579	PRON	PER	you
+-1	9585	9585	PRON	PER	you
+-1	9587	9587	PRON	PER	you
+-1	9594	9594	PRON	PER	you
+-1	9597	9597	PRON	PER	you
+-1	9616	9617	NOM	PER	The Prince
+-1	9623	9623	PRON	PER	I
+-1	9631	9631	PRON	PER	I
+-1	9636	9637	NOM	PER	Sometimes nurse
+-1	9639	9639	PRON	PER	me
+-1	9647	9647	PRON	PER	me
+-1	9658	9658	PRON	PER	I
+-1	9663	9663	PRON	PER	you
+-1	9667	9667	PRON	PER	she
+-1	9676	9676	PRON	PER	you
+21	9689	9689	PROP	PER	Hush!--she
+-1	9697	9698	NOM	FAC	the room
+-1	9717	9717	PRON	PER	It
+-1	9719	9719	PRON	PER	my
+-1	9719	9720	NOM	PER	my nurse
+-1	9723	9723	PRON	PER	she
+-1	9726	9726	PRON	PER	my
+-1	9730	9730	PRON	PER	I
+-1	9738	9738	PRON	PER	I
+-1	9741	9741	PRON	PER	you
+-1	9744	9744	PRON	PER	her
+-1	9747	9747	PRON	PER	you
+-1	9750	9750	NOM	PER	godmother
+-1	9771	9772	NOM	LOC	the world
+-1	9776	9776	PRON	PER	me
+-1	9779	9779	PRON	PER	I
+-1	9796	9796	PRON	PER	me
+-1	9799	9799	PRON	PER	I
+-1	9805	9805	PRON	PER	you
+20	9809	9810	PROP	PER	Prince Dolor
+-1	9819	9819	PRON	PER	he
+-1	9829	9829	PRON	PER	His
+-1	9829	9830	NOM	PER	His nurse
+-1	9832	9832	PRON	PER	his
+-1	9832	9833	NOM	PER	his godmother
+-1	9837	9837	PRON	PER	they
+-1	9840	9841	NOM	PER	one another
+-1	9845	9845	PRON	PER	they
+-1	9848	9852	NOM	PER	one another?--two such different faces
+-1	9854	9865	NOM	PER	one , harsh - lined , sullen , cross , and sad
+20	9891	9892	PROP	PER	Prince Dolor
+-1	9894	9894	PRON	PER	his
+-1	9905	9905	PRON	PER	he
+-1	9907	9907	PRON	PER	he
+-1	9912	9912	PRON	PER	his
+-1	9912	9915	NOM	PER	his lovely old godmother
+-1	9929	9929	PRON	PER	he
+-1	9937	9937	NOM	PER	Nobody
+-1	9939	9939	PRON	PER	his
+-1	9939	9940	NOM	PER	his nurse
+-1	9943	9944	NOM	FAC	the room
+-1	9950	9950	PRON	PER	your
+-1	9950	9952	NOM	PER	your Royal Highness
+-1	9959	9959	PRON	PER	she
+-1	9984	9984	PRON	PER	them
+-1	9995	9995	PRON	PER	me
+-1	9999	10000	NOM	PER	the prince
+-1	10007	10007	PRON	PER	he
+-1	10011	10011	PRON	PER	his
+-1	10020	10020	PRON	PER	his
+-1	10035	10035	PRON	PER	she
+-1	10045	10045	PRON	PER	her
+-1	10047	10047	PRON	PER	his
+-1	10047	10065	NOM	PER	his dear , kind godmother , whom already he loved with all his lonely , tender , passionate heart
+-1	10055	10055	PRON	PER	he
+-1	10059	10059	PRON	PER	his
+-1	10071	10071	PRON	PER	he
+-1	10077	10077	PRON	PER	his
+-1	10107	10108	NOM	PER	the Prince
+0	10113	10113	PRON	PER	I
+-1	10116	10116	PRON	PER	you
+20	10138	10139	PROP	PER	Prince Dolor
+-1	10151	10151	PRON	PER	he
+-1	10156	10156	PRON	PER	his
+-1	10169	10169	PRON	PER	He
+-1	10177	10177	PRON	PER	his
+-1	10177	10178	NOM	PER	his nurse
+-1	10197	10197	PRON	PER	his
+-1	10202	10202	PRON	PER	he
+-1	10208	10208	PRON	PER	his
+-1	10212	10212	PRON	PER	he
+3	10294	10295	PROP	GPE	South America
+20	10308	10309	PROP	PER	Prince Dolor
+-1	10320	10320	PRON	PER	his
+-1	10322	10322	PRON	PER	he
+-1	10338	10338	PRON	PER	his
+-1	10360	10361	NOM	PER	the Prince
+-1	10366	10366	PRON	PER	his
+20	10374	10375	PROP	PER	Prince Dolor
+-1	10386	10386	PRON	PER	his
+-1	10388	10388	PRON	PER	he
+-1	10404	10404	PRON	PER	me
+-1	10408	10408	PRON	PER	he
+-1	10412	10412	PRON	PER	I
+-1	10421	10421	PRON	PER	I
+-1	10430	10430	PRON	PER	me
+-1	10432	10432	PRON	PER	I
+-1	10438	10439	NOM	LOC	the world
+-1	10441	10441	PRON	PER	I
+-1	10447	10447	PRON	PER	She
+-1	10450	10453	NOM	PER	a rather funny person
+-1	10455	10459	NOM	PER	this dear godmother of mine
+-1	10459	10459	PRON	PER	mine
+-1	10465	10465	PRON	PER	she
+-1	10467	10467	PRON	PER	his
+-1	10467	10468	NOM	PER	his godmother
+-1	10473	10473	PRON	PER	him
+-1	10477	10477	PRON	PER	he
+-1	10500	10500	PRON	PER	his
+-1	10506	10506	PRON	PER	his
+-1	10506	10507	NOM	PER	his nurse
+-1	10512	10512	PRON	PER	He
+-1	10516	10516	PRON	PER	her
+-1	10529	10529	PRON	PER	his
+-1	10529	10530	NOM	PER	his godmother
+-1	10533	10533	PRON	PER	he
+-1	10536	10536	PRON	PER	she
+-1	10540	10540	PRON	PER	she
+-1	10554	10554	PRON	PER	he
+0	10562	10562	PRON	PER	I
+-1	10572	10573	NOM	PER	a child
+-1	10578	10578	PRON	PER	her
+-1	10581	10581	PRON	PER	he
+-1	10584	10584	PRON	PER	his
+-1	10584	10587	NOM	PER	his sweet old godmother
+-1	10592	10592	PRON	PER	her
+-1	10595	10595	PRON	PER	he
+-1	10603	10603	PRON	PER	he
+-1	10607	10607	PRON	PER	his
+-1	10612	10612	PRON	PER	her
+-1	10633	10633	PRON	PER	he
+-1	10635	10635	PRON	PER	her
+-1	10644	10644	PRON	PER	she
+-1	10647	10647	PRON	PER	him
+-1	10658	10658	PRON	PER	him
+-1	10663	10663	PRON	PER	her
+-1	10666	10666	PRON	PER	her
+-1	10690	10690	PRON	PER	his
+-1	10698	10698	PRON	PER	his
+-1	10702	10702	PRON	PER	he
+-1	10710	10710	PRON	PER	her
+-1	10717	10717	PRON	PER	him
+-1	10737	10737	PRON	PER	he
+-1	10743	10743	PRON	PER	she
+-1	10749	10749	PRON	PER	she
+-1	10753	10753	PRON	PER	his
+-1	10757	10758	NOM	PER	a boy
+-1	10770	10770	PRON	PER	him
+-1	10772	10772	PRON	PER	her
+-1	10776	10776	PRON	PER	her
+-1	10778	10778	PRON	PER	he
+20	10785	10786	PROP	PER	Prince Dolor
+-1	10790	10790	PRON	PER	He
+-1	10793	10793	PRON	PER	his
+-1	10793	10794	NOM	PER	his nurse
+-1	10804	10807	NOM	PER	the people of Nomansland
+1	10807	10807	PROP	GPE	Nomansland
+-1	10810	10811	NOM	PER	the doldrums
+-1	10821	10821	PRON	PER	our
+-1	10827	10827	PRON	PER	him
+-1	10841	10841	PRON	PER	he
+-1	10855	10855	PRON	PER	his
+-1	10859	10859	PRON	PER	his
+-1	10859	10860	NOM	PER	his nurse
+-1	10866	10866	PRON	PER	her
+-1	10870	10870	PRON	PER	he
+-1	10874	10874	PRON	PER	she
+-1	10876	10876	PRON	PER	him
+-1	10884	10884	PRON	PER	he
+-1	10890	10890	PRON	PER	she
+-1	10892	10892	PRON	PER	him
+-1	10894	10894	PRON	PER	himself
+-1	10897	10897	PRON	PER	he
+-1	10906	10906	PRON	PER	his
+-1	10912	10912	PRON	PER	he
+-1	10931	10931	PRON	PER	he
+-1	10945	10945	PRON	PER	his
+-1	10949	10949	PRON	PER	his
+-1	10949	10950	NOM	PER	his nurse
+-1	10964	10964	PRON	PER	him
+-1	10968	10968	PRON	PER	he
+-1	10986	10986	PRON	PER	his
+-1	10993	10994	NOM	FAC	the tower
+-1	11022	11022	PRON	PER	he
+-1	11033	11033	PRON	PER	I
+-1	11036	11036	PRON	PER	my
+-1	11036	11037	NOM	PER	my godmother
+-1	11040	11040	PRON	PER	she
+-1	11043	11043	PRON	PER	my
+-1	11050	11050	PRON	PER	I
+-1	11053	11053	PRON	PER	I
+-1	11061	11061	PRON	PER	my
+-1	11061	11062	NOM	PER	my nurse
+-1	11065	11065	PRON	PER	I
+-1	11071	11071	PRON	PER	her
+-1	11103	11103	PRON	PER	I
+-1	11133	11135	NOM	LOC	the lonely plain
+-1	11138	11138	PRON	PER	he
+-1	11148	11148	PRON	PER	they
+-1	11152	11152	PRON	PER	they
+-1	11175	11178	NOM	PER	not one have wings
+-1	11180	11180	NOM	PER	People
+-1	11184	11184	PRON	PER	they
+-1	11189	11189	PRON	PER	I
+-1	11191	11191	PRON	PER	I
+-1	11196	11196	PRON	PER	I
+-1	11199	11199	PRON	PER	I
+-1	11208	11208	NOM	PER	nobody
+-1	11211	11211	PRON	PER	me
+-1	11213	11213	NOM	PER	Nobody
+-1	11218	11218	PRON	PER	me
+-1	11222	11222	PRON	PER	my
+-1	11222	11223	NOM	PER	my godmother
+22	11225	11225	PROP	PER	Godmother
+-1	11227	11227	NOM	PER	dear
+-1	11230	11230	PRON	PER	you
+-1	11233	11233	PRON	PER	me
+-1	11236	11236	PRON	PER	He
+-1	11238	11238	PRON	PER	himself
+-1	11242	11242	PRON	PER	himself
+-1	11247	11247	PRON	PER	his
+-1	11250	11250	PRON	PER	his
+-1	11254	11254	PRON	PER	he
+-1	11258	11258	PRON	PER	he
+-1	11260	11260	NOM	PER	somebody
+-1	11262	11262	PRON	PER	him
+-1	11267	11267	PRON	PER	his
+-1	11275	11275	PRON	PER	he
+-1	11294	11300	NOM	PER	the little old woman clothed in grey
+-1	11304	11304	PRON	PER	he
+-1	11308	11308	PRON	PER	her
+-1	11311	11311	PRON	PER	he
+-1	11314	11314	PRON	PER	her
+-1	11320	11320	PRON	PER	her
+-1	11326	11326	PRON	PER	she
+-1	11336	11336	PRON	PER	his
+-1	11339	11339	PRON	PER	her
+-1	11344	11344	PRON	PER	her
+-1	11347	11347	PRON	PER	he
+-1	11361	11361	PRON	PER	she
+-1	11369	11369	PRON	PER	I
+-1	11371	11371	PRON	PER	you
+-1	11375	11375	PRON	PER	my
+-1	11391	11391	PRON	PER	me
+-1	11401	11402	NOM	PER	A dozen
+-1	11405	11405	PRON	PER	he
+-1	11414	11414	PRON	PER	me
+-1	11420	11420	PRON	PER	you
+-1	11422	11422	PRON	PER	I
+-1	11424	11424	PRON	PER	you
+-1	11430	11430	PRON	PER	you
+-1	11432	11432	PRON	PER	me
+-1	11452	11452	PRON	PER	me
+-1	11456	11457	NOM	PER	the Prince
+-1	11463	11463	PRON	PER	you
+-1	11467	11467	PRON	PER	my
+-1	11467	11468	NOM	PER	my boy
+-1	11476	11476	PRON	PER	I
+-1	11481	11481	PRON	PER	I
+-1	11490	11491	NOM	FAC	the tower
+-1	11493	11493	PRON	PER	my
+-1	11512	11512	PRON	PER	I
+-1	11514	11514	PRON	PER	I
+-1	11517	11517	PRON	PER	I
+-1	11522	11522	PRON	PER	I
+-1	11528	11528	PRON	PER	you
+-1	11532	11532	PRON	PER	yourself
+-1	11538	11538	PRON	PER	I
+-1	11543	11543	PRON	PER	You
+-1	11551	11551	PRON	PER	you
+-1	11555	11558	NOM	PER	The little old woman
+-1	11571	11571	PRON	PER	her
+-1	11574	11574	PRON	PER	his
+-1	11578	11578	PRON	PER	her
+-1	11581	11581	PRON	PER	his
+-1	11589	11590	NOM	PER	the boy
+-1	11594	11595	NOM	PER	any one
+-1	11601	11601	PRON	PER	he
+-1	11613	11613	PRON	PER	her
+-1	11620	11620	PRON	PER	her
+-1	11626	11626	PRON	PER	my
+-1	11626	11627	NOM	PER	my prince
+-1	11630	11630	PRON	PER	you
+-1	11632	11633	NOM	PER	a prince
+-1	11642	11642	PRON	PER	us
+-1	11645	11645	PRON	PER	we
+-1	11651	11651	PRON	PER	I
+-1	11655	11655	PRON	PER	you
+-1	11659	11659	PRON	PER	you
+-1	11664	11664	PRON	PER	yourself
+-1	11668	11668	PRON	PER	your
+20	11674	11675	PROP	PER	Prince Dolor
+-1	11680	11680	PRON	PER	I
+-1	11682	11682	PRON	PER	I
+-1	11690	11690	PRON	PER	I
+-1	11699	11699	PRON	PER	You
+-1	11705	11705	PRON	PER	you
+-1	11710	11710	PRON	PER	He
+-1	11722	11722	PRON	PER	you
+-1	11734	11735	NOM	PER	a prince
+-1	11738	11740	NOM	PER	The old woman
+-1	11752	11752	NOM	PER	Prince
+-1	11759	11764	NOM	PER	all the princes in the world
+-1	11763	11764	NOM	LOC	the world
+-1	11769	11769	PRON	PER	they
+-1	11776	11776	PRON	PER	I
+-1	11779	11779	PRON	PER	them
+-1	11793	11794	NOM	PER	Very few
+-1	11800	11800	PRON	PER	I
+-1	11802	11802	PRON	PER	I
+-1	11807	11807	PRON	PER	you
+-1	11812	11812	PRON	PER	you
+-1	11816	11817	NOM	PER	other people
+-1	11822	11822	PRON	PER	I
+-1	11826	11827	NOM	PER	the Prince
+-1	11843	11843	PRON	PER	his
+-1	11843	11844	NOM	PER	his godmother
+-1	11862	11862	PRON	PER	She
+-1	11864	11864	PRON	PER	his
+-1	11876	11878	NOM	PER	other little boys
+-1	11882	11883	NOM	PER	Indeed!--my nurse
+-1	11886	11886	PRON	PER	me
+-1	11899	11899	PRON	PER	you
+-1	11904	11904	PRON	PER	I
+-1	11906	11906	PRON	PER	you
+-1	11909	11909	PRON	PER	I
+-1	11911	11911	PRON	PER	you
+-1	11916	11916	PRON	PER	me
+-1	11919	11920	NOM	PER	dear godmother
+-1	11925	11925	PRON	PER	you
+-1	11943	11943	PRON	PER	your
+-1	11950	11951	NOM	PER	most people
+-1	11974	11974	PRON	PER	I
+-1	11981	11982	NOM	PER	the boy
+-1	11985	11985	PRON	PER	he
+-1	11991	11991	PRON	PER	his
+-1	11998	11998	PRON	PER	he
+-1	12004	12004	PRON	PER	he
+-1	12023	12023	PRON	PER	he
+-1	12029	12029	PRON	PER	his
+-1	12029	12030	NOM	PER	his godmother
+-1	12033	12033	PRON	PER	He
+-1	12037	12040	NOM	PER	any real live boys
+-1	12043	12043	PRON	PER	he
+-1	12048	12048	PRON	PER	them
+-1	12055	12055	PRON	PER	he
+-1	12069	12069	PRON	PER	he
+-1	12074	12074	PRON	PER	he
+-1	12079	12079	PRON	PER	he
+-1	12089	12089	PRON	PER	he
+-1	12093	12095	NOM	PER	other little boys
+-1	12103	12103	PRON	PER	his
+-1	12108	12108	PRON	PER	they
+-1	12114	12114	PRON	PER	they
+-1	12119	12119	PRON	PER	he
+-1	12122	12122	PRON	PER	them
+-1	12127	12127	PRON	PER	His
+-1	12135	12135	PRON	PER	he
+-1	12145	12145	PRON	PER	himself
+-1	12156	12159	NOM	PER	grown - up people
+-1	12164	12164	PRON	PER	we
+-1	12170	12170	PRON	PER	we
+-1	12183	12183	PRON	PER	we
+-1	12194	12194	PRON	PER	them
+-1	12200	12200	NOM	PER	everybody
+-1	12216	12218	NOM	PER	the poor boy
+-1	12220	12220	PRON	PER	He
+-1	12239	12239	PRON	PER	his
+-1	12239	12240	NOM	PER	his godmother
+-1	12244	12244	PRON	PER	She
+-1	12246	12246	PRON	PER	him
+0	12248	12248	PRON	PER	I
+-1	12262	12262	PRON	PER	she
+-1	12265	12265	PRON	PER	him
+-1	12268	12268	PRON	PER	her
+-1	12281	12281	PRON	PER	I
+-1	12285	12285	PRON	PER	I
+-1	12292	12292	PRON	PER	I
+-1	12301	12301	PRON	PER	he
+-1	12307	12307	PRON	PER	her
+-1	12312	12313	NOM	PER	a man
+-1	12316	12316	PRON	PER	he
+-1	12320	12322	NOM	PER	a mere boy
+-1	12329	12329	PRON	PER	my
+-1	12329	12330	NOM	PER	my prince!--that
+-1	12334	12335	NOM	PER	a prince
+-1	12338	12338	PRON	PER	we
+-1	12342	12342	PRON	PER	we
+-1	12346	12346	PRON	PER	us
+-1	12348	12348	PRON	PER	our
+-1	12356	12356	PRON	PER	We
+4	12359	12360	PROP	FAC	Hopeless Tower
+-1	12383	12383	PRON	PER	our
+-1	12389	12390	NOM	PER	the child
+-1	12394	12394	PRON	PER	You
+-1	12394	12401	NOM	PER	You little matter - of - fact goose
+-1	12405	12405	PRON	PER	you
+-1	12407	12407	PRON	PER	you
+-1	12409	12410	NOM	PER	a godmother
+-1	12417	12417	PRON	PER	he
+-1	12443	12444	NOM	PER	Some people
+-1	12447	12447	PRON	PER	me
+-1	12450	12450	PRON	PER	they
+-1	12453	12453	PRON	PER	my
+-1	12453	12456	NOM	PER	my most intimate friends
+-1	12458	12458	PRON	PER	These
+-1	12460	12460	PRON	PER	me
+-1	12468	12470	NOM	PER	the old woman
+-1	12477	12477	PRON	PER	her
+-1	12483	12483	PRON	PER	you
+-1	12485	12485	PRON	PER	me
+-1	12489	12489	PRON	PER	me
+-1	12492	12492	PRON	PER	you
+-1	12495	12495	PRON	PER	me
+-1	12498	12498	PRON	PER	you
+-1	12507	12507	PRON	PER	I
+-1	12509	12509	PRON	PER	your
+-1	12509	12510	NOM	PER	your godmother
+-1	12512	12512	NOM	PER	child
+-1	12514	12514	PRON	PER	I
+-1	12516	12517	NOM	PER	few godchildren
+-1	12520	12520	PRON	PER	I
+-1	12523	12523	PRON	PER	me
+-1	12528	12528	PRON	PER	me
+-1	12533	12535	NOM	LOC	all the world
+-1	12539	12539	PRON	PER	I
+-1	12547	12550	NOM	PER	the little lame Prince
+-1	12554	12554	PRON	PER	his
+-1	12559	12559	PRON	PER	her
+-1	12562	12562	PRON	PER	her
+-1	12566	12566	PRON	PER	her
+-1	12573	12573	PRON	PER	her
+-1	12579	12581	NOM	FAC	the whole room
+-1	12585	12585	PRON	PER	her
+-1	12593	12593	PRON	PER	He
+-1	12598	12598	PRON	PER	her
+-1	12611	12611	PRON	PER	she
+-1	12616	12622	NOM	PER	the little old woman all in grey
+-1	12630	12630	PRON	PER	her
+-1	12660	12660	PRON	PER	she
+20	12662	12663	PROP	PER	Prince Dolor
+-1	12667	12667	PRON	PER	his
+-1	12709	12709	PRON	PER	I
+-1	12715	12715	PRON	PER	yourself
+5	12735	12735	PROP	GPE	Abracadabra
+-1	12750	12751	NOM	PER	The prince
+-1	12766	12766	PRON	PER	he
+-1	12769	12775	NOM	PER	a wise old woman like his godmother
+-1	12774	12774	PRON	PER	his
+-1	12788	12788	PRON	PER	you
+-1	12793	12793	PRON	PER	she
+-1	12798	12798	PRON	PER	his
+-1	12802	12802	PRON	PER	his
+-1	12808	12808	PRON	PER	I
+-1	12811	12811	PRON	PER	you
+-1	12812	12818	NOM	PER	some people called me by that name
+-1	12815	12815	PRON	PER	me
+-1	12827	12827	PRON	PER	me
+-1	12831	12831	PRON	PER	she
+-1	12834	12834	PRON	PER	her
+-1	12839	12839	NOM	PER	child
+-1	12844	12844	PRON	PER	she
+-1	12846	12847	NOM	PER	the prince
+-1	12852	12852	PRON	PER	her
+-1	12860	12860	PRON	PER	She
+-1	12863	12867	NOM	PER	a most extraordinary old woman
+-1	12871	12871	PRON	PER	me
+-1	12882	12882	PRON	PER	she
+-1	12891	12891	PRON	PER	you
+5	12901	12901	PROP	GPE	Abracadabra
+-1	12909	12909	PRON	PER	you
+5	12918	12918	PROP	GPE	Abracadabra
+-1	12941	12941	PRON	PER	him
+-1	12945	12945	PRON	PER	him
+-1	12957	12958	NOM	PER	the Prince
+-1	12963	12963	PRON	PER	His
+-1	12963	12966	NOM	PER	His most extraordinary godmother
+-1	12976	12976	PRON	PER	your
+-1	12976	12978	NOM	PER	your Royal Highness
+-1	12984	12984	PRON	PER	You
+-1	12994	12995	NOM	PER	the nurse
+-1	12998	12999	NOM	FAC	the room
+-1	13002	13002	PRON	PER	I
+-1	13004	13004	PRON	PER	I
+-1	13009	13010	NOM	PER	the Prince
+-1	13014	13014	PRON	PER	he
+-1	13021	13021	PRON	PER	his
+-1	13021	13023	NOM	PER	his grim nurse
+-1	13029	13029	PRON	PER	me
+-1	13031	13031	PRON	PER	my
+-1	13036	13036	PRON	PER	you
+-1	13038	13038	PRON	PER	your
+-1	13046	13046	PRON	PER	she
+-1	13054	13054	PRON	PER	her
+-1	13066	13066	PRON	PER	his
+-1	13068	13068	PRON	PER	he
+20	13073	13074	PROP	PER	Prince Dolor
+-1	13078	13078	PRON	PER	his
+-1	13087	13087	PRON	PER	his
+-1	13098	13098	PRON	PER	he
+-1	13103	13103	PRON	PER	he
+-1	13105	13105	PRON	PER	his
+-1	13112	13112	PRON	PER	his
+-1	13125	13125	PRON	PER	he
+-1	13129	13130	NOM	PER	the doldrums
+-1	13132	13132	PRON	PER	his
+-1	13132	13133	NOM	PER	his nurse
+-1	13153	13153	PRON	PER	his
+-1	13159	13159	PRON	PER	she
+-1	13163	13163	PRON	PER	his
+-1	13168	13169	NOM	VEH	broken carts
+-1	13171	13173	NOM	PER	sheep without feet
+-1	13184	13184	PRON	PER	his
+-1	13189	13189	PRON	PER	he
+-1	13198	13198	PRON	PER	he
+-1	13205	13205	PRON	PER	he
+-1	13214	13214	PRON	PER	They
+-1	13221	13221	PRON	PER	them
+-1	13227	13227	PRON	PER	He
+-1	13252	13252	PRON	PER	his
+-1	13263	13263	PRON	PER	He
+-1	13266	13266	PRON	PER	his
+-1	13266	13267	NOM	PER	his nurse
+-1	13269	13269	PRON	PER	him
+-1	13272	13272	PRON	PER	She
+-1	13276	13276	PRON	PER	him
+-1	13279	13279	PRON	PER	he
+-1	13281	13281	PRON	PER	she
+-1	13291	13291	PRON	PER	my
+-1	13296	13296	PRON	PER	he
+-1	13300	13300	PRON	PER	I
+-1	13308	13308	PRON	PER	my
+-1	13308	13309	NOM	PER	my godmother
+-1	13315	13315	NOM	PER	godmother
+-1	13318	13318	PRON	PER	me
+-1	13320	13320	PRON	PER	I
+-1	13328	13328	PRON	PER	I
+-1	13339	13339	PRON	PER	I
+-1	13348	13348	PRON	PER	me
+-1	13363	13363	PRON	PER	me
+-1	13395	13396	NOM	LOC	the world
+-1	13398	13398	NOM	PER	nobody
+-1	13408	13408	NOM	PER	anybody
+-1	13410	13411	NOM	PER	the owner
+-1	13414	13414	PRON	PER	your
+-1	13417	13417	PRON	PER	my
+-1	13417	13418	NOM	PER	my prince
+-1	13423	13423	PRON	PER	you
+-1	13428	13428	PRON	PER	His
+-1	13428	13431	NOM	PER	His dear old godmother
+-1	13433	13433	PRON	PER	he
+-1	13444	13444	PRON	PER	he
+-1	13453	13454	NOM	FAC	the room
+-1	13461	13461	PRON	PER	his
+20	13467	13468	PROP	PER	Prince Dolor
+-1	13479	13479	PRON	PER	he
+-1	13484	13485	NOM	PER	poor boy
+-1	13489	13489	PRON	PER	himself
+-1	13499	13499	PRON	PER	his
+-1	13502	13502	PRON	PER	he
+-1	13521	13521	PRON	PER	he
+0	13541	13541	PRON	PER	I
+-1	13552	13553	NOM	PER	any reader
+0	13579	13579	PRON	PER	I
+0	13587	13587	PRON	PER	I
+-1	13594	13596	NOM	PER	the smaller people
+-1	13599	13601	NOM	PER	many larger folk
+23	13621	13621	PROP	PER	Cinderella
+24	13626	13628	PROP	PER	Blue - Beard
+0	13656	13656	PRON	PER	I
+20	13659	13660	PROP	PER	Prince Dolor
+-1	13662	13674	NOM	PER	that little lame boy whom many may think so exceedingly to be pitied
+-1	13678	13678	PRON	PER	you
+-1	13681	13681	PRON	PER	him
+-1	13683	13683	PRON	PER	he
+-1	13687	13687	PRON	PER	his
+-1	13705	13705	PRON	PER	his
+-1	13712	13712	PRON	PER	his
+-1	13719	13719	PRON	PER	his
+-1	13733	13733	PRON	PER	you
+-1	13736	13736	PRON	PER	him
+-1	13739	13739	PRON	PER	you
+-1	13743	13743	PRON	PER	your
+-1	13747	13747	PRON	PER	we
+-1	13749	13749	NOM	PER	people
+-1	13754	13754	PRON	PER	we
+-1	13759	13759	PRON	PER	them
+-1	13763	13763	PRON	PER	we
+-1	13765	13765	PRON	PER	them
+-1	13768	13768	PRON	PER	their
+-1	13776	13776	PRON	PER	their
+-1	13786	13786	PRON	PER	We
+-1	13789	13789	PRON	PER	we
+-1	13791	13791	PRON	PER	them
+-1	13793	13793	NOM	PER	One
+-1	13799	13801	NOM	PER	a little child
+20	13804	13805	PROP	PER	Prince Dolor
+-1	13885	13886	NOM	PER	one person
+-1	13897	13898	NOM	VEH	a boat
+-1	13900	13901	NOM	PER	The Prince
+-1	13922	13922	PRON	PER	he
+-1	13924	13925	NOM	PER	no coward
+-1	13928	13940	NOM	PER	a thorough boy , who , if he had been like other boys
+-1	13935	13935	PRON	PER	he
+-1	13939	13940	NOM	PER	other boys
+-1	13951	13952	NOM	PER	a soldier
+-1	13954	13955	NOM	PER	a sailor
+-1	13965	13965	PRON	PER	he
+-1	13969	13969	PRON	PER	his
+-1	13991	13991	PRON	PER	his
+0	13998	13998	PRON	PER	I
+-1	14007	14007	PRON	PER	he
+-1	14014	14014	PRON	PER	he
+-1	14023	14023	PRON	PER	He
+-1	14026	14026	PRON	PER	himself
+-1	14032	14032	PRON	PER	I
+-1	14037	14037	PRON	PER	my
+-1	14037	14039	NOM	PER	my dear godmother
+-1	14044	14044	PRON	PER	me
+-1	14048	14048	PRON	PER	me
+-1	14059	14059	PRON	PER	his
+-1	14063	14063	PRON	PER	he
+-1	14074	14074	PRON	PER	he
+-1	14079	14079	PRON	PER	his
+-1	14083	14083	PRON	PER	his
+-1	14092	14092	PRON	PER	his
+-1	14099	14099	PRON	PER	he
+-1	14118	14118	PRON	PER	he
+-1	14132	14132	PRON	PER	he
+-1	14136	14136	PRON	PER	he
+-1	14150	14150	PRON	PER	He
+0	14171	14171	PRON	PER	I
+-1	14175	14175	NOM	PER	anybody
+0	14179	14179	PRON	PER	I
+-1	14186	14190	NOM	PER	a good many wise people
+0	14206	14206	PRON	PER	I
+0	14211	14211	PRON	PER	I
+0	14220	14220	PRON	PER	myself
+-1	14239	14240	NOM	PER	some people
+20	14270	14271	PROP	PER	Prince Dolor
+-1	14287	14287	PRON	PER	he
+-1	14301	14301	PRON	PER	me
+-1	14311	14311	PRON	PER	he
+-1	14314	14314	PRON	PER	his
+-1	14314	14315	NOM	PER	his godmother
+-1	14324	14324	PRON	PER	his
+-1	14335	14335	PRON	PER	he
+-1	14338	14338	PRON	PER	his
+20	14387	14388	PROP	PER	Prince Dolor
+0	14398	14398	PRON	PER	I
+-1	14405	14405	PRON	PER	you
+-1	14408	14408	PRON	PER	you
+-1	14414	14415	NOM	PER	the rooks
+-1	14417	14417	NOM	FAC	home
+-1	14424	14424	PRON	PER	their
+-1	14461	14462	NOM	LOC	the world
+-1	14480	14481	NOM	PER	no one
+-1	14497	14500	NOM	PER	the little lame Prince
+-1	14502	14502	PRON	PER	he
+4	14506	14507	PROP	FAC	Hopeless Tower
+-1	14511	14511	PRON	PER	himself
+-1	14526	14526	PRON	PER	him
+-1	14528	14529	NOM	LOC	the earth
+-1	14542	14543	NOM	FAC	no houses
+-1	14549	14549	NOM	LOC	rivers
+-1	14551	14551	NOM	LOC	mountains
+-1	14571	14571	PRON	PER	him
+-1	14573	14575	NOM	LOC	the level plain
+-1	14600	14602	NOM	PER	a baby queen
+-1	14616	14616	PRON	PER	him
+-1	14618	14618	PRON	PER	his
+-1	14618	14619	NOM	PER	his godmother
+-1	14650	14650	PRON	PER	he
+-1	14656	14656	PRON	PER	he
+-1	14708	14708	PRON	PER	he
+-1	14712	14712	PRON	PER	he
+-1	14719	14721	NOM	PER	poor Prince Dolor
+20	14720	14721	PROP	PER	Prince Dolor
+-1	14732	14732	PRON	PER	his
+-1	14735	14735	PRON	PER	he
+-1	14742	14742	PRON	PER	I
+-1	14746	14746	NOM	FAC	home
+-1	14750	14750	PRON	PER	he
+-1	14755	14755	PRON	PER	his
+-1	14761	14761	PRON	PER	his
+-1	14761	14762	NOM	PER	his godmother
+-1	14765	14765	PRON	PER	him
+-1	14770	14770	PRON	PER	his
+-1	14794	14794	PRON	PER	he
+-1	14796	14796	PRON	PER	his
+-1	14826	14829	NOM	PER	The poor little Prince
+-1	14837	14837	PRON	PER	his
+-1	14850	14851	NOM	LOC	the world
+-1	14858	14864	NOM	PER	a poor , tired , hungry boy
+-1	14886	14887	NOM	PER	Dear godmother
+-1	14890	14890	PRON	PER	he
+-1	14897	14897	PRON	PER	me
+-1	14900	14900	PRON	PER	me
+-1	14905	14905	PRON	PER	I
+-1	14918	14918	PRON	PER	his
+-1	14942	14942	PRON	PER	He
+-1	14980	14981	NOM	FAC	the tower
+-1	14983	14983	PRON	PER	He
+-1	14989	14989	PRON	PER	he
+-1	14993	14993	PRON	PER	he
+-1	14996	14996	PRON	FAC	it
+-1	15009	15009	PRON	PER	he
+-1	15014	15014	PRON	PER	He
+-1	15029	15029	PRON	PER	his
+-1	15045	15045	PRON	PER	his
+-1	15045	15046	NOM	PER	his godmother
+-1	15052	15052	PRON	PER	he
+-1	15054	15054	PRON	PER	his
+-1	15054	15055	NOM	PER	his nurse
+-1	15062	15062	PRON	PER	us
+-1	15068	15068	PRON	PER	your
+-1	15068	15070	NOM	PER	your Royal Highness
+-1	15095	15095	NOM	PER	Prince
+-1	15099	15099	PRON	PER	you
+-1	15104	15104	PRON	PER	You
+-1	15106	15111	NOM	PER	the silliest boy I ever knew
+-1	15109	15109	PRON	PER	I
+-1	15116	15116	PRON	PER	I
+-1	15120	15120	PRON	PER	he
+-1	15126	15126	PRON	PER	her
+-1	15130	15130	PRON	PER	his
+-1	15135	15135	PRON	PER	she
+-1	15141	15141	PRON	PER	She
+-1	15145	15152	NOM	PER	a very clever person to have done so
+20	15156	15157	PROP	PER	Prince Dolor
+-1	15193	15194	NOM	FAC	the room
+-1	15197	15198	NOM	PER	the nurse
+-1	15204	15204	PRON	PER	she
+-1	15208	15208	PRON	PER	she
+-1	15231	15231	PRON	PER	she
+-1	15242	15242	PRON	PER	her
+20	15250	15251	PROP	PER	Prince Dolor
+-1	15256	15256	PRON	PER	he
+-1	15265	15266	NOM	PER	nobody else
+-1	15271	15271	PRON	PER	his
+-1	15279	15279	PRON	PER	his
+-1	15286	15286	PRON	PER	he
+-1	15296	15296	PRON	PER	his
+-1	15296	15297	NOM	PER	his nurse
+-1	15312	15312	PRON	PER	her
+-1	15321	15321	PRON	PER	She
+-1	15332	15332	PRON	PER	her
+-1	15337	15337	PRON	PER	he
+-1	15340	15340	PRON	PER	his
+-1	15355	15356	NOM	PER	Poor woman
+-1	15359	15359	PRON	PER	he
+-1	15363	15363	PRON	PER	he
+-1	15372	15372	PRON	PER	her
+-1	15383	15383	PRON	PER	his
+-1	15383	15384	NOM	PER	his mother
+-1	15388	15389	NOM	PER	Poor woman
+-1	15392	15392	PRON	PER	she
+-1	15405	15405	PRON	PER	he
+-1	15415	15415	PRON	PER	his
+-1	15420	15420	PRON	PER	he
+-1	15429	15429	PRON	PER	he
+-1	15431	15431	PRON	PER	his
+-1	15446	15446	PRON	PER	his
+-1	15452	15452	PRON	PER	I
+-1	15464	15464	PRON	PER	my
+-1	15470	15470	PRON	PER	I
+-1	15476	15477	NOM	LOC	the world
+-1	15479	15479	PRON	PER	my
+-1	15489	15489	PRON	PER	he
+-1	15491	15491	PRON	PER	his
+-1	15504	15504	PRON	PER	his
+-1	15515	15515	PRON	PER	his
+0	15521	15521	PRON	PER	I
+-1	15525	15525	PRON	PER	he
+-1	15534	15534	PRON	PER	he
+0	15540	15540	PRON	PER	I
+20	15544	15545	PROP	PER	Prince Dolor
+-1	15551	15551	PRON	PER	he
+-1	15559	15559	PRON	PER	his
+-1	15570	15570	PRON	PER	his
+-1	15574	15574	PRON	PER	he
+-1	15585	15585	PRON	PER	he
+-1	15591	15591	PRON	PER	my
+-1	15591	15592	NOM	PER	my godmother
+-1	15596	15596	PRON	PER	me
+-1	15598	15598	PRON	PER	I
+-1	15601	15603	NOM	PER	a stupid boy
+-1	15614	15614	PRON	PER	he
+-1	15618	15620	NOM	FAC	the empty room
+-1	15622	15622	PRON	PER	he
+-1	15634	15634	PRON	PER	his
+-1	15658	15658	PRON	PER	he
+-1	15664	15664	PRON	PER	his
+-1	15677	15677	NOM	PER	children
+-1	15691	15691	NOM	PER	Nobody
+-1	15693	15693	PRON	PER	him
+-1	15695	15695	PRON	PER	He
+-1	15705	15705	PRON	PER	his
+-1	15705	15706	NOM	PER	his nurse
+-1	15711	15713	NOM	FAC	the next room
+-1	15722	15722	PRON	PER	she
+-1	15742	15742	PRON	PER	she
+-1	15748	15748	PRON	PER	his
+-1	15754	15754	PRON	PER	you
+-1	15756	15758	NOM	PER	the clever godmother
+-1	15761	15761	PRON	PER	She
+-1	15780	15780	PRON	PER	she
+20	15800	15801	PROP	PER	Prince Dolor
+-1	15804	15806	NOM	PER	any common observer
+-1	15816	15817	NOM	PER	the boy
+-1	15831	15831	PRON	PER	himself
+-1	15837	15840	NOM	PER	the happy little fellow
+-1	15849	15849	PRON	PER	his
+-1	15866	15866	PRON	PER	him
+-1	15885	15886	NOM	LOC	the plain
+-1	15897	15897	PRON	PER	he
+-1	15899	15899	PRON	PER	his
+0	15937	15937	PRON	PER	I
+20	15945	15946	PROP	PER	Prince Dolor
+-1	15949	15949	PRON	PER	he
+-1	15959	15959	PRON	PER	he
+-1	15966	15966	PRON	PER	he
+-1	15988	15988	PRON	PER	he
+-1	15997	15997	PRON	PER	He
+-1	16001	16003	NOM	PER	a little girl
+0	16004	16004	PRON	PER	I
+-1	16009	16010	NOM	PER	a playfellow
+-1	16013	16018	NOM	PER	a very _ examining _ boy
+-1	16022	16022	PRON	PER	I
+-1	16026	16026	PRON	PER	he
+-1	16031	16031	PRON	PER	I
+-1	16042	16042	PRON	PER	my
+-1	16042	16043	NOM	PER	my nurse
+-1	16054	16054	PRON	PER	I
+-1	16064	16064	PRON	PER	I
+-1	16071	16071	PRON	PER	he
+-1	16084	16084	PRON	PER	his
+-1	16103	16103	PRON	PER	he
+-1	16115	16115	PRON	PER	he
+-1	16142	16142	PRON	PER	you
+-1	16145	16145	PRON	PER	you
+-1	16148	16148	PRON	PER	he
+-1	16157	16157	NOM	PER	anybody
+-1	16159	16159	NOM	PER	everybody
+-1	16164	16164	PRON	PER	his
+-1	16164	16166	NOM	PER	his dear godmother
+-1	16169	16169	PRON	PER	he
+-1	16174	16174	PRON	PER	him
+-1	16179	16179	PRON	PER	He
+-1	16181	16181	PRON	PER	himself
+-1	16190	16190	PRON	PER	his
+-1	16222	16222	PRON	PER	his
+-1	16225	16225	PRON	PER	he
+-1	16242	16242	PRON	PER	he
+-1	16292	16292	PRON	PER	He
+-1	16299	16299	PRON	PER	he
+-1	16302	16302	PRON	PER	he
+-1	16307	16307	PRON	PER	he
+-1	16319	16319	PRON	PER	his
+-1	16322	16322	PRON	PER	he
+-1	16343	16343	PRON	PER	their
+-1	16348	16348	PRON	PER	their
+-1	16385	16386	NOM	PER	the boy
+-1	16394	16394	PRON	PER	them
+-1	16411	16411	PRON	PER	he
+-1	16418	16418	PRON	PER	I
+-1	16423	16423	PRON	PER	them
+-1	16431	16431	PRON	PER	they
+-1	16437	16437	PRON	PER	they
+-1	16442	16442	PRON	PER	I
+-1	16444	16444	PRON	PER	I
+-1	16449	16450	NOM	LOC	the world
+-1	16458	16463	NOM	PER	an " examining " little boy
+-1	16470	16470	PRON	PER	we
+-1	16476	16476	PRON	PER	we
+-1	16481	16481	PRON	PER	we
+20	16490	16491	PROP	PER	Prince Dolor
+-1	16494	16494	PRON	PER	he
+-1	16501	16501	NOM	PER	nobody
+-1	16504	16504	PRON	PER	him
+-1	16507	16507	NOM	PER	somebody
+-1	16523	16523	PRON	PER	he
+-1	16525	16525	PRON	PER	himself
+-1	16539	16549	NOM	PER	ærial travellers , who had no magic cloak to travel on
+-1	16553	16553	PRON	PER	their
+-1	16558	16558	PRON	PER	they
+-1	16562	16562	PRON	PER	their
+20	16569	16570	PROP	PER	Prince Dolor
+-1	16573	16573	PRON	PER	them
+-1	16580	16580	PRON	PER	they
+-1	16583	16583	PRON	PER	him
+-1	16586	16586	PRON	PER	they
+-1	16589	16589	PRON	PER	him
+-1	16596	16596	PRON	PER	their
+-1	16625	16625	PRON	PER	They
+-1	16628	16628	PRON	PER	him
+-1	16657	16657	PRON	PER	I
+-1	16659	16659	PRON	PER	I
+-1	16663	16663	PRON	PER	you
+-1	16665	16665	PRON	PER	you
+-1	16671	16672	NOM	PER	the boy
+-1	16675	16675	PRON	PER	I
+-1	16686	16690	NOM	FAC	the dreary and lonely tower
+-1	16692	16692	PRON	PER	I
+-1	16698	16699	NOM	LOC	the world
+-1	16704	16705	NOM	PER	dear swallows
+-1	16708	16708	PRON	PER	me
+-1	16714	16718	NOM	LOC	the beautiful , wonderful world
+-1	16726	16726	PRON	PER	him
+-1	16733	16733	PRON	PER	their
+-1	16743	16744	NOM	PER	a mariner
+-1	16750	16750	PRON	PER	them
+-1	16753	16753	NOM	LOC	land
+-1	16755	16755	NOM	LOC	sea
+-1	16762	16762	PRON	PER	they
+-1	16767	16768	NOM	PER	The boy
+-1	16771	16771	PRON	PER	them
+-1	16779	16779	PRON	PER	he
+-1	16782	16782	PRON	PER	his
+-1	16818	16818	PRON	PER	he
+-1	16820	16820	PRON	PER	himself
+-1	16836	16836	PRON	PER	I
+-1	16838	16838	PRON	PER	I
+-1	16841	16841	NOM	FAC	home
+-1	16845	16845	PRON	PER	he
+-1	16849	16849	PRON	PER	his
+-1	16868	16868	PRON	PER	he
+-1	16873	16873	PRON	PER	he
+-1	16881	16881	NOM	PER	one
+-1	16885	16885	PRON	PER	one
+-1	16895	16895	NOM	PER	one
+-1	16903	16903	NOM	PER	one
+-1	16905	16906	NOM	PER	a prince
+-1	16910	16914	NOM	PER	a powerful and beneficent godmother
+-1	16916	16916	PRON	PER	He
+-1	16922	16922	PRON	PER	her
+-1	16926	16926	PRON	PER	her
+-1	16930	16930	PRON	PER	her
+-1	16933	16933	PRON	PER	he
+-1	16940	16940	PRON	PER	her
+-1	16944	16944	PRON	PER	he
+-1	16947	16947	PRON	PER	his
+-1	16950	16950	PRON	PER	himself
+-1	16955	16955	PRON	PER	his
+-1	16955	16957	NOM	FAC	his lonely tower
+-1	16972	16972	PRON	PER	his
+-1	16986	16989	NOM	PER	the deaf - mute
+-1	16991	16991	PRON	PER	his
+20	16997	16998	PROP	PER	Prince Dolor
+-1	17003	17003	PRON	PER	They
+-1	17008	17008	PRON	PER	he
+-1	17019	17019	PRON	PER	his
+-1	17022	17025	NOM	PER	the King of Nomansland
+1	17025	17025	PROP	GPE	Nomansland
+-1	17029	17029	PRON	PER	his
+-1	17029	17030	NOM	PER	his nephew
+-1	17050	17050	PRON	PER	I
+-1	17052	17054	NOM	PER	a big boy
+-1	17058	17059	NOM	PER	the Prince
+0	17082	17082	PRON	PER	I
+-1	17115	17116	NOM	FAC	the tower
+20	17118	17119	PROP	PER	Prince Dolor
+-1	17125	17125	PRON	FAC	it
+-1	17137	17137	PRON	FAC	its
+-1	17153	17153	NOM	PER	knights
+-1	17157	17157	PRON	PER	I
+-1	17159	17160	NOM	PER	a knight
+-1	17163	17163	PRON	PER	he
+-1	17166	17166	PRON	PER	himself
+-1	17170	17170	PRON	PER	I
+-1	17179	17180	NOM	LOC	the world
+-1	17184	17184	PRON	PER	he
+-1	17190	17190	PRON	PER	himself
+-1	17198	17198	PRON	PER	his
+-1	17202	17202	PRON	PER	he
+25	17218	17219	PROP	PER	the Barmecide
+-1	17223	17223	PRON	PER	you
+26	17246	17247	PROP	PER	Sancho Panza
+27	17250	17251	PROP	PER	Don Quixote
+-1	17266	17267	NOM	PER	the physician
+-1	17269	17269	PRON	PER	his
+-1	17272	17272	PRON	PER	they
+-1	17286	17286	NOM	PER	boy
+-1	17301	17304	NOM	PER	this poor little Prince
+-1	17307	17307	PRON	PER	I
+-1	17311	17311	PRON	PER	he
+-1	17337	17338	NOM	VEH	a carriage
+-1	17343	17344	NOM	LOC	the country
+-1	17358	17358	PRON	PER	I
+-1	17374	17374	PRON	PER	I
+-1	17383	17383	PRON	PER	I
+-1	17390	17391	NOM	LOC	the world
+-1	17393	17393	PRON	PER	I
+-1	17401	17401	PRON	PER	his
+-1	17401	17402	NOM	PER	his godmother
+-1	17408	17408	PRON	PER	him
+-1	17416	17416	PRON	PER	he
+-1	17427	17427	PRON	PER	his
+-1	17438	17438	PRON	PER	he
+-1	17445	17445	PRON	PER	he
+-1	17455	17455	PRON	PER	himself
+-1	17462	17463	NOM	FAC	the tower
+-1	17469	17469	PRON	PER	his
+-1	17471	17471	PRON	PER	he
+-1	17475	17475	PRON	PER	himself
+-1	17481	17481	NOM	FAC	home
+-1	17484	17486	NOM	FAC	the dreary building
+-1	17492	17492	NOM	FAC	home
+-1	17494	17494	PRON	PER	he
+-1	17501	17501	PRON	PER	he
+-1	17509	17509	PRON	PER	his
+-1	17509	17510	NOM	FAC	his tower
+-1	17513	17513	PRON	FAC	its
+-1	17523	17523	PRON	PER	we
+-1	17528	17528	PRON	PER	he
+-1	17544	17544	PRON	PER	his
+-1	17554	17554	PRON	PER	I
+-1	17563	17564	NOM	LOC	the world
+-1	17568	17568	PRON	PER	he
+-1	17594	17598	NOM	VEH	the very fastest railway train
+20	17611	17612	PROP	PER	Prince Dolor
+-1	17629	17629	PRON	PER	he
+-1	17647	17647	PRON	PER	he
+-1	17657	17657	PRON	PER	his
+-1	17668	17668	PRON	PER	his
+-1	17674	17674	PRON	PER	his
+-1	17679	17679	PRON	PER	he
+-1	17691	17691	PRON	PER	he
+-1	17705	17705	PRON	PER	he
+-1	17708	17708	PRON	PER	I
+-1	17710	17711	NOM	PER	a boy
+-1	17714	17714	NOM	PER	boys
+-1	17726	17726	PRON	PER	his
+-1	17736	17736	PRON	PER	he
+-1	17744	17744	PRON	PER	he
+-1	17749	17749	PRON	PER	his
+-1	17753	17753	PRON	PER	he
+-1	17784	17784	PRON	PER	he
+-1	17798	17798	PRON	PER	I
+-1	17804	17804	PRON	PER	he
+-1	17808	17808	PRON	PER	I
+-1	17816	17816	PRON	PER	he
+-1	17836	17836	NOM	FAC	home
+-1	17842	17842	PRON	PER	I
+-1	17845	17845	PRON	PER	I
+-1	17851	17851	PRON	PER	I
+-1	17857	17858	NOM	LOC	the world
+-1	17864	17864	PRON	PER	I
+-1	17873	17873	PRON	PER	me
+-1	17890	17890	PRON	PER	me
+-1	17896	17896	PRON	PER	I
+-1	17902	17902	PRON	PER	I
+-1	17904	17905	NOM	PER	a prince
+-1	17921	17921	PRON	PER	we
+-1	17941	17941	PRON	PER	he
+-1	17945	17945	PRON	PER	he
+-1	17949	17949	PRON	PER	his
+-1	17968	17968	PRON	PER	him
+-1	17974	17974	PRON	PER	him
+-1	17980	17980	PRON	PER	he
+-1	18000	18000	PRON	PER	his
+-1	18012	18012	PRON	PER	he
+-1	18033	18033	PRON	PER	he
+-1	18055	18055	PRON	PER	him
+-1	18060	18060	PRON	PER	He
+-1	18062	18062	PRON	PER	his
+-1	18071	18071	PRON	PER	he
+-1	18075	18075	PRON	PER	he
+-1	18086	18086	PRON	PER	I
+-1	18099	18099	PRON	PER	you
+-1	18105	18105	NOM	PER	godmothers
+-1	18109	18109	PRON	PER	he
+-1	18116	18116	PRON	PER	her
+4	18126	18127	PROP	FAC	Hopeless Tower
+-1	18135	18138	NOM	FAC	a deep artesian well
+1	18146	18146	PROP	GPE	Nomansland
+-1	18156	18156	PRON	LOC	it
+-1	18166	18168	NOM	LOC	the desolate plain
+-1	18175	18175	PRON	LOC	it
+-1	18183	18183	PRON	PER	he
+-1	18187	18188	NOM	LOC	a well
+-1	18199	18199	PRON	PER	He
+-1	18208	18208	PRON	PER	he
+-1	18234	18234	PRON	PER	him
+-1	18247	18247	PRON	PER	he
+-1	18260	18263	NOM	PER	two or three boys
+-1	18299	18299	PRON	PER	he
+-1	18330	18330	PRON	PER	he
+-1	18335	18335	PRON	PER	his
+-1	18341	18341	PRON	PER	himself
+-1	18351	18351	PRON	PER	him
+-1	18358	18358	PRON	PER	he
+-1	18360	18360	PRON	PER	himself
+-1	18369	18369	PRON	PER	he
+-1	18373	18379	NOM	PER	the most wide - awake boy imaginable
+20	18390	18391	PROP	PER	Prince Dolor
+-1	18395	18395	PRON	PER	his
+-1	18406	18406	PRON	PER	he
+-1	18412	18412	PRON	PER	he
+-1	18415	18415	PRON	PER	he
+-1	18417	18417	PRON	PER	himself
+-1	18420	18429	NOM	GPE	a country quite unlike anything he had ever seen before
+-1	18425	18425	PRON	PER	he
+-1	18437	18440	NOM	PER	most of you children
+-1	18439	18439	PRON	PER	you
+-1	18440	18440	NOM	PER	children
+-1	18449	18459	NOM	LOC	a pretty country landscape , like England , Scotland , France
+6	18455	18455	PROP	GPE	England
+7	18457	18457	PROP	GPE	Scotland
+8	18459	18459	PROP	GPE	France
+-1	18462	18468	NOM	LOC	any other land you choose to name
+-1	18465	18465	PRON	PER	you
+20	18492	18493	PROP	PER	Prince Dolor
+-1	18500	18500	PRON	PER	his
+-1	18500	18505	NOM	FAC	his lonely tower and level plain
+-1	18519	18520	NOM	LOC	a river
+-1	18522	18522	PRON	PER	It
+-1	18526	18527	NOM	LOC	the hillside
+-1	18550	18551	NOM	PER	a child
+-1	18557	18559	NOM	LOC	deep still pools
+-1	18571	18576	NOM	PER	a good grown - up person
+-1	18582	18584	NOM	LOC	another big rock
+-1	18609	18610	NOM	PER	the Prince
+-1	18621	18621	PRON	PER	his
+-1	18624	18624	PRON	PER	his
+-1	18630	18630	PRON	PER	his
+-1	18644	18644	PRON	PER	I
+-1	18653	18653	PRON	PER	he
+-1	18678	18680	NOM	LOC	a respectable stream
+-1	18700	18702	NOM	LOC	a large lake
+-1	18739	18740	NOM	PER	the boy
+-1	18745	18745	PRON	PER	his
+-1	18752	18752	PRON	PER	his
+-1	18756	18756	PRON	PER	He
+-1	18774	18774	PRON	PER	him
+-1	18791	18791	PRON	PER	his
+-1	18795	18795	PRON	PER	he
+-1	18796	18796	PRON	PER	himself
+-1	18802	18802	PRON	PER	he
+-1	18806	18806	PRON	PER	his
+-1	18818	18818	PRON	PER	he
+-1	18827	18827	PRON	PER	him
+-1	18844	18844	PRON	PER	I
+-1	18858	18858	PRON	PER	he
+-1	18862	18864	NOM	PER	the obedient cloak
+20	18868	18869	PROP	PER	Prince Dolor
+-1	18889	18889	PRON	PER	his
+-1	18901	18901	PRON	PER	we
+0	18944	18944	PRON	PER	I
+-1	18948	18948	PRON	PER	you
+-1	18968	18968	PRON	PER	you
+-1	18985	18986	NOM	LOC	this world
+20	18995	18996	PROP	PER	Prince Dolor
+-1	18998	18998	PRON	PER	his
+-1	19011	19011	PRON	PER	he
+-1	19019	19019	PRON	PER	He
+-1	19028	19028	PRON	PER	his
+28	19045	19046	PROP	PER	Mr. Caterpillar
+-1	19049	19054	NOM	PER	the most important individual in existence
+-1	19058	19058	PRON	PER	him
+-1	19079	19079	PRON	PER	he
+-1	19094	19095	NOM	LOC	the world
+-1	19099	19099	PRON	PER	I
+-1	19126	19126	PRON	PER	my
+-1	19126	19127	NOM	PER	my Prince
+-1	19132	19132	PRON	PER	him
+-1	19134	19136	NOM	LOC	the oak forest
+-1	19138	19141	NOM	LOC	a long fertile valley
+7	19145	19145	PROP	GPE	Scotland
+-1	19146	19147	NOM	GPE	a strath
+6	19151	19151	PROP	GPE	England
+-1	19157	19157	PRON	PER	they
+-1	19161	19164	NOM	LOC	the tongue of Nomansland
+1	19164	19164	PROP	GPE	Nomansland
+0	19165	19165	PRON	PER	I
+-1	19175	19175	NOM	FAC	cornfields
+-1	19177	19177	NOM	FAC	pasturefields
+-1	19179	19179	NOM	FAC	lanes
+-1	19186	19186	NOM	LOC	ponds
+-1	19194	19195	NOM	PER	the Prince
+-1	19221	19222	NOM	LOC	the meadows
+-1	19229	19230	NOM	FAC	the farmyards
+-1	19256	19257	NOM	FAC	the fields
+-1	19273	19273	NOM	FAC	pasturefields
+-1	19275	19275	NOM	FAC	lanes
+-1	19282	19282	NOM	LOC	ponds
+-1	19296	19297	NOM	PER	the Prince
+-1	19313	19313	PRON	PER	his
+-1	19316	19317	NOM	PER	the Prince
+0	19325	19325	PRON	PER	I
+-1	19334	19334	PRON	PER	he
+-1	19350	19350	PRON	PER	his
+-1	19357	19357	PRON	PER	I
+-1	19368	19368	PRON	PER	he
+-1	19372	19372	PRON	PER	I
+-1	19375	19375	PRON	PER	my
+-1	19375	19376	NOM	PER	my godmother
+-1	19379	19379	PRON	PER	me
+-1	19389	19389	PRON	PER	he
+-1	19393	19393	PRON	PER	he
+-1	19397	19397	PRON	PER	his
+-1	19418	19418	PRON	PER	you
+-1	19432	19432	PRON	PER	he
+-1	19441	19441	PRON	PER	his
+-1	19445	19445	PRON	PER	he
+-1	19457	19457	PRON	PER	his
+-1	19464	19464	PRON	PER	we
+0	19472	19472	PRON	PER	I
+-1	19477	19479	NOM	LOC	the visible world
+0	19498	19498	PRON	PER	me
+0	19500	19500	PRON	PER	I
+-1	19543	19543	PRON	PER	We
+-1	19554	19554	PRON	PER	we
+20	19561	19562	PROP	PER	Prince Dolor
+-1	19568	19568	PRON	PER	his
+4	19575	19576	PROP	FAC	Hopeless Tower
+-1	19589	19589	PRON	PER	you
+-1	19592	19592	PRON	PER	his
+-1	19595	19595	PRON	PER	He
+-1	19602	19602	PRON	PER	he
+-1	19610	19610	PRON	PER	he
+-1	19617	19617	PRON	PER	he
+-1	19632	19632	PRON	PER	him
+-1	19647	19648	NOM	LOC	the meadows
+-1	19655	19655	PRON	PER	him
+-1	19659	19659	PRON	PER	he
+-1	19675	19675	PRON	PER	he
+-1	19684	19684	PRON	PER	him
+-1	19699	19699	NOM	PER	children
+0	19703	19703	PRON	PER	I
+-1	19707	19709	NOM	PER	many big people
+-1	19712	19712	PRON	PER	he
+-1	19719	19719	PRON	PER	he
+22	19732	19732	PROP	PER	Godmother
+-1	19735	19735	PRON	PER	he
+-1	19746	19746	PRON	PER	he
+-1	19748	19748	PRON	PER	her
+-1	19752	19752	PRON	PER	he
+-1	19757	19757	PRON	PER	her
+-1	19762	19762	PRON	PER	she
+-1	19770	19770	PRON	PER	I
+-1	19775	19775	PRON	PER	I
+-1	19781	19784	NOM	PER	a creature like myself
+-1	19784	19784	PRON	PER	myself
+-1	19788	19788	PRON	PER	you
+-1	19790	19790	PRON	PER	me
+-1	19792	19794	NOM	PER	one little boy
+-1	19802	19802	PRON	PER	him
+-1	19824	19824	PRON	PER	he
+-1	19828	19828	PRON	PER	his
+-1	19828	19829	NOM	PER	his godmother
+-1	19832	19832	PRON	PER	him
+-1	19838	19838	PRON	PER	him
+-1	19850	19850	PRON	PER	him
+-1	19854	19854	PRON	PER	his
+-1	19862	19862	PRON	PER	he
+-1	19871	19872	NOM	FAC	a common
+-1	19892	19893	NOM	PER	This creature
+-1	19928	19928	PRON	PER	It
+-1	19930	19931	NOM	PER	a boy
+-1	19933	19934	NOM	PER	a shepherdboy
+-1	19937	19938	NOM	PER	the Prince
+-1	19952	19952	PRON	PER	he
+-1	19954	19956	NOM	PER	an ugly boy
+-1	19959	19959	PRON	PER	his
+-1	19966	19966	PRON	PER	his
+-1	19970	19970	PRON	PER	his
+-1	19978	19978	PRON	PER	his
+-1	19982	19982	PRON	PER	He
+-1	19985	19989	NOM	PER	a nice - looking lad
+0	20010	20010	PRON	PER	I
+-1	20015	20015	PRON	PER	they
+1	20025	20025	PROP	GPE	Nomansland
+-1	20028	20030	NOM	PER	the little Prince
+-1	20032	20032	PRON	PER	him
+-1	20039	20039	PRON	PER	he
+-1	20044	20044	PRON	PER	me
+-1	20046	20046	PRON	PER	I
+-1	20054	20054	PRON	PER	him
+-1	20058	20058	PRON	PER	him
+-1	20061	20061	PRON	PER	me
+-1	20072	20072	PRON	PER	I
+-1	20075	20077	NOM	PER	a little boy
+-1	20081	20081	PRON	PER	me
+-1	20092	20092	PRON	PER	his
+-1	20096	20096	PRON	PER	him
+-1	20105	20105	PRON	PER	his
+-1	20105	20106	NOM	PER	his godmother
+-1	20129	20131	NOM	PER	The shepherd lad
+-1	20142	20142	PRON	PER	his
+-1	20151	20152	NOM	PER	the Prince
+-1	20163	20165	NOM	PER	The shepherd lad
+-1	20182	20183	NOM	PER	The boy
+-1	20195	20195	PRON	PER	his
+-1	20202	20202	PRON	PER	his
+-1	20205	20205	PRON	PER	He
+-1	20226	20226	PRON	PER	him
+-1	20231	20235	NOM	PER	an " examining " boy
+-1	20240	20240	PRON	PER	himself
+-1	20243	20243	PRON	PER	he
+-1	20250	20250	PRON	PER	he
+-1	20253	20253	PRON	PER	his
+-1	20256	20256	PRON	PER	his
+-1	20263	20263	PRON	PER	himself
+-1	20266	20266	PRON	PER	his
+-1	20269	20279	NOM	PER	a rough collie , who had been guarding the sheep meanwhile
+-1	20285	20285	PRON	PER	him
+-1	20301	20301	PRON	PER	I
+-1	20304	20304	PRON	PER	you
+-1	20307	20308	NOM	PER	the Prince
+-1	20310	20310	PRON	PER	him
+29	20334	20334	PROP	PER	Hollo
+-1	20339	20339	PRON	PER	ourselves
+-1	20345	20345	PRON	PER	They
+-1	20350	20350	NOM	PER	boy
+-1	20382	20384	NOM	FAC	the level common
+-1	20388	20390	NOM	PER	the quiet sheep
+-1	20397	20397	NOM	LOC	country
+-1	20413	20414	NOM	FAC	ploughed fields
+-1	20416	20416	PRON	PER	They
+-1	20430	20430	PRON	PER	they
+-1	20436	20436	PRON	PER	them
+-1	20463	20464	NOM	PER	the boy
+-1	20467	20467	PRON	PER	he
+-1	20474	20474	PRON	PER	his
+-1	20479	20479	PRON	PER	his
+-1	20484	20484	PRON	PER	his
+-1	20494	20494	PRON	PER	he
+20	20497	20498	PROP	PER	Prince Dolor
+-1	20500	20500	PRON	PER	him
+-1	20516	20517	NOM	PER	the runner
+-1	20518	20518	PRON	PER	himself
+-1	20557	20557	PRON	PER	he
+-1	20569	20570	NOM	LOC	this world
+-1	20573	20573	PRON	PER	he
+-1	20582	20582	PRON	PER	he
+-1	20585	20585	PRON	PER	his
+-1	20585	20586	NOM	PER	his godmother
+-1	20590	20590	PRON	PER	she
+-1	20592	20592	PRON	PER	him
+-1	20593	20593	PRON	PER	his
+-1	20600	20600	PRON	PER	he
+-1	20606	20606	PRON	PER	he
+-1	20611	20611	PRON	PER	hers
+-1	20614	20614	PRON	PER	he
+-1	20620	20623	NOM	PER	just one little boy
+-1	20627	20627	PRON	PER	I
+-1	20629	20629	PRON	PER	I
+-1	20635	20635	PRON	PER	him
+-1	20640	20643	NOM	PER	the poor little Prince
+-1	20646	20646	PRON	PER	himself
+-1	20652	20652	PRON	PER	his
+-1	20657	20657	PRON	PER	his
+-1	20663	20664	NOM	PER	a Turk
+-1	20667	20667	PRON	PER	his
+-1	20671	20671	PRON	PER	his
+-1	20678	20678	PRON	PER	You
+-1	20683	20683	PRON	PER	me
+-1	20686	20686	PRON	PER	he
+-1	20690	20690	PRON	PER	them
+-1	20694	20694	PRON	PER	You
+-1	20701	20701	PRON	PER	me
+-1	20703	20703	PRON	PER	I
+-1	20706	20706	PRON	PER	I
+-1	20708	20708	PRON	PER	you
+-1	20712	20712	PRON	PER	I
+-1	20715	20715	PRON	PER	I
+-1	20722	20722	PRON	PER	I
+-1	20729	20731	NOM	PER	other little boys
+-1	20759	20760	NOM	LOC	this world
+-1	20763	20763	PRON	PER	you
+0	20767	20767	PRON	PER	my
+-1	20767	20768	NOM	PER	my children
+-1	20771	20771	PRON	PER	you
+-1	20778	20778	PRON	PER	he
+-1	20783	20783	PRON	PER	his
+-1	20783	20784	NOM	PER	his mother
+-1	20785	20785	PRON	PER	she
+-1	20793	20793	PRON	PER	we
+-1	20807	20807	PRON	PER	I
+-1	20817	20817	PRON	PER	we
+-1	20827	20827	PRON	PER	we
+-1	20827	20829	NOM	PER	we big folks
+-1	20834	20834	PRON	PER	you
+-1	20834	20836	NOM	PER	you little ones
+-1	20838	20838	PRON	PER	We
+-1	20846	20846	PRON	PER	you
+-1	20852	20852	PRON	PER	your
+-1	20852	20853	NOM	PER	your parents
+-1	20856	20856	PRON	PER	you
+-1	20860	20860	PRON	PER	you
+-1	20871	20871	PRON	PER	You
+-1	20876	20876	PRON	PER	you
+-1	20880	20880	PRON	PER	they
+-1	20882	20882	PRON	PER	you
+20	20890	20891	PROP	PER	Prince Dolor
+-1	20902	20902	PRON	PER	him
+-1	20914	20914	PRON	PER	his
+-1	20928	20928	PRON	PER	he
+-1	20934	20934	PRON	PER	him
+-1	20944	20944	PRON	PER	he
+-1	20965	20965	PRON	PER	he
+-1	20968	20968	NOM	PER	somebody
+-1	20980	20980	PRON	PER	him
+-1	20983	20983	PRON	PER	him
+-1	20992	20992	PRON	PER	him
+-1	21002	21002	PRON	PER	him
+-1	21017	21017	PRON	PER	him
+-1	21046	21046	PRON	PER	he
+-1	21049	21049	PRON	PER	himself
+-1	21052	21052	PRON	PER	he
+-1	21064	21064	PRON	PER	his
+-1	21071	21071	PRON	PER	his
+-1	21082	21082	PRON	PER	he
+-1	21098	21098	PRON	PER	You
+0	21106	21106	PRON	PER	my
+-1	21106	21107	NOM	PER	my children
+-1	21112	21112	PRON	PER	I.
+0	21114	21114	PRON	PER	I
+-1	21116	21117	NOM	PER	a child
+0	21118	21118	PRON	PER	I
+0	21127	21127	PRON	PER	I
+20	21155	21156	PROP	PER	Prince Dolor
+-1	21180	21180	PRON	PER	you
+-1	21188	21188	PRON	PER	he
+-1	21191	21191	PRON	PER	I
+-1	21197	21197	PRON	PER	you
+-1	21201	21201	PRON	PER	you
+-1	21207	21207	PRON	PER	I
+-1	21211	21211	PRON	PER	I
+-1	21216	21216	PRON	PER	he
+-1	21230	21230	PRON	PER	him
+-1	21238	21238	PRON	PER	him
+-1	21242	21242	PRON	PER	he
+-1	21250	21250	PRON	PER	he
+-1	21260	21261	NOM	LOC	the world
+-1	21267	21267	PRON	PER	It
+-1	21273	21273	PRON	PER	he
+-1	21288	21289	NOM	LOC	the world
+-1	21290	21290	PRON	PER	he
+-1	21331	21333	NOM	PER	the little boy
+-1	21358	21358	PRON	PER	him
+-1	21365	21365	PRON	PER	his
+-1	21376	21380	NOM	LOC	the rest of the world
+-1	21379	21380	NOM	LOC	the world
+-1	21402	21403	NOM	PER	nobody else
+-1	21408	21408	PRON	PER	his
+-1	21419	21419	PRON	PER	he
+-1	21433	21433	PRON	PER	his
+-1	21438	21438	PRON	PER	his
+-1	21441	21441	PRON	PER	his
+-1	21446	21446	PRON	PER	him
+-1	21456	21456	PRON	PER	him
+20	21458	21459	PROP	PER	Prince Dolor
+-1	21462	21462	PRON	PER	his
+-1	21472	21472	PRON	PER	he
+4	21477	21478	PROP	FAC	Hopeless Tower
+-1	21484	21484	PRON	PER	him
+-1	21487	21487	PRON	PER	My
+-1	21493	21493	PRON	PER	I
+-1	21497	21497	PRON	PER	you
+-1	21500	21500	PRON	PER	I
+-1	21502	21502	PRON	PER	you
+-1	21504	21504	PRON	PER	my
+-1	21504	21505	NOM	FAC	my room
+-1	21508	21508	PRON	PER	you
+-1	21512	21512	PRON	PER	you
+-1	21525	21525	PRON	PER	you
+-1	21527	21527	PRON	PER	I
+-1	21534	21534	PRON	PER	you
+-1	21538	21538	PRON	PER	You
+-1	21546	21546	PRON	PER	my
+-1	21546	21547	NOM	PER	my nurse
+-1	21550	21550	PRON	PER	you
+-1	21552	21552	PRON	PER	she
+-1	21564	21564	PRON	PER	I
+-1	21566	21566	PRON	PER	her
+-1	21569	21569	PRON	PER	me
+-1	21574	21574	PRON	PER	she
+-1	21578	21578	PRON	PER	her
+-1	21585	21587	NOM	PER	The little boy
+-1	21598	21600	NOM	PER	the merry lark
+-1	21613	21613	PRON	PER	he
+-1	21615	21615	NOM	PER	anybody
+20	21619	21621	PROP	PER	him_--still Prince Dolor
+-1	21629	21629	PRON	PER	he
+-1	21633	21633	PRON	PER	his
+-1	21639	21639	PRON	PER	my
+-1	21648	21648	PRON	PER	you
+-1	21650	21650	PRON	PER	I
+-1	21655	21655	PRON	PER	I
+-1	21660	21660	PRON	PER	you
+-1	21665	21665	PRON	PER	I
+-1	21672	21672	PRON	PER	my
+-1	21672	21673	NOM	PER	my darling
+-1	21675	21675	PRON	PER	my
+-1	21675	21676	NOM	PER	my beautiful
+-1	21682	21682	PRON	PER	my
+-1	21690	21690	PRON	PER	his
+-1	21703	21703	PRON	PER	he
+-1	21708	21708	PRON	PER	he
+-1	21714	21714	PRON	PER	It
+-1	21730	21730	PRON	PER	him
+20	21763	21764	PROP	PER	Prince Dolor
+-1	21767	21767	PRON	PER	his
+-1	21778	21778	PRON	PER	he
+-1	21801	21801	PRON	PER	he
+-1	21814	21814	PRON	PER	he
+-1	21840	21843	NOM	PER	The dear little lark
+-1	21872	21873	NOM	FAC	the tower
+-1	21892	21892	PRON	PER	he
+-1	21898	21898	PRON	PER	he
+-1	21904	21904	PRON	PER	He
+-1	21911	21912	NOM	PER	a king
+-1	21920	21921	NOM	PER	a king
+-1	21926	21926	NOM	PER	kings
+0	21929	21929	PRON	PER	I
+20	21938	21939	PROP	PER	Prince Dolor
+-1	21942	21942	PRON	PER	he
+-1	21946	21947	NOM	PER	a king
+-1	21948	21948	PRON	PER	himself
+-1	21951	21951	PRON	PER	he
+-1	21960	21960	NOM	PER	nobody
+-1	21963	21963	PRON	PER	him
+-1	21966	21966	PRON	PER	his
+-1	21966	21967	NOM	PER	his nurse
+-1	21966	22002	NOM	PER	his nurse , who had been forbidden upon pain of death to let him know anything about his dead parents , or the king his uncle , or , indeed , any part of his own history
+-1	21979	21979	PRON	PER	him
+-1	21983	21983	PRON	PER	his
+-1	21983	21985	NOM	PER	his dead parents
+-1	21990	21990	PRON	PER	his
+-1	21990	21991	NOM	PER	his uncle
+-1	22000	22000	PRON	PER	his
+-1	22005	22005	PRON	PER	he
+-1	22008	22008	PRON	PER	himself
+-1	22011	22011	PRON	PER	he
+-1	22014	22015	NOM	PER	a father
+-1	22017	22017	NOM	PER	mother
+-1	22019	22021	NOM	PER	other little boys
+-1	22025	22025	PRON	PER	they
+-1	22032	22032	PRON	PER	he
+-1	22036	22036	PRON	PER	them
+-1	22043	22043	PRON	PER	them
+-1	22045	22045	PRON	PER	he
+-1	22049	22049	PRON	PER	them
+-1	22060	22061	NOM	PER	little children
+-1	22063	22063	PRON	PER	their
+-1	22063	22064	NOM	PER	their mothers
+-1	22068	22068	PRON	PER	them
+-1	22070	22070	PRON	PER	they
+-1	22077	22077	PRON	PER	them
+-1	22079	22079	PRON	PER	they
+-1	22083	22083	PRON	PER	he
+-1	22097	22097	PRON	PER	his
+-1	22097	22098	NOM	PER	his mother
+-1	22102	22102	PRON	PER	she
+-1	22107	22107	PRON	PER	him
+-1	22112	22112	PRON	PER	his
+-1	22119	22119	PRON	PER	he
+-1	22122	22122	NOM	PER	kings
+-1	22124	22124	NOM	PER	princes
+-1	22130	22131	NOM	GPE	different countries
+-1	22142	22142	PRON	PER	he
+-1	22151	22151	PRON	PER	he
+-1	22162	22162	PRON	PER	his
+-1	22170	22170	PRON	PER	his
+-1	22170	22171	NOM	PER	his nurse
+-1	22177	22177	PRON	PER	she
+-1	22187	22187	PRON	PER	him
+-1	22192	22192	PRON	PER	He
+-1	22201	22201	PRON	PER	his
+-1	22215	22215	PRON	PER	him
+-1	22220	22220	PRON	PER	his
+-1	22224	22225	NOM	LOC	the world
+-1	22231	22231	PRON	PER	He
+-1	22233	22233	PRON	PER	himself
+-1	22236	22236	PRON	PER	his
+-1	22250	22250	PRON	PER	his
+-1	22258	22258	NOM	FAC	home
+-1	22260	22260	PRON	PER	him
+-1	22267	22267	PRON	PER	him
+-1	22281	22281	PRON	PER	his
+-1	22281	22282	NOM	PER	his nurse
+-1	22300	22300	PRON	PER	she
+20	22314	22315	PROP	PER	Prince Dolor
+-1	22317	22317	PRON	PER	his
+-1	22321	22321	PRON	PER	himself
+-1	22325	22325	PRON	PER	he
+-1	22330	22330	PRON	PER	he
+-1	22335	22335	PRON	PER	him
+-1	22338	22338	PRON	PER	he
+4	22379	22380	PROP	FAC	Hopeless Tower
+-1	22388	22388	PRON	PER	him
+-1	22390	22390	PRON	PER	He
+-1	22398	22398	PRON	PER	his
+-1	22421	22421	PRON	PER	his
+-1	22421	22422	NOM	PER	his godmother
+-1	22425	22425	PRON	PER	him
+-1	22431	22431	PRON	PER	she
+-1	22438	22438	PRON	PER	him
+-1	22458	22458	PRON	PER	his
+-1	22465	22465	PRON	PER	we
+-1	22469	22469	NOM	PER	children
+-1	22472	22472	PRON	PER	they
+-1	22475	22476	NOM	PER	big children
+20	22497	22498	PROP	PER	Prince Dolor
+-1	22502	22504	NOM	PER	a big boy
+-1	22511	22511	PRON	PER	he
+-1	22518	22518	PRON	PER	his
+-1	22535	22535	PRON	PER	he
+-1	22552	22552	PRON	PER	he
+-1	22555	22555	PRON	PER	himself
+-1	22567	22567	PRON	PER	his
+-1	22582	22582	PRON	PER	His
+-1	22604	22604	PRON	PER	his
+-1	22607	22607	PRON	PER	his
+-1	22607	22608	NOM	PER	his mother
+-1	22614	22614	PRON	PER	his
+-1	22614	22615	NOM	PER	his mother
+-1	22622	22622	PRON	PER	him
+-1	22625	22625	PRON	PER	she
+-1	22631	22632	NOM	PER	The boy
+-1	22635	22637	NOM	PER	a stupid boy
+-1	22640	22640	PRON	PER	He
+-1	22645	22645	PRON	PER	he
+-1	22649	22649	PRON	PER	he
+-1	22661	22661	PRON	PER	He
+-1	22665	22665	PRON	PER	his
+-1	22668	22668	PRON	PER	he
+-1	22680	22680	PRON	PER	he
+-1	22685	22685	PRON	PER	them
+-1	22691	22691	PRON	PER	him
+-1	22703	22703	PRON	PER	he
+-1	22706	22706	NOM	PER	men
+-1	22717	22719	NOM	PER	a man;--a prince
+-1	22723	22723	PRON	PER	I
+-1	22725	22725	NOM	PER	princes
+-1	22729	22729	NOM	PER	anybody
+-1	22732	22732	NOM	PER	kings
+-1	22736	22736	PRON	PER	I
+-1	22742	22742	NOM	PER	kings
+-1	22744	22744	PRON	PER	I
+-1	22745	22746	NOM	PER	wonder"--the boy
+-1	22752	22752	PRON	PER	he
+-1	22754	22754	PRON	PER	her
+0	22759	22759	PRON	PER	me
+0	22762	22762	PRON	PER	I
+-1	22765	22766	NOM	PER	a king
+-1	22769	22770	NOM	PER	The woman
+-1	22785	22785	PRON	PER	her
+-1	22795	22795	PRON	PER	her
+-1	22799	22799	PRON	PER	she
+-1	22807	22807	PRON	PER	her
+4	22817	22818	PROP	FAC	Hopeless Tower
+-1	22820	22820	PRON	PER	she
+-1	22830	22836	NOM	PER	the little lame prince , her charge
+-1	22835	22835	PRON	PER	her
+-1	22841	22841	PRON	PER	she
+-1	22846	22846	PRON	PER	she
+-1	22852	22852	PRON	PER	him
+-1	22857	22857	PRON	PER	him
+-1	22858	22858	PRON	PER	her
+-1	22865	22865	PRON	PER	she
+-1	22870	22870	PRON	PER	him
+-1	22882	22882	PRON	PER	him
+-1	22892	22892	PRON	PER	him
+-1	22894	22896	NOM	PER	an innocent child
+-1	22899	22899	NOM	FAC	here
+-1	22901	22901	PRON	PER	he
+-1	22904	22906	NOM	PER	an old man
+-1	22910	22918	NOM	PER	a dull , worn - out creature like herself
+-1	22918	22918	PRON	PER	herself
+-1	22923	22923	PRON	PER	him
+-1	22925	22925	PRON	PER	she
+-1	22930	22930	PRON	PER	him
+-1	22934	22934	PRON	PER	herself
+-1	22940	22940	PRON	PER	she
+-1	22942	22947	NOM	PER	a less miserable and ugly woman
+-1	22949	22949	PRON	PER	he
+-1	22954	22954	PRON	PER	her
+-1	22958	22958	PRON	PER	He
+-1	22964	22964	NOM	PER	Nurse
+-1	22966	22967	NOM	PER	dear nurse
+-1	22971	22971	PRON	PER	he
+-1	22974	22974	PRON	PER	I
+-1	22980	22980	PRON	PER	you
+-1	22984	22984	PRON	PER	me
+-1	22988	22989	NOM	PER	a king
+-1	22992	22992	PRON	PER	I
+-1	22995	22995	NOM	PER	one
+-1	22999	22999	PRON	PER	she
+-1	23005	23005	PRON	PER	herself
+-1	23009	23010	NOM	PER	the child
+-1	23012	23013	NOM	PER	the woman
+-1	23022	23022	PRON	PER	her
+-1	23032	23032	PRON	PER	he
+-1	23035	23035	PRON	PER	his
+-1	23040	23040	PRON	PER	he
+1	23062	23062	PROP	GPE	Nomansland
+-1	23066	23068	NOM	GPE	most other countries
+-1	23098	23098	PRON	PER	she
+-1	23106	23106	PRON	PER	she
+-1	23114	23114	PRON	PER	She
+-1	23120	23120	PRON	PER	her
+20	23131	23132	PROP	PER	Prince Dolor
+-1	23134	23134	PRON	PER	himself
+-1	23141	23141	PRON	PER	she
+-1	23167	23167	PRON	PER	she
+-1	23169	23171	NOM	PER	a miserable woman
+-1	23189	23189	PRON	PER	she
+-1	23191	23191	PRON	PER	her
+-1	23194	23194	PRON	PER	her
+20	23200	23200	PROP	PER	Prince
+-1	23221	23221	PRON	PER	she
+-1	23224	23224	PRON	PER	You
+-1	23226	23227	NOM	PER	a king
+-1	23239	23239	PRON	PER	she
+-1	23241	23241	PRON	PER	her
+-1	23244	23244	PRON	PER	her
+-1	23249	23250	NOM	PER	the Prince
+-1	23256	23257	NOM	PER	a king
+20	23263	23264	PROP	PER	Prince Dolor
+-1	23267	23267	PRON	PER	His
+-1	23278	23278	PRON	PER	his
+-1	23282	23282	PRON	PER	he
+-1	23284	23284	PRON	PER	himself
+-1	23289	23289	PRON	PER	he
+-1	23292	23292	NOM	PER	anybody
+-1	23295	23295	PRON	PER	he
+-1	23300	23301	NOM	PER	a king
+-1	23308	23308	PRON	PER	his
+-1	23308	23309	NOM	PER	his nurse
+-1	23312	23312	PRON	PER	he
+-1	23327	23331	NOM	PER	people who have done wrong
+-1	23336	23336	PRON	PER	she
+-1	23344	23344	PRON	PER	his
+-1	23348	23348	PRON	PER	his
+-1	23348	23349	NOM	PER	his parents
+-1	23353	23353	PRON	PER	his
+-1	23353	23354	NOM	PER	his uncle
+-1	23357	23357	PRON	PER	his
+-1	23362	23362	PRON	PER	him
+-1	23365	23365	PRON	PER	his
+-1	23368	23370	NOM	FAC	this lonely tower
+-1	23373	23373	PRON	PER	I
+-1	23379	23379	PRON	PER	she
+-1	23390	23390	PRON	PER	you
+-1	23395	23396	NOM	LOC	the world
+-1	23401	23401	PRON	PER	your
+-1	23404	23405	NOM	PER	a man
+-1	23410	23410	PRON	PER	me
+-1	23413	23413	PRON	PER	my
+-1	23413	23414	NOM	PER	my prince
+-1	23417	23417	PRON	PER	I
+-1	23422	23424	NOM	LOC	this desolate place
+-1	23428	23430	NOM	PER	Poor old nurse
+-1	23434	23435	NOM	PER	the boy
+-1	23443	23443	PRON	PER	he
+-1	23447	23447	PRON	PER	he
+-1	23449	23449	PRON	PER	he
+-1	23454	23455	NOM	PER	a king
+-1	23457	23457	PRON	PER	he
+-1	23460	23461	NOM	PER	a man
+-1	23464	23465	NOM	PER	a king
+-1	23474	23474	PRON	PER	he
+-1	23478	23478	PRON	PER	He
+-1	23487	23487	PRON	PER	he
+-1	23489	23489	PRON	PER	his
+-1	23497	23497	PRON	PER	he
+-1	23512	23512	PRON	PER	his
+-1	23520	23520	PRON	PER	he
+-1	23523	23523	PRON	PER	I
+-1	23528	23528	PRON	PER	she
+-1	23535	23536	NOM	LOC	the world
+-1	23543	23543	PRON	PER	me
+-1	23548	23548	NOM	PER	people
+-1	23550	23551	NOM	PER	active people
+-1	23556	23559	NOM	PER	that boy I saw
+-1	23558	23558	PRON	PER	I
+-1	23561	23561	PRON	PER	They
+-1	23566	23566	PRON	PER	me
+-1	23572	23572	PRON	PER	I
+-1	23577	23577	PRON	PER	I
+-1	23580	23580	PRON	PER	them
+-1	23581	23581	PRON	PER	I
+-1	23590	23590	PRON	PER	I
+-1	23600	23600	PRON	PER	me
+22	23604	23604	PROP	PER	Godmother
+-1	23607	23607	PRON	PER	me
+-1	23615	23615	PRON	PER	he
+-1	23618	23618	PRON	PER	her
+-1	23622	23622	PRON	PER	he
+-1	23627	23627	PRON	PER	he
+-1	23633	23638	NOM	PER	the little lark outside the window
+-1	23650	23651	NOM	FAC	the room
+20	23655	23656	PROP	PER	Prince Dolor
+-1	23665	23665	PRON	PER	himself
+-1	23672	23672	PRON	PER	he
+-1	23679	23679	PRON	PER	he
+-1	23687	23687	PRON	PER	his
+-1	23687	23688	NOM	PER	his nurse
+-1	23694	23694	PRON	PER	I
+-1	23704	23704	PRON	PER	he
+-1	23708	23714	NOM	PER	a king being dressed like a baby
+-1	23718	23718	PRON	PER	he
+-1	23722	23722	PRON	PER	he
+-1	23731	23731	PRON	PER	he
+-1	23738	23738	PRON	PER	his
+20	23775	23776	PROP	PER	Prince Dolor
+-1	23782	23782	PRON	PER	he
+-1	23785	23785	PRON	PER	He
+-1	23794	23794	PRON	PER	his
+-1	23810	23811	NOM	PER	pretty lark
+-1	23814	23814	PRON	PER	he
+-1	23818	23818	PRON	PER	he
+-1	23820	23820	PRON	PER	it
+-1	23837	23837	PRON	PER	You
+-1	23840	23840	PRON	PER	my
+-1	23843	23843	PRON	PER	my
+-1	23847	23847	PRON	PER	I
+-1	23855	23856	NOM	PER	old nurse
+-1	23858	23858	PRON	PER	I
+-1	23864	23864	PRON	PER	she
+-1	23867	23867	PRON	PER	you
+-1	23870	23870	PRON	PER	she
+-1	23877	23877	PRON	PER	her
+-1	23898	23898	PRON	PER	he
+-1	23902	23902	PRON	PER	he
+-1	23912	23912	PRON	PER	he
+-1	23920	23920	NOM	PER	nobody
+-1	23923	23923	PRON	PER	him
+22	23926	23926	PROP	PER	Godmother
+-1	23929	23929	PRON	PER	he
+-1	23937	23937	PRON	PER	you
+-1	23940	23940	PRON	PER	I
+-1	23946	23946	PRON	PER	I
+-1	23948	23948	PRON	PER	you
+-1	23952	23952	PRON	PER	I
+-1	23955	23955	PRON	PER	myself
+-1	23958	23958	PRON	PER	me
+-1	23960	23960	PRON	PER	I
+-1	23966	23966	PRON	PER	me
+-1	23968	23968	PRON	PER	I
+-1	23976	23976	PRON	PER	I
+-1	23988	23988	PRON	PER	his
+-1	23991	23991	PRON	PER	he
+-1	24011	24011	PRON	PER	He
+-1	24014	24015	NOM	PER	a baby
+-1	24024	24025	NOM	PER	big boys
+-1	24032	24032	NOM	PER	men
+-1	24035	24035	PRON	PER	they
+20	24040	24041	PROP	PER	Prince Dolor
+-1	24059	24059	PRON	PER	he
+-1	24068	24070	NOM	LOC	sky - land
+-1	24072	24074	NOM	LOC	cloud - land
+-1	24077	24080	NOM	LOC	freezing mountain - tops
+-1	24083	24086	NOM	LOC	desolate stretches of forest
+-1	24089	24091	NOM	LOC	smiling cultivated plains
+-1	24094	24105	NOM	LOC	great lakes that seemed to him almost as shoreless as the sea
+-1	24099	24099	PRON	PER	him
+-1	24104	24105	NOM	LOC	the sea
+-1	24107	24107	PRON	PER	he
+-1	24114	24114	PRON	PER	he
+-1	24134	24134	PRON	PER	himself
+-1	24137	24137	PRON	PER	his
+-1	24152	24152	PRON	PER	he
+-1	24180	24180	PRON	PER	his
+-1	24186	24186	PRON	PER	his
+20	24189	24190	PROP	PER	Prince Dolor
+-1	24197	24197	PRON	PER	him
+-1	24201	24201	PRON	PER	his
+-1	24209	24209	PRON	PER	he
+-1	24220	24220	PRON	PER	us
+-1	24226	24228	NOM	GPE	a great metropolis
+-1	24233	24233	PRON	GPE	its
+-1	24239	24239	PRON	PER	ourselves
+-1	24241	24241	PRON	GPE	its
+-1	24241	24244	NOM	PER	its crowds of people
+-1	24244	24244	NOM	PER	people
+-1	24249	24249	PRON	FAC	its
+-1	24249	24253	NOM	FAC	its tall rows of houses
+-1	24253	24253	NOM	FAC	houses
+-1	24255	24255	PRON	FAC	its
+-1	24255	24258	NOM	FAC	its grand public buildings
+-1	24260	24260	NOM	FAC	churches
+-1	24262	24262	NOM	FAC	squares
+-1	24268	24268	PRON	PER	we
+-1	24272	24272	PRON	GPE	its
+-1	24272	24276	NOM	FAC	its miserable little back alleys
+-1	24279	24280	NOM	PER	dirty children
+-1	24293	24293	NOM	PER	men
+-1	24297	24297	NOM	PER	women
+-1	24302	24303	NOM	PER	young boys
+-1	24310	24310	NOM	PER	nobody
+-1	24313	24313	PRON	PER	them
+-1	24319	24320	NOM	PER	the policeman
+-1	24323	24323	PRON	PER	he
+-1	24326	24326	PRON	PER	them
+-1	24329	24329	NOM	FAC	prison
+-1	24356	24358	NOM	GPE	a large city
+-1	24369	24369	PRON	PER	you
+-1	24373	24373	PRON	LOC	it
+-1	24382	24382	PRON	PER	your
+-1	24388	24388	PRON	PER	you
+-1	24404	24404	PRON	PER	you
+0	24409	24409	PRON	PER	I
+0	24412	24412	PRON	PER	myself
+-1	24415	24415	PRON	PER	you
+20	24417	24418	PROP	PER	Prince Dolor
+-1	24423	24424	NOM	PER	a king
+-1	24429	24447	NOM	PER	a boy with a kingly nature -- to be able to stand such a sight without being utterly overcome
+-1	24450	24450	PRON	PER	he
+-1	24459	24467	NOM	PER	a blind person who is suddenly made to see
+-1	24469	24469	PRON	PER	He
+-1	24473	24476	NOM	GPE	the city below him
+-1	24476	24476	PRON	PER	him
+-1	24481	24481	PRON	PER	his
+-1	24484	24484	PRON	PER	his
+-1	24488	24488	PRON	PER	I
+-1	24506	24506	PRON	PER	I
+-1	24518	24518	NOM	PER	nobody
+-1	24521	24521	PRON	PER	me
+-1	24525	24525	PRON	PER	I
+-1	24527	24527	PRON	PER	I
+-1	24529	24529	NOM	PER	somebody
+-1	24537	24537	PRON	PER	you
+-1	24543	24543	PRON	PER	me
+-1	24545	24545	PRON	PER	I
+-1	24624	24624	PRON	PER	you
+-1	24629	24629	PRON	PER	I
+-1	24635	24635	PRON	PER	your
+-1	24638	24638	NOM	PER	sir
+-1	24642	24643	NOM	PER	the boy
+-1	24653	24654	NOM	PER	the people
+-1	24674	24676	NOM	PER	The other half
+-1	24692	24692	NOM	PER	Ma'am
+-1	24695	24695	PRON	PER	you
+-1	24698	24698	PRON	PER	I
+-1	24700	24702	NOM	PER	a mother bird
+-1	24705	24705	PRON	PER	my
+30	24708	24708	PROP	PER	Mag
+-1	24711	24711	PRON	PER	I
+-1	24717	24717	PRON	PER	you
+-1	24719	24719	PRON	PER	you
+-1	24725	24725	PRON	PER	I
+-1	24732	24732	PRON	PER	I
+-1	24736	24736	PRON	PER	My
+-1	24736	24737	NOM	PER	My family
+-1	24743	24743	PRON	PER	we
+-1	24747	24748	NOM	FAC	this palace
+-1	24761	24761	PRON	PER	I
+-1	24766	24767	NOM	PER	the King
+-1	24769	24770	NOM	PER	the Queen
+-1	24773	24775	NOM	PER	the little princes
+-1	24777	24777	NOM	PER	princesses
+-1	24780	24783	NOM	PER	the maids of honour
+-1	24786	24791	NOM	PER	all the inhabitants of the city
+-1	24790	24791	NOM	GPE	the city
+-1	24793	24793	PRON	PER	I
+-1	24800	24800	PRON	PER	I
+-1	24806	24806	PRON	PER	I
+-1	24809	24809	PRON	PER	I
+-1	24815	24821	NOM	PER	a poor little ignorant boy like you
+-1	24821	24821	PRON	PER	you
+-1	24825	24825	PRON	PER	I
+-1	24827	24828	NOM	PER	a prince
+-1	24832	24833	NOM	PER	the other
+-1	24841	24841	PRON	PER	I
+-1	24843	24844	NOM	PER	a magpie
+-1	24846	24846	PRON	PER	You
+-1	24849	24849	PRON	PER	me
+-1	24850	24853	NOM	PER	a most respectable bird
+-1	24857	24857	PRON	PER	I
+-1	24871	24871	PRON	PER	he
+-1	24874	24874	PRON	PER	his
+30	24878	24878	PROP	PER	Mag
+-1	24886	24886	PRON	PER	herself
+-1	24889	24889	PRON	PER	she
+-1	24891	24892	NOM	PER	a lady
+-1	24894	24895	NOM	PER	a stranger
+-1	24902	24902	PRON	PER	he
+-1	24906	24906	PRON	PER	her
+-1	24908	24908	PRON	PER	She
+-1	24910	24910	PRON	PER	herself
+-1	24912	24912	PRON	PER	his
+-1	24928	24928	PRON	PER	she
+-1	24930	24930	PRON	PER	herself
+-1	24944	24946	NOM	PER	all its inhabitants
+-1	24945	24945	PRON	FAC	its
+-1	24952	24962	NOM	GPE	no capital in the world like the great metropolis of Nomansland
+-1	24955	24956	NOM	LOC	the world
+-1	24958	24962	NOM	GPE	the great metropolis of Nomansland
+1	24962	24962	PROP	GPE	Nomansland
+0	24964	24964	PRON	PER	I
+-1	24968	24968	PRON	GPE	it
+-1	24975	24975	PRON	FAC	it
+-1	24978	24978	PRON	PER	we
+-1	24988	24988	PRON	FAC	it
+-1	24993	24996	NOM	GPE	every other fine city
+-1	24998	25004	NOM	GPE	the finest city that ever was built
+30	25007	25007	PROP	PER	Mag
+-1	25015	25015	PRON	PER	she
+-1	25026	25026	PRON	FAC	it
+20	25029	25030	PROP	PER	Prince Dolor
+-1	25035	25035	PRON	PER	he
+-1	25039	25039	PRON	PER	he
+-1	25047	25050	NOM	PER	One half the people
+-1	25061	25063	NOM	FAC	the full streets
+-1	25069	25070	NOM	FAC	the parks
+-1	25072	25072	PRON	PER	their
+-1	25077	25079	NOM	PER	the other half
+-1	25089	25090	NOM	LOC	the world
+-1	25098	25098	PRON	PER	I
+-1	25105	25105	PRON	PER	I
+-1	25107	25108	NOM	PER	the king
+-1	25113	25113	PRON	PER	you
+-1	25116	25117	NOM	PER	the king
+-1	25124	25125	NOM	PER	a boy
+-1	25129	25130	NOM	PER	the magpie
+-1	25135	25135	PRON	PER	I
+-1	25137	25137	NOM	FAC	here
+-1	25149	25149	PRON	PER	I
+-1	25151	25151	PRON	PER	you
+-1	25152	25154	NOM	FAC	the royal palace
+-1	25157	25157	PRON	FAC	It
+-1	25159	25162	NOM	FAC	a very magnificent palace
+-1	25164	25164	PRON	FAC	It
+-1	25166	25168	NOM	FAC	terraces and gardens
+-1	25170	25172	NOM	FAC	battlements and towers
+-1	25174	25174	PRON	FAC	It
+-1	25184	25184	PRON	FAC	it
+-1	25190	25191	NOM	GPE	the city
+-1	25193	25193	PRON	FAC	Its
+-1	25203	25203	PRON	FAC	them
+-1	25210	25226	NOM	FAC	a small one , high up towards the roof , which looked on to the Beautiful Mountains
+-1	25224	25226	NOM	LOC	the Beautiful Mountains
+-1	25230	25231	NOM	PER	the Queen
+-1	25233	25233	NOM	FAC	there
+-1	25235	25235	PRON	FAC	it
+-1	25245	25246	NOM	PER	the magpie
+-1	25257	25257	NOM	PER	nobody
+-1	25262	25262	PRON	FAC	it
+-1	25266	25273	NOM	FAC	the lower apartments , which had no view
+-1	25283	25283	PRON	PER	his
+-1	25283	25284	NOM	PER	his Majesty
+-1	25285	25286	NOM	PER	the King
+-1	25293	25293	PRON	FAC	It
+-1	25297	25297	NOM	FAC	gardens
+-1	25306	25306	PRON	FAC	it
+-1	25312	25313	NOM	GPE	the city
+2	25345	25347	PROP	LOC	the Beautiful Mountains
+-1	25353	25353	PRON	PER	I
+-1	25358	25359	NOM	PER	the King
+20	25363	25364	PROP	PER	Prince Dolor
+0	25373	25373	PRON	PER	I
+0	25388	25388	PRON	PER	I
+-1	25393	25394	NOM	PER	most people
+-1	25398	25399	NOM	PER	a king
+20	25403	25404	PROP	PER	Prince Dolor
+-1	25408	25411	NOM	PER	a very splendid personage
+-1	25417	25417	PRON	PER	his
+-1	25424	25424	PRON	PER	his
+-1	25434	25435	NOM	PER	the people
+-1	25443	25444	NOM	PER	wrong--"The king
+-1	25489	25489	NOM	PER	everybody
+-1	25494	25494	NOM	PER	nobody
+-1	25502	25502	PRON	PER	him
+20	25516	25517	PROP	PER	Prince Dolor
+-1	25525	25525	PRON	PER	he
+0	25529	25529	PRON	PER	I
+-1	25532	25532	PRON	PER	you
+-1	25534	25534	PRON	PER	he
+-1	25543	25544	NOM	PER	the magpie
+-1	25553	25554	NOM	PER	The King
+-1	25559	25559	PRON	PER	his
+-1	25559	25560	NOM	PER	his Majesty
+-1	25577	25577	PRON	PER	He
+-1	25581	25581	PRON	PER	you
+-1	25585	25585	PRON	PER	you
+-1	25595	25595	PRON	PER	him
+-1	25600	25600	PRON	PER	I
+-1	25615	25616	NOM	PER	The Prince
+-1	25628	25628	PRON	PER	he
+-1	25633	25646	NOM	PER	the King his uncle , who had succeeded his father , and dethroned himself
+-1	25635	25635	PRON	PER	his
+-1	25635	25636	NOM	PER	his uncle
+-1	25641	25641	PRON	PER	his
+-1	25641	25642	NOM	PER	his father
+-1	25646	25646	PRON	PER	himself
+-1	25656	25656	PRON	PER	he
+20	25658	25659	PROP	PER	Prince Dolor
+-1	25668	25668	PRON	PER	him
+-1	25671	25673	NOM	FAC	a desolate tower
+-1	25677	25677	PRON	PER	he
+-1	25680	25686	NOM	PER	this great , bad , clever man
+-1	25689	25689	PRON	PER	he
+-1	25694	25694	PRON	PER	he
+-1	25698	25698	NOM	PER	another
+-1	25706	25706	PRON	PER	he
+-1	25711	25711	NOM	PER	Nobody
+-1	25716	25717	NOM	PER	the magpie
+-1	25722	25722	PRON	PER	she
+-1	25727	25728	NOM	PER	the Prince
+-1	25738	25738	PRON	PER	his
+-1	25742	25742	PRON	PER	He
+-1	25744	25745	NOM	PER	a king
+-1	25755	25755	NOM	PER	nobody
+-1	25760	25760	PRON	PER	she
+30	25762	25762	PROP	PER	Mag
+-1	25767	25768	NOM	FAC	the palace
+-1	25793	25793	PRON	PER	She
+-1	25799	25799	PRON	PER	her
+-1	25803	25803	PRON	PER	she
+-1	25827	25829	NOM	FAC	the chamber below
+-1	25836	25836	PRON	PER	She
+-1	25842	25842	PRON	PER	her
+20	25855	25855	PROP	PER	Prince
+-1	25861	25861	PRON	PER	I
+-1	25883	25883	PRON	PER	my
+-1	25883	25884	NOM	PER	my prince
+-1	25890	25890	PRON	PER	I
+-1	25900	25901	NOM	PER	the boy
+-1	25909	25909	PRON	PER	they
+-1	25911	25911	PRON	PER	us
+-1	25928	25929	NOM	FAC	every palace
+-1	25937	25937	NOM	PER	Everybody
+-1	25942	25942	NOM	PER	nobody
+-1	25952	25954	NOM	PER	the Royal family
+-1	25969	25970	NOM	LOC	the world
+-1	25973	25973	PRON	PER	they
+-1	25976	25983	NOM	FAC	a glass house where everybody can see them
+-1	25980	25980	NOM	PER	everybody
+-1	25983	25983	PRON	PER	them
+-1	25990	25990	PRON	PER	them
+-1	25997	25997	PRON	PER	your
+-1	26005	26005	PRON	PER	his
+-1	26005	26006	NOM	PER	his Majesty
+-1	26009	26009	PRON	PER	His
+-1	26009	26010	NOM	PER	His Majesty
+-1	26012	26013	NOM	PER	The Prince
+-1	26019	26021	NOM	FAC	a large room
+-1	26023	26042	NOM	FAC	the largest room he had ever beheld , with furniture and hangings grander than anything he could have ever imagined
+-1	26026	26026	PRON	PER	he
+-1	26038	26038	PRON	PER	he
+-1	26082	26082	NOM	PER	nobody
+-1	26085	26085	PRON	FAC	it
+-1	26087	26088	NOM	FAC	the room
+-1	26098	26099	NOM	PER	the King
+-1	26103	26105	NOM	PER	the puzzled boy
+-1	26108	26108	NOM	FAC	There
+30	26112	26112	PROP	PER	Mag
+-1	26128	26129	NOM	PER	six people
+-1	26135	26135	PRON	FAC	it
+-1	26158	26171	NOM	PER	a small figure , something like waxwork , fast asleep -- very fast asleep
+-1	26195	26196	NOM	PER	a baby
+-1	26268	26269	NOM	PER	the King
+20	26273	26274	PROP	PER	Prince Dolor
+-1	26284	26284	PRON	PER	He
+-1	26294	26294	PRON	PER	he
+-1	26297	26297	PRON	PER	his
+-1	26297	26298	NOM	PER	his uncle
+-1	26306	26306	PRON	PER	him
+-1	26308	26312	NOM	PER	a poor little helpless child
+-1	26324	26324	PRON	PER	he
+-1	26331	26332	NOM	PER	the boy
+-1	26340	26340	PRON	PER	he
+-1	26343	26343	PRON	PER	he
+-1	26348	26348	PRON	PER	him
+-1	26350	26356	NOM	PER	this great , strong , wicked man
+-1	26360	26360	PRON	PER	you
+-1	26366	26367	NOM	PER	a baby
+-1	26371	26371	PRON	PER	he
+-1	26375	26375	PRON	PER	his
+-1	26380	26380	PRON	PER	his
+-1	26385	26385	PRON	PER	they
+-1	26403	26403	PRON	PER	him
+-1	26407	26408	NOM	PER	the Prince
+-1	26412	26412	PRON	PER	He
+31	26418	26419	PROP	PER	the Magpie
+-1	26436	26436	PRON	PER	him
+-1	26443	26444	NOM	PER	the Prince
+-1	26449	26449	PRON	PER	him
+-1	26453	26453	PRON	PER	he
+-1	26460	26460	PRON	PER	his
+-1	26474	26474	NOM	PER	kings
+-1	26482	26482	PRON	PER	he
+-1	26489	26489	NOM	PER	folk
+-1	26494	26494	PRON	PER	his
+-1	26498	26498	PRON	PER	he
+-1	26509	26509	PRON	PER	your
+-1	26509	26510	NOM	PER	your Majesty
+-1	26518	26518	PRON	PER	her
+30	26521	26522	PROP	PER	Mistress Mag
+20	26533	26534	PROP	PER	Prince Dolor
+-1	26541	26541	PRON	PER	his
+-1	26541	26542	NOM	PER	his uncle
+-1	26546	26546	PRON	PER	He
+-1	26552	26552	PRON	PER	his
+-1	26563	26563	PRON	PER	we
+-1	26569	26570	NOM	PER	the Magpie
+-1	26582	26582	PRON	PER	his
+-1	26582	26583	NOM	PER	his Majesty
+-1	26591	26591	PRON	PER	I
+-1	26599	26600	NOM	LOC	the world
+-1	26603	26603	PRON	PER	He
+-1	26605	26606	NOM	LOC	the world
+-1	26609	26609	PRON	PER	he
+-1	26614	26614	PRON	PER	he
+-1	26620	26620	PRON	PER	he
+-1	26630	26630	PRON	PER	he
+-1	26634	26634	PRON	PER	me
+-1	26636	26636	PRON	PER	I
+-1	26647	26647	PRON	PER	his
+-1	26647	26648	NOM	PER	his Majesty
+-1	26657	26657	PRON	PER	we
+-1	26661	26661	NOM	PER	somebody
+-1	26663	26663	PRON	PER	his
+-1	26663	26664	NOM	FAC	his place
+-1	26673	26674	NOM	GPE	the city
+-1	26678	26678	PRON	PER	we
+-1	26715	26718	NOM	PER	anybody except a magpie
+0	26727	26727	PRON	PER	I
+-1	26759	26760	NOM	GPE	the kingdom
+-1	26762	26762	PRON	GPE	it
+-1	26765	26766	NOM	PER	a king
+-1	26768	26769	NOM	PER	the people
+-1	26772	26772	NOM	PER	crowds
+-1	26776	26777	NOM	FAC	street corners
+20	26800	26801	PROP	PER	Prince Dolor
+-1	26813	26813	PRON	PER	their
+-1	26822	26822	PRON	PER	him
+-1	26825	26827	NOM	GPE	the whole city
+-1	26836	26837	NOM	PER	the King
+-1	26841	26842	NOM	PER	The King
+-1	26848	26849	NOM	PER	the King
+-1	26859	26860	NOM	PER	the King
+-1	26867	26868	NOM	GPE	the Republic
+-1	26874	26875	NOM	ORG	no Government
+-1	26904	26904	PRON	PER	you
+-1	26904	26905	NOM	PER	you children
+-1	26905	26905	NOM	PER	children
+-1	26907	26908	NOM	PER	grown men
+-1	26910	26910	NOM	PER	women
+-1	26915	26915	PRON	PER	you
+0	26929	26929	PRON	PER	I
+0	26933	26933	PRON	PER	I
+-1	26935	26935	PRON	PER	you
+-1	26952	26955	NOM	GPE	other countries beside Nomansland
+1	26955	26955	PROP	GPE	Nomansland
+-1	26958	26959	NOM	PER	wicked kings
+-1	26964	26964	PRON	PER	their
+-1	26964	26965	NOM	PER	their people
+-1	26972	26974	NOM	GPE	an unrighteous nation
+-1	26977	26977	NOM	PER	rulers
+-1	26990	26992	NOM	GPE	a restless country
+0	27005	27005	PRON	PER	me
+0	27007	27007	PRON	PER	I
+20	27041	27042	PROP	PER	Prince Dolor
+-1	27047	27047	NOM	PER	soldiers
+-1	27049	27049	NOM	PER	people
+-1	27052	27052	NOM	PER	hundreds
+-1	27054	27055	NOM	FAC	the streets
+-1	27065	27065	NOM	FAC	houses
+-1	27069	27069	NOM	PER	women
+-1	27071	27071	NOM	PER	children
+0	27078	27078	PRON	PER	I
+-1	27086	27086	PRON	PER	you
+0	27092	27092	PRON	PER	my
+-1	27092	27093	NOM	PER	my children
+-1	27104	27104	PRON	PER	yourselves
+-1	27110	27110	PRON	PER	them
+-1	27115	27115	NOM	PER	anybody
+20	27120	27121	PROP	PER	Prince Dolor
+-1	27137	27137	PRON	PER	his
+-1	27144	27144	PRON	PER	me
+-1	27146	27146	NOM	FAC	home
+-1	27149	27149	PRON	PER	he
+-1	27155	27155	PRON	PER	his
+-1	27159	27159	PRON	PER	his
+-1	27165	27165	PRON	PER	me
+-1	27167	27167	NOM	FAC	home
+-1	27172	27172	PRON	PER	his
+-1	27172	27174	NOM	FAC	his lonely tower
+-1	27176	27176	NOM	FAC	home
+-1	27198	27199	NOM	PER	the magpie
+-1	27202	27202	PRON	PER	her
+-1	27205	27205	PRON	PER	She
+20	27223	27224	PROP	PER	Prince Dolor
+-1	27229	27230	NOM	GPE	the city
+-1	27244	27244	PRON	PER	his
+-1	27249	27249	PRON	PER	You
+-1	27254	27254	PRON	PER	I
+-1	27259	27260	NOM	LOC	the world
+-1	27266	27266	PRON	PER	I
+-1	27269	27269	PRON	PER	I
+-1	27274	27275	NOM	PER	the Prince
+-1	27291	27291	PRON	PER	your
+-1	27291	27293	NOM	PER	your Royal Highness
+-1	27295	27295	PRON	PER	You
+-1	27299	27299	PRON	PER	me
+-1	27302	27302	PRON	PER	I
+-1	27304	27304	PRON	PER	you
+-1	27306	27306	PRON	PER	We
+-1	27313	27313	PRON	PER	She
+-1	27316	27316	PRON	PER	him
+-1	27318	27318	PRON	PER	her
+-1	27349	27349	PRON	PER	his
+-1	27349	27350	NOM	PER	his godmother
+-1	27353	27353	PRON	PER	he
+-1	27366	27366	PRON	PER	she
+-1	27380	27380	PRON	PER	her
+20	27386	27387	PROP	PER	Prince Dolor
+-1	27406	27406	PRON	PER	he
+-1	27408	27408	PRON	PER	he
+-1	27410	27410	PRON	PER	himself
+-1	27412	27412	PRON	PER	his
+-1	27412	27414	NOM	FAC	his own room
+20	27446	27447	PROP	PER	Prince Dolor
+-1	27457	27457	PRON	PER	he
+-1	27461	27461	PRON	PER	he
+-1	27467	27467	PRON	PER	he
+-1	27474	27474	PRON	PER	he
+-1	27477	27477	PRON	PER	his
+-1	27477	27478	NOM	FAC	his room
+-1	27484	27484	PRON	PER	his
+-1	27484	27485	NOM	PER	his nurse
+-1	27488	27488	PRON	PER	him
+-1	27491	27491	PRON	PER	his
+-1	27505	27505	PRON	PER	she
+-1	27528	27528	PRON	PER	him
+0	27537	27537	PRON	PER	I
+-1	27543	27544	NOM	PER	this boy
+-1	27551	27551	PRON	PER	he
+-1	27569	27569	PRON	PER	he
+-1	27577	27577	PRON	PER	he
+-1	27583	27593	NOM	PER	those celebrated " Two little men Who lay in their bed
+-1	27592	27592	PRON	PER	their
+-1	27609	27610	NOM	PER	no nurse
+-1	27616	27616	PRON	PER	He
+-1	27624	27624	PRON	PER	he
+-1	27632	27632	PRON	PER	he
+-1	27635	27635	PRON	PER	his
+-1	27638	27638	PRON	PER	he
+-1	27641	27641	PRON	PER	his
+-1	27644	27644	PRON	PER	he
+-1	27650	27650	PRON	PER	his
+-1	27655	27655	PRON	PER	he
+-1	27669	27669	PRON	PER	he
+-1	27678	27678	NOM	PER	nobody
+-1	27682	27682	PRON	PER	he
+-1	27695	27695	PRON	PER	his
+-1	27695	27696	NOM	PER	his nurse
+-1	27700	27701	NOM	FAC	this tower
+-1	27704	27704	PRON	PER	himself
+-1	27707	27710	NOM	PER	a sort of monarch
+-1	27716	27716	PRON	PER	he
+-1	27724	27724	PRON	PER	he
+-1	27741	27741	PRON	PER	he
+-1	27750	27750	NOM	PER	Nurse
+-1	27752	27753	NOM	PER	dear nurse
+-1	27760	27760	PRON	PER	he
+-1	27769	27769	PRON	PER	I
+-1	27772	27778	NOM	PER	the best boy in all the land
+-1	27777	27778	NOM	LOC	the land
+-1	27783	27783	PRON	PER	she
+-1	27794	27794	PRON	PER	his
+-1	27798	27798	PRON	PER	he
+-1	27812	27812	PRON	PER	he
+-1	27821	27821	PRON	PER	his
+-1	27829	27830	NOM	PER	a baby
+-1	27833	27833	PRON	PER	I
+-1	27835	27837	NOM	PER	a big boy
+-1	27841	27842	NOM	PER	a man
+-1	27850	27850	PRON	PER	I
+-1	27853	27853	PRON	PER	I
+-1	27860	27860	PRON	PER	He
+-1	27868	27868	PRON	PER	his
+-1	27875	27875	PRON	PER	his
+-1	27891	27893	NOM	FAC	the four chambers
+-1	27910	27910	PRON	PER	his
+-1	27928	27928	PRON	PER	He
+-1	27933	27934	NOM	PER	a prince
+-1	27947	27948	NOM	GPE	the place
+-1	27960	27960	PRON	PER	himself
+-1	27962	27964	NOM	FAC	the solitary tower
+-1	27971	27973	NOM	PER	the poor boy
+-1	27977	27977	PRON	PER	his
+-1	27982	27982	PRON	PER	he
+-1	27999	27999	PRON	PER	him
+-1	28017	28018	NOM	LOC	the world
+-1	28020	28020	PRON	PER	I
+-1	28026	28026	PRON	PER	he
+-1	28053	28053	PRON	PER	himself
+-1	28069	28069	PRON	PER	he
+0	28076	28076	PRON	PER	I
+-1	28082	28085	NOM	PER	a very courageous boy
+-1	28090	28090	PRON	PER	his
+-1	28100	28100	PRON	PER	his
+-1	28100	28101	NOM	PER	his nurse
+-1	28104	28104	PRON	PER	him
+-1	28106	28109	NOM	PER	the people of Nomansland
+1	28109	28109	PROP	GPE	Nomansland
+-1	28152	28152	PRON	PER	I
+-1	28163	28163	PRON	PER	I
+-1	28169	28170	NOM	PER	the Prince
+-1	28185	28185	PRON	PER	He
+-1	28188	28192	NOM	LOC	the broad bleak sunshiny plain
+-1	28218	28219	NOM	FAC	the tower
+-1	28220	28220	PRON	PER	he
+-1	28237	28240	NOM	PER	the deaf - mute
+-1	28246	28246	PRON	PER	his
+-1	28252	28252	PRON	PER	he
+-1	28253	28253	PRON	PER	himself
+-1	28278	28278	PRON	PER	He
+-1	28285	28285	NOM	PER	nurse
+-1	28288	28288	PRON	PER	him
+-1	28290	28291	NOM	PER	Poor nurse
+-1	28295	28295	PRON	PER	she
+20	28304	28305	PROP	PER	Prince Dolor
+-1	28310	28310	PRON	PER	His
+-1	28320	28320	PRON	PER	her
+-1	28328	28329	NOM	LOC	the world
+-1	28331	28331	PRON	PER	him
+-1	28333	28337	NOM	PER	a poor little helpless boy
+-1	28340	28340	PRON	PER	he
+-1	28345	28345	PRON	PER	he
+-1	28364	28364	PRON	PER	he
+-1	28382	28383	NOM	LOC	the world
+-1	28390	28390	PRON	PER	he
+-1	28404	28404	PRON	PER	him
+-1	28406	28409	NOM	PER	the deaf - mute
+-1	28417	28418	NOM	PER	the nurse
+-1	28421	28422	NOM	PER	the king
+-1	28427	28427	PRON	PER	she
+-1	28436	28437	NOM	GPE	the capital
+-1	28456	28456	PRON	PER	she
+-1	28461	28461	PRON	PER	I
+-1	28463	28463	PRON	PER	she
+-1	28468	28469	NOM	PER	miserable woman
+-1	28472	28472	PRON	PER	they
+-1	28477	28477	PRON	PER	her
+-1	28489	28489	PRON	PER	him
+-1	28495	28495	PRON	PER	her
+-1	28501	28501	PRON	PER	she
+-1	28506	28506	PRON	PER	him
+-1	28517	28517	PRON	PER	she
+-1	28522	28522	PRON	PER	him
+0	28534	28534	PRON	PER	I
+-1	28539	28539	PRON	PER	his
+-1	28539	28541	NOM	FAC	his four rooms
+-1	28549	28549	PRON	PER	his
+-1	28555	28555	PRON	PER	he
+-1	28568	28568	PRON	PER	she
+-1	28576	28576	PRON	PER	I
+-1	28580	28580	PRON	PER	her
+-1	28584	28584	PRON	PER	he
+-1	28588	28588	PRON	PER	he
+-1	28593	28593	PRON	PER	he
+-1	28602	28602	PRON	PER	he
+-1	28606	28606	PRON	PER	himself
+-1	28613	28613	PRON	PER	he
+-1	28616	28616	PRON	PER	himself
+-1	28637	28638	NOM	PER	a prince
+-1	28646	28646	PRON	PER	he
+-1	28651	28651	PRON	PER	my
+-1	28651	28652	NOM	PER	my godmother
+-1	28655	28655	NOM	PER	princes
+-1	28665	28665	PRON	PER	he
+-1	28670	28670	PRON	PER	his
+-1	28670	28671	NOM	PER	his godmother
+-1	28676	28676	PRON	PER	her
+-1	28680	28680	PRON	PER	her
+-1	28683	28683	PRON	PER	him
+-1	28685	28685	PRON	PER	she
+-1	28689	28689	PRON	PER	him
+-1	28692	28692	PRON	PER	himself
+-1	28695	28695	PRON	PER	he
+-1	28700	28700	PRON	PER	his
+-1	28707	28712	NOM	PER	a very proud and independent boy
+-1	28715	28715	PRON	PER	he
+-1	28717	28717	PRON	PER	her
+-1	28726	28726	PRON	PER	she
+-1	28733	28733	PRON	PER	him
+-1	28735	28741	NOM	PER	poor , forlorn boy that he was
+-1	28740	28740	PRON	PER	he
+-1	28744	28744	PRON	PER	he
+-1	28760	28760	PRON	PER	he
+-1	28764	28765	NOM	PER	a boy
+-1	28768	28769	NOM	PER	a man
+-1	28772	28772	PRON	PER	he
+0	28780	28780	PRON	PER	I
+-1	28782	28783	NOM	PER	a child
+0	28785	28785	PRON	PER	I
+-1	28798	28800	NOM	FAC	a little house
+0	28803	28803	PRON	PER	my
+-1	28803	28805	NOM	PER	my own self
+-1	28807	28821	NOM	FAC	a house built high up in a tree , or far away in a forest
+-1	28820	28821	NOM	LOC	a forest
+-1	28827	28828	NOM	LOC	a hillside,--so
+0	28843	28843	PRON	PER	I
+0	28847	28847	PRON	PER	my
+0	28856	28856	PRON	PER	I
+0	28874	28874	PRON	PER	I
+-1	28888	28888	NOM	PER	nobody
+0	28897	28897	PRON	PER	me
+0	28904	28904	PRON	PER	I
+-1	28916	28917	NOM	PER	many children
+-1	28921	28922	NOM	PER	other children
+-1	28926	28930	NOM	PER	grown - up people even
+0	28939	28939	PRON	PER	I
+20	28942	28943	PROP	PER	Prince Dolor
+-1	28946	28946	PRON	PER	his
+-1	28950	28950	PRON	PER	he
+-1	28960	28960	PRON	PER	his
+-1	28966	28966	PRON	PER	himself
+-1	28972	28972	PRON	PER	himself
+-1	28979	28979	PRON	PER	he
+0	28990	28990	PRON	PER	I
+-1	28994	28995	NOM	PER	other children
+0	28999	28999	PRON	PER	my
+-1	28999	29014	NOM	FAC	my imaginary house in a tree , when they had had sufficient of their own company
+-1	29007	29007	PRON	PER	they
+-1	29012	29012	PRON	PER	their
+-1	29017	29018	NOM	PER	the prince
+-1	29025	29025	PRON	PER	he
+-1	29031	29032	NOM	PER	a prince
+-1	29042	29042	PRON	PER	he
+-1	29059	29060	NOM	PER	a creature
+-1	29073	29073	PRON	PER	his
+-1	29082	29082	PRON	PER	his
+-1	29088	29088	PRON	PER	he
+-1	29103	29103	PRON	PER	he
+-1	29128	29128	PRON	PER	He
+-1	29136	29136	PRON	PER	him
+-1	29139	29139	PRON	PER	himself
+-1	29143	29143	PRON	PER	himself
+-1	29151	29151	PRON	PER	us
+-1	29156	29156	PRON	PER	we
+20	29179	29180	PROP	PER	Prince Dolor
+-1	29186	29186	PRON	PER	his
+-1	29190	29190	PRON	PER	he
+-1	29201	29201	PRON	PER	He
+-1	29209	29209	PRON	PER	his
+-1	29222	29223	NOM	FAC	the tower
+-1	29224	29224	PRON	PER	he
+-1	29230	29233	NOM	PER	the deaf - mute
+-1	29250	29252	NOM	PER	the poor boy
+-1	29260	29260	PRON	PER	he
+-1	29264	29264	PRON	PER	himself
+-1	29277	29278	NOM	FAC	the tower
+-1	29281	29281	PRON	PER	he
+-1	29291	29291	PRON	PER	him
+-1	29298	29298	PRON	PER	He
+-1	29301	29301	PRON	PER	his
+-1	29308	29308	PRON	PER	he
+-1	29323	29323	PRON	PER	he
+-1	29332	29332	PRON	PER	he
+-1	29336	29336	PRON	PER	he
+-1	29353	29353	PRON	PER	his
+-1	29353	29354	NOM	PER	his uncle
+-1	29357	29357	PRON	PER	he
+-1	29379	29379	PRON	PER	he
+-1	29385	29386	NOM	FAC	the palace
+-1	29396	29397	NOM	LOC	the world
+-1	29411	29414	NOM	PER	the poor little Prince
+-1	29419	29419	PRON	PER	his
+-1	29423	29423	PRON	PER	him
+-1	29425	29425	PRON	PER	his
+-1	29430	29430	PRON	PER	he
+-1	29432	29432	PRON	PER	he
+-1	29438	29438	PRON	PER	him
+-1	29440	29440	PRON	PER	he
+-1	29443	29443	PRON	PER	his
+-1	29450	29450	PRON	PER	he
+-1	29459	29459	PRON	PER	he
+-1	29464	29464	PRON	PER	he
+-1	29469	29470	NOM	PER	a child
+-1	29474	29474	PRON	PER	he
+-1	29482	29486	NOM	PER	a king in his castle
+-1	29485	29485	PRON	PER	his
+-1	29485	29486	NOM	FAC	his castle
+-1	29496	29496	PRON	PER	I
+-1	29498	29498	PRON	PER	I
+-1	29509	29509	NOM	PER	somebody
+-1	29512	29512	PRON	PER	me
+-1	29517	29517	PRON	PER	he
+-1	29521	29521	PRON	PER	I
+-1	29524	29525	NOM	PER	a man
+-1	29535	29535	NOM	PER	people
+-1	29547	29547	PRON	PER	they
+-1	29549	29549	PRON	PER	me
+-1	29555	29555	PRON	PER	I
+-1	29569	29569	PRON	PER	I
+-1	29577	29579	NOM	PER	the little fellow
+-1	29584	29584	PRON	PER	he
+-1	29602	29602	PRON	PER	his
+-1	29602	29604	NOM	PER	his little lark
+-1	29607	29607	PRON	PER	he
+1	29657	29657	PROP	GPE	Nomansland
+-1	29673	29673	PRON	PER	he
+-1	29677	29678	NOM	PER	the boy
+-1	29687	29687	PRON	PER	his
+-1	29695	29695	PRON	PER	himself
+-1	29710	29713	NOM	PER	The poor condemned woman
+-1	29718	29720	NOM	PER	a wicked woman
+-1	29725	29725	PRON	PER	her
+-1	29733	29733	PRON	PER	she
+-1	29744	29744	PRON	PER	she
+-1	29752	29753	NOM	PER	the King
+-1	29764	29765	NOM	GPE	the country
+-1	29772	29772	PRON	PER	her
+1	29781	29781	PROP	GPE	Nomansland
+-1	29782	29784	NOM	PER	its rightful heir
+-1	29787	29787	PRON	PER	she
+-1	29789	29792	NOM	PER	the deaf - mute
+-1	29795	29795	PRON	PER	her
+-1	29798	29798	PRON	PER	him
+-1	29801	29801	PRON	PER	they
+-1	29807	29807	NOM	GPE	city
+-1	29809	29809	NOM	GPE	city
+20	29816	29817	PROP	PER	Prince Dolor
+-1	29828	29828	PRON	PER	his
+-1	29828	29830	NOM	PER	his wicked uncle
+-1	29833	29833	PRON	PER	he
+-1	29840	29847	NOM	PER	the noblest young Prince that ever was born
+-1	29859	29860	NOM	GPE	The country
+-1	29867	29869	NOM	PER	the late King
+-1	29879	29879	PRON	GPE	itself
+-1	29906	29909	NOM	PER	the other young princes
+-1	29916	29917	NOM	PER	this Prince
+-1	29921	29932	NOM	PER	the son of their late good King and the beloved Queen Dolorez
+-1	29924	29924	PRON	PER	their
+-1	29924	29927	NOM	PER	their late good King
+-1	29929	29932	NOM	PER	the beloved Queen Dolorez
+20	29937	29938	PROP	PER	Prince Dolor
+20	29941	29942	PROP	PER	Prince Dolor
+-1	29944	29944	PRON	PER	our
+-1	29944	29945	NOM	PER	our sovereign
+-1	29954	29955	NOM	GPE	the kingdom
+-1	29957	29957	NOM	PER	Everybody
+-1	29962	29964	NOM	PER	a dear baby
+-1	29965	29965	PRON	PER	he
+-1	29971	29971	PRON	PER	his
+-1	29971	29972	NOM	PER	his mother
+-1	29983	29983	PRON	PER	his
+-1	29983	29984	NOM	PER	his father
+-1	29986	29992	NOM	PER	the finest looking king that ever reigned
+-1	29994	29994	NOM	PER	Nobody
+-1	29996	29996	PRON	PER	his
+-1	30002	30002	PRON	PER	they
+-1	30005	30005	PRON	PER	they
+-1	30016	30016	PRON	PER	They
+-1	30021	30021	PRON	PER	him
+-1	30025	30025	PRON	PER	them
+-1	30029	30029	PRON	PER	he
+-1	30035	30035	PRON	PER	he
+-1	30037	30038	NOM	PER	a boy
+-1	30044	30046	NOM	PER	the great nobles
+-1	30048	30048	PRON	PER	they
+-1	30055	30055	PRON	PER	they
+-1	30058	30059	NOM	GPE	the country
+-1	30069	30072	NOM	PER	the people of Nomansland
+1	30072	30072	PROP	GPE	Nomansland
+-1	30077	30079	NOM	PER	the late King
+-1	30082	30082	PRON	PER	his
+-1	30085	30085	PRON	PER	they
+-1	30087	30087	PRON	PER	him
+-1	30091	30092	NOM	PER	a usurper
+-1	30096	30096	PRON	PER	his
+-1	30096	30097	NOM	PER	his family
+-1	30100	30101	NOM	FAC	the palace
+-1	30105	30105	PRON	FAC	it
+-1	30111	30113	NOM	PER	the new sovereign
+-1	30116	30116	PRON	PER	they
+-1	30128	30128	NOM	PER	lords
+-1	30130	30130	NOM	PER	gentlemen
+-1	30133	30133	NOM	PER	soldiers
+-1	30143	30144	NOM	GPE	the country
+-1	30147	30147	PRON	PER	they
+4	30149	30150	PROP	FAC	Hopeless Tower
+-1	30153	30153	PRON	PER	they
+-1	30155	30156	NOM	PER	the Prince
+-1	30169	30169	PRON	PER	he
+-1	30182	30182	PRON	PER	he
+-1	30192	30193	NOM	PER	a prince
+-1	30195	30196	NOM	PER	a king
+-1	30200	30200	PRON	PER	they
+-1	30202	30202	PRON	PER	him
+-1	30204	30204	NOM	PER	prince
+-1	30206	30206	NOM	PER	king
+-1	30211	30211	PRON	PER	him
+-1	30220	30220	PRON	PER	their
+-1	30223	30223	PRON	PER	him
+-1	30244	30244	PRON	PER	his
+-1	30247	30247	PRON	PER	he
+-1	30254	30255	NOM	PER	the courtiers
+-1	30267	30267	PRON	PER	his
+-1	30274	30274	PRON	PER	his
+-1	30278	30278	PRON	PER	he
+-1	30282	30282	NOM	PER	king
+-1	30290	30290	PRON	PER	he
+-1	30295	30295	PRON	PER	you
+-1	30299	30299	PRON	PER	I
+-1	30302	30302	PRON	PER	your
+-1	30302	30303	NOM	PER	your king
+-1	30306	30306	PRON	PER	I
+-1	30309	30309	PRON	PER	my
+-1	30313	30313	PRON	PER	my
+-1	30313	30314	NOM	PER	my people
+-1	30326	30327	NOM	FAC	the tower
+-1	30338	30340	NOM	LOC	the lonely plain
+20	30342	30343	PROP	PER	Prince Dolor
+-1	30355	30355	PRON	PER	I
+-1	30360	30363	NOM	PER	all this great people
+-1	30365	30365	PRON	PER	You
+-1	30368	30368	PRON	PER	my
+-1	30368	30369	NOM	PER	my lords
+-1	30372	30372	PRON	PER	I
+-1	30375	30377	NOM	PER	a little boy
+-1	30394	30394	PRON	PER	We
+-1	30404	30404	PRON	PER	your
+-1	30404	30406	NOM	PER	your Royal Highness
+-1	30408	30408	PRON	PER	your
+-1	30408	30409	NOM	PER	your Majesty
+-1	30411	30411	PRON	PER	I
+-1	30423	30423	PRON	PER	I
+20	30427	30428	PROP	PER	Prince Dolor
+-1	30431	30431	PRON	PER	his
+-1	30440	30440	PRON	PER	he
+-1	30448	30453	NOM	PER	a whole nation to keep it
+-1	30456	30456	PRON	PER	he
+-1	30459	30459	PRON	PER	his
+-1	30465	30465	PRON	PER	He
+-1	30467	30468	NOM	PER	a monarch
+-1	30472	30472	PRON	PER	his
+-1	30472	30473	NOM	PER	his nurse
+-1	30480	30480	PRON	PER	he
+-1	30482	30482	PRON	PER	her
+-1	30484	30484	PRON	PER	he
+-1	30488	30488	PRON	PER	his
+-1	30497	30497	PRON	PER	him
+-1	30500	30500	PRON	PER	his
+-1	30500	30503	NOM	PER	his Majesty the King
+-1	30502	30503	NOM	PER	the King
+-1	30507	30508	NOM	PER	A king
+-1	30512	30513	NOM	PER	a king
+-1	30515	30515	PRON	PER	I
+-1	30520	30520	PRON	PER	he
+-1	30530	30530	PRON	PER	he
+-1	30535	30535	PRON	PER	himself
+-1	30544	30544	PRON	PER	his
+-1	30544	30545	NOM	PER	his boy
+-1	30559	30559	PRON	PER	he
+-1	30564	30564	PRON	PER	his
+-1	30564	30565	NOM	FAC	his tower
+-1	30567	30569	NOM	FAC	the Royal Palace
+-1	30571	30571	PRON	PER	He
+-1	30576	30576	PRON	PER	him
+-1	30580	30580	PRON	PER	he
+-1	30587	30587	PRON	PER	they
+-1	30590	30590	PRON	PER	they
+-1	30594	30594	PRON	PER	him
+-1	30600	30600	PRON	PER	he
+-1	30604	30604	PRON	PER	their
+-1	30604	30605	NOM	PER	their king
+-1	30607	30607	PRON	PER	he
+-1	30611	30611	PRON	PER	his
+-1	30618	30618	PRON	PER	he
+-1	30624	30624	PRON	PER	his
+-1	30633	30633	PRON	PER	he
+-1	30665	30667	NOM	LOC	a new world
+-1	30671	30671	PRON	PER	he
+-1	30673	30673	PRON	PER	himself
+-1	30677	30677	PRON	PER	I
+-1	30691	30691	PRON	PER	I
+-1	30694	30694	PRON	PER	I
+-1	30699	30699	PRON	PER	my
+-1	30699	30702	NOM	PER	my dear old godmother
+-1	30706	30706	PRON	PER	he
+-1	30709	30709	PRON	PER	he
+-1	30712	30712	PRON	PER	himself
+-1	30726	30726	PRON	PER	his
+-1	30744	30744	PRON	PER	He
+-1	30777	30779	NOM	LOC	heaven and earth
+-1	30787	30787	PRON	PER	she
+-1	30795	30800	NOM	PER	the little old woman in grey
+-1	30827	30827	PRON	PER	she
+-1	30835	30840	NOM	PER	the little old woman in grey
+-1	30848	30848	PRON	PER	she
+-1	30852	30852	PRON	PER	she
+20	30856	30857	PROP	PER	Prince Dolor
+-1	30864	30865	NOM	PER	the apparition
+-1	30868	30868	PRON	PER	he
+-1	30871	30871	PRON	PER	his
+-1	30880	30880	NOM	PER	godmother
+-1	30882	30882	PRON	PER	you
+-1	30886	30886	PRON	PER	me
+-1	30894	30894	PRON	PER	my
+-1	30894	30895	NOM	PER	my son
+-1	30897	30897	PRON	PER	You
+-1	30902	30902	PRON	PER	me
+-1	30905	30905	PRON	PER	I
+-1	30908	30908	PRON	PER	you
+-1	30925	30925	PRON	PER	I
+-1	30930	30930	PRON	PER	I
+-1	30933	30933	PRON	PER	you
+-1	30937	30937	PRON	PER	I
+-1	30940	30944	NOM	PER	a bear - skin rug
+-1	30953	30953	PRON	PER	I
+-1	30968	30968	PRON	PER	myself
+-1	30981	30982	NOM	PER	the Prince
+-1	30990	30990	PRON	PER	him
+-1	30993	30993	PRON	PER	he
+-1	30998	30998	PRON	PER	her
+-1	31024	31024	PRON	PER	she
+30	31031	31032	PROP	PER	Mistress Mag
+-1	31039	31039	PRON	PER	you
+-1	31041	31041	PRON	PER	I
+-1	31050	31050	PRON	PER	you
+-1	31059	31059	PRON	PER	you
+-1	31069	31069	PRON	PER	your
+-1	31069	31071	NOM	PER	your old godmother
+-1	31075	31075	PRON	PER	I
+-1	31081	31082	NOM	PER	the boy
+-1	31087	31087	PRON	PER	his
+-1	31090	31090	PRON	PER	They
+-1	31092	31093	NOM	PER	one another
+20	31100	31101	PROP	PER	Prince Dolor
+-1	31107	31107	PRON	PER	You
+-1	31111	31111	PRON	PER	me
+-1	31114	31114	PRON	PER	I
+-1	31116	31117	NOM	PER	a king
+-1	31121	31121	PRON	PER	I
+-1	31126	31127	NOM	PER	a king
+-1	31135	31135	PRON	PER	me
+-1	31138	31141	NOM	PER	The little old woman
+-1	31147	31147	PRON	PER	you
+-1	31158	31158	PRON	PER	you
+-1	31161	31161	PRON	PER	me
+-1	31167	31167	PRON	PER	Your
+-1	31167	31168	NOM	PER	Your mother
+-1	31173	31173	PRON	PER	she
+-1	31175	31176	NOM	PER	a queen
+-1	31178	31184	NOM	PER	The sweetest queen in all the world
+-1	31183	31184	NOM	LOC	the world
+19	31186	31188	PROP	PER	the lady Dolorez
+-1	31193	31193	PRON	PER	me
+-1	31195	31195	PRON	PER	her
+-1	31199	31200	NOM	PER	the boy
+-1	31205	31205	PRON	PER	I
+-1	31208	31208	PRON	PER	I
+-1	31210	31210	PRON	PER	I
+-1	31217	31217	PRON	PER	me
+-1	31224	31224	PRON	PER	You
+-1	31228	31228	PRON	PER	me
+-1	31238	31238	PRON	PER	you
+-1	31242	31243	NOM	FAC	the palace
+-1	31247	31260	NOM	FAC	a long - closed upper room , which looks out upon the Beautiful Mountains
+2	31258	31260	PROP	LOC	the Beautiful Mountains
+-1	31263	31263	PRON	FAC	it
+-1	31266	31266	PRON	FAC	it
+-1	31268	31268	PRON	PER	your
+-1	31272	31272	PRON	PER	you
+-1	31274	31274	NOM	GPE	there
+-1	31276	31276	PRON	PER	you
+-1	31280	31280	PRON	PER	me
+-1	31283	31283	PRON	PER	we
+-1	31297	31297	PRON	PER	my
+-1	31297	31298	NOM	PER	my mother
+-1	31301	31304	NOM	PER	The little old woman
+-1	31313	31313	PRON	PER	herself
+-1	31318	31319	NOM	PER	the boy
+-1	31328	31328	PRON	PER	he
+-1	31333	31334	NOM	PER	understood--"my mother
+-1	31336	31336	PRON	PER	my
+-1	31336	31337	NOM	PER	my mother
+-1	31342	31342	PRON	PER	I
+-1	31348	31348	PRON	PER	she
+-1	31362	31363	NOM	PER	the people
+-1	31366	31366	PRON	PER	they
+-1	31387	31387	PRON	PER	I
+20	31391	31392	PROP	PER	Prince Dolor
+-1	31406	31406	PRON	PER	his
+-1	31406	31407	NOM	PER	his godmother
+-1	31421	31421	PRON	PER	his
+-1	31440	31445	NOM	PER	the little old woman with them
+-1	31445	31445	PRON	PER	them
+-1	31447	31447	PRON	PER	he
+20	31453	31454	PROP	PER	Prince Dolor
+-1	31456	31456	PRON	PER	his
+-1	31456	31457	NOM	FAC	his tower
+-1	31460	31460	PRON	PER	he
+-1	31469	31478	NOM	PER	a little helpless baby carried in the deaf - mute
+-1	31485	31489	NOM	PER	the great King of Nomansland
+1	31489	31489	PROP	GPE	Nomansland
+20	31497	31498	PROP	PER	Prince Dolor
+-1	31500	31500	PRON	PER	his
+-1	31500	31501	NOM	FAC	his tower
+-1	31506	31510	NOM	GPE	the great King of Nomansland
+1	31510	31510	PROP	GPE	Nomansland
+-1	31523	31523	PRON	PER	he
+-1	31527	31527	PRON	PER	him
+-1	31534	31537	NOM	PER	none of the lords
+-1	31536	31537	NOM	PER	the lords
+-1	31539	31539	NOM	PER	gentlemen
+-1	31545	31545	PRON	PER	him
+-1	31561	31561	PRON	PER	he
+-1	31579	31579	PRON	PER	he
+-1	31590	31590	PRON	PER	his
+-1	31628	31628	PRON	PER	his
+20	31636	31637	PROP	PER	Prince Dolor
+-1	31639	31641	NOM	PER	a great king
+-1	31644	31644	PRON	PER	he
+-1	31650	31651	NOM	PER	a boy
+-1	31654	31666	NOM	PER	the father of his people , " as all kings ought to be
+-1	31657	31657	PRON	PER	his
+-1	31657	31658	NOM	PER	his people
+-1	31662	31663	NOM	PER	all kings
+-1	31669	31669	PRON	PER	his
+1	31691	31691	PROP	GPE	Nomansland
+0	31696	31696	PRON	PER	I
+0	31704	31704	PRON	PER	I
+0	31713	31713	PRON	PER	I
+-1	31717	31717	NOM	PER	children
+-1	31722	31725	NOM	PER	grown - up people
+0	31738	31738	PRON	PER	I
+-1	31740	31745	NOM	PER	a small person belonging to me
+0	31745	31745	PRON	PER	me
+-1	31750	31750	PRON	PER	she
+-1	31779	31780	NOM	FAC	the house
+-1	31782	31782	PRON	PER	her
+-1	31787	31787	NOM	PER	mamma
+-1	31789	31789	PRON	PER	her
+0	31805	31805	PRON	PER	I
+0	31812	31812	PRON	PER	I
+20	31818	31819	PROP	PER	Prince Dolor
+1	31826	31826	PROP	GPE	Nomansland
+0	31827	31827	PRON	PER	I
+-1	31834	31834	NOM	PER	anybody
+-1	31839	31839	PRON	PER	he
+-1	31841	31841	PRON	PER	she
+-1	31853	31853	PRON	PER	mine
+0	31861	31861	PRON	PER	I
+20	31866	31867	PROP	PER	Prince Dolor
+-1	31869	31871	NOM	PER	an excellent king
+-1	31873	31873	NOM	PER	Nobody
+-1	31893	31894	NOM	PER	a godmother
+-1	31896	31902	NOM	PER	the little old woman clothed in grey
+0	31910	31910	PRON	PER	I
+-1	31912	31912	PRON	PER	you
+0	31918	31918	PRON	PER	I
+-1	31922	31935	NOM	PER	anybody less good , less capable of both work and enjoyment in after life
+-1	31944	31944	PRON	PER	his
+-1	31948	31949	NOM	PER	the Prince
+0	31953	31953	PRON	PER	I
+0	31958	31958	PRON	PER	myself
+-1	31962	31962	PRON	PER	he
+-1	31971	31971	PRON	PER	he
+0	31978	31978	PRON	PER	me
+-1	31979	31986	NOM	PER	the person who is quite free from them
+-1	31986	31986	PRON	PER	them
+-1	31991	31991	NOM	PER	people
+-1	31995	31995	PRON	PER	him
+-1	31998	31998	PRON	PER	they
+-1	32015	32015	PRON	PER	themselves
+-1	32019	32019	PRON	PER	their
+-1	32019	32020	NOM	PER	their neighbours
+-1	32022	32022	PRON	PER	he
+-1	32027	32036	NOM	FAC	that upper room which looked out on the Beautiful Mountains
+2	32034	32036	PROP	LOC	the Beautiful Mountains
+-1	32040	32040	PRON	PER	his
+-1	32043	32043	PRON	PER	his
+-1	32043	32044	NOM	PER	his godmother
+-1	32056	32056	PRON	PER	she
+-1	32058	32058	PRON	PER	him
+-1	32074	32077	NOM	PER	a wise old woman
+-1	32080	32083	NOM	PER	the people of Nomansland
+1	32083	32083	PROP	GPE	Nomansland
+-1	32090	32090	PRON	PER	they
+-1	32095	32095	NOM	PER	people
+32	32103	32103	PROP	PER	finding?--and
+-1	32112	32115	NOM	GPE	the nation whose king
+-1	32115	32115	NOM	PER	king
+-1	32117	32118	NOM	PER	a child
+-1	32121	32121	PRON	PER	she
+-1	32125	32125	PRON	PER	him
+-1	32129	32129	PRON	PER	You
+-1	32131	32132	NOM	PER	a child
+-1	32149	32149	NOM	PER	others
+-1	32151	32151	PRON	PER	you
+-1	32154	32154	PRON	PER	your
+-1	32158	32158	PRON	PER	He
+-1	32162	32162	PRON	PER	He
+-1	32177	32177	PRON	PER	he
+-1	32182	32182	PRON	PER	He
+-1	32185	32185	PRON	PER	him
+-1	32192	32192	PRON	PER	his
+-1	32192	32193	NOM	GPE	his kingdom
+-1	32197	32197	PRON	GPE	its
+-1	32200	32200	PRON	PER	them
+-1	32206	32206	PRON	PER	their
+-1	32209	32209	PRON	PER	he
+-1	32213	32213	PRON	PER	his
+-1	32217	32217	PRON	PER	he
+-1	32222	32222	NOM	PER	anybody
+-1	32232	32232	PRON	PER	his
+-1	32232	32233	NOM	PER	his godmother
+-1	32235	32235	PRON	PER	his
+-1	32247	32247	NOM	PER	many
+-1	32251	32251	NOM	PER	nobody
+-1	32257	32257	PRON	PER	they
+-1	32260	32260	PRON	PER	he
+-1	32263	32266	NOM	FAC	the little upper room
+-1	32273	32273	PRON	PER	his
+-1	32273	32274	NOM	PER	his mother
+-1	32273	32276	NOM	FAC	his mother 's room
+-1	32285	32285	NOM	PER	people
+-1	32289	32289	PRON	PER	she
+2	32297	32299	PROP	LOC	the Beautiful Mountains
+-1	32305	32305	PRON	PER	he
+-1	32315	32315	PRON	PER	he
+-1	32328	32328	PRON	PER	his
+-1	32334	32334	PRON	PER	he
+-1	32346	32346	PRON	PER	his
+-1	32364	32365	NOM	GPE	the country
+-1	32368	32368	PRON	PER	he
+-1	32370	32370	PRON	PER	his
+-1	32370	32371	NOM	PER	his godmother
+-1	32384	32384	PRON	PER	him
+-1	32387	32387	PRON	PER	his
+-1	32394	32394	PRON	PER	his
+-1	32399	32399	PRON	PER	him
+-1	32402	32402	PRON	PER	his
+-1	32421	32421	PRON	PER	him
+-1	32426	32426	PRON	PER	His
+-1	32447	32447	PRON	PER	himself
+-1	32454	32458	NOM	PER	A council of eminent surgeons
+-1	32460	32460	NOM	PER	mechanicians
+-1	32463	32463	PRON	PER	him
+-1	32477	32477	PRON	PER	he
+-1	32484	32484	PRON	PER	he
+-1	32502	32502	PRON	PER	his
+-1	32502	32503	NOM	PER	his people
+-1	32505	32505	PRON	PER	him
+-1	32507	32507	PRON	PER	they
+-1	32513	32513	PRON	PER	his
+-1	32516	32518	NOM	FAC	the marble palace
+-1	32529	32529	PRON	PER	they
+-1	32536	32536	PRON	PER	them
+-1	32538	32538	PRON	PER	he
+-1	32540	32540	PRON	PER	them
+-1	32545	32545	PRON	PER	he
+-1	32553	32553	PRON	PER	his
+-1	32553	32554	NOM	PER	his troops
+-1	32576	32576	PRON	PER	he
+-1	32591	32591	PRON	PER	his
+-1	32595	32595	PRON	PER	he
+-1	32597	32597	PRON	PER	his
+-1	32613	32613	PRON	PER	his
+-1	32616	32617	NOM	PER	the people
+-1	32621	32621	PRON	PER	him
+-1	32624	32624	PRON	PER	he
+-1	32628	32630	NOM	FAC	the city streets
+-1	32634	32634	PRON	PER	him
+-1	32636	32636	PRON	PER	he
+-1	32643	32643	PRON	PER	he
+-1	32647	32647	PRON	PER	his
+-1	32664	32664	PRON	PER	he
+-1	32668	32670	NOM	FAC	the city streets
+-1	32674	32674	PRON	PER	him
+-1	32676	32676	PRON	PER	he
+-1	32692	32692	PRON	PER	his
+-1	32697	32697	PRON	PER	he
+-1	32707	32709	NOM	PER	a brave man
+-1	32711	32711	PRON	PER	he
+-1	32719	32719	PRON	PER	himself
+-1	32725	32725	PRON	PER	himself
+-1	32731	32732	NOM	PER	other people
+-1	32735	32736	NOM	PER	other people
+-1	32740	32740	PRON	PER	him
+0	32745	32745	PRON	PER	I
+-1	32747	32765	NOM	PER	hundreds of his subjects might have been found who were almost ready to die for their poor lame King
+-1	32749	32749	PRON	PER	his
+-1	32749	32750	NOM	PER	his subjects
+-1	32762	32762	PRON	PER	their
+-1	32762	32765	NOM	PER	their poor lame King
+-1	32767	32767	PRON	PER	He
+-1	32770	32770	PRON	PER	them
+-1	32771	32772	NOM	PER	a queen
+-1	32775	32775	PRON	PER	they
+-1	32777	32777	PRON	PER	him
+-1	32782	32782	PRON	PER	he
+-1	32785	32785	PRON	PER	his
+-1	32785	32786	NOM	GPE	his country
+-1	32788	32788	PRON	PER	his
+-1	32788	32789	NOM	PER	his bride
+-1	32792	32792	PRON	PER	he
+-1	32794	32795	NOM	PER	no other
+-1	32806	32806	PRON	PER	he
+-1	32814	32819	NOM	PER	no wife in all the world
+-1	32817	32819	NOM	LOC	all the world
+-1	32833	32833	PRON	PER	him
+-1	32836	32836	PRON	PER	his
+-1	32840	32840	PRON	PER	his
+-1	32840	32843	NOM	PER	his beautiful old godmother
+-1	32845	32845	PRON	PER	His
+-1	32845	32864	NOM	PER	His four - and - twenty other godfathers and godmothers , or as many of them as were still alive
+-1	32854	32854	NOM	PER	godmothers
+-1	32860	32860	PRON	PER	them
+-1	32868	32868	PRON	PER	him
+-1	32872	32872	PRON	PER	he
+-1	32877	32877	PRON	PER	He
+-1	32882	32882	PRON	PER	them
+-1	32891	32891	PRON	PER	they
+-1	32894	32894	PRON	PER	him
+-1	32902	32902	PRON	PER	he
+33	32918	32919	PROP	PER	King Dolor
+-1	32923	32928	NOM	PER	the happiest and cheerfullest men alive
+-1	32930	32930	PRON	PER	He
+-1	32940	32941	NOM	PER	most men
+-1	32950	32950	PRON	PER	his
+-1	32950	32951	NOM	PER	his subjects
+-1	32955	32955	PRON	PER	he
+-1	32957	32964	NOM	PER	the condemned woman who had been his nurse
+-1	32963	32963	PRON	PER	his
+-1	32963	32964	NOM	PER	his nurse
+1	32983	32983	PROP	GPE	Nomansland
+-1	32985	32987	NOM	PER	All capital criminals
+4	32996	32997	PROP	FAC	Hopeless Tower
+-1	33000	33003	NOM	LOC	the plain round about
+-1	33004	33004	PRON	FAC	it
+-1	33007	33007	PRON	PER	they
+-1	33013	33013	NOM	PER	anybody
+-1	33025	33026	NOM	PER	the woman
+-1	33032	33032	PRON	PER	he
+-1	33036	33037	NOM	GPE	the nation
+-1	33039	33039	PRON	PER	He
+-1	33041	33041	PRON	PER	his
+-1	33041	33042	NOM	PER	his uncle
+-1	33041	33065	NOM	PER	his uncle 's family , who had fled away in terror to another country , and restored them to all their honours in their own
+-1	33053	33054	NOM	GPE	another country
+-1	33058	33058	PRON	PER	them
+-1	33061	33061	PRON	PER	their
+-1	33064	33064	PRON	PER	their
+-1	33072	33072	PRON	PER	he
+-1	33074	33104	NOM	PER	the eldest son of his eldest cousin ( who had been dead a year ) , and had him educated in the royal palace , as the heir to the throne
+-1	33078	33078	PRON	PER	his
+-1	33078	33080	NOM	PER	his eldest cousin
+-1	33092	33092	PRON	PER	him
+-1	33095	33097	NOM	FAC	the royal palace
+-1	33100	33104	NOM	PER	the heir to the throne
+-1	33106	33108	NOM	PER	This little prince
+-1	33110	33114	NOM	PER	a quiet , unobtrusive boy
+-1	33118	33118	NOM	PER	everybody
+-1	33121	33122	NOM	PER	the King
+-1	33125	33125	PRON	PER	him
+-1	33136	33136	PRON	PER	he
+-1	33139	33142	NOM	PER	a fine young fellow
+-1	33148	33148	PRON	PER	they
+-1	33151	33152	NOM	PER	the King
+-1	33157	33157	PRON	PER	they
+-1	33161	33163	NOM	PER	a lame prince
+-1	33167	33167	PRON	PER	his
+-1	33167	33168	NOM	PER	his Majesty
+-1	33174	33174	PRON	PER	him
+-1	33178	33178	PRON	PER	he
+-1	33188	33196	NOM	PER	the keenest and most active sportsman in the country
+-1	33195	33196	NOM	LOC	the country
+-1	33199	33199	NOM	PER	One
+-1	33203	33203	PRON	PER	oneself
+-1	33206	33206	NOM	PER	one
+-1	33216	33217	NOM	PER	somebody else
+-1	33230	33270	NOM	PER	any of his great lords and ladies , but to a good old woman -- his first homely nurse -- whom he had sought for far and wide , and at last found , in her cottage among the Beautiful Mountains
+-1	33232	33232	PRON	PER	his
+-1	33232	33234	NOM	PER	his great lords
+-1	33236	33236	NOM	PER	ladies
+-1	33240	33243	NOM	PER	a good old woman
+-1	33245	33245	PRON	PER	his
+-1	33245	33248	NOM	PER	his first homely nurse
+-1	33251	33251	PRON	PER	he
+-1	33265	33265	PRON	PER	her
+-1	33265	33270	NOM	FAC	her cottage among the Beautiful Mountains
+2	33268	33270	PROP	LOC	the Beautiful Mountains
+-1	33272	33272	PRON	PER	He
+-1	33275	33275	PRON	PER	her
+-1	33278	33278	PRON	PER	him
+-1	33285	33285	PRON	PER	her
+-1	33290	33290	PRON	PER	she
+-1	33293	33293	PRON	PER	He
+-1	33304	33304	PRON	PER	his
+-1	33304	33306	NOM	PER	his other nurse
+-1	33312	33312	PRON	PER	her
+-1	33317	33317	PRON	PER	her
+-1	33317	33319	NOM	GPE	her native town
+-1	33323	33325	NOM	PER	a great lady
+0	33328	33328	PRON	PER	I
+-1	33336	33336	PRON	PER	she
+-1	33338	33341	NOM	PER	so grand a personage
+-1	33347	33347	PRON	PER	she
+-1	33360	33360	PRON	PER	she
+-1	33362	33365	NOM	PER	so grand a personage
+-1	33371	33371	PRON	PER	she
+33	33384	33385	PROP	PER	King Dolor
+-1	33399	33399	PRON	PER	he
+-1	33408	33410	NOM	PER	no human being
+0	33415	33415	PRON	PER	I
+-1	33417	33417	PRON	PER	he
+-1	33421	33421	PRON	PER	he
+-1	33427	33427	NOM	PER	everybody
+-1	33429	33429	PRON	PER	him
+-1	33439	33439	PRON	PER	he
+-1	33441	33441	PRON	PER	his
+-1	33441	33442	NOM	PER	his godmother
+-1	33441	33444	NOM	PER	his godmother 's godson
+-1	33449	33449	PRON	PER	himself
+-1	33452	33452	PRON	PER	her
+-1	33454	33454	PRON	PER	he
+-1	33458	33461	NOM	FAC	that quiet little room
+-1	33466	33468	NOM	LOC	the Beautiful Mountains
+-1	33471	33472	NOM	PER	nobody else
+-1	33480	33480	PRON	PER	They
+-1	33487	33488	NOM	GPE	the city
+-1	33507	33507	PRON	PER	them
+0	33510	33510	PRON	PER	I
+-1	33517	33517	PRON	PER	his
+-1	33521	33522	NOM	PER	the King
+-1	33527	33527	PRON	PER	his
+-1	33534	33536	NOM	LOC	the Beautiful Mountains
+-1	33544	33546	NOM	PER	the little prince
+-1	33548	33548	PRON	PER	his
+-1	33548	33549	NOM	PER	his cousin
+-1	33554	33557	NOM	PER	a tall young man
+-1	33565	33566	NOM	PER	a man
+-1	33568	33568	PRON	PER	his
+-1	33568	33569	NOM	PER	his Majesty
+-1	33580	33590	NOM	PER	a sovereign beloved by his people and prosperous in his reign
+-1	33584	33584	PRON	PER	his
+-1	33584	33585	NOM	PER	his people
+-1	33589	33589	PRON	PER	his
+-1	33592	33592	PRON	PER	He
+-1	33595	33595	PRON	PER	he
+-1	33599	33599	PRON	PER	his
+-1	33599	33600	NOM	PER	his heir
+-1	33615	33615	PRON	PER	he
+-1	33616	33616	PRON	PER	himself
+-1	33625	33625	PRON	PER	he
+-1	33632	33632	NOM	PER	Everybody
+-1	33636	33636	NOM	PER	nobody
+-1	33638	33638	PRON	PER	him
+-1	33643	33645	NOM	PER	the good King
+-1	33650	33652	NOM	PER	a young king
+-1	33659	33660	NOM	GPE	the nation
+-1	33666	33668	NOM	PER	the young Regent
+-1	33688	33694	NOM	PER	all the people whom it would hold
+-1	33698	33703	NOM	FAC	the great square of the capital
+-1	33702	33703	NOM	GPE	the capital
+-1	33707	33709	NOM	PER	the young Prince
+-1	33713	33713	PRON	PER	his
+-1	33719	33719	PRON	PER	his
+-1	33723	33723	PRON	PER	He
+-1	33725	33729	NOM	PER	a very fine young fellow
+-1	33750	33751	NOM	PER	the King
+-1	33753	33754	NOM	PER	some people
+-1	33758	33758	NOM	PER	others
+-1	33765	33765	PRON	PER	his
+-1	33765	33766	NOM	PER	his Majesty
+-1	33769	33769	PRON	PER	his
+-1	33773	33773	PRON	PER	his
+-1	33779	33779	PRON	PER	his
+-1	33790	33790	PRON	PER	his
+-1	33797	33797	PRON	PER	his
+-1	33801	33801	PRON	PER	his
+-1	33801	33802	NOM	PER	his people
+-1	33806	33806	PRON	PER	they
+-1	33810	33810	PRON	PER	him
+-1	33823	33825	NOM	PER	All the people
+-1	33830	33832	NOM	PER	the young Prince
+-1	33836	33836	PRON	PER	his
+-1	33841	33841	PRON	PER	his
+-1	33853	33853	PRON	PER	He
+-1	33856	33856	PRON	PER	his
+-1	33868	33870	NOM	PER	the vast crowd
+-1	33874	33874	PRON	PER	he
+-1	33878	33878	PRON	PER	his
+-1	33891	33891	PRON	PER	he
+-1	33906	33906	PRON	PER	their
+-1	33923	33923	PRON	PER	My
+-1	33923	33924	NOM	PER	My people
+-1	33926	33926	PRON	PER	I
+-1	33930	33930	PRON	PER	I
+-1	33935	33935	PRON	PER	I
+-1	33953	33953	PRON	PER	I
+-1	33959	33959	NOM	PER	Many
+-1	33966	33966	PRON	PER	I
+-1	33976	33976	PRON	PER	I
+-1	33980	33980	NOM	PER	others
+-1	33982	33982	PRON	PER	I
+-1	33990	33990	PRON	PER	me
+-1	33992	33992	NOM	FAC	home
+-1	34004	34004	NOM	PER	none
+-1	34016	34017	NOM	PER	the assembly
+-1	34024	34024	PRON	PER	I
+-1	34029	34029	PRON	PER	you
+-1	34031	34031	PRON	PER	my
+-1	34031	34032	NOM	PER	my people
+-1	34034	34034	PRON	PER	my
+-1	34034	34035	NOM	PER	my children
+-1	34039	34040	NOM	PER	the king
+-1	34043	34043	PRON	PER	You
+-1	34050	34050	PRON	PER	I
+-1	34052	34052	PRON	PER	you
+-1	34057	34059	NOM	PER	The Prince Regent
+-1	34066	34066	PRON	PER	you
+-1	34068	34068	PRON	PER	I.
+-1	34084	34091	NOM	PER	those who had sometimes found fault with him
+-1	34091	34091	PRON	PER	him
+-1	34095	34095	NOM	PER	anybody
+-1	34098	34098	PRON	PER	he
+-1	34102	34102	PRON	PER	he
+-1	34104	34104	PRON	PER	them
+-1	34114	34114	PRON	PER	he
+-1	34127	34127	PRON	PER	his
+-1	34135	34138	NOM	PER	some very old people
+-1	34145	34145	PRON	PER	him
+-1	34147	34148	NOM	PER	a child
+-1	34152	34152	PRON	PER	his
+20	34168	34171	PROP	PER	the little Prince Dolor
+-1	34176	34176	PRON	PER	I
+-1	34184	34184	PRON	PER	me
+-1	34189	34189	PRON	PER	me
+-1	34192	34192	PRON	PER	my
+-1	34192	34193	NOM	PER	my people
+-1	34196	34196	PRON	PER	I
+-1	34199	34199	PRON	PER	you
+-1	34203	34203	PRON	PER	I
+-1	34211	34211	PRON	PER	I
+-1	34215	34215	PRON	PER	I
+-1	34223	34223	PRON	PER	He
+-1	34230	34230	PRON	PER	his
+-1	34237	34237	NOM	PER	nobody
+-1	34270	34270	PRON	PER	he
+-1	34287	34291	NOM	PER	those nearest to his Majesty
+-1	34290	34290	PRON	PER	his
+-1	34290	34291	NOM	PER	his Majesty
+-1	34300	34301	NOM	PER	the King
+-1	34317	34317	PRON	PER	they
+-1	34341	34341	PRON	PER	him
+-1	34354	34355	NOM	PER	no one
+-1	34360	34360	NOM	PER	larks
+-1	34365	34365	PRON	PER	their
+-1	34368	34372	NOM	FAC	the pavement of city squares
+-1	34371	34372	NOM	FAC	city squares
+-1	34386	34386	PRON	PER	their
+-1	34407	34407	PRON	PER	their
+-1	34412	34412	PRON	PER	their
+-1	34415	34417	NOM	PER	the astonished people
+2	34437	34439	PROP	LOC	the Beautiful Mountains
+-1	34442	34442	PRON	PER	they
+-1	34445	34445	PRON	PER	they
+-1	34448	34448	PRON	PER	their
+-1	34448	34450	NOM	PER	their beloved king
+-1	34458	34458	PRON	PER	he
+-1	34461	34461	PRON	PER	he
+-1	34470	34470	PRON	PER	them
+-1	34474	34474	PRON	PER	he
+-1	34478	34478	PRON	PER	they
+-1	34480	34480	NOM	FAC	home
+-1	34485	34485	PRON	PER	their
+-1	34485	34487	NOM	PER	their new monarch
+-1	34490	34490	PRON	PER	him
+-1	34493	34493	PRON	PER	his
+-1	34493	34494	NOM	PER	his cousin
+33	34498	34499	PROP	PER	King Dolor
+-1	34508	34508	PRON	PER	his
+-1	34508	34510	NOM	LOC	his own country
+-1	34509	34510	NOM	GPE	own country
+-1	34515	34515	PRON	PER	he
+-1	34518	34518	NOM	FAC	there
+-1	34525	34525	PRON	PER	he
+-1	34539	34539	NOM	PER	anybody
+-1	34542	34550	NOM	PER	one who was gone on such a happy journey
+-1	34553	34553	PRON	PER	he
+-1	34560	34560	PRON	PER	him
+0	34569	34569	PRON	PER	I
+0	34570	34570	PRON	PER	myself
+-1	34573	34573	PRON	PER	his
+-1	34573	34574	NOM	PER	his godmother
+-1	34576	34576	PRON	PER	him
+-1	34579	34579	PRON	PER	his
+2	34585	34587	PROP	LOC	the Beautiful Mountains
+-1	34590	34590	PRON	PER	he
+-1	34592	34592	NOM	FAC	there
+-1	34596	34596	PRON	PER	he
+0	34604	34604	PRON	PER	I
+0	34611	34611	PRON	PER	I
+-1	34620	34620	PRON	PER	he
+-1	34623	34623	PRON	PER	he
+0	34632	34632	PRON	PER	I
+-1	34635	34635	PRON	PER	him
+-1	34638	34638	PRON	PER	I.
+9	34639	34640	PROP	LOC	THE END
+-1	34647	34650	NOM	PER	THE AUTHOR 'S LIFE
+-1	34652	34657	NOM	PER	The author of this little book
+18	34659	34662	PROP	PER	Dinah Maria Mulock Craik
+-1	34665	34677	NOM	PER	a woman as modest , sweet , and wholesome as the story itself
+-1	34679	34679	PRON	PER	She
+6	34682	34682	PROP	GPE	England
+-1	34685	34685	PRON	PER	her
+-1	34688	34688	PRON	PER	her
+-1	34690	34694	NOM	PER	people all over the world
+-1	34693	34694	NOM	LOC	the world
+-1	34696	34716	NOM	PER	Some American ladies who went to call upon her in her home , Wildwood Cottage , in Hampstead , near London
+-1	34704	34704	PRON	PER	her
+-1	34706	34706	PRON	PER	her
+-1	34706	34707	NOM	FAC	her home
+10	34709	34710	PROP	FAC	Wildwood Cottage
+11	34713	34713	PROP	GPE	Hampstead
+12	34716	34716	PROP	GPE	London
+-1	34719	34719	PRON	PER	her
+-1	34732	34732	PRON	PER	her
+-1	34744	34744	PRON	PER	her
+-1	34759	34764	NOM	PER	one who had tasted of sorrow
+-1	34769	34769	PRON	PER	she
+-1	34772	34776	NOM	PER	a well - known writer
+-1	34780	34780	PRON	PER	her
+-1	34792	34792	PRON	PER	she
+-1	34801	34801	PRON	PER	she
+34	34811	34811	PROP	PER	Dickens
+-1	34813	34821	NOM	PER	the most widely - read novelist of her time
+-1	34820	34820	PRON	PER	her
+-1	34823	34823	PRON	PER	She
+13	34832	34836	PROP	GPE	Stoke - upon - Trent
+-1	34838	34847	NOM	GPE	one of the chief manufacturing towns of Staffordshire , England
+-1	34840	34845	NOM	GPE	the chief manufacturing towns of Staffordshire
+14	34845	34845	PROP	GPE	Staffordshire
+6	34847	34847	PROP	GPE	England
+14	34849	34849	PROP	GPE	Staffordshire
+-1	34851	34855	NOM	GPE	the central county of England
+-1	34865	34865	PRON	GPE	It
+-1	34871	34875	NOM	LOC	a long chain of hills
+-1	34881	34882	NOM	LOC	the sea
+-1	34886	34887	NOM	LOC	the land
+-1	34893	34893	PRON	LOC	it
+-1	34898	34904	NOM	LOC	a great body of earth and stone
+-1	34918	34918	PRON	PER	you
+-1	34949	34949	PRON	PER	you
+-1	34955	34961	NOM	PER	the people who lived in this country
+-1	34960	34961	NOM	GPE	this country
+-1	34971	34971	PRON	PER	they
+-1	34974	34974	PRON	PER	their
+-1	34983	34983	PRON	PER	they
+-1	34993	34993	PRON	PER	they
+-1	35002	35002	PRON	PER	their
+-1	35022	35022	PRON	PER	they
+-1	35025	35025	NOM	PER	farmers
+-1	35038	35041	NOM	LOC	the thickly wooded land
+-1	35043	35046	NOM	PER	companies of Roman soldiers
+-1	35045	35046	NOM	PER	Roman soldiers
+-1	35054	35054	PRON	PER	they
+-1	35057	35057	PRON	PER	their
+-1	35063	35064	NOM	PER	the potters
+-1	35071	35071	PRON	PER	They
+-1	35074	35074	PRON	PER	them
+-1	35093	35093	NOM	FAC	kilns
+-1	35114	35114	PRON	PER	you
+-1	35118	35118	NOM	GPE	there
+-1	35120	35120	PRON	PER	you
+-1	35127	35138	NOM	LOC	the banks of the little rivers and brooks near the clay pits
+-1	35130	35132	NOM	LOC	the little rivers
+-1	35136	35138	NOM	FAC	the clay pits
+-1	35180	35181	NOM	LOC	the country
+-1	35188	35188	NOM	PER	potteries
+-1	35203	35204	NOM	FAC	the kilns
+-1	35208	35210	NOM	LOC	a great forest
+-1	35214	35215	NOM	LOC	the land
+-1	35222	35225	NOM	GPE	the Forest of Arden
+-1	35229	35229	PRON	PER	you
+15	35239	35240	PROP	LOC	Sherwood Forest
+35	35244	35245	PROP	PER	Robin Hood
+-1	35247	35247	PRON	PER	his
+-1	35247	35248	NOM	PER	his merry
+-1	35250	35250	PRON	PER	you
+-1	35253	35253	PRON	PER	them
+-1	35262	35265	NOM	FAC	two great coal fields
+-1	35269	35270	NOM	GPE	the county
+-1	35274	35274	PRON	FAC	them
+-1	35282	35282	NOM	GPE	Here
+-1	35293	35293	PRON	PER	his
+-1	35300	35305	NOM	PER	the greatest potter of modern times
+-1	35308	35314	NOM	PER	one of the greatest of all times
+36	35320	35321	PROP	PER	Josiah Wedgwood
+-1	35329	35336	NOM	GPE	the very town where Mrs. Craik was born
+37	35333	35334	PROP	PER	Mrs. Craik
+-1	35338	35338	PRON	PER	He
+-1	35363	35363	PRON	PER	he
+-1	35372	35372	PRON	PER	his
+-1	35383	35383	PRON	PER	he
+-1	35386	35386	PRON	PER	his
+-1	35389	35389	PRON	PER	he
+-1	35399	35399	PRON	PER	He
+-1	35407	35408	NOM	GPE	the county
+-1	35410	35444	NOM	GPE	one of the busiest places in the world , where thousands of men work from morning till night to supply the whole world with every sort of thing that can be made out of clay
+-1	35416	35417	NOM	LOC	the world
+-1	35420	35422	NOM	PER	thousands of men
+-1	35422	35422	NOM	PER	men
+-1	35430	35432	NOM	LOC	the whole world
+-1	35451	35451	PRON	PER	your
+-1	35454	35454	NOM	FAC	home
+-1	35455	35455	PRON	PER	you
+14	35462	35462	PROP	GPE	Staffordshire
+6	35464	35464	PROP	GPE	England
+36	35468	35468	PROP	PER	Wedgwood
+13	35479	35483	PROP	GPE	Stoke - upon - Trent
+-1	35485	35502	NOM	FAC	a small group of thatched houses and two pot - works , gathered around the ancient parish church
+-1	35489	35490	NOM	FAC	thatched houses
+-1	35499	35502	NOM	FAC	the ancient parish church
+36	35512	35512	PROP	PER	Wedgwood
+-1	35516	35516	PRON	GPE	it
+-1	35518	35538	NOM	PER	a population of 8,000 , of whom 7,000 were employed , in one way or another , in the pottery trade
+-1	35540	35544	NOM	LOC	The whole country - side
+-1	35551	35553	NOM	FAC	the many factories
+-1	35560	35561	NOM	PER	the potters
+-1	35566	35566	PRON	PER	their
+-1	35580	35580	PRON	PER	they
+-1	35585	35585	PRON	PER	their
+-1	35632	35632	PRON	PER	you
+-1	35646	35652	NOM	FAC	an old crock of your mother 's
+-1	35650	35650	PRON	PER	your
+-1	35650	35651	NOM	PER	your mother
+-1	35665	35665	PRON	PER	you
+-1	35701	35702	NOM	FAC	the kilns
+-1	35714	35714	NOM	FAC	streets
+-1	35716	35716	NOM	FAC	houses
+-1	35723	35724	NOM	LOC	the country
+-1	35729	35729	NOM	PER	travelers
+-1	35731	35731	NOM	GPE	town
+-1	35733	35733	PRON	PER	their
+-1	35737	35740	NOM	PER	persons in the street
+-1	35739	35740	NOM	FAC	the street
+-1	35743	35744	NOM	PER	each other
+-1	35761	35765	NOM	PER	a brilliant , enthusiastic Irishman
+38	35768	35769	PROP	PER	Thomas Mulock
+-1	35771	35779	NOM	PER	the father of the woman who wrote this book
+-1	35774	35779	NOM	PER	the woman who wrote this book
+-1	35781	35781	PRON	PER	He
+-1	35783	35784	NOM	PER	a minister
+-1	35787	35799	NOM	PER	one who did not agree with any of the other ministers around him
+-1	35795	35799	NOM	PER	the other ministers around him
+-1	35799	35799	PRON	PER	him
+-1	35801	35801	PRON	PER	He
+-1	35817	35823	NOM	PER	the second of twenty - two children
+-1	35828	35828	PRON	PER	his
+39	35838	35839	PROP	PER	Lord Byron
+-1	35841	35841	PRON	PER	him
+40	35843	35844	PROP	PER	Muley Mulock
+-1	35850	35850	PRON	PER	he
+16	35856	35856	PROP	GPE	Europe
+-1	35862	35862	PRON	PER	he
+39	35876	35876	PROP	PER	Byron
+41	35878	35878	PROP	PER	Scott
+42	35880	35880	PROP	PER	Southey
+43	35883	35883	PROP	PER	Wordsworth
+-1	35886	35886	PRON	PER	him
+37	35888	35889	PROP	PER	Mrs. Craik
+-1	35892	35892	PRON	PER	her
+-1	35895	35896	NOM	PER	a writer
+-1	35898	35898	PRON	PER	Her
+-1	35898	35899	NOM	PER	Her mother
+-1	35901	35918	NOM	PER	a daughter of Mr. Mellard , a tanner and a member of the Reverend Thomas Mulock 's congregation
+44	35904	35905	PROP	PER	Mr. Mellard
+-1	35907	35908	NOM	PER	a tanner
+38	35913	35916	PROP	PER	the Reverend Thomas Mulock
+-1	35913	35918	NOM	PER	the Reverend Thomas Mulock 's congregation
+-1	35920	35920	PRON	PER	She
+-1	35922	35940	NOM	PER	one of three sisters who used to talk with the young minister over the wall that separated their gardens
+-1	35931	35933	NOM	PER	the young minister
+-1	35939	35939	PRON	PER	their
+-1	35939	35940	NOM	FAC	their gardens
+-1	35947	35947	PRON	PER	he
+-1	35956	35956	PRON	PER	his
+45	35981	35982	PROP	PER	Mr. Mulock
+-1	36002	36002	PRON	PER	his
+-1	36005	36005	PRON	PER	His
+-1	36005	36006	NOM	PER	His wife
+-1	36008	36011	NOM	PER	a frail little woman
+-1	36019	36019	PRON	PER	her
+-1	36019	36020	NOM	PER	her husband
+-1	36024	36024	PRON	PER	his
+-1	36033	36033	PRON	PER	her
+-1	36044	36044	PRON	PER	he
+-1	36047	36051	NOM	PER	a hot - blooded Irishman
+-1	36055	36055	PRON	PER	he
+-1	36063	36064	NOM	LOC	the world
+18	36082	36082	PROP	PER	Dinah
+-1	36089	36091	NOM	PER	an inexperienced girl
+-1	36094	36094	PRON	PER	her
+-1	36094	36095	NOM	PER	her mother
+-1	36099	36099	PRON	PER	her
+12	36101	36101	PROP	GPE	London
+-1	36112	36113	NOM	PER	the father
+-1	36117	36117	PRON	PER	his
+-1	36121	36133	NOM	GPE	the country place he found -- or made -- so full of strife
+-1	36124	36124	PRON	PER	he
+-1	36141	36155	NOM	PER	a young girl with no means to speak of and only an ordinarily good education
+-1	36162	36171	NOM	PER	young ladies in the girls ' schools of those days
+-1	36165	36171	NOM	FAC	the girls ' schools of those days
+-1	36174	36174	NOM	FAC	school
+-1	36175	36175	PRON	PER	she
+-1	36193	36212	NOM	PER	a bevy of girls , who hung round her lovingly , and for whom she prophesied the most wonderful things
+-1	36201	36201	PRON	PER	her
+-1	36207	36207	PRON	PER	she
+-1	36214	36214	PRON	PER	She
+-1	36218	36218	PRON	PER	they
+-1	36230	36230	PRON	PER	she
+-1	36231	36231	PRON	PER	herself
+-1	36237	36237	PRON	PER	them
+-1	36251	36251	PRON	PER	she
+12	36254	36254	PROP	GPE	London
+-1	36256	36256	PRON	PER	she
+-1	36258	36258	NOM	PER	friends
+-1	36260	36261	NOM	PER	other girls
+-1	36267	36267	PRON	PER	her
+-1	36281	36281	PRON	PER	them
+-1	36284	36284	PRON	PER	them
+-1	36286	36286	PRON	PER	her
+-1	36288	36288	PRON	PER	She
+-1	36299	36299	PRON	PER	she
+12	36302	36302	PROP	GPE	London
+-1	36310	36310	PRON	PER	her
+-1	36310	36311	NOM	PER	her mother
+-1	36313	36316	NOM	PER	the two young brothers
+-1	36320	36320	PRON	PER	them
+-1	36322	36322	PRON	PER	She
+-1	36325	36325	PRON	PER	her
+-1	36351	36351	PRON	PER	she
+-1	36357	36357	PRON	PER	her
+-1	36357	36359	NOM	PER	her aged mother
+-1	36364	36364	PRON	PER	her
+-1	36368	36370	NOM	PER	the two brothers
+-1	36372	36373	NOM	PER	the elder
+38	36375	36375	PROP	PER	Thomas
+-1	36377	36377	NOM	PER	Jr.
+-1	36379	36383	NOM	PER	true son of his father
+-1	36382	36382	PRON	PER	his
+-1	36382	36383	NOM	PER	his father
+-1	36395	36397	NOM	ORG	the Royal Academy
+-1	36399	36399	PRON	PER	His
+-1	36399	36400	NOM	PER	His father
+-1	36403	36407	NOM	PER	the principals of the school
+-1	36406	36407	NOM	ORG	the school
+-1	36411	36412	NOM	PER	the son
+-1	36417	36417	PRON	PER	his
+-1	36426	36426	PRON	PER	he
+-1	36429	36429	PRON	PER	he
+-1	36432	36432	PRON	PER	his
+-1	36435	36436	NOM	PER	The son
+-1	36447	36447	PRON	PER	he
+-1	36454	36455	NOM	PER	the father
+-1	36463	36463	PRON	PER	he
+17	36470	36470	PROP	GPE	Australia
+-1	36475	36475	PRON	PER	he
+-1	36480	36481	NOM	VEH	the ship
+-1	36485	36486	NOM	FAC	the quay
+-1	36497	36500	NOM	PER	the brave young sister
+-1	36506	36508	NOM	PER	the younger brother
+-1	36510	36510	PRON	PER	He
+-1	36512	36513	NOM	PER	a musician
+-1	36515	36520	NOM	PER	a photographer of no mean rank
+-1	36525	36526	NOM	PER	few persons
+-1	36535	36535	PRON	PER	he
+-1	36541	36541	PRON	PER	her
+-1	36546	36546	PRON	PER	her
+-1	36551	36551	PRON	PER	himself
+-1	36557	36557	PRON	PER	she
+-1	36561	36561	PRON	PER	him
+-1	36563	36563	PRON	PER	he
+-1	36569	36569	PRON	PER	his
+-1	36569	36570	NOM	PER	his sister
+12	36575	36575	PROP	GPE	London
+46	36576	36577	PROP	PER	Miss Mulock
+-1	36579	36579	NOM	PER	friends
+-1	36591	36591	PRON	PER	her
+-1	36593	36593	PRON	PER	She
+-1	36600	36600	PRON	PER	her
+-1	36611	36611	PRON	PER	her
+-1	36616	36616	NOM	PER	men
+-1	36618	36626	NOM	PER	women of real power in the world of letters
+-1	36628	36628	PRON	PER	her
+-1	36632	36632	PRON	PER	they
+-1	36634	36634	PRON	PER	her
+-1	36637	36637	PRON	PER	her
+-1	36648	36648	PRON	PER	her
+-1	36655	36655	PRON	PER	them
+-1	36656	36656	PRON	PER	her
+-1	36656	36658	NOM	PER	her warm friends
+-1	36661	36661	PRON	PER	she
+-1	36663	36663	PRON	PER	herself
+-1	36667	36668	NOM	FAC	a cottage
+-1	36670	36673	NOM	FAC	the " Wildwood Cottage
+-1	36679	36679	PRON	PER	she
+-1	36683	36683	PRON	PER	her
+-1	36686	36694	NOM	PER	the brightest and best people in the great city
+-1	36692	36694	NOM	GPE	the great city
+-1	36701	36701	PRON	PER	her
+-1	36714	36714	PRON	PER	she
+-1	36739	36739	PRON	PER	her
+47	36743	36744	PROP	PER	John Halifax
+-1	36746	36746	NOM	PER	Gentleman
+-1	36792	36794	NOM	FAC	the public libraries
+-1	36796	36796	PRON	PER	Her
+48	36800	36800	PROP	PER	Douglas
+48	36802	36802	PROP	PER	Douglas
+0	36812	36812	PRON	PER	My
+49	36834	36836	PROP	PER	Philip Bourke Marston
+-1	36838	36843	NOM	PER	the boy to whom it refers
+-1	36846	36855	NOM	PER	the son of one of Miss Mulock 's London friends
+46	36851	36852	PROP	PER	Miss Mulock
+-1	36851	36855	NOM	PER	Miss Mulock 's London friends
+12	36854	36854	PROP	GPE	London
+50	36857	36858	PROP	PER	Westland Marston
+-1	36860	36865	NOM	PER	a famous dramatic poet and critic
+-1	36868	36868	PRON	PER	his
+-1	36868	36870	NOM	PER	his little son
+-1	36879	36879	PRON	PER	he
+46	36881	36882	PROP	PER	Miss Mulock
+49	36885	36885	PROP	PER	Philip
+-1	36885	36887	NOM	PER	Philip 's godmother
+-1	36892	36892	PRON	PER	her
+-1	36896	36898	NOM	PER	the gifted child
+-1	36904	36904	PRON	PER	her
+-1	36908	36909	NOM	PER	A Hero
+-1	36914	36914	PRON	PER	him
+-1	36920	36920	PRON	PER	him
+-1	36931	36932	NOM	PER	A Child
+-1	36939	36940	NOM	PER	The boy
+-1	36942	36942	PRON	PER	his
+-1	36975	36975	PRON	PER	him
+-1	36978	36978	PRON	PER	his
+-1	36998	36999	NOM	LOC	the west
+49	37024	37024	PROP	PER	Philip
+-1	37043	37043	PRON	PER	his
+-1	37048	37048	PRON	PER	his
+-1	37059	37059	PRON	PER	he
+-1	37062	37062	PRON	PER	he
+-1	37076	37076	PRON	PER	he
+-1	37087	37087	PRON	PER	he
+-1	37093	37093	PRON	PER	his
+-1	37099	37099	PRON	PER	he
+-1	37111	37111	PRON	PER	him
+-1	37120	37134	NOM	PER	an everyday , hearty boy who saw so many trees , with so many branches
+-1	37137	37137	PRON	PER	he
+-1	37152	37152	PRON	PER	him
+46	37159	37160	PROP	PER	Miss Mulock
+-1	37162	37176	NOM	PER	a real fairy godmother , who could weave magic spells of the most interesting stories
+-1	37183	37183	PRON	PER	his
+10	37194	37195	PROP	FAC	Wildwood Cottage
+46	37197	37198	PROP	PER	Miss Mulock
+51	37204	37206	PROP	PER	George Lillie Craik
+-1	37211	37211	PRON	PER	her
+-1	37214	37214	PRON	PER	him
+52	37216	37217	PROP	PER	Mr. Craik
+-1	37225	37225	PRON	PER	her
+-1	37225	37226	NOM	FAC	her house
+-1	37229	37229	PRON	PER	she
+-1	37234	37234	PRON	PER	him
+-1	37236	37236	PRON	PER	she
+-1	37239	37242	NOM	PER	a friend near by
+-1	37250	37250	PRON	PER	they
+-1	37254	37255	NOM	PER	each other
+52	37264	37265	PROP	PER	Mr. Craik
+-1	37267	37270	NOM	PER	a man of letters
+-1	37274	37275	NOM	PER	a publisher
+-1	37278	37278	PRON	PER	they
+-1	37285	37285	PRON	PER	Their
+-1	37298	37298	PRON	PER	they
+-1	37300	37304	NOM	PER	no children of their own
+-1	37303	37303	PRON	PER	their
+-1	37306	37306	PRON	PER	they
+-1	37308	37310	NOM	PER	an adopted daughter
+53	37312	37312	PROP	PER	Dorothy
+-1	37315	37315	PRON	PER	she
+-1	37324	37325	NOM	PER	a Brownie
+37	37335	37336	PROP	PER	Mrs. Craik
+-1	37342	37342	PRON	PER	her
+-1	37363	37363	PRON	PER	my
+-1	37363	37364	NOM	PER	my child
+37	37367	37368	PROP	PER	Mrs. Craik
+-1	37381	37381	PRON	PER	her
+-1	37395	37395	PRON	PER	She
+-1	37410	37411	NOM	PER	no one
+-1	37424	37424	PRON	PER	her
+-1	37428	37428	NOM	LOC	earth
+-1	37430	37430	PRON	PER	her
+-1	37430	37431	NOM	PER	her husband
+-1	37438	37438	PRON	PER	her
+53	37444	37444	PROP	PER	Dorothy
+-1	37447	37447	PRON	PER	him
+37	37450	37451	PROP	PER	Mrs. Craik
+-1	37457	37457	PRON	PER	her
+-1	37461	37461	PRON	PER	they
+-1	37468	37468	PRON	PER	they
+-1	37470	37470	NOM	PER	lovers
+53	37480	37480	PROP	PER	Dorothy
+37	37491	37492	PROP	PER	Mrs. Craik
+-1	37498	37498	PRON	PER	she
+-1	37510	37510	PRON	PER	her
+-1	37515	37515	PRON	PER	her
+-1	37515	37516	NOM	PER	her daughter
+-1	37520	37520	PRON	PER	She
+-1	37527	37527	PRON	PER	she
+54	37533	37533	PROP	PER	God
+-1	37540	37540	PRON	PER	her
+-1	37556	37556	PRON	PER	her
+55	37560	37561	PROP	PER	Queen Victoria
+37	37583	37584	PROP	PER	Mrs. Craik
+-1	37591	37591	PRON	PER	her
+-1	37602	37602	PRON	PER	she
+-1	37612	37612	PRON	PER	she
+-1	37618	37621	NOM	PER	many less fortunate writers
+-1	37626	37626	PRON	PER	she
+-1	37630	37630	PRON	PER	her
+-1	37636	37636	PRON	PER	her
+-1	37640	37640	PRON	PER	She
+-1	37645	37663	NOM	PER	struggling authors who would accept help from the queen 's bounty that they would refuse from her private funds
+-1	37652	37653	NOM	PER	the queen
+-1	37657	37657	PRON	PER	they
+-1	37661	37661	PRON	PER	her
+-1	37665	37666	NOM	PER	Other writers
+37	37675	37676	PROP	PER	Mrs. Craik
+-1	37679	37679	PRON	PER	her
+-1	37695	37696	NOM	PER	the reader
+-1	37707	37707	PRON	PER	his
+-1	37714	37714	PRON	PER	her
+37	37716	37717	PROP	PER	Mrs. Craik

@@ -1,0 +1,62 @@
+COREF	start_token	end_token	prop	cat	text
+4	8	9	PROP	PER	Andrew Lang
+-1	14	15	NOM	LOC	the world
+-1	20	20	PRON	PER	their
+-1	20	21	NOM	PER	their children
+5	23	24	PROP	PER	The Japanese
+-1	26	26	PRON	PER	them
+6	28	29	PROP	PER	the Chinese
+7	31	33	PROP	PER	the Red Indians
+-1	35	35	PRON	PER	their
+8	39	40	PROP	PER	the Eskimo
+-1	42	42	PRON	PER	their
+-1	42	46	NOM	FAC	their dark dirty winter huts
+-1	48	52	NOM	PER	The Kaffirs of South Africa
+1	51	52	PROP	GPE	South Africa
+-1	54	54	PRON	PER	them
+-1	57	59	NOM	PER	the modern Greeks
+9	63	65	PROP	PER	the old Egyptians
+10	69	69	PROP	PER	Moses
+-1	81	88	NOM	PER	The Germans , French , Spanish , Italians
+11	90	90	PROP	PER	Danes
+12	92	92	PROP	PER	Highlanders
+-1	94	94	PRON	PER	them
+-1	109	121	NOM	PER	A child who has read the Blue and Red and Yellow Fairy Books
+-1	124	126	NOM	PER	some old friends
+-1	137	137	PRON	PER	he
+-1	151	153	NOM	PER	the young student
+-1	155	156	NOM	PER	the Tanuki
+-1	162	162	PRON	PER	he
+-1	169	169	PRON	PER	He
+13	173	173	PROP	PER	Andersen
+-1	193	193	PRON	PER	he
+-1	203	203	NOM	PER	mankind
+-1	209	210	NOM	GPE	civilised countries
+-1	217	222	NOM	PER	The Princess in the Chest ’
+-1	220	222	NOM	FAC	the Chest ’
+-1	228	231	NOM	PER	a very nervous child
+-1	257	273	NOM	PER	the Danes , who , as history tells us , were not a nervous or timid people
+-1	265	265	PRON	PER	us
+-1	269	273	NOM	PER	a nervous or timid people
+0	275	275	PRON	PER	I
+-1	296	296	PRON	PER	They
+14	300	303	PROP	PER	Mr. W. A. Craigie
+2	307	308	PROP	LOC	the Sicilian
+15	350	351	PROP	PER	Mrs. Lang
+16	353	355	PROP	PER	Miss Alma Alleyne
+13	360	360	PROP	PER	Andersen
+3	364	365	PROP	LOC	the German
+17	367	368	PROP	PER	Mr. Ford
+-1	380	381	NOM	PER	the princes
+-1	383	383	NOM	PER	giants
+-1	392	393	NOM	PER	the Editor
+-1	416	416	PRON	PER	we
+-1	449	449	PRON	PER	they
+-1	456	456	NOM	PER	witches
+-1	458	458	NOM	PER	giants
+-1	460	462	NOM	PER	unfriendly cruel people
+-1	499	499	PRON	PER	We
+-1	517	517	PRON	PER	us
+-1	523	525	NOM	PER	no kind man
+-1	527	527	NOM	PER	woman
+-1	545	546	NOM	LOC	the world

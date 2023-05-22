@@ -1,0 +1,60 @@
+start_token	end_token	supersense_category	text
+3	3	noun.communication	BOOK
+6	6	verb.communication	Edited
+8	10	noun.person	Andrew Lang Preface
+12	12	noun.communication	tales
+17	17	noun.communication	Book
+22	22	noun.location	countries
+24	24	noun.location	Lithuania
+27	27	noun.location	parts
+29	29	noun.object	Africa
+31	31	noun.location	Germany
+33	33	noun.location	France
+35	35	noun.location	Greece
+39	39	noun.location	regions
+42	42	noun.object	world
+47	47	verb.communication	translated
+49	49	verb.creation	adapted
+51	52	noun.person	Mrs. Dent
+54	55	noun.person	Mrs. Lang
+57	59	noun.person	Miss Eleanor Sellar
+61	62	noun.person	Miss Blackley
+65	66	noun.person	Miss hang
+75	75	verb.stative	is
+79	79	noun.time	century
+81	83	noun.group	Cabinet des Fees
+89	89	noun.group	collection
+93	93	noun.person	author
+96	96	verb.possession	had
+98	98	noun.substance	Oriental
+107	107	noun.event	events
+109	109	verb.cognition	copied
+112	112	noun.cognition	method
+114	114	verb.contact	putting
+115	115	noun.communication	tale
+117	117	noun.communication	tale
+121	121	noun.location	Eastern
+122	122	noun.artifact	balls
+125	125	noun.substance	ivory
+128	128	noun.communication	stories
+133	133	verb.communication	illustrate
+135	135	noun.cognition	method
+138	138	noun.communication	fiction
+142	142	noun.attribute	number
+144	144	noun.event	incidents
+146	146	verb.change	shaken
+150	150	noun.group	combinations
+154	154	noun.artifact	fragments
+157	157	noun.substance	glass
+160	160	noun.artifact	kaleidoscope
+165	165	noun.group	combinations
+170	170	noun.cognition	combinations
+172	172	verb.stative	are
+176	176	noun.quantity	number
+179	179	noun.person	children
+181	181	verb.stative	be
+186	186	noun.cognition	matter
+188	188	noun.animal	fairies
+190	193	noun.person	Mr. John Stuart Mill
+194	194	verb.stative	was
+197	197	noun.cognition	music

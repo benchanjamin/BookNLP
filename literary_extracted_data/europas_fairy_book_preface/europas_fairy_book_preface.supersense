@@ -1,0 +1,437 @@
+start_token	end_token	supersense_category	text
+0	0	noun.person	EUROPA
+6	6	verb.communication	RETOLD
+8	9	noun.person	JOSEPH JACOBS
+12	13	noun.person	Little Peggy
+21	21	noun.time	years
+24	24	verb.creation	wrote
+26	26	noun.communication	book
+29	29	noun.person	Mummey
+33	33	verb.stative	was
+35	36	noun.person	little May
+38	38	verb.communication	telling
+40	41	noun.communication	fairy tales
+45	45	noun.person	boys
+47	47	noun.person	girls
+49	49	noun.location	England
+52	52	verb.perception	hear
+55	55	noun.person	mummeys
+59	59	verb.perception	heard
+63	63	noun.person	mummeys
+64	64	noun.time	years
+66	66	noun.time	years
+68	68	noun.time	years
+72	72	noun.person	friend
+73	74	noun.person	Mr. Batten
+75	75	verb.creation	made
+78	78	noun.artifact	pictures
+86	86	verb.cognition	know
+88	88	noun.communication	book
+91	91	verb.stative	has
+93	93	noun.person	Tom
+103	104	noun.person	old woman
+106	107	verb.stative	went to
+108	108	noun.artifact	market
+114	114	noun.communication	tales
+116	116	verb.emotion	like
+122	122	verb.creation	making
+126	127	noun.communication	tale book
+131	131	noun.cognition	self
+136	136	verb.stative	is
+139	139	noun.event	time
+142	142	verb.communication	told
+146	147	noun.communication	fairy tales
+151	151	noun.person	mummeys
+153	153	noun.location	Europe
+156	156	verb.communication	telling
+159	159	noun.person	Peggys
+166	166	noun.time	years
+171	171	verb.emotion	liked
+176	176	verb.motion	spread
+178	178	noun.location	Germany
+180	180	noun.location	Russia
+183	183	noun.location	Italy
+185	185	noun.location	France
+188	188	noun.location	Holland
+190	190	noun.location	Scotland
+194	194	noun.location	England
+196	196	noun.location	Norway
+201	201	noun.location	country
+203	203	noun.location	Europe
+207	207	verb.cognition	read
+211	211	noun.communication	geography
+217	218	noun.person	Mr. Batten
+221	221	verb.creation	made
+223	223	noun.artifact	pictures
+226	226	noun.person	mummey
+228	228	noun.communication	book
+231	231	verb.social	made
+233	233	noun.quantity	more
+246	246	verb.perception	seen
+251	251	noun.communication	book
+252	252	verb.stative	is
+265	266	noun.person	little girls
+268	268	noun.person	boys
+270	270	verb.possession	get
+271	271	noun.artifact	copies
+276	276	noun.person	mummeys
+278	278	noun.person	papas
+287	287	verb.social	meet
+298	298	verb.possession	have
+300	300	noun.attribute	number
+303	303	noun.person	friends
+307	309	noun.person	Cinder - Maid
+315	317	noun.person	Earl of Cattenborough
+323	325	noun.person	Master - Maid
+331	332	verb.communication	talk to
+340	340	verb.stative	are
+342	342	noun.person	friends
+351	351	verb.stative	be
+359	359	noun.time	days
+361	362	verb.motion	go over
+364	365	noun.location	Great Sea
+369	369	noun.object	land
+371	371	verb.motion	go
+375	375	verb.possession	find
+376	376	noun.person	girls
+378	378	noun.person	boys
+389	389	verb.cognition	know
+393	393	noun.communication	tales
+398	398	verb.stative	have
+400	400	noun.communication	names
+405	405	verb.stative	be
+412	412	verb.communication	tell
+415	415	noun.person	friends
+421	421	noun.communication	stories
+427	427	verb.cognition	know
+433	433	verb.communication	forget
+435	435	verb.communication	tell
+439	439	verb.possession	have
+441	441	noun.communication	book
+451	452	verb.creation	made up
+461	461	noun.communication	stories
+467	467	noun.person	Ganpa
+469	469	noun.person	P.S.—Do
+471	471	verb.perception	hear
+473	473	verb.communication	calling
+480	480	noun.person	Peggy
+482	482	noun.person	Peggy
+488	488	verb.communication	answer
+493	493	noun.person	Ganpa
+495	495	noun.person	Ganpa
+501	501	noun.communication	PREFACE
+509	509	noun.time	years
+513	513	noun.person	Grimms
+514	514	verb.creation	produced
+516	518	noun.communication	Fairy Tale Book
+520	520	noun.person	folk
+522	522	noun.person	lorists
+525	525	verb.creation	engaged
+527	527	verb.creation	making
+529	529	noun.communication	collections
+534	534	noun.location	countries
+536	536	noun.object	Europe
+539	539	noun.location	Germany
+543	543	verb.stative	is
+546	546	noun.location	nook
+549	549	noun.location	corner
+553	553	noun.object	continent
+558	558	verb.contact	ransacked
+561	561	noun.artifact	products
+565	565	noun.cognition	fancy
+568	568	noun.person	Grimms
+574	574	noun.person	followers
+576	577	verb.communication	pointed out
+579	579	noun.attribute	similarity
+585	585	verb.communication	say
+588	588	noun.state	identity
+590	590	noun.cognition	plot
+592	592	noun.event	incident
+597	597	noun.communication	tales
+604	604	noun.location	field
+606	607	noun.person	Von Hahn
+610	610	verb.possession	collecting
+620	621	verb.motion	brought together
+625	625	noun.communication	formulæ
+636	636	verb.change	supplemented
+638	642	noun.person	Mr. S. Baring - Gould
+651	651	verb.possession	contributed
+655	655	noun.communication	list
+659	659	noun.communication	Book
+672	672	noun.communication	formulæ
+676	676	verb.possession	found
+680	680	noun.location	countries
+682	682	noun.location	Europe
+684	684	noun.communication	folk
+686	686	noun.communication	tales
+689	689	verb.possession	collected
+693	696	noun.person	Miss M. Roalfe Cox
+697	698	verb.creation	brought together
+702	702	noun.communication	volume
+714	714	noun.communication	variants
+721	721	noun.communication	stories
+722	722	verb.communication	showing
+727	727	noun.communication	formula
+731	731	noun.object	Europe
+738	738	noun.event	incidents
+740	740	verb.creation	reproduced
+744	744	noun.location	country
+748	748	verb.cognition	occurred
+754	754	verb.stative	be
+757	757	noun.attribute	interest
+761	761	noun.communication	folk
+763	763	noun.cognition	lore
+764	764	noun.cognition	purposes
+769	769	noun.attribute	importance
+772	773	verb.contact	bring together
+776	777	noun.person	Folk -
+778	778	noun.communication	Tales
+780	780	noun.location	Europe
+782	782	verb.communication	retold
+786	786	noun.attribute	way
+789	790	verb.creation	bring out
+793	793	noun.communication	form
+798	798	noun.communication	variants
+800	800	verb.change	derived
+803	803	verb.stative	am
+811	811	noun.attribute	difficulty
+814	814	noun.attribute	nature
+818	818	noun.act	proceeding
+822	822	verb.stative	is
+830	830	noun.person	scholars
+834	834	verb.social	restore
+836	836	noun.communication	Ur
+838	838	noun.communication	text
+841	841	noun.communication	variants
+844	844	noun.group	families
+846	846	noun.communication	MSS
+854	854	noun.process	process
+858	858	noun.person	Critics
+859	859	verb.social	attempt
+861	861	verb.possession	restore
+864	864	noun.communication	narratives
+866	867	noun.person	Holy Writ
+875	875	verb.communication	tell
+876	877	noun.communication	fairy tales
+879	879	noun.person	children
+881	881	verb.emotion	appreciate
+884	884	noun.attribute	tendencies
+887	887	noun.person	child
+888	888	noun.cognition	mind
+891	891	noun.event	time
+893	893	verb.change	vary
+895	895	noun.event	incident
+897	897	noun.person	children
+899	900	verb.communication	cry out
+904	904	verb.stative	was
+907	907	noun.attribute	way
+909	909	verb.communication	told
+917	917	noun.communication	Tale
+918	918	noun.communication	collections
+922	922	verb.cognition	assumed
+924	924	verb.possession	retain
+927	927	noun.communication	readings
+931	931	noun.attribute	fidelity
+934	934	noun.communication	MSS
+942	942	noun.communication	rendering
+943	943	verb.change	eminating
+947	948	noun.person	folk artist
+951	951	noun.person	student
+953	954	noun.person	Miss Cox
+956	956	noun.communication	volume
+959	959	verb.communication	doubt
+963	963	verb.perception	finds
+968	968	noun.communication	tags
+971	971	noun.communication	verse
+975	975	noun.communication	dialects
+977	977	noun.communication	Danish
+979	979	noun.communication	Romaic
+988	988	verb.creation	imagine
+991	992	verb.social	sprang up
+995	995	noun.location	Denmark
+997	997	noun.location	Greece
+999	999	noun.location	Germany
+1002	1002	noun.location	Florence
+1007	1007	noun.event	phenomenon
+1009	1009	verb.perception	shown
+1012	1012	noun.cognition	field
+1016	1016	noun.communication	Lore
+1022	1023	noun.person	Mr. Newell
+1024	1024	verb.communication	showed
+1028	1028	noun.communication	rhymes
+1030	1030	verb.consumption	used
+1032	1033	verb.change	brighten up
+1036	1036	noun.person	children
+1038	1038	noun.act	games
+1040	1040	noun.location	Barcelona
+1043	1043	noun.location	Boston
+1048	1048	verb.creation	imagine
+1050	1051	verb.change	springing up
+1055	1055	noun.location	places
+1064	1064	noun.event	incidents
+1067	1068	noun.communication	fairy tale
+1069	1069	verb.stative	follow
+1074	1074	noun.communication	concatenation
+1076	1076	noun.location	Scotland
+1080	1080	noun.location	Sicily
+1083	1083	noun.location	Brittany
+1087	1087	noun.location	Albania
+1093	1093	verb.cognition	assume
+1097	1097	noun.communication	form
+1100	1100	noun.communication	story
+1102	1102	verb.contact	hit
+1108	1108	noun.person	artist
+1111	1111	noun.group	folk
+1116	1116	verb.social	attempted
+1118	1118	verb.social	do
+1121	1121	noun.communication	book
+1122	1122	verb.stative	is
+1124	1124	verb.possession	restore
+1127	1127	noun.communication	form
+1135	1135	noun.act	selection
+1137	1137	verb.contact	spread
+1142	1142	noun.group	folks
+1148	1148	verb.social	attempted
+1151	1151	verb.change	restore
+1154	1154	noun.cognition	substance
+1158	1158	noun.communication	Folk
+1160	1160	noun.communication	Tales
+1165	1167	verb.cognition	had in mind
+1171	1171	noun.communication	form
+1177	1177	verb.change	appear
+1180	1180	verb.emotion	attract
+1184	1184	noun.person	children
+1191	1191	verb.consumption	utilized
+1193	1193	noun.cognition	experience
+1195	1195	verb.perception	had
+1197	1197	noun.time	years
+1200	1200	verb.possession	collecting
+1202	1202	verb.creation	retelling
+1212	1212	noun.state	field
+1215	1216	noun.communication	Fairy Tales
+1227	1227	verb.communication	tell
+1230	1230	noun.communication	tales
+1233	1233	noun.attribute	way
+1238	1238	noun.person	children
+1241	1241	verb.perception	shown
+1243	1243	verb.emotion	enjoy
+1251	1251	noun.communication	plot
+1253	1253	noun.communication	incidents
+1254	1254	verb.stative	are
+1257	1257	noun.cognition	form
+1260	1260	noun.object	Europe
+1263	1263	noun.attribute	manner
+1268	1268	verb.communication	told
+1270	1270	noun.communication	stories
+1271	1271	verb.stative	is
+1281	1281	verb.creation	imitate
+1288	1288	noun.communication	story
+1290	1290	noun.person	teller
+1295	1295	verb.stative	been
+1301	1301	noun.group	audience
+1308	1308	noun.feeling	reverence
+1316	1316	noun.event	incident
+1323	1323	verb.contact	penetrate
+1327	1327	verb.perception	seemed
+1335	1335	noun.person	children
+1338	1338	noun.time	present
+1339	1339	noun.time	day
+1343	1343	verb.possession	had
+1347	1347	verb.change	modifying
+1349	1349	verb.social	mollifying
+1352	1353	verb.communication	drawing attention
+1356	1356	noun.act	Bowdlerization
+1361	1361	noun.communication	notes
+1364	1364	noun.event	end
+1367	1367	noun.artifact	volume
+1371	1371	verb.cognition	trust
+1374	1374	verb.possession	found
+1376	1376	noun.cognition	interest
+1383	1383	noun.person	student
+1388	1388	noun.communication	Tale
+1397	1397	verb.cognition	understood
+1400	1400	noun.communication	tales
+1403	1403	verb.creation	give
+1404	1404	verb.stative	are
+1407	1407	verb.possession	found
+1412	1413	noun.location	European countries
+1418	1418	verb.stative	are
+1421	1421	verb.stative	are
+1427	1427	noun.group	countries
+1430	1430	verb.possession	found
+1432	1432	noun.location	areas
+1433	1433	verb.stative	covered
+1436	1436	noun.communication	languages
+1439	1439	noun.communication	Celtic
+1449	1449	verb.stative	covered
+1455	1455	noun.group	fields
+1463	1463	noun.time	days
+1465	1465	verb.communication	extend
+1467	1467	noun.artifact	collections
+1475	1476	noun.location	Slavonic fields
+1482	1482	verb.cognition	assumed
+1485	1485	noun.communication	stories
+1488	1488	verb.emotion	pleased
+1491	1491	noun.person	children
+1496	1496	noun.time	time
+1497	1497	verb.stative	are
+1504	1504	noun.group	selection
+1507	1507	verb.stative	fitted
+1509	1509	verb.stative	survive
+1514	1515	noun.communication	Fairy Tales
+1517	1517	verb.stative	follow
+1518	1518	verb.stative	are
+1521	1521	noun.possession	gems
+1526	1526	noun.act	field
+1531	1531	verb.communication	express
+1533	1533	noun.feeling	hope
+1537	1537	verb.social	succeeded
+1539	1539	verb.social	placing
+1544	1544	noun.location	setting
+1547	1547	verb.stative	remains
+1550	1550	verb.communication	thank
+1554	1554	noun.person	colleagues
+1556	1556	noun.person	friends
+1559	1559	verb.social	aided
+1562	1562	noun.attribute	ways
+1565	1565	noun.act	preparation
+1568	1568	noun.communication	volume
+1574	1574	noun.possession	co
+1576	1576	noun.state	operation
+1584	1584	verb.communication	imply
+1585	1585	noun.act	responsibility
+1588	1588	noun.act	approval
+1591	1591	noun.cognition	method
+1594	1594	noun.act	treatment
+1597	1597	verb.consumption	applied
+1603	1603	noun.communication	stories
+1605	1607	noun.person	Miss Roalfe Cox
+1608	1608	verb.stative	was
+1612	1613	verb.cognition	look over
+1615	1615	noun.artifact	reconstruction
+1621	1621	verb.communication	suggest
+1622	1622	noun.act	alterations
+1626	1627	noun.person	Prof. Crane
+1628	1628	verb.possession	gave
+1630	1630	noun.communication	permission
+1632	1632	verb.consumption	utilize
+1634	1634	noun.communication	version
+1648	1651	noun.person	Sir James G. Frazer
+1652	1653	verb.perception	looked through
+1655	1655	noun.communication	restoration
+1659	1659	noun.communication	Language
+1666	1666	verb.communication	suggested
+1670	1670	noun.time	years
+1674	1677	noun.person	Mr. E. S. Hartland
+1678	1678	verb.communication	criticized
+1680	1680	noun.person	Swan
+1683	1683	noun.communication	story
+1689	1689	verb.communication	thank
+1692	1692	noun.person	friend
+1694	1694	noun.person	publisher
+1696	1699	noun.person	Dr. G. H. Putnam
+1704	1704	noun.cognition	interest
+1707	1707	verb.social	taken
+1710	1710	noun.event	progress
+1713	1713	noun.communication	book
+1715	1717	noun.person	J. J. July

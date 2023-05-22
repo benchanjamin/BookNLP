@@ -1,0 +1,247 @@
+COREF	start_token	end_token	prop	cat	text
+-1	7	11	NOM	PER	a young fellow whom fortune
+-1	15	26	NOM	PER	a good mother , a clever head , and a strong body
+-1	31	31	PRON	PER	she
+-1	36	36	PRON	PER	him
+-1	46	46	PRON	PER	he
+-1	59	59	PRON	PER	his
+-1	59	60	NOM	PER	his mother
+-1	63	63	PRON	PER	him
+-1	68	68	PRON	PER	his
+-1	76	76	NOM	PER	others
+-1	81	81	PRON	PER	her
+-1	82	82	PRON	PER	he
+-1	94	94	PRON	PER	his
+-1	104	106	NOM	GPE	the neighbouring town
+-1	109	109	PRON	PER	he
+-1	120	120	PRON	PER	he
+-1	128	128	PRON	PER	he
+-1	133	133	PRON	PER	his
+-1	138	138	PRON	PER	he
+-1	155	158	NOM	PER	some of the merrymakers
+-1	157	158	NOM	PER	the merrymakers
+-1	163	166	NOM	PER	a party of them
+-1	166	166	PRON	PER	them
+-1	169	186	NOM	PER	an old Jew who was keeping a stall of glass and china , and would smash his stock
+-1	185	185	PRON	PER	his
+-1	190	191	NOM	PER	the Jew
+-1	194	194	PRON	PER	his
+-1	197	197	PRON	PER	them
+-1	200	200	PRON	PER	his
+-1	205	208	NOM	PER	the strong young man
+-1	216	216	PRON	PER	his
+-1	220	220	PRON	PER	he
+-1	222	224	NOM	PER	the old Jew
+-1	229	229	PRON	PER	him
+-1	234	234	PRON	PER	his
+-1	234	235	NOM	PER	his mother
+-1	238	238	PRON	PER	him
+-1	242	242	NOM	PER	others
+-1	245	254	NOM	PER	those who would have ill - treated the old Jew
+-1	252	254	NOM	PER	the old Jew
+-1	260	262	NOM	PER	the young man
+-1	265	265	PRON	PER	him
+-1	267	267	PRON	PER	he
+-1	271	271	PRON	PER	his
+-1	275	276	NOM	PER	the Jew
+-1	279	279	PRON	PER	him
+-1	284	284	PRON	PER	My
+-1	284	285	NOM	PER	My son
+-1	287	287	PRON	PER	he
+-1	287	315	NOM	PER	he who delivers the oppressed , and has respect unto the aged , has need of no reward , for the blessing of Him that blesseth is about him
+-1	290	291	NOM	PER	the oppressed
+-1	297	298	NOM	PER	the aged
+-1	310	310	PRON	PER	Him
+-1	315	315	PRON	PER	him
+-1	320	320	PRON	PER	I
+-1	328	328	PRON	PER	I
+-1	330	330	PRON	PER	thee
+-1	342	342	PRON	PER	thee
+-1	344	344	PRON	PER	thine
+-1	348	348	PRON	PER	thou
+-1	360	360	PRON	PER	thee
+-1	367	369	NOM	PER	the young man
+-1	385	385	PRON	PER	he
+-1	420	421	NOM	PER	the Jew
+-1	424	424	PRON	PER	My
+-1	424	425	NOM	PER	My son
+-1	429	429	PRON	PER	you
+-1	443	445	NOM	PER	The young man
+-1	453	453	PRON	PER	me
+-1	456	456	PRON	PER	I
+-1	466	467	NOM	PER	the Jew
+-1	472	472	PRON	PER	he
+-1	487	487	PRON	PER	thou
+-1	497	497	PRON	PER	my
+-1	505	505	PRON	PER	I
+-1	510	510	PRON	PER	thee
+-1	516	516	PRON	PER	me
+-1	518	520	NOM	PER	a wise woman
+-1	528	528	PRON	PER	I
+-1	544	544	PRON	PER	I
+-1	547	547	PRON	PER	I
+-1	551	551	PRON	PER	myself
+-1	553	553	PRON	PER	I
+-1	559	559	PRON	PER	I
+-1	570	570	PRON	PER	I
+-1	580	580	PRON	PER	I
+-1	583	583	PRON	PER	myself
+-1	588	589	NOM	PER	no man
+-1	599	599	PRON	PER	he
+-1	602	602	PRON	PER	his
+-1	614	614	PRON	PER	my
+-1	629	629	NOM	PER	many
+-1	646	646	PRON	PER	I
+-1	672	672	PRON	PER	I
+-1	682	682	PRON	PER	my
+-1	682	683	NOM	PER	my customers
+-1	686	686	PRON	PER	me
+-1	693	694	NOM	PER	a Jew
+-1	697	697	PRON	PER	thou
+-1	715	715	PRON	PER	they
+-1	721	721	PRON	PER	me
+-1	728	728	PRON	PER	they
+-1	746	747	NOM	PER	most men
+-1	761	761	PRON	PER	they
+-1	768	768	PRON	PER	their
+-1	785	785	PRON	PER	thee
+-1	787	789	NOM	PER	O young man
+-1	791	791	PRON	PER	I
+-1	811	811	PRON	PER	thy
+-1	830	830	PRON	PER	I
+-1	836	836	NOM	PER	thousands
+-1	844	846	NOM	PER	the young man
+0	852	852	PROP	PER	Jew
+-1	855	855	PRON	PER	he
+-1	866	867	NOM	PER	the Jew
+-1	882	882	PRON	PER	I
+-1	887	887	PRON	PER	thee
+-1	909	910	NOM	PER	its master
+-1	914	914	PRON	PER	thou
+-1	917	917	PRON	PER	it
+-1	973	973	PRON	PER	thou
+-1	982	982	PRON	PER	their
+-1	1017	1017	PRON	PER	thou
+-1	1019	1019	PRON	PER	thyself
+-1	1054	1054	PRON	PER	thee
+-1	1061	1061	PRON	PER	he
+-1	1063	1064	NOM	PER	the Jew
+-1	1073	1073	PRON	PER	his
+-1	1079	1080	NOM	PER	the crowd
+-1	1086	1087	NOM	PER	the Jew
+-1	1092	1092	PRON	PER	he
+-1	1100	1102	NOM	PER	the young man
+-1	1110	1110	PRON	PER	he
+-1	1115	1115	PRON	PER	his
+-1	1129	1129	PRON	PER	Thy
+-1	1132	1132	PRON	PER	my
+-1	1144	1145	NOM	PER	every man
+-1	1149	1149	PRON	PER	his
+-1	1149	1150	NOM	PER	his neighbours
+-1	1159	1166	NOM	PER	all those who lived near the young man
+-1	1164	1166	NOM	PER	the young man
+-1	1170	1170	PRON	PER	he
+-1	1186	1186	PRON	PER	themselves
+-1	1188	1188	PRON	PER	he
+-1	1199	1199	PRON	PER	they
+-1	1210	1211	NOM	PER	the king
+-1	1214	1214	PRON	PER	he
+-1	1220	1220	PRON	PER	he
+-1	1243	1244	NOM	PER	the king
+-1	1246	1247	NOM	PER	no child
+-1	1250	1250	PRON	PER	him
+-1	1253	1253	PRON	PER	he
+-1	1259	1259	PRON	PER	him
+-1	1269	1269	PRON	PER	he
+-1	1280	1280	PRON	PER	his
+-1	1280	1281	NOM	PER	his subjects
+-1	1285	1285	PRON	PER	he
+-1	1288	1300	NOM	PER	the young man who had flowers on his table all the year round
+-1	1295	1295	PRON	PER	his
+-1	1302	1302	PRON	PER	he
+-1	1304	1307	NOM	PER	one of his officers
+-1	1306	1306	PRON	PER	his
+-1	1306	1307	NOM	PER	his officers
+-1	1312	1312	PRON	PER	him
+-1	1316	1316	PRON	PER	he
+-1	1321	1323	NOM	PER	the young man
+-1	1327	1327	PRON	PER	his
+-1	1341	1342	NOM	PER	the king
+-1	1344	1345	NOM	PER	another messenger
+-1	1351	1353	NOM	PER	the young man
+-1	1359	1361	NOM	PER	the young man
+-1	1368	1368	PRON	PER	he
+-1	1372	1372	PRON	PER	I
+-1	1383	1384	NOM	PER	the messenger
+-1	1390	1391	NOM	PER	the king
+-1	1394	1396	NOM	PER	The young man
+-1	1399	1399	PRON	PER	he
+-1	1411	1411	PRON	PER	his
+-1	1411	1412	NOM	FAC	his room
+-1	1417	1418	NOM	PER	the king
+-1	1429	1429	PRON	PER	me
+-1	1433	1434	NOM	PER	the messenger
+-1	1443	1444	NOM	PER	the king
+-1	1454	1454	PRON	PER	his
+-1	1458	1458	PRON	PER	he
+-1	1469	1470	NOM	PER	the king
+-1	1482	1483	NOM	PER	every one
+-1	1494	1494	PRON	PER	they
+-1	1496	1501	NOM	PER	the wise men of the council
+-1	1504	1504	PRON	PER	they
+-1	1526	1530	NOM	PER	the master of the toad
+-1	1533	1534	NOM	FAC	the palace
+-1	1540	1540	PRON	PER	he
+-1	1543	1543	PRON	PER	he
+-1	1558	1559	NOM	PER	the king
+-1	1563	1563	PRON	PER	he
+-1	1567	1568	NOM	PER	the king
+-1	1567	1570	NOM	FAC	the king 's chamber
+-1	1572	1572	PRON	PER	he
+-1	1577	1578	NOM	PER	the toad
+-1	1583	1587	NOM	PER	The person of the king
+-1	1586	1587	NOM	PER	the king
+-1	1607	1608	NOM	PER	the king
+-1	1614	1614	PRON	PER	him
+-1	1621	1621	PRON	PER	him
+-1	1624	1624	PRON	PER	he
+-1	1634	1636	NOM	PER	the wise men
+-1	1641	1642	NOM	PER	no one
+-1	1648	1649	NOM	GPE	the kingdom
+-1	1651	1652	NOM	PER	this man
+-1	1670	1670	PRON	PER	they
+-1	1673	1674	NOM	PER	the people
+-1	1677	1679	NOM	PER	the young man
+-1	1682	1682	NOM	PER	king
+-1	1688	1688	PRON	PER	he
+-1	1690	1694	NOM	PER	an amiable and talented princess
+-1	1698	1698	NOM	PER	children
+-1	1701	1701	PRON	PER	he
+-1	1703	1704	NOM	GPE	the kingdom
+-1	1713	1713	PRON	PER	his
+-1	1726	1726	PRON	PER	he
+-1	1734	1735	NOM	PER	the people
+-1	1738	1738	PRON	PER	his
+-1	1744	1744	PRON	PER	his
+-1	1744	1746	NOM	FAC	his own room
+-1	1749	1750	NOM	PER	the people
+-1	1758	1758	PRON	PER	his
+-1	1767	1768	NOM	PER	the crowd
+-1	1771	1773	NOM	PER	an aged Jew
+-1	1776	1776	PRON	PER	he
+-1	1782	1783	NOM	PER	the others
+-1	1786	1786	PRON	PER	he
+-1	1800	1802	NOM	PER	the dead king
+-1	1810	1810	PRON	PER	he
+-1	1822	1823	NOM	PER	A man
+-1	1829	1830	NOM	PER	A ruler
+-1	1833	1834	NOM	PER	not oppressive
+-1	1845	1848	NOM	PER	Elect of the people
+-1	1847	1848	NOM	PER	the people
+-1	1859	1859	PRON	PER	he
+-1	1864	1864	PRON	PER	he
+-1	1872	1873	NOM	PER	one astonished
+-1	1876	1877	NOM	PER	no one
+-1	1880	1880	PRON	PER	he
+-1	1887	1887	PRON	PER	he
+-1	1892	1892	PRON	PER	they

@@ -1,0 +1,194 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	1	NOM	PER	THE MAGICIAN
+0	3	5	PROP	PER	MISCHIEF - MAKER
+-1	10	22	NOM	PER	a wicked magician who prospered , and did much evil for many years
+1	30	30	PROP	PER	Vengeance
+-1	34	36	NOM	PER	a blind beggar
+-1	39	39	PRON	PER	him
+-1	43	43	PRON	PER	him
+-1	47	47	PRON	PER	his
+-1	53	53	PRON	PER	he
+-1	59	67	NOM	PER	those who offended him into any shape he pleased
+-1	62	62	PRON	PER	him
+-1	66	66	PRON	PER	he
+-1	72	72	PRON	PER	he
+-1	76	76	PRON	PER	he
+-1	80	80	PRON	PER	himself
+1	83	83	PROP	PER	Vengeance
+-1	87	87	PRON	PER	his
+-1	87	88	NOM	LOC	his place
+-1	90	90	PRON	PER	he
+-1	93	94	NOM	GPE	a village
+-1	96	108	NOM	PER	the inhabitants of which had formerly lived in great terror of the magician
+-1	107	108	NOM	PER	the magician
+-1	112	112	PRON	PER	them
+-1	117	117	PRON	PER	his
+-1	121	121	PRON	PER	they
+-1	126	127	NOM	PER	Blind beggars
+-1	132	132	NOM	PER	One
+-1	136	137	NOM	PER	all one
+-1	143	143	PRON	PER	their
+-1	148	148	PRON	PER	him
+1	151	151	PROP	PER	Vengeance
+-1	160	160	PRON	PER	you
+-1	163	163	PRON	PER	me
+-1	166	167	NOM	PER	each other
+-1	177	177	PRON	PER	he
+-1	180	181	NOM	GPE	another village
+-1	190	191	NOM	PER	the villagers
+-1	204	206	NOM	PER	the blind beggar
+-1	216	216	PRON	PER	he
+-1	223	223	PRON	PER	you
+-1	227	227	PRON	PER	me
+-1	231	232	NOM	PER	each other
+-1	240	242	NOM	GPE	the next village
+-1	245	246	NOM	GPE	this place
+-1	247	247	PRON	PER	he
+-1	262	263	NOM	PER	the people
+-1	265	265	PRON	PER	him
+-1	267	274	NOM	FAC	the bridge which led out of the village
+-1	273	274	NOM	GPE	the village
+-1	278	278	PRON	PER	him
+-1	285	285	PRON	PER	him
+-1	287	287	PRON	PER	his
+-1	291	293	NOM	PER	the blind beggar
+-1	303	309	NOM	PER	Those who are so good to strangers
+-1	309	309	NOM	PER	strangers
+-1	315	316	NOM	PER	each other
+-1	328	329	NOM	GPE	this place
+-1	331	331	PRON	PER	I
+-1	341	341	PRON	PER	they
+-1	347	347	NOM	PER	men
+-1	351	351	PRON	PER	he
+-1	362	363	NOM	LOC	the stream
+-1	367	368	NOM	PER	the people
+-1	370	370	PRON	PER	their
+-1	379	379	PRON	PER	they
+-1	383	385	NOM	PER	the blind beggar
+-1	390	391	NOM	PER	the magician
+-1	400	400	PRON	PER	his
+-1	405	405	PRON	PER	his
+-1	416	416	PRON	PER	he
+-1	419	419	PRON	PER	himself
+-1	420	420	PRON	PER	he
+-1	424	424	NOM	PER	One
+-1	433	433	PRON	PER	his
+-1	436	436	PRON	PER	I
+-1	439	441	NOM	PER	mischief - maker
+-1	445	446	NOM	LOC	the place
+-1	452	452	PRON	PER	me
+-1	454	454	PRON	PER	I
+-1	460	460	PRON	PER	I
+-1	465	465	PRON	PER	he
+-1	468	470	NOM	GPE	the first village
+1	473	473	PROP	PER	Vengeance
+-1	480	480	PRON	PER	he
+-1	493	493	PRON	PER	he
+-1	498	498	PRON	PER	his
+-1	501	501	PRON	PER	he
+-1	510	510	PRON	PER	his
+-1	515	516	NOM	PER	every one
+-1	518	518	PRON	PER	his
+-1	518	519	NOM	PER	his neighbour
+-1	528	528	PRON	PER	him
+-1	531	531	NOM	PER	parents
+-1	533	533	PRON	PER	their
+-1	533	534	NOM	PER	their children
+-1	537	537	NOM	PER	husband
+-1	539	539	NOM	PER	wives
+-1	543	543	NOM	PER	lovers
+-1	548	548	NOM	PER	servants
+-1	550	550	NOM	PER	masters
+-1	554	555	NOM	PER	old friends
+-1	557	558	NOM	PER	bitter enemies
+-1	563	564	NOM	FAC	the place
+-1	569	570	NOM	PER	the magician
+-1	573	573	PRON	PER	he
+-1	575	575	PRON	PER	himself
+-1	583	585	NOM	GPE	the next village
+1	589	589	PROP	PER	Vengeance
+-1	596	596	PRON	PER	he
+-1	607	607	PRON	PER	he
+-1	609	609	PRON	FAC	it
+-1	611	611	PRON	PER	he
+-1	621	622	NOM	PER	each other
+-1	624	625	NOM	PER	each other
+-1	628	629	NOM	PER	the magician
+-1	638	638	PRON	PER	his
+-1	640	640	PRON	PER	he
+-1	648	648	PRON	PER	his
+-1	651	653	NOM	PER	the enraged villagers
+-1	656	656	PRON	PER	himself
+1	669	669	PROP	PER	Vengeance
+-1	675	676	NOM	GPE	this village
+-1	677	677	PRON	PER	he
+-1	694	694	PRON	PER	he
+-1	697	697	PRON	PER	his
+-1	702	702	PRON	PER	his
+-1	710	710	PRON	PER	him
+-1	717	722	NOM	PER	the oldest dog in the place
+-1	721	722	NOM	GPE	the place
+-1	728	729	NOM	PER	the miller
+-1	728	731	NOM	FAC	the miller 's house
+-1	734	734	PRON	PER	he
+-1	736	737	NOM	PER	the magician
+-1	744	746	NOM	PER	an old woman
+-1	750	750	PRON	PER	you
+-1	752	754	NOM	PER	that old witch
+-1	758	758	PRON	PER	he
+-1	772	773	NOM	FAC	the yard
+-1	777	777	PRON	PER	her
+-1	780	780	PRON	PER	she
+-1	783	783	PRON	PER	my
+-1	783	784	NOM	PER	my master
+-1	783	796	NOM	PER	my master 's daughter and the finest young fellow in the country - side
+-1	788	796	NOM	PER	the finest young fellow in the country - side
+-1	793	796	NOM	LOC	the country - side
+-1	798	798	PRON	PER	She
+-1	809	809	PRON	PER	you
+-1	820	820	PRON	PER	she
+-1	824	824	PRON	PER	she
+-1	830	830	PRON	PER	she
+-1	838	838	PRON	PER	me
+-1	844	844	PRON	PER	We
+-1	847	847	PRON	PER	her
+-1	851	852	NOM	PER	the sparrows
+-1	858	858	PRON	PER	we
+-1	860	860	PRON	PER	your
+2	863	864	PROP	PER	Master Keeper
+-1	866	866	PRON	PER	she
+-1	870	870	PRON	PER	us
+-1	875	875	PRON	PER	I
+-1	877	877	PRON	PER	you
+2	883	884	PROP	PER	Master Keeper
+-1	893	893	PRON	PER	we
+-1	899	899	NOM	PER	men
+-1	902	902	PRON	PER	we
+-1	906	906	PRON	PER	them
+-1	911	911	PRON	PER	our
+-1	914	914	PRON	PER	She
+-1	917	917	PRON	PER	my
+-1	917	919	NOM	PER	my young mistress
+-1	926	926	PRON	PER	he
+-1	929	931	NOM	PER	the disguised magician
+-1	933	933	PRON	PER	he
+-1	942	942	PRON	PER	him
+-1	949	952	NOM	PER	the mischief - maker
+-1	954	954	PRON	PER	himself
+-1	965	966	NOM	GPE	the village
+-1	970	970	PRON	PER	he
+-1	988	988	PRON	PER	him
+-1	991	991	PRON	PER	he
+-1	993	994	NOM	FAC	the bridge
+-1	999	999	PRON	PER	they
+-1	1001	1001	PRON	PER	him
+-1	1009	1009	PRON	PER	us
+-1	1011	1011	PRON	PER	you
+-1	1017	1017	PRON	PER	us
+-1	1019	1019	PRON	PER	you
+-1	1025	1025	PRON	PER	us
+-1	1027	1027	NOM	PER	you?"--and
+-1	1029	1029	PRON	PER	him
+-1	1033	1033	PRON	PER	he
+-1	1036	1036	PRON	PER	himself
+-1	1045	1047	NOM	PER	all the neighbourhood

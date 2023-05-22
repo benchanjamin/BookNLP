@@ -1,0 +1,4765 @@
+COREF	start_token	end_token	prop	cat	text
+-1	23	24	NOM	PER	the Translator
+162	41	41	PROP	PER	Moe
+-1	131	132	NOM	PER	the Translator
+-1	137	137	PRON	PER	him
+-1	139	139	PRON	PER	his
+-1	142	145	NOM	PER	“ gentle ” readers
+-1	155	155	PRON	PER	him
+-1	157	157	PRON	PER	he
+-1	161	161	PRON	PER	he
+-1	164	164	PRON	PER	he
+-1	212	212	PRON	PER	them
+-1	259	259	PRON	PER	their
+-1	271	272	NOM	PER	the Translator
+-1	276	276	PRON	PER	his
+-1	276	277	NOM	PER	his readers
+-1	283	283	PRON	PER	he
+-1	289	291	NOM	PER	the good godmother
+-1	300	302	NOM	PER	all good children
+-1	319	319	PRON	PER	him
+-1	321	322	NOM	PER	the godmother
+-1	324	324	PRON	PER	She
+-1	326	326	PRON	PER	her
+-1	326	329	NOM	PER	her foster - daughter
+-1	334	334	PRON	PER	she
+-1	338	338	PRON	PER	He
+-1	345	347	NOM	PER	any bad child
+-1	350	350	PRON	PER	his
+-1	354	354	PRON	PER	he
+-1	357	363	NOM	PER	all good children who read this book
+-1	389	389	PRON	PER	he
+-1	391	391	PRON	PER	them
+-1	400	402	NOM	PER	no good child
+-1	408	410	NOM	FAC	those two rooms
+-1	418	418	PRON	PER	they
+-1	422	422	PRON	PER	they
+-1	430	430	PRON	PER	them
+-1	436	436	PRON	PER	them
+-1	441	443	NOM	PER	some grown reader
+-1	452	452	PRON	PER	you
+-1	457	457	NOM	PER	children
+-1	461	461	PRON	PER	you
+-1	468	469	NOM	LOC	the world
+-1	474	474	PRON	PER	you
+-1	495	495	PRON	PER	their
+-1	520	520	PRON	PER	they
+-1	542	543	NOM	PER	the Translator
+-1	560	569	NOM	PER	Those who , with so large a choice of beauty
+-1	571	571	PRON	PER	them
+163	602	602	PROP	PER	Leviticus
+-1	605	616	NOM	PER	those whose Shakespeare would open of itself at Pericles Prince of Tyre
+-1	613	616	NOM	PER	Pericles Prince of Tyre
+1	616	616	PROP	GPE	Tyre
+-1	618	619	NOM	PER	Such readers
+-1	620	621	NOM	PER	the Translator
+164	647	647	PROP	PER	MM
+162	651	651	PROP	PER	Moe
+-1	690	691	NOM	PER	the Translator
+-1	707	707	PRON	PER	them
+-1	709	711	NOM	PER	The Master Thief
+165	717	717	PROP	PER	Blackwood
+-1	740	741	NOM	PER	the Proprietors
+-1	743	744	NOM	PER	The Translator
+-1	748	748	PRON	PER	he
+-1	759	791	NOM	PER	some friends upon whose good - will he sets all store , who wished him to change and soften some features in these tales , which they thought likely to shock English feeling
+-1	766	766	PRON	PER	he
+-1	773	773	PRON	PER	him
+-1	785	785	PRON	PER	they
+-1	793	793	PRON	PER	He
+-1	804	804	PRON	PER	his
+-1	808	808	PRON	PER	their
+-1	829	859	NOM	PER	the man who , in such a work , wilfully changes or softens , is as guilty as he “ who puts bitter for sweet , and sweet for bitter ”
+-1	847	847	PRON	PER	he
+-1	868	869	NOM	PER	the Translator
+-1	871	871	PRON	PER	himself
+-1	879	889	NOM	PER	any , who may be inclined to be offended at first
+-1	906	906	PRON	PER	they
+-1	925	928	NOM	PER	the most childish readers
+-1	936	936	PRON	PER	them
+-1	959	959	PRON	PER	him
+-1	967	967	PRON	PER	his
+-1	975	976	NOM	PER	the reader
+-1	1007	1007	PRON	PER	his
+-1	1012	1012	PRON	PER	he
+-1	1025	1025	PRON	PER	he
+-1	1028	1028	PRON	PER	himself
+-1	1030	1031	NOM	PER	the Translator
+-1	1038	1041	NOM	PER	a gentle reader ”
+-1	1054	1057	NOM	PER	The most careless reader
+-1	1079	1079	PRON	PER	he
+-1	1084	1084	PRON	PER	his
+-1	1104	1104	NOM	PER	nurseries
+-1	1106	1107	NOM	PER	old wives
+-1	1133	1134	NOM	PER	English nurses
+-1	1139	1140	NOM	PER	English children
+-1	1155	1155	PRON	PER	we
+-1	1175	1179	NOM	FAC	l ’ Oye of Perrault
+166	1179	1179	PROP	PER	Perrault
+167	1187	1188	PROP	PER	Madame D’Aulnoy
+168	1206	1207	PROP	PER	Louis XIV
+-1	1209	1209	PRON	PER	his
+-1	1209	1210	NOM	PER	his successors
+-1	1223	1234	NOM	PER	an artless country girl in the stifling atmosphere of a London theatre
+-1	1232	1234	NOM	FAC	a London theatre
+-1	1245	1247	NOM	PER	the English reciter
+2	1256	1256	PROP	GPE	England
+-1	1263	1263	PRON	PER	our
+-1	1263	1266	NOM	PER	our great - grandmothers
+169	1271	1271	PROP	PER	Cinderella
+-1	1291	1294	NOM	FAC	the Cabinet des Fées
+3	1296	1296	PROP	GPE	Sinbad
+-1	1297	1298	NOM	PER	the Sailor
+170	1300	1300	PROP	PER	Aladdin
+-1	1328	1329	NOM	LOC	the globe
+-1	1397	1397	NOM	PER	translators
+2	1413	1413	PROP	GPE	England
+-1	1433	1435	NOM	FAC	home - growths
+-1	1437	1437	PRON	PER	We
+-1	1442	1442	PRON	PER	our
+-1	1442	1444	NOM	PER	our own children
+-1	1455	1455	PRON	PER	their
+-1	1470	1470	PRON	PER	their
+-1	1477	1477	PRON	PER	their
+-1	1518	1523	NOM	LOC	the nations north of the Alps
+4	1522	1523	PROP	LOC	the Alps
+-1	1548	1553	NOM	LOC	the other languages of the earth
+-1	1552	1553	NOM	LOC	the earth
+-1	1570	1578	NOM	PER	that base - born slave , the vulgar tongue
+-1	1592	1607	NOM	PER	the twin tyrants who ruled all the dialects of the world with a pedant ’s rod
+-1	1597	1602	NOM	LOC	all the dialects of the world
+-1	1601	1602	NOM	LOC	the world
+5	1621	1622	PROP	LOC	Western Europe
+-1	1630	1632	NOM	PER	the first Napoleon
+171	1639	1639	PROP	PER	Prometheus
+-1	1656	1656	PRON	PER	his
+6	1659	1660	PROP	LOC	the Atlantic
+-1	1664	1668	NOM	PER	a man in Central Germany
+7	1667	1668	PROP	GPE	Central Germany
+-1	1671	1674	NOM	GPE	the old Thuringian soil
+-1	1739	1739	PRON	PER	he
+-1	1746	1746	PRON	PER	he
+172	1770	1771	PROP	PER	Jacob Grimm
+-1	1773	1778	NOM	LOC	not a “ household word ”
+-1	1780	1780	PRON	PER	His
+8	1784	1786	PROP	LOC	all the Teutonic
+9	1787	1791	PROP	GPE	Dialects from Iceland to England
+10	1789	1789	PROP	GPE	Iceland
+2	1791	1791	PROP	GPE	England
+-1	1800	1800	PRON	PER	their
+-1	1800	1803	NOM	PER	their ancient classical oppressors
+-1	1805	1805	PRON	PER	His
+-1	1816	1817	NOM	PER	the Lombards
+173	1819	1819	PROP	PER	Franks
+-1	1822	1822	NOM	PER	Goths
+-1	1847	1847	PRON	PER	His
+-1	1851	1853	NOM	PER	early German authors
+-1	1857	1863	NOM	PER	the German poets of the Middle Age
+174	1865	1865	PROP	PER	Godfrey
+-1	1865	1867	NOM	PER	Godfrey of Strasburg
+11	1867	1867	PROP	GPE	Strasburg
+175	1869	1871	PROP	PER	Wolfram von Eschenbach
+176	1873	1876	PROP	PER	Hartman von der Aue
+177	1878	1881	PROP	PER	Walter von der Vogelweide
+-1	1884	1885	NOM	PER	the rest
+-1	1889	1889	PRON	PER	their
+-1	1892	1897	NOM	PER	any contemporary writers in other lands
+-1	1896	1897	NOM	GPE	other lands
+-1	1905	1905	PRON	PER	us
+-1	1906	1906	NOM	GPE	here
+-1	1908	1908	PRON	PER	his
+-1	1912	1912	PRON	PER	his
+-1	1926	1926	PRON	PER	he
+-1	1928	1928	PRON	PER	his
+-1	1928	1929	NOM	PER	his brother
+178	1930	1930	PROP	PER	William
+-1	1948	1948	PRON	PER	our
+-1	1948	1949	NOM	PER	our race
+-1	1966	1967	NOM	PER	old wives
+-1	1979	1980	NOM	PER	grown men
+-1	1996	1996	PRON	PER	we
+-1	2001	2005	NOM	LOC	a vast tract of space
+-1	2007	2023	NOM	PER	the reader who wishes to learn and not to cavil — and for such alone this introduction
+-1	2044	2044	PRON	PER	he
+-1	2055	2055	PRON	PER	him
+-1	2076	2076	PRON	PER	we
+-1	2091	2094	NOM	LOC	the East and West
+-1	2099	2100	NOM	PER	each other
+-1	2103	2103	PRON	PER	they
+-1	2111	2111	PRON	PER	they
+-1	2113	2114	NOM	PER	one another
+-1	2119	2119	NOM	PER	one
+-1	2132	2132	PRON	PER	We
+172	2147	2147	PROP	PER	Grimm
+-1	2149	2149	PRON	PER	his
+-1	2149	2150	NOM	PER	his disciples
+179	2163	2165	PROP	PER	Anquetil du Perron
+-1	2167	2167	NOM	PER	others
+12	2169	2169	PROP	GPE	India
+13	2171	2171	PROP	GPE	France
+178	2190	2192	PROP	PER	Sir William Jones
+180	2194	2194	PROP	PER	Colebrooke
+-1	2197	2197	NOM	PER	others
+12	2200	2200	PROP	GPE	India
+2	2202	2202	PROP	GPE	England
+181	2219	2219	PROP	PER	Wilson
+182	2221	2221	PROP	PER	Bopp
+-1	2223	2223	NOM	PER	Lassen
+183	2226	2227	PROP	PER	Max Müller
+-1	2277	2281	NOM	PER	the man who denies it
+-1	2283	2283	PRON	PER	himself
+-1	2292	2292	PRON	PER	he
+-1	2302	2309	NOM	PER	a grave divine of the Church of England
+14	2306	2309	PROP	ORG	the Church of England
+2	2309	2309	PROP	GPE	England
+-1	2315	2315	PRON	PER	her
+-1	2322	2322	PRON	PER	his
+-1	2328	2329	NOM	PER	no God
+-1	2338	2338	PRON	PER	we
+-1	2365	2366	NOM	PER	a nation
+-1	2371	2371	PRON	PER	its
+-1	2374	2374	PRON	PER	We
+-1	2383	2384	NOM	GPE	a country
+-1	2394	2394	PRON	PER	its
+2	2406	2406	PROP	GPE	England
+-1	2448	2448	PRON	PER	us
+-1	2465	2465	PRON	PER	our
+-1	2465	2466	NOM	LOC	our island
+-1	2470	2470	PRON	PER	their
+-1	2475	2476	NOM	LOC	the soil
+-1	2480	2480	PRON	PER	our
+-1	2503	2504	NOM	LOC	the world
+-1	2513	2513	NOM	PER	man
+-1	2524	2525	NOM	PER	all races
+-1	2528	2528	PRON	PER	their
+-1	2555	2565	NOM	PER	a man who knows only one language that he knows none
+-1	2563	2563	PRON	PER	he
+-1	2573	2574	NOM	PER	one family
+-1	2588	2588	PRON	PER	they
+-1	2615	2615	PRON	PER	we
+-1	2619	2624	NOM	PER	the various members of each family
+-1	2623	2624	NOM	PER	each family
+-1	2652	2653	NOM	PER	a race
+-1	2662	2662	PRON	PER	its
+-1	2672	2672	PRON	PER	we
+15	2709	2710	PROP	LOC	the East
+-1	2715	2715	PRON	PER	our
+-1	2715	2716	NOM	PER	our ancestors
+-1	2792	2792	PRON	PER	us
+-1	2794	2794	PRON	PER	we
+-1	2816	2816	PRON	PER	their
+15	2836	2837	PROP	LOC	the East
+-1	2838	2838	PRON	PER	we
+-1	2843	2847	NOM	GPE	that central plain of Asia
+16	2852	2852	PROP	GPE	Iran
+16	2854	2854	PROP	GPE	Iran
+-1	2859	2862	NOM	PER	the tillers and earers[2
+-1	2865	2866	NOM	LOC	the earth
+17	2871	2871	PROP	GPE	Turan
+-1	2876	2880	NOM	PER	restless horse - riding nomads
+184	2883	2883	PROP	PER	Turks
+-1	2890	2890	PRON	PER	their
+-1	2899	2904	NOM	PER	the great Turanian or Mongolian family
+-1	2907	2916	NOM	PER	the Aryan , Iranian , or Indo - European race
+-1	2938	2938	PRON	PER	them
+-1	2942	2942	PRON	PER	their
+-1	2957	2961	NOM	PER	other nationalities in recent times
+-1	2967	2977	NOM	PER	adventurous chiefs , whose spirit chafed at the narrowness of home
+-1	2983	2983	PRON	PER	they
+-1	2986	2986	NOM	FAC	home
+6	2999	3000	PROP	LOC	the Atlantic
+-1	3002	3004	NOM	LOC	the Northern Ocean
+-1	3012	3012	PRON	PER	they
+18	3035	3035	PROP	GPE	Europe
+-1	3053	3053	PRON	PER	their
+19	3059	3061	PROP	LOC	the Indian Caucasus
+-1	3065	3068	NOM	LOC	the defiles of Affghanistan
+20	3068	3068	PROP	GPE	Affghanistan
+-1	3071	3076	NOM	LOC	the plain of the Five Rivers
+-1	3081	3085	NOM	LOC	the fruitful plains of India
+12	3085	3085	PROP	GPE	India
+-1	3104	3104	PRON	PER	we
+-1	3113	3113	PRON	PER	they
+-1	3118	3118	NOM	PER	Celts
+-1	3120	3120	NOM	PER	Greeks
+-1	3122	3122	NOM	PER	Romans
+185	3124	3124	PROP	PER	Teutons
+186	3126	3126	PROP	PER	Slavonians
+-1	3153	3153	NOM	PER	man
+183	3160	3161	PROP	PER	Max Müller
+-1	3164	3164	PRON	PER	They
+-1	3167	3175	NOM	PER	the prominent actors in the great drama of history
+-1	3181	3181	PRON	PER	their
+-1	3192	3192	PRON	PER	our
+-1	3197	3197	PRON	PER	They
+-1	3205	3205	PRON	PER	we
+-1	3208	3208	PRON	PER	their
+-1	3234	3235	NOM	PER	each other
+-1	3238	3241	NOM	PER	Semitic and Mongolian races
+-1	3243	3245	NOM	GPE	these Aryan nations
+-1	3248	3251	NOM	PER	the rulers of history
+-1	3258	3258	PRON	PER	their
+-1	3262	3266	NOM	LOC	all parts of the world
+-1	3265	3266	NOM	LOC	the world
+-1	3280	3280	PRON	PER	We
+-1	3292	3292	PRON	PER	they
+-1	3302	3302	PRON	PER	they
+-1	3314	3314	PRON	PER	their
+-1	3314	3316	NOM	PER	their elder brothers
+-1	3318	3318	PRON	PER	they
+-1	3323	3323	PRON	PER	their
+-1	3328	3328	PRON	PER	their
+-1	3332	3332	PRON	PER	themselves
+-1	3343	3343	PRON	PER	their
+-1	3349	3349	PRON	PER	they
+-1	3368	3368	PRON	PER	them
+-1	3377	3377	PRON	PER	we
+-1	3383	3383	PRON	PER	they
+-1	3390	3418	NOM	PER	the most obstinate and stiff - necked the world has ever seen , who , trained under the Old Dispensation to preserve the worship of the one true God
+-1	3397	3398	NOM	LOC	the world
+-1	3415	3418	NOM	PER	the one true God
+187	3429	3429	PROP	PER	God
+21	3431	3432	PROP	LOC	the New
+-1	3437	3437	PRON	PER	their
+-1	3443	3443	PRON	PER	their
+-1	3465	3467	NOM	PER	the younger brother
+-1	3472	3484	NOM	PER	the younger brother whom we shall meet so often in these Popular Tales
+-1	3476	3476	PRON	PER	we
+-1	3489	3490	NOM	LOC	the world
+-1	3495	3495	PRON	PER	his
+187	3499	3499	PROP	PER	God
+-1	3504	3504	PRON	PER	him
+-1	3519	3520	NOM	PER	a king
+-1	3524	3525	NOM	LOC	the world
+-1	3527	3527	PRON	PER	He
+-1	3534	3534	PRON	PER	us
+-1	3540	3542	NOM	PER	the elder brother
+-1	3547	3547	NOM	FAC	home
+-1	3551	3551	PRON	PER	his
+-1	3551	3552	NOM	PER	his brother
+-1	3567	3572	NOM	PER	the few aboriginal inhabitants of India
+12	3572	3572	PROP	GPE	India
+-1	3582	3584	NOM	LOC	the great rivers
+188	3586	3588	PROP	PER	the Eastern Aryans
+-1	3591	3591	PRON	PER	themselves
+-1	3594	3595	NOM	LOC	the peninsula
+-1	3607	3607	PRON	PER	their
+-1	3625	3625	PRON	PER	their
+-1	3625	3626	NOM	PER	their rulers
+-1	3628	3636	NOM	PER	ignorant of the past and careless of the future
+-1	3638	3638	PRON	PER	they
+-1	3651	3651	PRON	PER	they
+-1	3666	3667	NOM	PER	neither men
+-1	3669	3669	NOM	PER	nations
+-1	3673	3673	PRON	PER	they
+-1	3678	3678	PRON	PER	their
+-1	3678	3679	NOM	PER	their fellows
+-1	3683	3683	PRON	PER	they
+-1	3686	3686	PRON	PER	themselves
+-1	3689	3689	PRON	PER	their
+-1	3695	3695	PRON	PER	themselves
+-1	3705	3705	PRON	PER	they
+-1	3710	3710	PRON	PER	their
+-1	3721	3721	PRON	PER	they
+-1	3732	3733	NOM	LOC	the world
+-1	3737	3740	NOM	PER	a nation of philosophers
+-1	3740	3740	NOM	PER	philosophers
+-1	3755	3758	NOM	FAC	a hot - house
+-1	3799	3800	NOM	LOC	real earth
+-1	3822	3822	PRON	PER	he
+-1	3827	3832	NOM	PER	a people of this peculiar stamp
+-1	3845	3846	NOM	LOC	the world
+-1	3870	3871	NOM	PER	the Hindoos.[3
+-1	3882	3882	PRON	PER	they
+-1	3890	3890	NOM	PER	castes
+-1	3906	3906	PRON	PER	they
+189	3914	3914	PROP	PER	Herodotus
+-1	3916	3916	PRON	PER	they
+190	3920	3920	PROP	PER	Alexander
+-1	3926	3926	PRON	PER	his
+-1	3932	3934	NOM	LOC	the known world
+-1	3936	3936	PRON	PER	they
+22	3940	3940	PROP	GPE	Rome
+-1	3943	3945	NOM	PER	the later empire
+-1	3947	3947	PRON	PER	they
+-1	3963	3963	PRON	PER	they
+191	3967	3968	PROP	PER	the Portuguese
+-1	3970	3970	PRON	PER	they
+-1	3980	3980	PRON	PER	us
+-1	3984	3984	PRON	PER	they
+-1	3988	3993	NOM	PER	the same immovable and unprogressive philosophers
+18	3998	3998	PROP	GPE	Europe
+-1	4005	4006	NOM	PER	the Highlander
+-1	4010	4010	PRON	PER	his
+-1	4016	4021	NOM	PER	a high - caste Sepoy mutineer
+-1	4026	4026	PRON	PER	his
+-1	4045	4051	NOM	PER	a common ancestor away in Central Asia
+23	4050	4051	PROP	GPE	Central Asia
+-1	4068	4068	PRON	PER	we
+-1	4070	4075	NOM	PER	the descendants of the practical brother
+-1	4073	4075	NOM	PER	the practical brother
+-1	4077	4082	NOM	PER	heirs to so much historical renown
+-1	4090	4102	NOM	PER	a race so historically characterless , and so sunk in reveries and mysticism
+-1	4128	4128	PRON	PER	they
+-1	4138	4138	PRON	PER	their
+-1	4170	4171	NOM	PER	the emigrants
+-1	4173	4174	NOM	LOC	the west
+-1	4192	4192	PRON	PER	their
+-1	4195	4197	NOM	PER	the aboriginal population
+-1	4198	4198	PRON	PER	they
+-1	4204	4204	PRON	PER	their
+24	4220	4220	PROP	GPE	Persia
+25	4222	4223	PROP	GPE	Asia Minor
+26	4226	4227	PROP	LOC	the Hellespont
+-1	4231	4232	NOM	LOC	the coast
+192	4245	4245	PROP	PER	Greeks
+-1	4248	4254	NOM	LOC	the main stream , striking through Macedonia
+27	4254	4254	PROP	GPE	Macedonia
+28	4258	4259	PROP	LOC	the Adriatic
+-1	4265	4266	NOM	LOC	the coast
+29	4271	4271	PROP	GPE	Italy
+30	4283	4284	PROP	LOC	the Caspian
+31	4286	4288	PROP	LOC	the Black Sea
+-1	4291	4295	NOM	LOC	the steppes round the Crimea
+32	4294	4295	PROP	LOC	the Crimea
+33	4302	4303	PROP	LOC	the Balkan
+34	4305	4306	PROP	LOC	the Carpathians
+-1	4308	4309	NOM	LOC	the west
+-1	4330	4330	PRON	PER	we
+-1	4334	4334	PRON	PER	them
+-1	4339	4347	NOM	LOC	the space between the Black Sea and the Baltic
+-1	4342	4344	NOM	LOC	the Black Sea
+35	4346	4347	PROP	LOC	the Baltic
+-1	4357	4357	PRON	PER	them
+-1	4367	4367	PRON	PER	them
+-1	4369	4369	PRON	PER	their
+-1	4383	4389	NOM	PER	the ancestors of the Greeks and Latins
+-1	4386	4389	NOM	PER	the Greeks and Latins
+-1	4401	4402	NOM	GPE	Celtic nationality
+-1	4407	4408	NOM	PER	the intruders
+-1	4419	4420	NOM	LOC	mountain fastnesses
+-1	4422	4423	NOM	LOC	outlying islands
+-1	4442	4448	NOM	LOC	the Sea of Aral and the Caspian
+36	4445	4445	PROP	GPE	Aral
+30	4447	4448	PROP	LOC	the Caspian
+-1	4456	4459	NOM	LOC	the north and east
+-1	4465	4465	PRON	LOC	its
+-1	4466	4467	NOM	GPE	kindred Teutons
+-1	4469	4471	NOM	PER	the Mongolian tribes
+-1	4482	4482	PRON	PER	we
+-1	4484	4484	PRON	PER	them
+-1	4487	4492	NOM	PER	Slavonians on the scene of history
+-1	4500	4502	NOM	PER	the Western Aryans
+-1	4520	4520	NOM	PER	each
+-1	4524	4525	NOM	PER	the other
+37	4587	4588	PROP	LOC	the Sanscrit
+-1	4590	4605	NOM	PER	the Southern Aryan branch , who , careless of practical life , and immersed in speculation
+-1	4610	4610	PRON	PER	their
+37	4628	4628	PROP	PER	Sanscrit
+37	4661	4661	PROP	GPE	Sanscrit
+178	4663	4665	PROP	PER	Sir William Jones
+194	4667	4667	PROP	PER	Wilkins
+181	4669	4669	PROP	PER	Wilson
+-1	4672	4672	NOM	PER	others
+-1	4674	4675	NOM	LOC	the world
+-1	4739	4743	NOM	PER	the Indo - European family
+-1	4745	4747	NOM	PER	the Semitic stock
+-1	4756	4762	NOM	PER	the Mongolian and Indo - European families
+195	4768	4768	PROP	PER	Vallancy
+-1	4771	4771	PRON	PER	his
+39	4835	4836	PROP	LOC	Western Aryans
+40	4839	4840	PROP	LOC	the Hindoo
+-1	4847	4851	NOM	GPE	the nations of Western Europe
+5	4850	4851	PROP	LOC	Western Europe
+-1	4864	4864	PRON	PER	our
+-1	4867	4867	PRON	PER	We
+41	4879	4879	PROP	GPE	Slavonian
+15	4882	4883	PROP	LOC	the East
+-1	4893	4893	NOM	PER	kin
+-1	4895	4895	PRON	PER	us
+-1	4913	4916	NOM	PER	those who went West
+-1	4939	4939	PRON	PER	their
+-1	4952	4952	PRON	PER	we
+-1	4956	4956	PRON	PER	our
+-1	5007	5007	PRON	PER	we
+-1	5026	5030	NOM	GPE	all the nations of Europe
+18	5030	5030	PROP	GPE	Europe
+15	5066	5067	PROP	LOC	the East
+-1	5137	5142	NOM	PER	the writers of Greece and Rome
+42	5140	5140	PROP	GPE	Greece
+22	5142	5142	PROP	GPE	Rome
+-1	5161	5162	NOM	PER	the classicists
+-1	5185	5189	NOM	PER	those who put it forth
+-1	5191	5192	NOM	PER	No one
+-1	5230	5230	PRON	PER	we
+-1	5234	5235	NOM	PER	the intruders
+-1	5237	5237	PRON	PER	their
+-1	5246	5277	NOM	PER	a race akin , in all probability , to the Mongolian family , and whose miserable remnants we see pushed aside , and huddled up in the holes and corners of Europe
+-1	5255	5257	NOM	PER	the Mongolian family
+-1	5263	5263	PRON	PER	we
+18	5277	5277	PROP	GPE	Europe
+196	5280	5280	PROP	PER	Lapps
+197	5283	5283	PROP	PER	Finns
+198	5286	5286	PROP	PER	Basques
+-1	5288	5289	NOM	PER	No one
+-1	5291	5291	PRON	PER	we
+-1	5327	5327	PRON	PER	We
+-1	5337	5337	PRON	PER	their
+-1	5364	5364	NOM	PER	father
+-1	5367	5377	NOM	PER	a Mongolian has been adopted in preference to an Aryan word
+-1	5414	5416	NOM	PER	the Aryan race
+-1	5428	5430	NOM	LOC	the Northern heaven
+-1	5441	5442	NOM	PER	one tribe
+-1	5456	5460	NOM	PER	those good country - folk
+-1	5465	5465	PRON	PER	they
+199	5468	5468	PROP	PER	Aurora
+-1	5498	5498	PRON	PER	we
+-1	5505	5508	NOM	PER	the Master - thief
+-1	5524	5524	PRON	PER	us
+189	5533	5533	PROP	PER	Herodotus
+-1	5595	5601	NOM	PER	no tribe of that race in particular
+-1	5605	5605	PRON	PER	we
+-1	5617	5617	PRON	PER	we
+-1	5632	5632	PRON	PER	we
+-1	5643	5643	PRON	PER	we
+-1	5659	5659	PRON	PER	us
+-1	5668	5668	PRON	PER	us
+200	5673	5674	PROP	PER	William Tell
+-1	5676	5676	PRON	PER	his
+-1	5708	5708	NOM	PER	thousands
+-1	5715	5717	NOM	PER	the Swiss patriot
+-1	5722	5722	PRON	PER	they
+-1	5734	5756	NOM	PER	the bold archer who saves his life by shooting an apple from the head of his child at the command of a tyrant
+-1	5739	5739	PRON	PER	his
+-1	5749	5749	PRON	PER	his
+-1	5749	5756	NOM	PER	his child at the command of a tyrant
+-1	5755	5756	NOM	PER	a tyrant
+-1	5761	5764	NOM	PER	the whole Aryan race
+201	5769	5770	PROP	PER	Saxo Grammaticus
+202	5784	5784	PROP	PER	Palnatoki
+203	5786	5788	PROP	PER	King Harold Gormson
+204	5804	5804	PROP	PER	Egill
+-1	5808	5808	PRON	PER	our
+-1	5812	5813	NOM	PER	younger brother
+205	5822	5823	PROP	PER	Saint Olof
+-1	5825	5827	NOM	PER	king and martyr
+-1	5829	5830	NOM	PER	the king
+-1	5842	5847	NOM	PER	one of his heathen chiefs Eindridi
+-1	5844	5844	PRON	PER	his
+-1	5844	5847	NOM	PER	his heathen chiefs Eindridi
+206	5847	5847	PROP	PER	Eindridi
+-1	5851	5851	PRON	PER	him
+-1	5873	5874	NOM	PER	the king
+206	5876	5876	PROP	PER	Eindridi
+-1	5882	5882	PRON	PER	his
+-1	5882	5883	NOM	PER	his son
+-1	5888	5889	NOM	PER	the child
+206	5891	5891	PROP	PER	Eindridi
+-1	5897	5897	PRON	PER	he
+-1	5900	5900	PRON	PER	himself
+-1	5902	5903	NOM	PER	the child
+-1	5907	5908	NOM	PER	The king
+-1	5915	5915	PRON	PER	his
+206	5924	5924	PROP	PER	Eindridi
+-1	5934	5934	PRON	PER	his
+-1	5934	5935	NOM	PER	his mother
+-1	5937	5937	NOM	PER	sister
+207	5955	5957	PROP	PER	King Harold Sigurdarson
+-1	5964	5964	PRON	PER	himself
+-1	5966	5968	NOM	PER	a famous marksman
+208	5970	5970	PROP	PER	Hemingr
+-1	5974	5974	PRON	PER	him
+-1	5984	5984	PRON	PER	his
+-1	5984	5985	NOM	PER	his brother
+209	5986	5986	PROP	PER	Björn
+208	5989	5989	PROP	PER	Hemingr
+-1	6002	6004	NOM	PER	the Malleus Maleficarum
+210	6008	6008	PROP	PER	Puncher
+-1	6010	6015	NOM	PER	a magician of the Upper Rhine
+43	6013	6015	PROP	LOC	the Upper Rhine
+2	6019	6019	PROP	GPE	England
+-1	6021	6021	PRON	PER	we
+211	6030	6031	PROP	PER	Adam Bell
+212	6033	6036	PROP	PER	Clym of the Clough
+213	6039	6041	PROP	PER	William of Cloudesly
+213	6044	6044	PROP	PER	William
+200	6055	6055	PROP	GPE	Tell
+45	6057	6057	PROP	GPE	Switzerland
+-1	6076	6079	NOM	PER	the Turks and Mongolians
+-1	6085	6100	NOM	PER	the wild Samoyeds , who never heard of Tell or saw a book in their lives
+200	6093	6093	PROP	PER	Tell
+-1	6099	6099	PRON	PER	their
+-1	6110	6114	NOM	PER	one of their famous marksmen
+-1	6112	6112	PRON	PER	their
+-1	6112	6114	NOM	PER	their famous marksmen
+-1	6118	6118	PRON	PER	we
+-1	6127	6131	NOM	PER	this bold master - shot
+-1	6160	6162	NOM	PER	a grateful people
+-1	6188	6190	NOM	PER	any pious Welshman
+-1	6194	6194	PRON	PER	we
+214	6199	6199	PROP	PER	Gellert
+-1	6210	6211	NOM	PER	the traveller
+-1	6214	6214	PRON	PER	he
+-1	6217	6221	NOM	LOC	the lovely vale of Gwynant
+46	6221	6221	PROP	GPE	Gwynant
+-1	6235	6238	NOM	LOC	the forest of Snowdon
+-1	6242	6242	PRON	PER	his
+-1	6242	6243	NOM	PER	his master
+-1	6242	6245	NOM	PER	his master ’s child
+-1	6265	6266	NOM	PER	the foe
+-1	6280	6285	NOM	PER	the faithful guardian of the child
+15	6303	6304	PROP	LOC	the East
+47	6316	6317	PROP	LOC	the Hitopadesa
+215	6320	6320	PROP	PER	Bidpai
+216	6378	6380	PROP	PER	Sir Frederick Madden
+200	6403	6403	PROP	PER	Tell
+-1	6416	6418	NOM	LOC	the whole heaven
+-1	6427	6433	NOM	PER	no one tribe of the Aryan race
+48	6446	6446	PROP	GPE	Montargis
+13	6465	6465	PROP	GPE	France
+217	6470	6470	PROP	PER	Sybilla
+-1	6472	6476	NOM	PER	a fabulous wife of Charlemagne
+218	6476	6476	PROP	PER	Charlemagne
+219	6490	6490	PROP	PER	Plutarch
+220	6505	6505	PROP	PER	Pyrrhus
+49	6530	6530	PROP	GPE	germ
+-1	6534	6539	NOM	PER	the Aryan tribes before their migration
+-1	6538	6538	PRON	PER	their
+-1	6541	6541	PRON	PER	We
+188	6551	6553	PROP	PER	the Eastern Aryans
+-1	6556	6556	PRON	PER	we
+-1	6558	6558	PRON	PER	them
+-1	6567	6584	NOM	GPE	every one of the nations into which the Western Aryans have shaped themselves in the course of ages
+-1	6570	6576	NOM	LOC	the nations into which the Western Aryans
+-1	6574	6576	NOM	PER	the Western Aryans
+-1	6579	6579	PRON	PER	themselves
+-1	6586	6586	PRON	PER	We
+-1	6610	6610	PRON	PER	our
+-1	6610	6611	NOM	PER	our ancestors
+-1	6614	6614	PRON	PER	their
+-1	6637	6637	PRON	PER	their
+-1	6642	6642	PRON	PER	we
+-1	6673	6673	PRON	PER	them
+-1	6675	6680	NOM	PER	the several branches of our race
+-1	6679	6679	PRON	PER	our
+-1	6683	6683	PRON	PER	them
+-1	6689	6689	PRON	PER	we
+-1	6700	6701	NOM	PER	every reader
+-1	6703	6703	PRON	PER	he
+-1	6706	6708	NOM	FAC	the domestic hearth
+-1	6711	6711	PRON	PER	he
+-1	6721	6721	PRON	PER	They
+-1	6725	6728	NOM	PER	sisters of one house
+-1	6732	6732	PRON	PER	They
+-1	6749	6749	PRON	PER	they
+-1	6752	6752	NOM	PER	father
+-1	6754	6754	NOM	PER	mother
+-1	6762	6762	PRON	PER	they
+-1	6765	6765	PRON	PER	their
+-1	6780	6780	PRON	PER	their
+-1	6817	6817	PRON	PER	you
+-1	6822	6822	PRON	PER	you
+-1	6829	6829	NOM	PER	One
+-1	6847	6847	PRON	PER	They
+-1	6862	6865	NOM	PER	an old English writer
+-1	6871	6871	PRON	PER	their
+-1	6871	6872	NOM	PER	their father
+-1	6875	6875	PRON	PER	them
+-1	6877	6877	PRON	PER	his
+-1	6885	6885	PRON	PER	they
+-1	6888	6888	PRON	PER	they
+-1	6895	6895	PRON	PER	themselves
+-1	6915	6915	PRON	PER	their
+-1	6920	6920	PRON	PER	we
+-1	6927	6927	PRON	PER	they
+-1	6940	6941	NOM	PER	many men
+-1	6950	6952	NOM	PER	a hundred men
+-1	6956	6965	NOM	PER	eye - witnesses of some event on the same day
+-1	6977	6977	PRON	PER	we
+-1	6980	6986	NOM	PER	as many distinct representations of that event
+-1	7007	7008	NOM	PER	the sleeper
+-1	7031	7032	NOM	PER	the sleeper
+-1	7069	7071	NOM	PER	the national mind
+-1	7110	7110	PRON	PER	its
+-1	7142	7142	PRON	PER	its
+-1	7180	7186	NOM	PER	that old classical foe of vernacular tradition
+-1	7216	7217	NOM	LOC	Eastern lands
+5	7241	7242	PROP	LOC	Western Europe
+15	7245	7246	PROP	LOC	the East
+221	7272	7274	PROP	PER	John of Capua
+222	7313	7314	PROP	PER	Chosrou Noushirvan
+-1	7316	7318	NOM	PER	King of Persia
+24	7318	7318	PROP	GPE	Persia
+223	7346	7346	PROP	PER	Calila
+224	7348	7348	PROP	PER	Dimna
+215	7359	7359	PROP	PER	Bidpai
+12	7369	7369	PROP	GPE	India
+-1	7398	7402	NOM	PER	the Seven Sages , ”
+225	7410	7411	PROP	PER	Kaiser Octavianus
+-1	7413	7417	NOM	PER	Diocletianus , Dolopathos , Erastus
+12	7441	7441	PROP	GPE	India
+18	7446	7446	PROP	GPE	Europe
+226	7463	7464	PROP	PER	Dame Jehans
+-1	7468	7472	NOM	FAC	the Abbey of Haute Selve
+50	7471	7472	PROP	GPE	Haute Selve
+-1	7478	7478	PRON	PER	we
+-1	7525	7525	PRON	PER	our
+15	7536	7537	PROP	LOC	the East
+-1	7560	7560	PRON	PER	us
+223	7572	7572	PROP	PER	Calila
+224	7574	7574	PROP	PER	Dimna
+227	7587	7588	PROP	PER	Hossein Vaez
+51	7604	7604	PROP	GPE	Paris
+228	7606	7609	PROP	PER	David Sahid of Ispahan
+229	7616	7617	PROP	PER	La Fontaine
+-1	7624	7624	PRON	PER	his
+-1	7627	7627	PRON	PER	us
+-1	7641	7643	NOM	PER	the Seven Sages
+52	7649	7649	PROP	GPE	Sendabad
+24	7655	7655	PROP	GPE	Persia
+-1	7658	7661	NOM	PER	an apocryphal Indian sage
+-1	7676	7676	NOM	PER	Brahmins
+-1	7678	7678	NOM	PER	Magians
+-1	7681	7681	NOM	PER	monks
+-1	7687	7688	NOM	PER	the learned
+53	7695	7696	PROP	LOC	the West
+-1	7699	7699	PRON	PER	us
+-1	7709	7709	PRON	PER	we
+-1	7714	7714	PRON	PER	we
+-1	7803	7803	PRON	PER	we
+-1	7814	7817	NOM	PER	The noble King Putraka
+-1	7820	7822	NOM	LOC	the Vindhya mountains
+-1	7829	7829	PRON	PER	his
+-1	7829	7831	NOM	PER	his unkind kinsfolk
+-1	7835	7835	PRON	PER	he
+-1	7839	7839	PRON	PER	he
+-1	7841	7849	NOM	PER	two men who wrestled and fought with one another
+-1	7848	7849	NOM	PER	one another
+-1	7854	7854	PRON	PER	you
+-1	7857	7857	PRON	PER	he
+-1	7861	7861	PRON	PER	We
+-1	7863	7866	NOM	PER	the sons of Mayâsara
+-1	7871	7871	PRON	PER	our
+-1	7887	7887	PRON	PER	we
+-1	7901	7901	PRON	PER	his
+230	7907	7907	PROP	PER	Putraka
+-1	7912	7912	PRON	PER	he
+-1	7914	7914	PRON	PER	them
+-1	7933	7933	PRON	PER	they
+-1	7936	7940	NOM	PER	Whoever puts on these shoes
+-1	7962	7962	NOM	PER	one
+230	7977	7977	PROP	PER	Putraka
+-1	7981	7981	PRON	PER	he
+-1	8004	8004	PRON	PER	him
+-1	8017	8019	NOM	PER	the two fools
+230	8027	8027	PROP	PER	Putraka
+47	8061	8062	PROP	LOC	the Hitopadesa
+223	8068	8068	PROP	GPE	Calila
+224	8070	8070	PROP	GPE	Dimna
+52	8097	8097	PROP	GPE	Sendabad
+231	8107	8109	PROP	PER	the Seven Sages
+56	8120	8123	PROP	LOC	the Katha Sarit Sagara
+57	8125	8131	PROP	LOC	the “ Sea of Streams of Story
+58	8137	8137	PROP	GPE	Cashmere
+-1	8149	8149	PRON	PER	our
+59	8164	8165	PROP	LOC	Vrihat Katha
+-1	8177	8177	PRON	PER	his
+-1	8177	8178	NOM	PER	his mistress
+-1	8180	8183	NOM	PER	the Queen of Cashmere
+58	8183	8183	PROP	GPE	Cashmere
+232	8185	8185	PROP	PER	Somadeva
+-1	8207	8211	NOM	LOC	the extreme north - west
+-1	8212	8212	PRON	PER	we
+-1	8222	8226	NOM	GPE	The Three Princesses of Whiteland
+60	8226	8226	PROP	GPE	Whiteland
+-1	8238	8239	NOM	PER	the man
+0	8247	8247	PRON	PER	I
+-1	8250	8250	PRON	PER	you
+-1	8259	8260	NOM	LOC	a moor
+-1	8263	8264	NOM	PER	three brothers
+-1	8268	8268	PRON	PER	they
+-1	8290	8291	NOM	PER	any one
+-1	8297	8297	PRON	PER	he
+-1	8300	8300	PRON	PER	himself
+-1	8305	8305	PRON	PER	himself
+-1	8307	8307	PRON	PER	he
+-1	8310	8310	PRON	PER	You
+-1	8313	8313	PRON	PER	them
+-1	8314	8314	PRON	PER	you
+-1	8325	8325	PRON	PER	you
+-1	8330	8330	PRON	PER	them
+-1	8340	8341	NOM	PER	the king
+-1	8343	8344	NOM	PER	the man
+-1	8351	8351	PRON	PER	he
+-1	8353	8353	PRON	PER	him
+-1	8362	8362	PRON	PER	he
+-1	8365	8366	NOM	PER	the brothers
+-1	8371	8371	PRON	PER	you
+0	8383	8383	PRON	PER	me
+0	8389	8389	PRON	PER	I
+-1	8399	8399	PRON	PER	They
+-1	8411	8411	PRON	PER	he
+-1	8422	8422	PRON	PER	he
+-1	8427	8427	PRON	PER	we
+0	8431	8431	PRON	PER	I
+-1	8434	8434	PRON	PER	you
+0	8435	8435	PRON	PER	my
+-1	8443	8443	PRON	PER	he
+-1	8445	8445	PRON	PER	himself
+-1	8461	8461	NOM	FAC	home
+15	8466	8467	PROP	LOC	the East
+-1	8470	8474	NOM	FAC	the Relations of Ssidi Kur
+233	8473	8474	PROP	PER	Ssidi Kur
+61	8477	8477	PROP	GPE	Tartar
+-1	8480	8481	NOM	PER	a Chan
+-1	8480	8483	NOM	PER	a Chan ’s son
+-1	8491	8492	NOM	PER	two children
+-1	8504	8505	NOM	PER	the wearer
+-1	8521	8521	NOM	PER	one
+-1	8527	8527	PRON	PER	one
+-1	8537	8537	PRON	PER	we
+-1	8540	8546	NOM	PER	three devils who fight for their inheritance
+-1	8545	8545	PRON	PER	their
+-1	8560	8561	NOM	PER	the wearer
+-1	8588	8591	NOM	PER	the Chan ’s son
+-1	8597	8602	NOM	PER	children who fight for a hood
+-1	8605	8606	NOM	PER	the wearer
+-1	8609	8609	PRON	PER	he
+-1	8615	8615	PRON	PER	them
+-1	8618	8618	PRON	PER	them
+-1	8633	8633	PRON	PER	their
+-1	8640	8640	PRON	PER	he
+-1	8642	8652	NOM	PER	another group , who are quarrelling for a pair of boots
+-1	8660	8660	PRON	PER	himself
+-1	8662	8662	PRON	PER	he
+-1	8669	8669	PRON	PER	them
+-1	8686	8686	PRON	PER	we
+-1	8716	8717	NOM	PER	the lad
+62	8720	8722	PROP	LOC	the North Wind
+-1	8725	8725	PRON	PER	his
+-1	8759	8759	PRON	PER	we
+-1	8765	8765	PRON	PER	we
+63	8772	8775	PROP	FAC	Soria Moria Castle ”
+-1	8796	8796	PRON	PER	we
+234	8809	8812	PROP	PER	Jack the Giant Killer
+64	8815	8817	PROP	LOC	the Nibelungen Lied
+235	8820	8820	PROP	PER	Siegfried
+65	8822	8822	PROP	LOC	Schilbung
+66	8824	8824	PROP	GPE	Niblung
+-1	8826	8834	NOM	PER	the wierd heirs of the famous “ Hoard ”
+-1	8851	8851	PRON	PER	they
+-1	8853	8853	PRON	PER	him
+-1	8858	8858	PRON	PER	them
+-1	8861	8861	PRON	PER	him
+-1	8864	8864	PRON	PER	his
+236	8867	8867	PROP	PER	Balmung
+-1	8874	8874	PRON	PER	he
+-1	8879	8879	PRON	PER	they
+-1	8890	8890	PRON	PER	he
+-1	8908	8909	NOM	PER	its wearer
+-1	8913	8914	NOM	PER	twelve men
+-1	8918	8918	PRON	PER	him
+-1	8922	8922	PRON	PER	he
+-1	8956	8957	NOM	PER	the heirs
+-1	8960	8960	PRON	PER	their
+-1	8969	8975	NOM	PER	some one of better wit or strength
+-1	8985	8985	PRON	PER	they
+-1	8987	8987	PRON	PER	his
+223	8998	8998	PROP	GPE	Calila
+224	9000	9000	PROP	PER	Dimna
+231	9002	9004	PROP	PER	The Seven Sages
+-1	9007	9007	PRON	PER	we
+232	9034	9034	PROP	PER	Somadeva
+18	9054	9054	PROP	GPE	Europe
+-1	9059	9059	PRON	PER	us
+-1	9086	9086	PRON	PER	their
+-1	9097	9097	PRON	PER	they
+18	9100	9100	PROP	GPE	Europe
+67	9119	9119	PROP	LOC	Æsop
+68	9127	9129	PROP	LOC	the Pantcha Tantya
+47	9131	9132	PROP	LOC	the Hitopadesa
+-1	9137	9137	PRON	PER	they
+15	9140	9141	PROP	LOC	the East
+-1	9158	9158	PRON	PER	they
+237	9173	9173	PROP	PER	Themistius
+-1	9175	9181	NOM	PER	a Greek orator of the fourth century[13
+68	9217	9219	PROP	LOC	the Pantcha Tantya
+47	9221	9222	PROP	LOC	the Hitopadesa
+-1	9247	9247	NOM	PER	man
+-1	9250	9250	NOM	PER	man
+-1	9252	9252	NOM	PER	nation
+-1	9254	9254	NOM	PER	nation
+15	9286	9287	PROP	LOC	the East
+-1	9304	9304	PRON	PER	we
+-1	9321	9321	PRON	PER	us
+-1	9323	9323	PRON	PER	our
+-1	9342	9342	PRON	PER	our
+-1	9350	9350	NOM	PER	man
+-1	9357	9357	PRON	PER	his
+-1	9368	9368	PRON	PER	her
+18	9377	9377	PROP	GPE	Europe
+-1	9379	9380	NOM	LOC	the East
+-1	9411	9413	NOM	PER	the human race
+-1	9417	9417	PRON	PER	her
+238	9423	9424	PROP	PER	the Turanian
+-1	9426	9427	NOM	PER	the Semitic
+-1	9430	9434	NOM	PER	the Chamitic or African races
+239	9470	9470	PROP	PER	Science
+-1	9483	9489	NOM	PER	all the tribes that throng the earth
+-1	9488	9489	NOM	LOC	the earth
+-1	9520	9520	PRON	PER	her
+-1	9555	9555	PRON	PER	We
+-1	9559	9560	NOM	PER	The reader
+-1	9565	9566	NOM	PER	the writer
+-1	9631	9632	NOM	LOC	the earth
+240	9664	9665	PROP	PER	William Grimm,[14
+-1	9686	9686	PRON	PER	we
+-1	9746	9746	PRON	PER	we
+-1	9755	9760	NOM	LOC	the opposite ends of the earth
+-1	9767	9768	NOM	PER	twin brothers
+69	9772	9772	PROP	GPE	Africa
+70	9777	9777	PROP	GPE	Asia
+-1	9779	9779	PRON	PER	we
+0	9784	9784	PRON	PER	I
+-1	9786	9786	PRON	PER	you
+-1	9790	9792	NOM	PER	so ’s brother
+-1	9794	9794	PRON	PER	you
+-1	9798	9798	PRON	PER	him
+-1	9814	9814	PRON	PER	we
+-1	9835	9835	PRON	PER	we
+-1	9866	9869	NOM	PER	a race of hunters
+-1	9872	9872	PRON	PER	we
+-1	9888	9888	PRON	PER	we
+241	9896	9896	PROP	PER	Norseman
+242	9898	9898	PROP	PER	African
+-1	9910	9910	PRON	PER	their
+18	9921	9921	PROP	GPE	Europe
+-1	9922	9923	NOM	PER	the fox
+-1	9936	9936	PRON	PER	he
+-1	9950	9950	PRON	PER	his
+-1	9970	9970	PRON	PER	he
+71	9978	9978	PROP	GPE	Bornou
+-1	9981	9984	NOM	LOC	the heart of Africa
+69	9984	9984	PROP	GPE	Africa
+-1	10007	10008	NOM	PER	the hyaena
+-1	10020	10022	NOM	PER	Behold two men
+-1	10026	10027	NOM	LOC	the forest
+0	10042	10042	PRON	PER	I
+-1	10051	10051	PRON	PER	thou
+-1	10055	10055	PRON	PER	thy
+0	10058	10058	PRON	PER	me
+0	10061	10061	PRON	PER	I
+-1	10067	10067	PRON	PER	thy
+-1	10070	10070	PRON	PER	thee
+-1	10095	10096	NOM	PER	the weasel
+-1	10121	10122	NOM	PER	the hyaena
+0	10124	10124	PRON	PER	I
+-1	10130	10130	PRON	PER	thy
+-1	10141	10142	NOM	PER	The hyaena
+-1	10144	10145	NOM	PER	a fool
+-1	10147	10147	PRON	PER	it
+-1	10151	10152	NOM	PER	the weasel
+-1	10154	10154	PRON	PER	it
+-1	10158	10158	PRON	PER	it
+-1	10167	10167	PRON	PER	it
+-1	10172	10172	PRON	PER	its
+-1	10180	10181	NOM	PER	the weasel
+-1	10185	10185	PRON	PER	it
+-1	10228	10229	NOM	PER	the hyaena
+-1	10243	10244	NOM	PER	the hyaena
+-1	10250	10250	PRON	PER	we
+-1	10275	10275	PRON	PER	they
+-1	10281	10281	PRON	PER	them
+72	10318	10319	PROP	LOC	the North
+69	10346	10346	PROP	GPE	Africa
+-1	10348	10348	PRON	PER	her
+-1	10378	10379	NOM	PER	Every one
+-1	10389	10396	NOM	PER	the man who knows the speech of beasts
+-1	10408	10408	PRON	PER	His
+-1	10408	10409	NOM	PER	His wife
+-1	10414	10414	PRON	PER	he
+-1	10421	10421	PRON	PER	he
+-1	10423	10423	PRON	PER	her
+-1	10427	10427	PRON	PER	him
+-1	10428	10428	PRON	PER	his
+-1	10431	10431	PRON	PER	he
+-1	10433	10433	PRON	PER	her
+-1	10436	10436	PRON	PER	he
+-1	10442	10442	PRON	PER	he
+-1	10444	10445	NOM	PER	the cock
+-1	10453	10453	PRON	PER	Our
+-1	10453	10454	NOM	PER	Our master
+0	10459	10459	PRON	PER	I
+0	10465	10465	PRON	PER	me
+-1	10468	10468	PRON	PER	he
+0	10470	10470	PRON	PER	my
+-1	10473	10473	PRON	PER	he
+-1	10483	10483	PRON	PER	his
+-1	10483	10484	NOM	PER	his wife
+-1	10489	10489	PRON	PER	him
+-1	10493	10493	PRON	PER	her
+-1	10538	10538	PRON	PER	we
+71	10542	10542	PROP	PER	Bornou
+244	10547	10547	PROP	PER	Kölle
+-1	10551	10576	NOM	PER	a servant of God who had one wife and one horse ; but his wife was one - eyed , and they lived in their house
+187	10554	10554	PROP	PER	God
+-1	10557	10558	NOM	PER	one wife
+-1	10564	10564	PRON	PER	his
+-1	10564	10565	NOM	PER	his wife
+-1	10572	10572	PRON	PER	they
+-1	10575	10575	PRON	PER	their
+-1	10575	10576	NOM	FAC	their house
+-1	10579	10582	NOM	PER	this servant of God
+-1	10590	10591	NOM	LOC	the forest
+-1	10593	10593	PRON	PER	they
+-1	10604	10604	PRON	PER	they
+-1	10607	10607	PRON	PER	they
+-1	10611	10614	NOM	PER	This servant of God
+187	10614	10614	PROP	PER	God
+-1	10620	10621	NOM	PER	the hyaena
+-1	10628	10629	NOM	LOC	the forest
+-1	10634	10635	NOM	FAC	the houses
+-1	10639	10639	PRON	PER	them
+-1	10646	10646	PRON	PER	his
+-1	10653	10653	PRON	PER	he
+-1	10681	10681	PRON	PER	their
+-1	10684	10684	PRON	PER	they
+-1	10690	10693	NOM	PER	the servant of God
+-1	10696	10696	PRON	PER	they
+-1	10701	10701	PRON	PER	him
+-1	10706	10706	PRON	PER	his
+-1	10706	10707	NOM	PER	his wife
+-1	10710	10710	PRON	PER	him
+-1	10714	10714	PRON	PER	thou
+-1	10717	10717	PRON	PER	thou
+-1	10721	10721	PRON	PER	He
+-1	10724	10724	PRON	PER	his
+-1	10724	10725	NOM	PER	his wife
+0	10727	10727	PRON	PER	I
+-1	10731	10731	PRON	PER	thee
+0	10733	10733	PRON	PER	I
+0	10738	10738	PRON	PER	I
+-1	10742	10743	NOM	PER	The woman
+-1	10746	10746	PRON	PER	her
+-1	10746	10747	NOM	PER	her husband
+0	10749	10749	PRON	PER	I
+-1	10752	10752	PRON	PER	thou
+-1	10755	10755	PRON	PER	thou
+0	10758	10758	PRON	PER	me
+0	10760	10760	PRON	PER	I
+-1	10767	10768	NOM	PER	The man
+-1	10772	10772	PRON	PER	his
+-1	10772	10773	NOM	PER	his wife
+0	10775	10775	PRON	PER	I
+-1	10778	10778	PRON	PER	thou
+0	10784	10784	PRON	PER	I
+-1	10786	10786	PRON	PER	thee
+-1	10790	10790	PRON	PER	we
+-1	10796	10796	PRON	PER	our
+-1	10796	10797	NOM	FAC	our house
+-1	10801	10802	NOM	PER	the woman
+-1	10804	10804	PRON	PER	her
+-1	10804	10805	NOM	PER	her husband
+-1	10808	10808	PRON	PER	she
+-1	10818	10818	PRON	PER	they
+-1	10822	10822	PRON	PER	their
+-1	10838	10838	PRON	PER	his
+-1	10838	10839	NOM	PER	his wife
+-1	10844	10845	NOM	FAC	the house
+-1	10848	10848	NOM	PER	both
+-1	10855	10859	NOM	PER	the wife of the rat
+-1	10862	10862	PRON	PER	her
+-1	10862	10863	NOM	PER	her husband
+-1	10865	10865	PRON	PER	Thy
+-1	10870	10870	PRON	PER	thou
+0	10873	10873	PRON	PER	me
+-1	10875	10875	PRON	PER	thou
+-1	10881	10881	PRON	PER	we
+-1	10884	10884	PRON	PER	we
+0	10892	10892	PRON	PER	I
+0	10894	10894	PRON	PER	my
+-1	10899	10902	NOM	PER	the servant of God
+-1	10907	10908	NOM	PER	the rat
+-1	10907	10910	NOM	PER	the rat ’s wife
+-1	10913	10913	PRON	PER	he
+-1	10917	10917	PRON	PER	his
+-1	10920	10920	PRON	PER	he
+-1	10928	10928	PRON	PER	he
+-1	10930	10930	PRON	PER	his
+-1	10930	10931	NOM	PER	his wife
+-1	10935	10935	PRON	PER	him
+-1	10940	10940	PRON	PER	him
+-1	10942	10942	PRON	PER	she
+-1	10944	10944	PRON	PER	him
+0	10951	10951	PRON	PER	I
+-1	10955	10955	PRON	PER	thee
+-1	10959	10960	NOM	FAC	this house
+-1	10962	10962	PRON	PER	thou
+0	10964	10964	PRON	PER	me
+-1	10966	10966	PRON	PER	thou
+-1	10970	10970	PRON	PER	thou
+-1	10974	10975	NOM	PER	The man
+-1	10977	10978	NOM	PER	the woman
+0	10983	10983	PRON	PER	me
+-1	10988	10989	NOM	PER	the woman
+-1	10994	10994	PRON	PER	her
+-1	10994	10995	NOM	PER	her husband
+-1	10999	11000	NOM	PER	The husband
+-1	11003	11003	PRON	PER	his
+-1	11003	11004	NOM	PER	his wife
+-1	11006	11006	PRON	PER	he
+-1	11016	11016	PRON	PER	she
+-1	11022	11022	PRON	PER	he
+-1	11027	11027	PRON	PER	he
+-1	11029	11029	PRON	PER	he
+-1	11032	11032	PRON	PER	his
+-1	11049	11050	NOM	PER	a man
+-1	11054	11054	PRON	PER	his
+-1	11057	11058	NOM	PER	a woman
+187	11060	11060	PROP	PER	God
+-1	11063	11063	PRON	PER	him
+-1	11110	11111	NOM	PER	the husband
+-1	11118	11119	NOM	PER	the wife
+-1	11132	11134	NOM	PER	the wandering Bechuanas
+-1	11136	11136	PRON	PER	their
+-1	11140	11143	NOM	PER	The Two Brothers ”
+73	11156	11157	PROP	LOC	The Machandelboom
+74	11191	11191	PROP	GPE	Bechuana
+-1	11212	11218	NOM	LOC	the abode of the Israelites in Egypt
+-1	11215	11216	NOM	PER	the Israelites
+75	11218	11218	PROP	GPE	Egypt
+-1	11234	11234	PRON	PER	us
+-1	11274	11274	PRON	PER	we
+76	11281	11283	PROP	LOC	the West Indies[19
+-1	11302	11302	PRON	PER	them
+69	11304	11304	PROP	GPE	Africa
+-1	11306	11310	NOM	LOC	the islands of the West
+53	11309	11310	PROP	LOC	the West
+-1	11323	11323	PRON	PER	we
+-1	11345	11385	NOM	PER	a little dirty scrub of a child ” , whom his sisters despise , but who is own brother to Boots in the Norse Tales , and like him outwits the Troll , spoils his substance , and saves his sisters
+-1	11350	11352	NOM	PER	a child ”
+-1	11355	11355	PRON	PER	his
+-1	11355	11356	NOM	PER	his sisters
+-1	11362	11369	NOM	PER	own brother to Boots in the Norse Tales
+245	11365	11365	PROP	PER	Boots
+-1	11373	11373	PRON	PER	him
+-1	11375	11376	NOM	PER	the Troll
+-1	11379	11379	PRON	PER	his
+-1	11384	11384	PRON	PER	his
+-1	11384	11385	NOM	PER	his sisters
+-1	11391	11391	PRON	PER	we
+-1	11393	11401	NOM	PER	the good woman who washes the loathsome head rewarded
+-1	11404	11413	NOM	PER	the bad man who refuses to do that dirty work
+-1	11417	11417	PRON	PER	his
+-1	11430	11430	PRON	PER	we
+-1	11433	11435	NOM	PER	Bushy - bride
+-1	11445	11445	PRON	PER	we
+12	11455	11455	PROP	GPE	India
+-1	11462	11462	PRON	PER	our
+246	11467	11470	PROP	PER	Rich Peter the Pedlar
+-1	11481	11481	PRON	PER	his
+-1	11518	11521	NOM	PER	the whole human race
+15	11529	11530	PROP	LOC	the East
+-1	11536	11536	PRON	GPE	its
+-1	11561	11566	NOM	LOC	the utmost parts of the earth
+-1	11565	11566	NOM	LOC	the earth
+-1	11583	11585	NOM	PER	the Aryan race
+-1	11600	11600	PRON	PER	we
+-1	11621	11630	NOM	PER	other branches of the Teutonic subdivision of the Aryan race
+-1	11624	11630	NOM	PER	the Teutonic subdivision of the Aryan race
+-1	11628	11630	NOM	PER	the Aryan race
+-1	11647	11648	NOM	PER	the Franks
+-1	11650	11653	NOM	PER	the Anglo - Saxons
+-1	11656	11657	NOM	PER	the Goths
+247	11660	11661	PROP	PER	the Norsemen
+-1	11685	11685	PRON	PER	their
+10	11688	11688	PROP	GPE	Iceland
+-1	11692	11692	PRON	PER	their
+-1	11695	11695	PRON	GPE	its
+-1	11702	11702	PRON	PER	their
+-1	11708	11708	PRON	PER	their
+-1	11714	11714	PRON	PER	us
+-1	11720	11720	PRON	PER	we
+-1	11744	11744	PRON	PER	its
+-1	11744	11746	NOM	PER	its own priests
+-1	11768	11768	PRON	PER	their
+201	11787	11787	PROP	PER	Saxo
+-1	11802	11803	NOM	PER	the historian
+-1	11805	11805	PRON	PER	his
+-1	11808	11808	PRON	PER	we
+-1	11820	11822	NOM	PER	the heathen Norsemen
+-1	11824	11824	PRON	PER	We
+-1	11857	11857	PRON	PER	her
+77	11885	11886	PROP	LOC	the Eddas
+77	11913	11914	PROP	LOC	the Eddas
+-1	11915	11917	NOM	PER	the natural powers
+248	11934	11934	PROP	PER	Odin
+-1	11936	11937	NOM	PER	the Aesir
+-1	11940	11942	NOM	PER	the Great Father
+-1	11944	11944	PRON	PER	his
+-1	11944	11945	NOM	PER	his children
+-1	11948	12002	NOM	PER	One Supreme and twelve subordinate gods , who rule for an appointed time , and over whom hangs an impending fate , which imparts a charm of melancholy to this creed , which has clung to the race who once believed in it long after the creed itself has vanished before the light of Christianity
+-1	11984	12002	NOM	PER	the race who once believed in it long after the creed itself has vanished before the light of Christianity
+249	12009	12010	PROP	PER	the Aesir
+248	12012	12012	PROP	PER	Odin
+-1	12014	12014	PRON	PER	their
+78	12017	12017	PROP	GPE	Asgard
+-1	12019	12028	NOM	LOC	a lofty hill in the centre of the habitable earth
+-1	12026	12028	NOM	LOC	the habitable earth
+-1	12031	12034	NOM	LOC	the midst of Midgard
+79	12034	12034	PROP	GPE	Midgard
+-1	12036	12046	NOM	LOC	that middle earth which we hear of in early English poetry
+-1	12040	12040	PRON	PER	we
+-1	12048	12053	NOM	LOC	the abode of gods and men
+-1	12053	12053	NOM	PER	men
+-1	12056	12057	NOM	LOC	that earth
+-1	12067	12070	NOM	PER	ancient and inveterate foes
+-1	12072	12076	NOM	LOC	a natural fortification of hills
+-1	12079	12081	NOM	LOC	the great sea
+-1	12088	12089	NOM	LOC	that sea
+80	12091	12091	PROP	GPE	Utgard
+-1	12093	12095	NOM	LOC	the outlying world
+250	12100	12101	PROP	PER	Frost Giants
+251	12104	12104	PROP	PER	Monsters
+248	12116	12116	PROP	PER	Odin
+-1	12118	12126	NOM	PER	the Aesir when the new order of the universe
+-1	12133	12145	NOM	PER	the new gods a feud as inveterate as that cherished by the Titans
+252	12147	12147	PROP	PER	Jupiter
+249	12168	12169	PROP	PER	the Aesir
+250	12171	12172	PROP	PER	the Giants
+-1	12174	12175	NOM	PER	each other
+-1	12191	12191	PRON	PER	them
+-1	12198	12199	NOM	PER	the Norseman
+-1	12204	12209	NOM	LOC	all the rest of the world
+-1	12208	12209	NOM	LOC	the world
+-1	12216	12218	NOM	PER	two rival races
+78	12226	12226	PROP	GPE	Asgard
+-1	12231	12231	PRON	PER	their
+-1	12231	12233	NOM	PER	their ancient foes
+-1	12235	12238	PROP	PER	the Giants of Frost
+253	12240	12240	PROP	PER	Snow
+-1	12247	12247	NOM	PER	men
+-1	12249	12252	NOM	PER	the race of Trolls
+-1	12260	12261	NOM	PER	the gods
+-1	12263	12266	NOM	PER	men magnified and exaggerated
+250	12270	12274	PROP	PER	the Trolls diminished Frost Giants
+-1	12279	12279	NOM	PER	man
+-1	12288	12288	NOM	PER	man
+250	12295	12297	PROP	PER	the Frost Giants
+-1	12299	12299	PRON	PER	they
+-1	12301	12308	NOM	LOC	the rough and rugged places of the earth
+-1	12307	12308	NOM	LOC	the earth
+-1	12319	12346	NOM	PER	the old aboriginal races who retired into the mountainous fastnesses of the land , and whose strength was exaggerated , because the intercourse between the races was small
+-1	12326	12331	NOM	LOC	the mountainous fastnesses of the land
+-1	12330	12331	NOM	LOC	the land
+-1	12343	12344	NOM	PER	the races
+-1	12352	12352	PRON	PER	they
+-1	12359	12359	NOM	PER	men
+250	12361	12363	PROP	PER	the Frost Giants
+-1	12366	12367	NOM	PER	the Gods
+-1	12414	12414	PRON	PER	our
+-1	12414	12416	NOM	PER	our blessed Lord
+-1	12418	12418	PRON	PER	his
+-1	12434	12436	NOM	PER	captivity captive ”
+-1	12445	12445	PRON	PER	his
+-1	12445	12446	NOM	PER	his foes
+-1	12448	12448	PRON	PER	his
+-1	12453	12454	NOM	PER	false gods
+252	12456	12456	PROP	PER	Jupiter
+254	12458	12458	PROP	PER	Vishnu
+248	12460	12460	PROP	PER	Odin
+255	12462	12462	PROP	PER	Thor
+-1	12467	12467	PRON	PER	themselves
+-1	12477	12477	NOM	PER	men
+-1	12480	12480	PRON	PER	they
+-1	12490	12491	NOM	PER	the philosophers
+-1	12512	12512	PRON	PER	them
+-1	12518	12518	NOM	PER	man
+-1	12520	12520	PRON	PER	his
+-1	12525	12525	PRON	PER	his
+-1	12539	12539	PRON	PER	They
+-1	12551	12551	PRON	PER	them
+-1	12554	12554	PRON	PER	they
+-1	12564	12564	NOM	PER	man
+-1	12567	12567	PRON	PER	them
+-1	12573	12573	PRON	PER	their
+40	12581	12581	PROP	GPE	Hindoo
+256	12597	12597	PROP	PER	Jove
+-1	12612	12622	NOM	PER	the natural man planted on a hot - bed of iniquity
+257	12630	12630	PROP	PER	Moloch
+258	12637	12637	PROP	PER	Chemosh
+259	12639	12639	PROP	PER	Milcom
+248	12645	12645	PROP	PER	Odin
+-1	12650	12650	PRON	PER	his
+-1	12653	12657	NOM	LOC	all parts of the world
+-1	12656	12657	NOM	LOC	the world
+-1	12659	12659	PRON	PER	his
+-1	12668	12668	PRON	PER	his
+-1	12668	12670	NOM	PER	his ancient foes
+250	12671	12673	PROP	PER	the Frost Giants
+-1	12675	12675	PRON	PER	his
+255	12682	12682	PROP	PER	Thor
+-1	12688	12688	PRON	PER	his
+-1	12691	12692	NOM	LOC	the sea
+-1	12696	12696	PRON	PER	his
+-1	12702	12702	PRON	PER	his
+-1	12708	12708	PRON	PER	his
+-1	12715	12723	NOM	PER	so many of the Giant ’s kith and kin
+-1	12718	12723	NOM	PER	the Giant ’s kith and kin
+-1	12732	12732	PRON	PER	we
+-1	12734	12735	NOM	PER	the Norseman
+-1	12736	12736	PRON	PER	himself
+-1	12742	12742	NOM	PER	man
+-1	12750	12750	PRON	PER	him
+-1	12752	12752	PRON	PER	his
+-1	12758	12758	PRON	PER	his
+-1	12766	12766	PRON	PER	his
+-1	12785	12785	PRON	PER	him
+-1	12815	12816	NOM	LOC	the world
+-1	12819	12819	PRON	PER	himself
+-1	12824	12829	NOM	PER	the whole race of the Aesirs
+-1	12828	12829	NOM	PER	the Aesirs
+-1	12831	12831	PRON	PER	their
+-1	12831	12832	NOM	PER	their antagonists
+-1	12846	12847	NOM	PER	the Norseman
+-1	12852	12852	PRON	PER	himself
+-1	12856	12856	PRON	PER	his
+-1	12860	12860	PRON	PER	his
+-1	12864	12864	PRON	PER	Their
+-1	12867	12867	PRON	PER	their
+-1	12870	12870	PRON	PER	their
+-1	12887	12887	PRON	PER	we
+-1	12889	12890	NOM	PER	the Elder
+-1	12918	12918	PRON	PER	us
+-1	12921	12921	PRON	PER	their
+-1	12927	12928	NOM	PER	these gods
+-1	12932	12943	NOM	PER	heroes of the race whose fame and glory were in every man
+-1	12953	12954	NOM	PER	every minstrel
+-1	12958	12958	PRON	PER	Helgi
+260	12960	12960	PROP	PER	Sigmund
+261	12964	12964	PROP	PER	Sigurd
+262	12966	12966	PROP	PER	Signy
+263	12968	12968	PROP	PER	Brynhildr
+264	12970	12970	PROP	PER	Gudrun
+-1	12972	12972	NOM	PER	champions
+-1	12974	12976	NOM	PER	shield - maidens
+-1	12978	12978	NOM	PER	henchmen
+-1	12980	12982	NOM	PER	corse - choosers
+248	12992	12992	PROP	PER	Odin
+-1	12992	12996	NOM	FAC	Odin ’s board in Valhalla
+82	12996	12996	PROP	GPE	Valhalla
+-1	12998	13011	NOM	PER	Women whose beauty , woes , and sufferings were beyond those of all women
+-1	13013	13020	NOM	PER	men whose prowess had never found an equal
+-1	13042	13044	NOM	PER	the right man
+-1	13046	13048	NOM	PER	the wrong woman
+-1	13051	13053	NOM	PER	the wrong man
+-1	13055	13057	NOM	PER	the right woman
+-1	13071	13073	NOM	PER	the natural man
+-1	13102	13103	NOM	PER	a widow
+-1	13118	13118	PRON	PER	her
+265	13163	13163	PROP	PER	Fafnir
+261	13165	13165	PROP	PER	Sigurd
+266	13170	13170	PROP	PER	Hermanaric
+-1	13173	13178	NOM	PER	that fierce faith - breaker ”
+-1	13181	13185	NOM	PER	the Anglo - Saxon minstrel
+-1	13187	13187	PRON	PER	him
+-1	13190	13190	PRON	PER	he
+-1	13202	13204	NOM	PER	the Teutonic race
+267	13211	13212	PROP	PER	the Volsungs
+-1	13214	13214	PRON	PER	They
+-1	13216	13216	PRON	PER	themselves
+-1	13220	13221	NOM	PER	all heroes
+248	13224	13224	PROP	PER	Odin
+-1	13226	13230	NOM	PER	the great father of gods
+-1	13232	13232	NOM	PER	men
+-1	13235	13235	PRON	PER	him
+268	13237	13237	PROP	PER	Sigi
+-1	13240	13240	PRON	PER	him
+269	13241	13241	PROP	PER	Rerir
+-1	13244	13244	PRON	PER	him
+270	13245	13245	PROP	PER	Volsung
+-1	13249	13249	PRON	PER	his
+-1	13249	13250	NOM	PER	his mother
+-1	13262	13267	NOM	PER	the Eponymus of that famous race
+-1	13273	13273	PRON	PER	his
+-1	13273	13274	NOM	FAC	his hall
+-1	13290	13290	PRON	FAC	its
+-1	13301	13302	NOM	FAC	that hall
+262	13311	13311	PROP	PER	Signy
+270	13313	13313	PROP	PER	Volsung
+-1	13313	13315	NOM	PER	Volsung ’s daughter
+271	13323	13323	PROP	PER	Siggeir
+-1	13325	13327	NOM	PER	King of Gothland
+83	13327	13327	PROP	GPE	Gothland
+-1	13330	13335	NOM	PER	an old one - eyed guest
+-1	13337	13337	PRON	PER	His
+-1	13342	13342	PRON	PER	his
+-1	13349	13349	PRON	PER	he
+-1	13363	13363	PRON	PER	his
+-1	13365	13365	PRON	PER	he
+-1	13376	13376	PRON	PER	he
+-1	13392	13392	PRON	PER	he
+-1	13396	13396	PRON	PER	him
+-1	13413	13413	PRON	PER	I
+-1	13416	13416	PRON	PER	him
+-1	13419	13419	NOM	PER	none
+-1	13422	13422	PRON	PER	he
+-1	13433	13433	PRON	PER	he
+-1	13437	13438	NOM	FAC	the hall
+-1	13446	13446	NOM	PER	Many
+260	13466	13466	PROP	PER	Sigmund
+-1	13468	13475	NOM	PER	the best and bravest of Volsung ’s sons
+270	13473	13473	PROP	PER	Volsung
+-1	13473	13475	NOM	PER	Volsung ’s sons
+-1	13478	13478	PRON	PER	his
+272	13497	13497	PROP	PER	Gram
+-1	13501	13501	PRON	PER	we
+260	13506	13506	PROP	PER	Sigmund
+-1	13512	13512	PRON	PER	his
+-1	13512	13517	NOM	PER	his brother - in - law
+-1	13522	13522	PRON	PER	him
+270	13529	13529	PROP	PER	Volsung
+260	13533	13533	PROP	PER	Sigmund
+-1	13535	13535	PRON	PER	his
+-1	13535	13537	NOM	PER	his ten brothers
+-1	13543	13543	NOM	PER	All
+260	13546	13546	PROP	PER	Sigmund
+-1	13552	13552	PRON	PER	his
+-1	13552	13553	NOM	PER	his sister
+262	13554	13554	PROP	PER	Signy
+-1	13562	13562	PRON	PER	he
+-1	13565	13565	PRON	PER	his
+-1	13565	13566	NOM	PER	his father
+-1	13568	13568	NOM	PER	brethren
+273	13572	13572	PROP	PER	Sinfjötli
+-1	13578	13578	PRON	PER	his
+-1	13578	13579	NOM	PER	his son
+-1	13583	13583	PRON	PER	he
+-1	13586	13587	NOM	PER	a werewolf
+-1	13589	13590	NOM	LOC	the forest
+273	13599	13599	PROP	PER	Sinfjötli
+-1	13605	13605	PRON	PER	him
+-1	13607	13607	PRON	PER	they
+-1	13614	13620	NOM	PER	the treacherous brother - in - law
+-1	13625	13625	PRON	PER	his
+-1	13625	13626	NOM	PER	his followers
+260	13628	13628	PROP	PER	Sigmund
+-1	13631	13631	PRON	PER	his
+-1	13631	13632	NOM	PER	his father
+-1	13631	13634	NOM	FAC	his father ’s kingdom
+-1	13645	13649	NOM	PER	the sons of King Hunding
+274	13648	13649	PROP	PER	King Hunding
+-1	13653	13653	PRON	PER	he
+-1	13661	13667	NOM	PER	a warrior of more than mortal might
+-1	13669	13682	NOM	PER	a one - eyed man in a blue cloak , with a flapping hat
+-1	13687	13687	PRON	PER	him
+260	13696	13696	PROP	PER	Sigmund
+-1	13699	13699	PRON	PER	his
+-1	13709	13709	PRON	PER	he
+-1	13712	13712	PRON	PER	his
+-1	13717	13717	PRON	PER	he
+-1	13720	13720	PRON	PER	his
+248	13722	13722	PROP	PER	Odin
+-1	13723	13727	NOM	PER	the giver of the sword
+275	13744	13744	PROP	PER	Hjordis
+-1	13746	13746	PRON	PER	his
+-1	13746	13748	NOM	PER	his young wife
+-1	13756	13756	PRON	PER	his
+248	13759	13759	PROP	PER	Odin
+275	13769	13769	PROP	PER	Hjordis
+-1	13775	13775	PRON	PER	her
+-1	13783	13786	NOM	PER	King Hialprek of Denmark
+84	13786	13786	PROP	GPE	Denmark
+-1	13789	13789	PRON	PER	she
+-1	13791	13792	NOM	PER	a son
+260	13794	13794	PROP	PER	Sigmund
+261	13796	13796	PROP	PER	Sigurd
+-1	13798	13804	NOM	PER	the darling of Teutonic song and story
+276	13806	13806	PROP	PER	Regin
+-1	13808	13811	NOM	PER	the king ’s smith
+-1	13814	13814	PRON	PER	his
+-1	13814	13817	NOM	PER	his foster - father
+-1	13821	13822	NOM	PER	the boy
+-1	13825	13832	NOM	PER	the fairest and stoutest of all the Volsungs
+267	13831	13832	PROP	PER	the Volsungs
+276	13834	13834	PROP	PER	Regin
+-1	13839	13841	NOM	PER	the dwarf race
+-1	13844	13844	PRON	PER	him
+265	13856	13858	PROP	PER	Fafnir the Dragon
+265	13861	13861	PROP	PER	Fafnir
+276	13863	13863	PROP	PER	Regin
+277	13866	13866	PROP	PER	Otter
+-1	13869	13869	NOM	PER	brothers
+-1	13871	13873	NOM	PER	sons of Reidmar
+-1	13878	13878	PRON	PER	their
+248	13882	13882	PROP	PER	Odin
+278	13884	13884	PROP	PER	Loki
+279	13887	13887	PROP	PER	Haenir
+-1	13890	13891	NOM	LOC	a river
+-1	13893	13894	NOM	FAC	a forge
+-1	13902	13903	NOM	FAC	the forge
+-1	13905	13905	PRON	PER	they
+278	13925	13925	PROP	PER	Loki
+-1	13941	13941	PRON	PER	he
+-1	13953	13954	NOM	PER	the Aesir
+280	13962	13962	PROP	PER	Reidmar
+-1	13962	13964	NOM	FAC	Reidmar ’s house
+-1	13975	13975	PRON	PER	their
+-1	13982	13982	PRON	PER	them
+280	13987	13987	PROP	PER	Reidmar
+-1	13991	13991	PRON	PER	they
+-1	13994	13994	PRON	PER	your
+-1	13994	13995	NOM	PER	your brother
+277	13996	13996	PROP	PER	Otter
+-1	14000	14000	PRON	PER	they
+276	14006	14006	PROP	PER	Regin
+265	14008	14008	PROP	PER	Fafnir
+280	14021	14021	PROP	PER	Reidmar
+277	14029	14029	PROP	PER	Otter
+-1	14034	14035	NOM	PER	the Aesir
+248	14062	14062	PROP	PER	Odin
+278	14064	14064	PROP	PER	Loki
+-1	14067	14072	NOM	FAC	the abodes of the Black Elves
+281	14070	14072	PROP	PER	the Black Elves
+-1	14076	14077	NOM	LOC	a stream
+-1	14078	14078	PRON	PER	he
+282	14080	14080	PROP	PER	Andvari
+-1	14081	14082	NOM	PER	the Dwarf
+-1	14086	14086	PRON	PER	him
+-1	14093	14093	PRON	PER	he
+-1	14098	14100	NOM	LOC	the stony rock
+-1	14104	14105	NOM	PER	the Dwarf
+-1	14110	14110	PRON	PER	he
+-1	14123	14123	PRON	PER	his
+-1	14141	14141	PRON	PER	he
+278	14145	14145	PROP	PER	Loki
+-1	14148	14149	NOM	PER	the dwarf
+-1	14162	14163	NOM	PER	every man
+-1	14162	14168	NOM	PER	every man ’s bane who owned it
+278	14177	14177	PROP	PER	Loki
+-1	14181	14181	PRON	PER	he
+248	14185	14185	PROP	PER	Odin
+-1	14198	14198	PRON	PER	himself
+280	14205	14205	PROP	PER	Reidmar
+280	14208	14208	PROP	PER	Reidmar
+-1	14217	14217	PRON	PER	he
+248	14228	14228	PROP	PER	Odin
+280	14241	14241	PROP	PER	Reidmar
+-1	14245	14245	PRON	PER	he
+-1	14254	14254	PRON	PER	them
+248	14268	14268	PROP	PER	Odin
+249	14282	14283	PROP	PER	the Aesir
+-1	14290	14290	PRON	PER	they
+278	14293	14293	PROP	PER	Loki
+282	14298	14298	PROP	PER	Andvari
+276	14315	14315	PROP	PER	Regin
+280	14328	14328	PROP	PER	Reidmar
+-1	14332	14334	NOM	PER	the two brothers
+-1	14336	14336	PRON	PER	their
+-1	14341	14341	PRON	PER	their
+-1	14341	14342	NOM	PER	their sire
+276	14345	14345	PROP	PER	Regin
+265	14347	14347	PROP	PER	Fafnir
+-1	14353	14353	PRON	PER	him
+265	14360	14360	PROP	PER	Fafnir
+-1	14366	14366	PRON	PER	he
+-1	14371	14371	PRON	PER	himself
+276	14374	14374	PROP	PER	Regin
+-1	14381	14381	PRON	PER	he
+280	14389	14389	PROP	PER	Reidmar
+276	14392	14392	PROP	PER	Regin
+265	14398	14398	PROP	PER	Fafnir
+276	14411	14411	PROP	PER	Regin
+-1	14414	14414	PRON	PER	he
+-1	14425	14425	PRON	PER	his
+-1	14437	14437	PRON	PER	I
+-1	14439	14439	PRON	PER	you
+-1	14442	14442	PRON	PER	him
+261	14445	14445	PROP	PER	Sigurd
+276	14448	14448	PROP	PER	Regin
+-1	14454	14454	NOM	PER	smiths
+-1	14458	14458	PRON	PER	him
+-1	14478	14478	PRON	PER	they
+-1	14480	14480	PRON	PER	you
+-1	14483	14483	PRON	PER	your
+-1	14483	14484	NOM	PER	your race
+261	14487	14487	PROP	PER	Sigurd
+-1	14490	14490	PRON	PER	he
+-1	14493	14493	PRON	PER	his
+-1	14493	14494	NOM	PER	his mother
+272	14501	14501	PROP	PER	Gram
+-1	14506	14506	PRON	PER	them
+276	14507	14507	PROP	PER	Regin
+-1	14518	14519	NOM	FAC	the smithy
+-1	14540	14540	PRON	PER	me
+265	14541	14541	PROP	PER	Fafnir
+276	14545	14545	PROP	PER	Regin
+261	14548	14548	PROP	PER	Sigurd
+274	14553	14554	PROP	PER	King Hunding
+-1	14553	14556	NOM	PER	King Hunding ’s sons
+-1	14560	14560	PRON	PER	his
+-1	14560	14561	NOM	PER	his father
+260	14562	14562	PROP	PER	Sigmund
+283	14566	14567	PROP	PER	King Hialprek
+-1	14569	14569	PRON	PER	him
+248	14573	14573	PROP	PER	Odin
+-1	14576	14576	PRON	PER	he
+-1	14578	14578	PRON	PER	them
+-1	14582	14582	PRON	PER	their
+-1	14587	14589	NOM	PER	all those brothers
+-1	14592	14592	PRON	PER	his
+-1	14595	14595	PRON	PER	his
+-1	14595	14598	NOM	PER	his foster - father
+-1	14601	14601	PRON	PER	him
+265	14605	14606	PROP	PER	the Dragon
+-1	14616	14618	NOM	PER	a Volsung left
+272	14624	14624	PROP	PER	Gram
+284	14629	14629	PROP	PER	Gran
+-1	14631	14631	PRON	PER	his
+248	14636	14636	PROP	PER	Odin
+-1	14639	14639	PRON	PER	him
+261	14644	14644	PROP	PER	Sigurd
+85	14649	14651	PROP	LOC	Glistening Heath ”
+-1	14657	14660	NOM	FAC	the Dragon ’s path
+265	14658	14658	PROP	PER	Dragon
+-1	14664	14664	PRON	PER	him
+-1	14666	14666	PRON	PER	he
+-1	14669	14669	PRON	PER	him
+-1	14674	14675	NOM	LOC	the river
+276	14678	14678	PROP	PER	Regin
+-1	14689	14690	NOM	PER	a brother
+261	14701	14701	PROP	PER	Sigurd
+265	14705	14705	PROP	PER	Fafnir
+276	14713	14713	PROP	PER	Regin
+-1	14717	14717	PRON	PER	his
+261	14733	14733	PROP	PER	Sigurd
+-1	14747	14747	PRON	PER	he
+-1	14751	14751	PRON	PER	his
+-1	14764	14764	PRON	PER	his
+-1	14768	14768	PRON	PER	he
+-1	14772	14772	PRON	PER	his
+-1	14782	14783	NOM	PER	the Dragon
+-1	14789	14789	PRON	PER	he
+-1	14802	14802	PRON	PER	his
+-1	14812	14812	PRON	PER	thou
+261	14815	14815	PROP	PER	Sigurd
+265	14818	14818	PROP	PER	Fafnir
+-1	14824	14824	PRON	PER	thyself
+-1	14830	14830	NOM	PER	men
+276	14839	14839	PROP	PER	Regin
+-1	14845	14845	PRON	PER	him
+-1	14848	14848	PRON	PER	him
+-1	14852	14853	NOM	PER	a third
+261	14857	14857	PROP	PER	Sigurd
+-1	14860	14860	PRON	PER	his
+-1	14870	14870	PRON	PER	himself
+261	14874	14874	PROP	PER	Sigurd
+276	14877	14877	PROP	PER	Regin
+-1	14880	14880	PRON	PER	him
+284	14890	14890	PROP	PER	Gran
+265	14892	14892	PROP	PER	Fafnir
+-1	14892	14894	NOM	FAC	Fafnir ’s lair
+-1	14902	14902	PRON	PER	his
+261	14914	14914	PROP	PER	Sigurd
+-1	14916	14920	NOM	PER	the most famous of men
+-1	14920	14920	NOM	PER	men
+-1	14928	14929	NOM	LOC	the North
+-1	14931	14931	PRON	PER	him
+-1	14932	14936	NOM	PER	the darling of that age
+-1	14938	14938	PRON	PER	They
+-1	14941	14941	PRON	PER	his
+-1	14955	14955	PRON	PER	his
+-1	14962	14962	PRON	PER	his
+-1	14966	14966	PRON	PER	his
+-1	14970	14970	PRON	PER	his
+-1	14974	14974	PRON	PER	his
+-1	14982	14987	NOM	PER	few dared to meet the gaze
+-1	14989	14989	PRON	PER	his
+-1	14997	14997	PRON	PER	his
+-1	15008	15008	PRON	PER	he
+-1	15013	15013	PRON	PER	he
+272	15024	15024	PROP	PER	Gram
+-1	15049	15049	PRON	PER	His
+-1	15055	15056	NOM	PER	other men
+-1	15066	15066	PRON	PER	his
+-1	15073	15073	PRON	PER	his
+-1	15073	15074	NOM	PER	his friends
+-1	15076	15079	NOM	PER	The bravest man alive
+-1	15082	15086	NOM	PER	one that never knew fear
+-1	15091	15091	PRON	PER	he
+-1	15099	15099	PRON	PER	he
+-1	15107	15107	PRON	PER	he
+-1	15118	15119	NOM	FAC	a house
+284	15124	15124	PROP	PER	Gran
+-1	15130	15131	NOM	PER	no man
+261	15134	15134	PROP	PER	Sigurd
+-1	15136	15136	PRON	PER	him
+-1	15138	15138	PRON	PER	he
+-1	15144	15145	NOM	FAC	the house
+-1	15147	15149	NOM	PER	a fair maiden
+263	15162	15162	PROP	PER	Brynhildr
+285	15164	15164	PROP	PER	Atli
+-1	15164	15166	NOM	PER	Atli ’s sister
+-1	15169	15169	PRON	PER	her
+-1	15172	15173	NOM	PER	a Valkyrie
+-1	15175	15178	NOM	PER	a corse - chooser
+-1	15184	15184	PRON	PER	she
+248	15195	15195	PROP	PER	Odin
+-1	15197	15197	PRON	PER	his
+-1	15206	15206	PRON	PER	her
+-1	15211	15211	PRON	PER	her
+-1	15219	15227	NOM	PER	a man bold enough to ride through that flame
+-1	15231	15231	PRON	PER	her
+-1	15236	15236	PRON	PER	her
+-1	15238	15238	PRON	PER	his
+-1	15238	15239	NOM	PER	his bride
+-1	15243	15243	PRON	PER	she
+-1	15249	15249	PRON	PER	him
+-1	15256	15256	PRON	PER	they
+-1	15260	15261	NOM	PER	each other
+261	15269	15269	PROP	PER	Sigurd
+-1	15271	15271	PRON	PER	her
+-1	15278	15278	PRON	PER	he
+286	15281	15282	PROP	PER	King Giuki
+-1	15281	15284	NOM	FAC	King Giuki ’s hall
+-1	15286	15341	NOM	PER	Giuki the Niflung , King of Frankland , whose wife was Grimhildr , whose sons were Gunnar and Hogni , whose stepson was Guttorm , and whose daughter was the fair Gudrun . Here at first he was full of Brynhildr , and all for going back to fetch his lovely bride from the lone fell
+86	15292	15292	PROP	GPE	Frankland
+287	15297	15297	PROP	PER	Grimhildr
+288	15302	15302	PROP	PER	Gunnar
+289	15304	15304	PROP	PER	Hogni
+290	15309	15309	PROP	PER	Guttorm
+264	15317	15317	PROP	PER	Gudrun
+-1	15319	15319	NOM	GPE	Here
+-1	15322	15322	PRON	PER	he
+263	15326	15326	PROP	PER	Brynhildr
+-1	15335	15335	PRON	PER	his
+-1	15335	15337	NOM	PER	his lovely bride
+-1	15339	15341	NOM	LOC	the lone fell
+287	15344	15344	PROP	PER	Grimhildr
+-1	15351	15351	PRON	PER	she
+270	15354	15356	PROP	PER	the brave Volsung
+-1	15358	15358	PRON	PER	her
+-1	15358	15360	NOM	PER	her own daughter
+-1	15362	15362	PRON	PER	she
+-1	15364	15364	PRON	PER	him
+-1	15370	15370	PRON	PER	he
+263	15376	15376	PROP	PER	Brynhildr
+-1	15379	15380	NOM	PER	a brother
+288	15384	15384	PROP	PER	Gunnar
+289	15386	15386	PROP	PER	Hogni
+-1	15390	15392	NOM	PER	the fair Gudrun
+286	15396	15396	PROP	PER	Giuki
+288	15401	15401	PROP	PER	Gunnar
+-1	15407	15408	NOM	PER	the brothers
+-1	15410	15410	PRON	PER	their
+-1	15410	15412	NOM	PER	their bosom friend
+-1	15419	15419	PRON	PER	they
+263	15422	15422	PROP	PER	Brynhildr
+285	15424	15424	PROP	PER	Atli
+-1	15424	15426	NOM	PER	Atli ’s sister
+-1	15438	15449	NOM	PER	the man who was bold enough to ride through the flickering flame
+-1	15451	15451	PRON	PER	She
+-1	15454	15454	NOM	PER	one
+-1	15462	15463	NOM	PER	that one
+-1	15469	15469	PRON	PER	she
+-1	15480	15480	PRON	PER	her
+-1	15482	15482	NOM	PER	wife
+288	15486	15486	PROP	PER	Gunnar
+289	15488	15488	PROP	PER	Hogni
+288	15492	15492	PROP	PER	Gunnar
+-1	15498	15498	PRON	PER	his
+291	15514	15514	PROP	PER	Grimhild
+261	15519	15519	PROP	PER	Sigurd
+288	15521	15521	PROP	PER	Gunnar
+261	15528	15528	PROP	PER	Sigurd
+284	15532	15532	PROP	PER	Gran
+-1	15541	15541	PRON	PER	him
+263	15548	15548	PROP	PER	Brynhildr
+-1	15549	15551	NOM	PER	the proud maiden
+-1	15562	15562	PRON	PER	their
+-1	15567	15567	PRON	PER	they
+261	15573	15573	PROP	PER	Sigurd
+-1	15575	15575	PRON	PER	his
+272	15578	15578	PROP	PER	Gram
+-1	15585	15585	PRON	PER	them
+-1	15590	15590	PRON	PER	he
+-1	15593	15593	PRON	PER	he
+282	15598	15598	PROP	PER	Andvari
+265	15609	15609	PROP	PER	Fafnir
+263	15617	15617	PROP	PER	Brynhildr
+-1	15626	15626	PRON	PER	she
+-1	15628	15628	PRON	PER	him
+261	15636	15636	PROP	PER	Sigurd
+-1	15640	15640	PRON	PER	his
+-1	15640	15641	NOM	PER	his companions
+-1	15644	15644	PRON	PER	his
+288	15651	15651	PROP	PER	Gunnar
+263	15655	15655	PROP	PER	Brynhildr
+-1	15659	15659	PRON	PER	her
+-1	15660	15660	NOM	FAC	home
+-1	15662	15662	PRON	PER	his
+-1	15662	15663	NOM	PER	his bride
+288	15669	15669	PROP	PER	Gunnar
+261	15673	15673	PROP	PER	Sigurd
+-1	15683	15684	NOM	PER	the philtre
+-1	15688	15688	PRON	PER	he
+-1	15698	15698	PRON	PER	he
+263	15702	15702	PROP	PER	Brynhildr
+-1	15709	15709	PRON	PER	him
+-1	15717	15717	PRON	PER	he
+263	15736	15736	PROP	PER	Brynhildr
+264	15738	15738	PROP	PER	Gudrun
+-1	15742	15743	NOM	LOC	the river
+-1	15746	15746	PRON	PER	their
+263	15750	15750	PROP	PER	Brynhildr
+-1	15754	15755	NOM	LOC	the stream
+-1	15759	15759	PRON	PER	she
+-1	15764	15764	PRON	PER	she
+-1	15769	15769	PRON	PER	her
+264	15776	15776	PROP	PER	Gudrun
+-1	15780	15780	PRON	PER	hers
+-1	15782	15784	NOM	PER	the braver husband
+264	15787	15787	PROP	PER	Gudrun
+-1	15791	15791	PRON	PER	her
+-1	15801	15801	PRON	PER	her
+-1	15806	15806	PRON	PER	her
+-1	15806	15807	NOM	PER	her husband
+288	15813	15813	PROP	PER	Gunnar
+-1	15816	15818	NOM	PER	every other man
+-1	15822	15822	PRON	PER	he
+265	15824	15824	PROP	PER	Fafnir
+276	15826	15826	PROP	PER	Regin
+-1	15829	15829	PRON	PER	their
+263	15837	15837	PROP	PER	Brynhildr
+288	15847	15847	PROP	PER	Gunnar
+261	15854	15854	PROP	PER	Sigurd
+264	15861	15861	PROP	PER	Gudrun
+-1	15868	15868	PRON	PER	thou
+288	15870	15870	PROP	PER	Gunnar
+-1	15876	15876	PRON	PER	I
+-1	15878	15878	PRON	PER	he
+-1	15883	15883	PRON	PER	thee
+-1	15889	15889	PRON	PER	me
+-1	15901	15901	PRON	PER	you
+-1	15904	15904	PRON	PER	your
+-1	15909	15909	PRON	PER	you
+-1	15912	15912	PRON	PER	your
+-1	15928	15928	PRON	PER	I
+288	15932	15932	PROP	PER	Gunnar
+263	15943	15943	PROP	PER	Brynhildr
+-1	15945	15945	PRON	PER	her
+-1	15949	15949	NOM	FAC	home
+-1	15952	15952	PRON	PER	her
+261	15955	15955	PROP	PER	Sigurd
+-1	15967	15967	PRON	PER	she
+-1	15969	15969	PRON	PER	herself
+-1	15973	15973	PRON	PER	she
+288	15976	15976	PROP	PER	Gunnar
+-1	15979	15979	PRON	PER	her
+-1	15984	15985	NOM	PER	the brothers
+-1	15988	15988	PRON	PER	her
+-1	15992	15992	PRON	PER	they
+-1	15994	15995	NOM	PER	sworn brothers
+261	15997	15997	PROP	PER	Sigurd
+-1	16013	16013	PRON	PER	they
+-1	16023	16023	PRON	PER	they
+290	16026	16026	PROP	PER	Guttorm
+-1	16027	16027	PRON	PER	their
+-1	16027	16030	NOM	PER	their half - brother
+264	16040	16040	PROP	PER	Gudrun
+-1	16042	16044	NOM	PER	the bravest man
+-1	16049	16049	PRON	PER	her
+-1	16053	16054	NOM	PER	the murderer
+-1	16064	16065	NOM	PER	the hero
+261	16068	16068	PROP	PER	Sigurd
+290	16075	16075	PROP	PER	Guttorm
+-1	16077	16077	PRON	PER	he
+272	16079	16079	PROP	PER	Gram
+-1	16081	16081	PRON	PER	him
+-1	16088	16088	PRON	PER	him
+-1	16095	16095	PRON	PER	his
+-1	16100	16101	NOM	FAC	the room
+-1	16103	16103	PRON	PER	his
+290	16113	16113	PROP	PER	Guttorm
+263	16118	16118	PROP	PER	Brynhildr
+261	16125	16125	PROP	PER	Sigurd
+-1	16131	16131	PRON	PER	her
+-1	16135	16135	PRON	PER	she
+-1	16152	16152	PRON	PER	them
+-1	16154	16154	PRON	PER	her
+-1	16156	16156	PRON	PER	his
+272	16159	16159	PROP	PER	Gram
+-1	16161	16161	PRON	PER	them
+82	16167	16167	PROP	GPE	Valhalla
+-1	16169	16169	PRON	PER	her
+-1	16169	16171	NOM	PER	her old lover
+282	16174	16174	PROP	PER	Andvari
+264	16180	16180	PROP	PER	Gudrun
+-1	16182	16184	NOM	PER	the weary widow
+-1	16193	16193	PRON	PER	she
+-1	16197	16197	PRON	PER	her
+-1	16197	16198	NOM	PER	her brothers
+-1	16200	16200	PRON	PER	her
+-1	16200	16201	NOM	PER	her husband
+285	16207	16207	PROP	PER	Atli
+-1	16209	16211	NOM	PER	the Hun King
+263	16213	16213	PROP	PER	Brynhildr
+-1	16213	16215	NOM	PER	Brynhildr ’s brother
+-1	16217	16217	PRON	PER	He
+286	16222	16222	PROP	PER	Giuki
+-1	16222	16224	NOM	PER	Giuki ’s sons
+-1	16228	16228	PRON	PER	they
+-1	16232	16232	PRON	PER	their
+-1	16232	16233	NOM	PER	their brother
+-1	16232	16245	NOM	PER	their brother - in - law , which had broken his sister ’s heart
+-1	16242	16242	PRON	PER	his
+-1	16242	16243	NOM	PER	his sister
+-1	16249	16249	PRON	PER	he
+264	16255	16255	PROP	PER	Gudrun
+261	16261	16261	PROP	PER	Sigurd
+-1	16269	16271	NOM	PER	the Niflung Princes
+-1	16275	16275	PRON	PER	he
+-1	16285	16285	PRON	PER	them
+-1	16291	16291	PRON	PER	he
+-1	16293	16293	PRON	PER	them
+-1	16300	16300	PRON	PER	them
+-1	16305	16305	PRON	PER	they
+289	16312	16312	PROP	PER	Hogni
+-1	16319	16319	PRON	PER	him
+-1	16323	16323	PRON	PER	he
+288	16327	16327	PROP	PER	Gunnar
+-1	16341	16341	PRON	PER	them
+-1	16345	16345	PRON	PER	his
+-1	16355	16355	PRON	PER	his
+-1	16359	16359	PRON	PER	him
+-1	16364	16364	PRON	PER	them
+-1	16375	16375	PRON	PER	they
+87	16379	16380	PROP	LOC	the Rhine
+-1	16382	16382	PRON	PER	they
+88	16389	16389	PROP	GPE	Hunland
+-1	16399	16399	PRON	PER	her
+-1	16399	16400	NOM	PER	her brothers
+264	16404	16404	PROP	PER	Gudrun
+-1	16406	16406	PRON	PER	she
+-1	16409	16409	PRON	PER	her
+-1	16412	16412	PRON	PER	her
+-1	16412	16414	NOM	PER	her two sons
+285	16416	16416	PROP	PER	Atli
+-1	16419	16419	PRON	PER	him
+-1	16421	16421	PRON	PER	their
+-1	16426	16426	PRON	PER	their
+-1	16430	16430	PRON	PER	their
+-1	16436	16437	NOM	PER	the king
+-1	16442	16442	PRON	PER	him
+-1	16444	16444	PRON	PER	his
+-1	16450	16450	PRON	PER	her
+-1	16450	16451	NOM	PER	her brother
+289	16452	16452	PROP	PER	Hogni
+-1	16452	16454	NOM	PER	Hogni ’s son
+-1	16457	16457	PRON	PER	she
+-1	16459	16460	NOM	FAC	the hall
+-1	16475	16475	PRON	PER	she
+-1	16478	16481	NOM	LOC	the sea - shore
+-1	16485	16485	PRON	PER	herself
+-1	16491	16492	NOM	LOC	the deep
+-1	16496	16496	PRON	PER	her
+-1	16501	16501	PRON	PER	her
+292	16504	16505	PROP	PER	King Jonakr
+-1	16504	16507	NOM	LOC	King Jonakr ’s land
+-1	16509	16509	PRON	PER	He
+-1	16511	16511	PRON	PER	her
+-1	16515	16516	NOM	PER	three sons
+-1	16518	16518	PRON	PER	her
+293	16520	16520	PROP	PER	Saurli
+294	16522	16522	PROP	PER	Hamdir
+295	16525	16525	PROP	PER	Erp
+-1	16534	16536	NOM	PER	all the Niflungs
+296	16538	16538	PROP	PER	Svanhild
+-1	16540	16540	PRON	PER	her
+-1	16540	16569	NOM	PER	her daughter by Sigurd , who had her father ’s bright and terrible eyes , she has still with her , now grown up to be the fairest of women
+261	16543	16543	PROP	PER	Sigurd
+-1	16547	16547	PRON	PER	her
+-1	16547	16548	NOM	PER	her father
+-1	16555	16555	PRON	PER	she
+-1	16559	16559	PRON	PER	her
+-1	16566	16569	NOM	PER	the fairest of women
+-1	16569	16569	NOM	PER	women
+266	16573	16575	PROP	PER	Hermanaric the mighty
+-1	16577	16580	NOM	PER	the great Gothic king
+296	16584	16584	PROP	PER	Svanhild
+-1	16588	16588	PRON	PER	he
+-1	16590	16590	PRON	PER	his
+-1	16590	16591	NOM	PER	his son
+297	16592	16592	PROP	PER	Randver
+-1	16595	16595	PRON	PER	her
+-1	16597	16597	PRON	PER	him
+298	16600	16602	PROP	PER	Bikki the False
+-1	16605	16606	NOM	PER	the youth
+-1	16612	16613	NOM	PER	this maiden
+-1	16615	16615	PRON	PER	thee
+-1	16618	16618	PRON	PER	thy
+-1	16618	16620	NOM	PER	thy old father
+-1	16624	16625	NOM	PER	the maiden
+-1	16627	16628	NOM	PER	the prince
+298	16635	16635	PROP	PER	Bikki
+-1	16639	16640	NOM	PER	the king
+266	16643	16643	PROP	PER	Hermanaric
+-1	16645	16645	PRON	PER	them
+297	16649	16649	PROP	PER	Randver
+-1	16655	16655	PRON	PER	his
+-1	16661	16662	NOM	PER	the prince
+-1	16664	16664	PRON	PER	his
+-1	16677	16677	PRON	PER	his
+-1	16677	16678	NOM	PER	his father
+-1	16682	16682	PRON	PER	his
+-1	16682	16683	NOM	PER	his sire
+-1	16687	16687	PRON	PER	he
+-1	16705	16705	PRON	PER	his
+-1	16705	16706	NOM	GPE	his realm
+-1	16709	16713	NOM	PER	an old and sonless king
+-1	16717	16717	PRON	PER	he
+-1	16724	16724	PRON	PER	his
+-1	16724	16725	NOM	PER	his son
+-1	16734	16734	PRON	PER	he
+-1	16740	16740	PRON	PER	he
+296	16742	16743	PROP	PER	fair Svanhild
+-1	16745	16745	PRON	PER	her
+-1	16753	16753	PRON	PER	his
+-1	16757	16757	PRON	PER	she
+-1	16764	16764	PRON	PER	his
+-1	16768	16768	PRON	PER	he
+-1	16770	16770	PRON	PER	his
+-1	16770	16771	NOM	PER	his men
+-1	16774	16774	PRON	PER	her
+-1	16777	16777	PRON	PER	her
+-1	16780	16780	PRON	PER	their
+-1	16783	16783	PRON	PER	her
+264	16789	16789	PROP	PER	Gudrun
+-1	16793	16793	PRON	PER	she
+-1	16796	16796	PRON	PER	her
+-1	16796	16799	NOM	PER	her three Niflung sons
+-1	16802	16802	PRON	PER	their
+-1	16802	16803	NOM	PER	their sister
+-1	16808	16808	PRON	PER	she
+-1	16810	16810	PRON	PER	them
+-1	16819	16819	PRON	PER	them
+-1	16821	16821	PRON	PER	They
+266	16826	16826	PROP	PER	Hermanaric
+-1	16828	16828	PRON	PER	he
+293	16831	16831	PROP	PER	Saurli
+-1	16836	16836	PRON	PER	his
+294	16839	16839	PROP	PER	Hamdir
+-1	16840	16840	PRON	PER	his
+-1	16845	16845	PRON	PER	his
+-1	16850	16851	NOM	PER	the three
+-1	16855	16856	NOM	PER	the two
+295	16858	16858	PROP	PER	Erp
+-1	16861	16861	PRON	PER	he
+-1	16864	16864	PRON	PER	them
+-1	16866	16866	PRON	PER	they
+266	16869	16869	PROP	GPE	Hermanaric
+-1	16879	16879	PRON	PER	he
+-1	16888	16888	PRON	PER	they
+-1	16900	16900	PRON	PER	their
+-1	16900	16901	NOM	PER	their mother
+295	16903	16903	PROP	PER	Erp
+-1	16906	16906	PRON	PER	they
+-1	16908	16908	PRON	PER	him
+293	16914	16914	PROP	PER	Saurli
+-1	16922	16922	PRON	PER	himself
+-1	16944	16944	PRON	PER	they
+266	16947	16947	PROP	PER	Hermanaric
+-1	16949	16949	PRON	PER	he
+293	16953	16953	PROP	PER	Saurli
+-1	16956	16956	PRON	PER	his
+294	16960	16960	PROP	PER	Hamdir
+-1	16961	16961	PRON	PER	his
+-1	16965	16965	PRON	PER	he
+-1	16970	16970	PRON	PER	his
+-1	16970	16971	NOM	PER	his men
+294	16975	16975	PROP	PER	Hamdir
+295	16979	16979	PROP	PER	Erp
+-1	16989	16989	PRON	PER	he
+266	16997	16997	PROP	PER	Hermanaric
+-1	16997	16999	NOM	PER	Hermanaric ’s men
+-1	17008	17008	PRON	PER	they
+-1	17015	17015	PRON	PER	them
+-1	17017	17022	NOM	PER	an old one - eyed man
+-1	17024	17024	PRON	PER	them
+-1	17028	17028	PRON	PER	them
+293	17034	17034	PROP	PER	Saurli
+294	17036	17036	PROP	PER	Hamdir
+264	17041	17041	PROP	PER	Gudrun
+-1	17047	17047	PRON	PER	her
+270	17049	17050	PROP	PER	the Volsung
+-1	17100	17100	PRON	PER	our
+-1	17100	17101	NOM	PER	our forefathers
+192	17150	17151	PROP	PER	The Greeks
+-1	17153	17153	NOM	PER	Atheists
+-1	17155	17155	PRON	PER	they
+299	17157	17157	PROP	PER	Christian
+-1	17159	17159	PRON	PER	Their
+-1	17167	17167	PRON	PER	We
+-1	17185	17185	NOM	PER	men
+-1	17201	17201	PRON	PER	we
+300	17237	17237	PROP	PER	Apollo
+301	17239	17239	PROP	PER	Aphrodite
+302	17242	17242	PROP	PER	Zeus
+303	17244	17244	PROP	PER	Athene
+-1	17247	17248	NOM	PER	perfect man
+-1	17252	17254	NOM	PER	woman - worship
+241	17278	17278	PROP	PER	Norseman
+-1	17295	17295	PRON	PER	it
+-1	17300	17301	NOM	PER	the Muses
+-1	17320	17320	PRON	PER	its
+-1	17378	17378	PRON	PER	us
+192	17380	17381	PROP	LOC	the Greeks
+-1	17385	17388	NOM	PER	that downcast brooding heart
+-1	17399	17399	PRON	PER	it
+304	17414	17414	PROP	PER	Providence
+-1	17417	17422	NOM	LOC	the stately sapling in the North
+-1	17421	17422	NOM	LOC	the North
+-1	17434	17437	NOM	LOC	the pines of Delphi
+91	17437	17437	PROP	GPE	Delphi
+92	17439	17439	PROP	GPE	Dodona
+-1	17445	17445	PRON	PER	they
+-1	17506	17506	NOM	LOC	earth
+-1	17529	17531	NOM	PER	The highest God
+-1	17533	17534	NOM	PER	a father
+-1	17538	17538	PRON	PER	his
+-1	17538	17539	NOM	PER	his children
+-1	17543	17543	PRON	PER	them
+-1	17548	17548	PRON	PER	they
+-1	17553	17553	PRON	PER	they
+-1	17557	17557	PRON	PER	them
+-1	17559	17559	PRON	PER	himself
+-1	17562	17565	NOM	PER	those fatherly abodes Death
+-1	17574	17574	NOM	FAC	home
+-1	17580	17582	NOM	PER	this great father
+-1	17584	17586	NOM	PER	a venerable goddess
+-1	17592	17598	NOM	PER	the great mother of gods and men
+-1	17598	17598	NOM	PER	men
+-1	17603	17605	NOM	PER	this divine pair
+-1	17607	17608	NOM	LOC	the land
+-1	17610	17610	PRON	PER	he
+-1	17612	17613	NOM	PER	the men
+-1	17646	17647	NOM	PER	the women
+-1	17648	17648	PRON	PER	she
+-1	17659	17659	PRON	PER	her
+-1	17660	17660	PRON	PER	they
+-1	17672	17672	PRON	PER	her
+-1	17676	17677	NOM	PER	the husbandman
+-1	17681	17681	PRON	PER	his
+-1	17681	17682	NOM	LOC	his fields
+-1	17685	17685	PRON	PER	him
+-1	17692	17692	PRON	PER	her
+304	17707	17707	PROP	PER	Providence
+-1	17714	17714	PRON	PER	they
+-1	17723	17723	PRON	PER	their
+-1	17734	17734	NOM	PER	woman
+-1	17738	17740	NOM	PER	the Western nations
+-1	17749	17749	PRON	PER	their
+-1	17756	17756	PRON	PER	she
+-1	17758	17762	NOM	PER	a slave in the East
+-1	17761	17762	NOM	LOC	the East
+-1	17764	17775	NOM	PER	a toy to the Greeks , and a housewife to the Romans
+192	17767	17768	PROP	PER	the Greeks
+-1	17771	17772	NOM	PER	a housewife
+-1	17774	17775	NOM	PER	the Romans
+-1	17777	17777	PRON	PER	she
+-1	17779	17783	NOM	PER	a helpmeet to the Teuton
+305	17782	17783	PROP	PER	the Teuton
+-1	17787	17789	NOM	PER	those stern warriors
+-1	17794	17794	PRON	PER	her
+-1	17800	17800	PRON	PER	her
+306	17810	17812	PROP	PER	the Virgin Mary
+-1	17821	17821	NOM	PER	woman
+-1	17841	17842	NOM	LOC	Eastern soil
+-1	17858	17859	NOM	PER	the Greek
+-1	17864	17865	NOM	PER	the Norseman
+-1	17909	17913	NOM	PER	this person you shall love
+-1	17911	17911	PRON	PER	you
+-1	17923	17923	PRON	PER	you
+-1	17946	17946	PRON	PER	us
+-1	17948	17948	PRON	PER	our
+-1	17951	17951	PRON	PER	our
+-1	17954	17954	PRON	PER	us
+-1	17965	17965	PRON	PER	we
+-1	17974	17974	PRON	PER	us
+-1	17990	17991	NOM	PER	the gods
+-1	17994	18027	NOM	PER	such the heroes of the Norseman ; who , like his own gods , went smiling to death under the weight of an inevitable destiny . But that fate never fell on their gods
+-1	17995	17999	NOM	PER	the heroes of the Norseman
+241	17998	17999	PROP	PER	the Norseman
+-1	18004	18004	PRON	PER	his
+-1	18004	18006	NOM	PER	his own gods
+-1	18026	18026	PRON	PER	their
+-1	18026	18027	NOM	PER	their gods
+247	18035	18036	PROP	PER	the Norsemen
+-1	18046	18046	PRON	PER	they
+-1	18071	18085	NOM	PER	a race of heathen warriors , who externally were at war with all the world
+-1	18083	18085	NOM	LOC	all the world
+-1	18097	18099	NOM	PER	the converted Christian
+72	18119	18120	PROP	LOC	the North
+-1	18123	18123	NOM	PER	kings
+-1	18125	18125	NOM	PER	queens
+-1	18127	18130	NOM	PER	the foster - fathers
+-1	18132	18137	NOM	PER	nursing - mothers of the Church
+-1	18136	18137	NOM	ORG	the Church
+-1	18140	18142	NOM	PER	the great chiefs
+-1	18144	18149	NOM	PER	each a little king in himself
+-1	18149	18149	PRON	PER	himself
+-1	18164	18168	NOM	PER	the bulk of the people
+-1	18167	18168	NOM	PER	the people
+-1	18183	18183	NOM	PER	kings
+-1	18186	18186	NOM	PER	kings
+-1	18191	18191	PRON	PER	they
+84	18216	18216	PROP	GPE	Denmark
+93	18218	18218	PROP	GPE	Norway
+10	18220	18220	PROP	GPE	Iceland
+94	18223	18223	PROP	GPE	Sweden
+-1	18225	18225	PRON	PER	we
+-1	18227	18227	PRON	PER	them
+-1	18243	18249	NOM	PER	the missionaries of the Church of Rome
+22	18249	18249	PROP	GPE	Rome
+-1	18256	18256	PRON	PER	we
+22	18281	18281	PROP	GPE	Rome
+-1	18306	18306	PRON	PER	we
+-1	18332	18335	NOM	FAC	the Church of Rome
+22	18335	18335	PROP	GPE	Rome
+22	18418	18418	PROP	GPE	Rome
+-1	18424	18425	NOM	PER	the Pope
+-1	18428	18429	NOM	PER	the faithful
+-1	18431	18438	NOM	GPE	whole nations in the barbarous and frozen North
+-1	18434	18438	NOM	GPE	the barbarous and frozen North
+248	18449	18449	PROP	PER	Odin
+72	18491	18492	PROP	LOC	the North
+-1	18531	18532	NOM	PER	the Saviour
+-1	18534	18535	NOM	PER	the disciple
+-1	18537	18537	PRON	PER	he
+-1	18543	18543	PRON	PER	thy
+-1	18546	18546	PRON	PER	his
+-1	18551	18551	PRON	PER	they
+-1	18570	18570	NOM	PER	converts
+-1	18589	18591	NOM	PER	the new converts
+-1	18597	18598	NOM	PER	the missionaries
+-1	18600	18621	NOM	PER	the kings who sheltered them , and only yielded at last to the overwhelming weight of Christian opinion in the Western world
+-1	18604	18604	PRON	PER	them
+-1	18619	18621	NOM	LOC	the Western world
+307	18623	18624	PROP	PER	St Olof
+-1	18626	18626	NOM	PER	king
+-1	18628	18628	NOM	PER	martyr
+-1	18635	18635	PRON	PER	his
+-1	18635	18638	NOM	PER	his mutinous allodial freemen
+-1	18641	18641	PRON	PER	he
+-1	18649	18649	PRON	PER	them
+308	18655	18672	PROP	PER	another Olof , greater than he , Olof Tryggvason , who fell in battle against the heathen Swedes
+308	18656	18656	PROP	PER	Olof
+-1	18660	18660	PRON	PER	he
+308	18662	18663	PROP	PER	Olof Tryggvason
+-1	18670	18672	NOM	PER	the heathen Swedes
+-1	18675	18680	NOM	PER	men of blood rather than peace
+-1	18684	18684	PRON	PER	them
+93	18692	18692	PROP	GPE	Norway
+218	18699	18699	PROP	PER	Charlemagne
+-1	18709	18710	NOM	PER	the Saxons
+-1	18712	18714	NOM	FAC	the Main Bridge
+-1	18717	18717	PRON	PER	his
+-1	18728	18732	NOM	PER	the first missionary to Iceland
+10	18732	18732	PROP	GPE	Iceland
+-1	18748	18766	NOM	PER	a stout champion named Thangbrand , who , whenever there was what we should now call a missionary meeting
+309	18752	18752	PROP	PER	Thangbrand
+-1	18760	18760	PRON	PER	we
+-1	18769	18774	NOM	PER	any impugner of the new doctrines
+-1	18789	18790	NOM	PER	several opponents
+-1	18796	18796	PRON	PER	he
+-1	18799	18799	PRON	PER	his
+-1	18799	18801	NOM	PER	his missionary friend
+-1	18803	18804	NOM	LOC	the island
+-1	18812	18812	PRON	PER	him
+-1	18815	18815	PRON	PER	he
+-1	18818	18819	NOM	PER	the missionary
+-1	18830	18830	NOM	VEH	ship
+93	18835	18835	PROP	GPE	Norway
+22	18859	18859	PROP	PER	Rome
+-1	18861	18861	PRON	PER	her
+-1	18864	18866	NOM	PER	the heathen Norsemen
+-1	18870	18870	PRON	PER	she
+-1	18872	18872	PRON	PER	herself
+-1	18877	18877	PRON	PER	their
+-1	18885	18887	NOM	GPE	more enlightened nations
+-1	18889	18889	PRON	PER	she
+311	18894	18895	PROP	PER	St Paul
+-1	18900	18900	PRON	PER	herself
+-1	18905	18906	NOM	PER	all men
+10	18917	18917	PROP	GPE	Iceland
+312	18927	18929	PROP	PER	King Olof Tryggvason
+-1	18931	18933	NOM	PER	a zealous Christian
+-1	18939	18951	NOM	PER	all the Icelanders of family and fame who happened to be in Norway
+-1	18943	18943	NOM	PER	family
+93	18951	18951	PROP	GPE	Norway
+-1	18960	18966	NOM	PER	the chiefs of those families at home
+-1	18966	18966	NOM	FAC	home
+-1	18970	18970	PRON	PER	their
+-1	18973	18988	NOM	PER	the lawman who presided over the Great Assembly to pronounce in favour of the new Faith
+-1	18992	18997	NOM	PER	the adherents of the old religion
+-1	19020	19020	NOM	PER	infants
+-1	19034	19035	NOM	PER	the heathen
+-1	19037	19037	PRON	PER	their
+-1	19040	19040	PRON	PER	they
+-1	19046	19047	NOM	PER	the gods
+-1	19080	19083	NOM	PER	those students of history
+-1	19094	19100	NOM	PER	a large proportion of the English nation
+-1	19098	19100	NOM	GPE	the English nation
+95	19103	19106	PROP	FAC	the Church of Rome
+22	19106	19106	PROP	GPE	Rome
+-1	19110	19111	NOM	GPE	the State
+-1	19124	19126	NOM	GPE	a whole nation
+22	19163	19163	PROP	GPE	Rome
+72	19166	19167	PROP	LOC	the North
+-1	19207	19208	NOM	PER	the populace
+-1	19219	19219	PRON	PER	their
+-1	19228	19229	NOM	FAC	a church
+-1	19236	19237	NOM	FAC	a cemetery
+-1	19251	19253	NOM	FAC	a Christian sanctuary
+-1	19261	19262	NOM	PER	the faithful
+-1	19277	19283	NOM	FAC	the church - yard round the cross
+-1	19312	19313	NOM	FAC	Great churches
+-1	19318	19318	PRON	FAC	them
+96	19322	19322	PROP	GPE	Walsingham
+-1	19325	19326	NOM	FAC	an abbey
+-1	19328	19332	NOM	FAC	the holiest place in England
+2	19332	19332	PROP	GPE	England
+-1	19335	19341	NOM	FAC	the shrine of St Thomas at Canterbury
+313	19338	19339	PROP	PER	St Thomas
+97	19341	19341	PROP	GPE	Canterbury
+-1	19344	19344	PRON	FAC	its
+-1	19348	19352	NOM	FAC	the heathen wishing - well
+-1	19355	19361	NOM	PER	the worshippers of Odin and the Nornir
+248	19358	19358	PROP	PER	Odin
+314	19360	19361	PROP	PER	the Nornir
+-1	19368	19370	NOM	PER	the Virgin Mary
+-1	19389	19390	NOM	PER	medieval divines
+-1	19398	19398	NOM	FAC	churches
+2	19402	19402	PROP	GPE	England
+-1	19417	19419	NOM	PER	the ancient gods
+-1	19421	19421	PRON	PER	They
+-1	19433	19433	PRON	PER	They
+-1	19435	19435	PRON	PER	their
+-1	19440	19443	NOM	PER	the protectors of men
+-1	19443	19443	NOM	PER	men
+-1	19453	19453	PRON	PER	their
+-1	19458	19458	PRON	PER	they
+-1	19467	19468	NOM	PER	malignant demons
+-1	19471	19474	NOM	PER	the worshippers of Odin
+248	19474	19474	PROP	PER	Odin
+-1	19488	19488	PRON	PER	themselves
+-1	19498	19499	NOM	LOC	the land
+-1	19507	19507	PRON	PER	their
+-1	19519	19519	PRON	PER	their
+-1	19534	19536	NOM	PER	the pious heathen
+-1	19538	19538	PRON	PER	his
+-1	19538	19539	NOM	PER	his gods
+-1	19571	19572	NOM	LOC	the sea
+-1	19574	19574	PRON	PER	his
+-1	19582	19582	PRON	PER	he
+-1	19586	19586	PRON	PER	them
+248	19596	19596	PROP	PER	Odin
+-1	19599	19599	PRON	PER	his
+-1	19604	19604	PRON	PER	his
+-1	19610	19610	PRON	PER	their
+-1	19638	19638	PRON	PER	his
+-1	19654	19658	NOM	PER	weary mortals laid it down
+-1	19661	19661	PRON	PER	them
+-1	19681	19681	PRON	PER	they
+-1	19691	19697	NOM	FAC	the bright path of the Milky Way
+98	19695	19697	PROP	LOC	the Milky Way
+404	19701	19702	PROP	LOC	the Bear
+-1	19703	19703	PRON	PER	they
+-1	19710	19711	NOM	PER	the warrior
+-1	19710	19713	NOM	PER	the warrior ’s god
+-1	19715	19717	NOM	PER	The great goddesses
+315	19721	19721	PROP	PER	Frigga
+316	19723	19723	PROP	PER	Freyja
+-1	19733	19733	PRON	PER	They
+-1	19735	19735	NOM	PER	women
+-1	19737	19737	PRON	PER	their
+-1	19741	19741	PRON	PER	they
+-1	19743	19743	PRON	PER	themselves
+-1	19745	19745	PRON	PER	they
+-1	19747	19748	NOM	PER	the maids
+-1	19754	19754	PRON	PER	them
+-1	19760	19760	PRON	PER	their
+-1	19763	19763	PRON	PER	They
+317	19774	19774	PROP	PER	Holda
+318	19776	19776	PROP	PER	Bertha
+-1	19783	19783	PRON	PER	them
+-1	19801	19803	NOM	LOC	the external world
+-1	19818	19818	NOM	FAC	home
+-1	19834	19840	NOM	PER	men , in all ages and climes
+-1	19847	19847	PRON	PER	they
+-1	19863	19863	NOM	PER	man
+-1	19867	19868	NOM	PER	a nation
+-1	19873	19873	NOM	PER	others
+-1	19888	19888	NOM	FAC	home
+-1	19897	19898	NOM	LOC	the earth
+-1	19925	19926	NOM	PER	the God
+-1	19934	19934	NOM	PER	man
+-1	19947	19948	NOM	PER	the people
+-1	19963	19965	NOM	PER	an infernal warrior
+-1	19967	19967	NOM	PER	huntsman
+172	19980	19980	PROP	PER	Grimm
+-1	19984	19985	NOM	PER	the heathen
+-1	19990	19998	NOM	PER	the spirits of those who had gone to Odin
+248	19998	19998	PROP	PER	Odin
+-1	20000	20000	PRON	PER	him
+-1	20002	20002	PRON	PER	his
+-1	20011	20011	PRON	PER	they
+-1	20014	20014	PRON	PER	him
+-1	20021	20021	PRON	PER	they
+-1	20023	20023	PRON	PER	him
+-1	20030	20030	PRON	PER	him
+82	20032	20032	PROP	GPE	Valhalla
+-1	20044	20046	NOM	PER	the mighty god
+-1	20048	20050	NOM	PER	a demon huntsman
+-1	20054	20054	PRON	PER	his
+-1	20060	20061	NOM	PER	human souls
+-1	20068	20080	NOM	PER	the infernal master of the hunt only the spectres of suicides , drunkards
+-1	20099	20106	NOM	PER	children who died unbaptized , whose hard fate
+-1	20109	20109	PRON	PER	them
+-1	20139	20141	NOM	PER	the Wild Huntsman
+-1	20143	20143	PRON	PER	his
+-1	20143	20145	NOM	PER	his accursed crew
+94	20190	20190	PROP	GPE	Sweden
+248	20194	20194	PROP	PER	Odin
+84	20200	20200	PROP	GPE	Denmark
+319	20203	20204	PROP	PER	King Waldemar
+93	20209	20209	PROP	GPE	Norway
+100	20212	20212	PROP	GPE	Aaskereida
+101	20216	20218	PROP	LOC	Asgard ’s Car
+102	20221	20221	PROP	GPE	Germany
+320	20227	20227	PROP	PER	Woden
+321	20230	20230	PROP	PER	Hackelberend
+103	20235	20235	PROP	GPE	Bern
+13	20238	20238	PROP	GPE	France
+104	20241	20241	PROP	GPE	Hellequin
+322	20244	20245	PROP	PER	King Hugo
+323	20248	20250	PROP	PER	Charles the Fifth
+105	20269	20272	PROP	LOC	the Forest of Fontainebleau
+2	20276	20276	PROP	GPE	England
+-1	20278	20278	PRON	PER	her
+-1	20282	20282	PRON	PER	his
+324	20286	20288	PROP	PER	Gervase of Tilbury
+325	20299	20300	PROP	PER	King Arthur
+-1	20312	20312	PRON	PER	he
+-1	20316	20317	NOM	PER	the foresters
+-1	20351	20353	NOM	PER	hunters on horses
+-1	20367	20368	NOM	PER	those hunters
+-1	20376	20376	PRON	PER	they
+-1	20379	20379	PRON	PER	they
+325	20383	20383	PROP	PER	Arthur
+-1	20388	20388	PRON	PER	We
+-1	20391	20391	PRON	PER	him
+106	20394	20397	PROP	LOC	The Complaynt of Scotland
+107	20397	20397	PROP	GPE	Scotland
+-1	20404	20404	NOM	PER	some
+326	20406	20408	PROP	PER	Sir David Lyndsay
+108	20410	20411	PROP	LOC	the Mount
+109	20413	20413	PROP	GPE	Fife
+110	20417	20417	PROP	GPE	Gilmerton
+111	20419	20420	PROP	GPE	East Lothian
+-1	20429	20429	PRON	PER	he
+325	20432	20433	PROP	PER	Arthur knycht
+-1	20435	20435	PRON	PER	he
+-1	20449	20449	PRON	PER	we
+-1	20460	20460	PRON	PER	Herne
+-1	20466	20471	NOM	PER	a keeper here in Windsor Forest
+112	20470	20471	PROP	GPE	Windsor Forest
+-1	20496	20496	PRON	PER	he
+-1	20526	20529	NOM	PER	Merry Wives of Windsor
+113	20529	20529	PROP	GPE	Windsor
+-1	20544	20547	NOM	LOC	various parts of England
+2	20547	20547	PROP	GPE	England
+-1	20552	20554	NOM	PER	some great man
+-1	20557	20572	NOM	PER	a member of one of the county families , who drives about the country at night
+-1	20560	20564	NOM	PER	one of the county families
+-1	20562	20563	NOM	GPE	the county
+-1	20569	20570	NOM	LOC	the country
+114	20580	20580	PROP	GPE	Warwickshire
+-1	20596	20596	PRON	PER	his
+-1	20596	20597	NOM	VEH	his coach
+-1	20603	20605	NOM	PER	the benighted traveller
+-1	20610	20610	PRON	PER	him
+327	20616	20617	PROP	PER	Lady Skipwith
+-1	20623	20626	NOM	LOC	the country at night
+-1	20663	20665	NOM	PER	a glorious God
+-1	20691	20691	PRON	PER	itself
+-1	20701	20702	NOM	PER	some king
+-1	20704	20704	NOM	PER	hero
+325	20707	20707	PROP	PER	Arthur
+319	20709	20709	PROP	PER	Waldemar
+-1	20717	20718	NOM	PER	some squire
+-1	20717	20720	NOM	PER	some squire ’s family
+321	20723	20723	PROP	PER	Hackelberend
+328	20737	20739	PROP	PER	the Keeper Herne
+248	20741	20741	PROP	PER	Odin
+-1	20743	20744	NOM	PER	the Aesir
+-1	20751	20751	PRON	PER	our
+-1	20751	20752	NOM	PER	our Saviour
+-1	20754	20754	PRON	PER	his
+-1	20754	20755	NOM	PER	his Apostles
+-1	20759	20759	PRON	PER	they
+250	20765	20767	PROP	PER	the Frost Giants
+-1	20782	20784	NOM	PER	Trolls and Giants
+-1	20791	20791	NOM	PER	man
+-1	20803	20803	PRON	PER	her
+-1	20809	20812	NOM	PER	this half - result
+-1	20817	20820	NOM	ORG	the Church of Rome
+22	20820	20820	PROP	GPE	Rome
+-1	20826	20826	PRON	PER	Her
+329	20832	20832	PROP	PER	Augustine
+330	20834	20834	PROP	PER	Boniface
+331	20837	20837	PROP	PER	Anschar
+332	20839	20839	PROP	PER	Sigfrid
+-1	20848	20848	PRON	PER	she
+72	20855	20856	PROP	LOC	the North
+333	20864	20865	PROP	PER	the Wolf
+248	20869	20869	PROP	PER	Odin
+-1	20880	20880	PRON	PER	she
+-1	20894	20894	PRON	PER	her
+-1	20898	20898	PRON	PER	her
+334	20901	20901	PROP	PER	Gregory
+-1	20902	20908	NOM	PER	the Seventh , elected pope in 1073
+-1	20911	20912	NOM	PER	the clergy
+-1	20943	20944	NOM	PER	the clergy
+-1	20945	20945	PRON	PER	he
+-1	20950	20951	NOM	ORG	the church
+-1	20954	20954	PRON	PER	her
+-1	20957	20959	NOM	ORG	a missionary church
+-1	20964	20964	PRON	PER	she
+-1	20968	20968	NOM	PER	missionaries
+-1	20970	20970	NOM	PER	apostles
+-1	20979	20979	PRON	PER	she
+-1	20985	20991	NOM	LOC	the barren soil of the Holy Sepulchre
+-1	20989	20991	NOM	PER	the Holy Sepulchre
+-1	20996	20997	NOM	PER	heretic Albigenses
+-1	21000	21000	PRON	PER	she
+-1	21005	21005	NOM	PER	Templars
+-1	21007	21015	NOM	PER	Hospitallers , whose pride and luxury , and pomp
+-1	21029	21029	PRON	PER	she
+-1	21031	21031	NOM	PER	feudal,—she
+335	21045	21046	PROP	PER	St Peter
+-1	21051	21051	NOM	PER	men
+-1	21064	21064	PRON	PER	she
+-1	21067	21068	NOM	PER	the Apostle
+-1	21073	21073	PRON	PER	She
+-1	21081	21081	PRON	PER	she
+-1	21104	21104	PRON	PER	her
+-1	21107	21108	NOM	PER	the heathen
+-1	21113	21113	PRON	PER	their
+-1	21116	21116	PRON	PER	she
+-1	21120	21120	PRON	PER	herself
+-1	21123	21123	PRON	PER	she
+-1	21135	21135	PRON	PER	she
+-1	21147	21147	PRON	PER	our
+-1	21147	21148	NOM	PER	our Lord
+-1	21150	21150	PRON	PER	his
+-1	21150	21151	NOM	PER	his Apostles
+-1	21161	21161	PRON	PER	her
+-1	21171	21171	NOM	LOC	earth
+-1	21173	21173	PRON	PER	she
+336	21176	21176	PROP	PER	Lucifer
+-1	21200	21206	NOM	PER	enlightened men , working upon popular opinion
+-1	21213	21213	PRON	PER	she
+-1	21216	21216	PRON	PER	her
+-1	21221	21221	PRON	PER	her
+-1	21228	21228	PRON	PER	she
+-1	21237	21237	PRON	PER	she
+-1	21246	21246	PRON	PER	she
+247	21270	21271	PROP	PER	the Norsemen
+-1	21282	21282	PRON	PER	They
+15	21285	21286	PROP	LOC	the East
+-1	21296	21296	PRON	PER	them
+-1	21300	21302	NOM	LOC	the Scandinavian peninsula
+-1	21304	21304	PRON	PER	they
+-1	21306	21306	PRON	PER	themselves
+-1	21328	21333	NOM	PER	the Daleman in Norway or Sweden
+93	21331	21331	PROP	GPE	Norway
+94	21333	21333	PROP	GPE	Sweden
+-1	21347	21347	PRON	PER	We
+-1	21419	21420	NOM	PER	any people
+-1	21441	21441	PRON	FAC	its
+-1	21441	21443	NOM	FAC	its old home
+-1	21445	21446	NOM	LOC	the East
+-1	21449	21449	PRON	PER	we
+-1	21455	21455	PRON	PER	we
+-1	21460	21460	PRON	FAC	its
+-1	21476	21477	NOM	PER	heathen gods
+-1	21483	21484	NOM	PER	Christian saints
+-1	21493	21493	PRON	PER	our
+-1	21498	21499	NOM	PER	a nation
+-1	21509	21509	PRON	PER	its
+-1	21523	21523	PRON	PER	it
+-1	21550	21551	NOM	PER	the Gods
+-1	21553	21553	NOM	LOC	earth
+-1	21561	21561	PRON	PER	they
+-1	21564	21564	NOM	PER	mortals
+-1	21568	21568	PRON	PER	themselves
+-1	21570	21570	PRON	PER	their
+-1	21587	21587	NOM	PER	men
+187	21604	21604	PROP	PER	God
+-1	21607	21607	PRON	PER	we
+-1	21615	21620	NOM	PER	the most pious and perfect Christian
+-1	21644	21645	NOM	PER	the apostle
+-1	21649	21650	NOM	PER	the Hebrews
+-1	21656	21656	PRON	PER	his
+-1	21662	21662	NOM	PER	angels
+-1	21668	21668	PRON	PER	he
+-1	21674	21677	NOM	PER	the men of Lystra
+115	21677	21677	PROP	GPE	Lystra
+-1	21680	21681	NOM	PER	The Gods
+-1	21686	21686	PRON	PER	us
+-1	21691	21691	NOM	PER	men
+-1	21696	21696	PRON	PER	they
+252	21699	21700	PROP	PER	Barnabas Jupiter
+-1	21704	21704	PRON	PER	himself
+337	21705	21705	PROP	PER	Mercury
+-1	21709	21709	PRON	PER	he
+-1	21711	21713	NOM	PER	the chief speaker
+-1	21727	21728	NOM	PER	the Gods
+-1	21749	21750	NOM	PER	a stranger
+-1	21762	21764	NOM	PER	the wayfaring man
+-1	21767	21770	NOM	PER	a Divinity in disguise
+338	21778	21778	PROP	PER	Orion
+-1	21780	21780	PRON	PER	his
+-1	21786	21788	NOM	PER	the childless Hyrieus
+-1	21790	21790	PRON	PER	his
+-1	21790	21792	NOM	PER	his reputed father
+302	21798	21798	PROP	PER	Zeus
+339	21800	21800	PROP	PER	Poseidon
+340	21803	21803	PROP	PER	Hermes
+-1	21809	21809	PRON	PER	them
+-1	21811	21811	PRON	PER	their
+252	21815	21815	PROP	PER	Jupiter
+341	21817	21817	PROP	PER	Neptune
+337	21820	21820	PROP	PER	Mercury
+342	21827	21827	PROP	PER	Philemon
+343	21829	21829	PROP	PER	Baucis
+252	21831	21831	PROP	PER	Jupiter
+337	21833	21833	PROP	PER	Mercury
+-1	21835	21850	NOM	PER	the aged couple who had so hospitably received them by warning them of the approaching deluge
+-1	21843	21843	PRON	PER	them
+-1	21846	21846	PRON	PER	them
+344	21855	21855	PROP	PER	Phaedrus
+345	21857	21857	PROP	PER	Aesop
+337	21859	21859	PROP	PER	Mercury
+346	21861	21861	PROP	PER	Demeter
+-1	21869	21869	NOM	PER	men
+12	21872	21872	PROP	GPE	India
+347	21875	21875	PROP	PER	Brahma
+254	21877	21877	PROP	PER	Vishnu
+248	21886	21886	PROP	PER	Odin
+278	21888	21888	PROP	PER	Loki
+348	21891	21891	PROP	PER	Hoenir
+255	21897	21897	PROP	PER	Thor
+349	21899	21899	PROP	PER	Thialfi
+278	21902	21902	PROP	PER	Loki
+248	21905	21905	PROP	PER	Odin
+-1	21909	21916	NOM	PER	a horseman , who turns in at night
+-1	21918	21919	NOM	PER	the smith
+-1	21918	21921	NOM	FAC	the smith ’s house
+-1	21925	21925	PRON	PER	him
+-1	21928	21928	PRON	PER	his
+-1	21935	21935	PRON	PER	us
+-1	21939	21942	NOM	PER	the Master - smith.[25
+255	21947	21947	PROP	PER	Thor
+-1	21949	21949	PRON	PER	his
+-1	21960	21960	PRON	PER	us
+-1	21977	21978	NOM	PER	wandering gods
+-1	21991	21991	PRON	PER	our
+-1	21991	21993	NOM	PER	our blessed Lord
+335	21995	21996	PROP	PER	St Peter
+-1	22003	22003	PRON	PER	we
+-1	22012	22012	PRON	PER	we
+-1	22016	22038	NOM	PER	Those who may be shocked at such tales in this collection as “ the Master - Smith ” and “ Gertrude ’s Bird
+-1	22029	22033	NOM	PER	the Master - Smith ”
+350	22036	22036	PROP	PER	Gertrude
+-1	22073	22073	PRON	PER	we
+-1	22093	22094	NOM	PER	the Norsemen
+18	22105	22105	PROP	GPE	Europe
+102	22107	22107	PROP	GPE	Germany
+335	22115	22116	PROP	PER	St Peter
+-1	22127	22128	NOM	PER	the reader
+-1	22139	22141	NOM	PER	the shifty Loki
+-1	22147	22147	PRON	PER	he
+-1	22150	22150	PRON	PER	his
+-1	22162	22162	NOM	PER	men
+315	22169	22169	PROP	PER	Frigga
+248	22171	22171	PROP	PER	Odin
+-1	22171	22173	NOM	PER	Odin ’s wife
+316	22185	22185	PROP	PER	Freyja
+-1	22187	22192	NOM	PER	the goddess of love and plenty
+-1	22195	22196	NOM	PER	prominent figures
+-1	22201	22202	NOM	LOC	the earth
+-1	22204	22307	NOM	PER	the three Norns or Fates , who sway the wierds of men , and spin their destinies at Mimirs ’ well of knowledge , were awful venerable powers , to whom the heathen world looked up with love and adoration and awe . To that love and adoration and awe , throughout the middle age , one woman , transfigured into a divine shape , succeeded by a sort of natural right , and round the Virgin Mary ’s blessed head a halo of lovely tales of divine help , beams with soft radiance as a crown bequeathed to her by the ancient goddesses
+-1	22212	22226	NOM	PER	the wierds of men , and spin their destinies at Mimirs ’ well of knowledge
+-1	22215	22215	NOM	PER	men
+-1	22219	22219	PRON	PER	their
+351	22222	22222	PROP	PER	Mimirs
+-1	22235	22237	NOM	LOC	the heathen world
+-1	22260	22275	NOM	PER	one woman , transfigured into a divine shape , succeeded by a sort of natural right
+306	22281	22281	PROP	PER	Mary
+-1	22303	22303	PRON	PER	her
+-1	22305	22307	NOM	PER	the ancient goddesses
+-1	22309	22309	PRON	PER	She
+-1	22312	22313	NOM	PER	divine mother
+-1	22315	22315	NOM	PER	spinner
+-1	22318	22323	NOM	PER	helpful virgin ( vierge sécourable )
+-1	22329	22329	PRON	PER	her
+2	22333	22333	PROP	GPE	England
+-1	22334	22340	NOM	PER	one of our commonest and prettiest insects
+-1	22336	22336	PRON	PER	our
+-1	22345	22345	PRON	PER	her
+316	22351	22351	PROP	PER	Freyja
+-1	22353	22356	NOM	PER	the heathen “ Lady
+-1	22361	22363	NOM	PER	the western nations
+-1	22371	22374	NOM	PER	the mother of Jesus.[26
+-1	22376	22380	NOM	PER	The reader of these Tales
+-1	22388	22389	NOM	PER	the Lassie
+-1	22391	22391	PRON	PER	her
+-1	22391	22392	NOM	PER	her Godmother
+306	22400	22402	PROP	PER	the Virgin Mary
+-1	22410	22418	NOM	PER	the majestic guardian of sun , moon and stars
+-1	22424	22428	NOM	PER	a helpful , kindly woman
+-1	22433	22433	PRON	PER	she
+241	22449	22450	PROP	PER	The Norseman
+-1	22449	22452	NOM	PER	The Norseman ’s god
+-1	22454	22457	NOM	PER	a god of battles
+-1	22461	22461	PRON	PER	his
+-1	22465	22465	NOM	PER	men
+-1	22476	22478	NOM	PER	the Great Father
+-1	22497	22497	PRON	PER	him
+249	22499	22500	PROP	PER	the Aesir
+248	22502	22502	PROP	PER	Odin
+-1	22546	22550	NOM	PER	the weary race of men
+-1	22550	22550	NOM	PER	men
+-1	22560	22560	PRON	PER	their
+-1	22637	22637	PRON	PER	our
+-1	22672	22673	NOM	PER	the divinity
+-1	22678	22683	NOM	PER	the greatest of all Gods himself
+-1	22683	22683	PRON	PER	himself
+-1	22687	22687	PRON	PER	we
+187	22703	22704	PROP	PER	God ”
+248	22707	22707	PROP	PER	Odin
+-1	22721	22721	PRON	PER	we
+-1	22743	22743	PRON	PER	he
+-1	22750	22750	NOM	PER	masters
+-1	22753	22753	PRON	PER	his
+-1	22766	22766	NOM	PER	children
+-1	22770	22770	NOM	PER	men
+-1	22772	22772	PRON	PER	his
+-1	22772	22773	NOM	FAC	his house
+-1	22781	22790	NOM	PER	a being of boundless power and infinite free - will
+-1	22795	22795	PRON	PER	he
+-1	22798	22798	PRON	PER	his
+-1	22803	22804	NOM	PER	a child
+-1	22818	22821	NOM	PER	the Lord of creation
+-1	22825	22825	PRON	PER	his
+-1	22829	22833	NOM	PER	the father of a family
+-1	22832	22833	NOM	PER	a family
+-1	22842	22842	PRON	PER	he
+-1	22844	22844	PRON	PER	his
+-1	22844	22845	NOM	PER	his children
+-1	22849	22849	PRON	PER	his
+-1	22854	22854	PRON	PER	his
+-1	22854	22855	NOM	FAC	his house
+-1	22862	22862	NOM	PER	retainers
+-1	22864	22864	NOM	PER	dependants
+-1	22870	22872	NOM	PER	the Great Father
+248	22875	22875	PROP	PER	Odin
+-1	22877	22880	NOM	PER	the God of Wish
+352	22882	22883	PROP	PER	the Edda
+-1	22930	22935	NOM	PER	the great giver of all good
+-1	22938	22938	PRON	PER	we
+-1	22980	22980	NOM	PER	man
+-1	22991	22993	NOM	FAC	oska - barn
+-1	22995	23001	NOM	PER	a child after one ’s own heart
+-1	22998	22998	NOM	PER	one
+-1	23003	23005	NOM	PER	an adopted child
+352	23009	23011	PROP	PER	the younger Edda
+-1	23013	23013	PRON	PER	us
+-1	23015	23020	NOM	PER	all those who die in battle
+248	23022	23022	PROP	PER	Odin
+-1	23022	23026	NOM	PER	Odin ’s choice - bairns
+-1	23028	23028	PRON	PER	his
+-1	23028	23030	NOM	PER	his adopted children
+-1	23035	23035	PRON	PER	he
+-1	23038	23038	PRON	PER	his
+-1	23046	23046	PRON	PER	their
+-1	23052	23055	NOM	PER	the Icelandic Christian writers
+187	23062	23062	PROP	PER	God
+-1	23064	23065	NOM	PER	the baptized
+-1	23086	23087	NOM	PER	the Valkyries
+248	23089	23089	PROP	PER	Odin
+-1	23089	23093	NOM	PER	Odin ’s corse - choosers
+-1	23101	23101	PRON	PER	him
+-1	23111	23112	NOM	PER	the heroes
+82	23114	23114	PROP	GPE	Valhalla
+352	23118	23119	PROP	PER	the Edda
+-1	23133	23133	PRON	PER	their
+-1	23142	23142	PRON	PER	our
+-1	23154	23155	NOM	PER	that god
+248	23166	23166	PROP	PER	Odin
+-1	23167	23167	PRON	PER	himself
+-1	23175	23181	NOM	PER	those on whose side it was hurled
+255	23183	23183	PROP	PER	Thor
+-1	23200	23200	PRON	PER	his
+-1	23203	23203	PRON	PER	He
+-1	23215	23215	PRON	PER	he
+-1	23220	23220	PRON	PER	his
+353	23229	23229	PROP	PER	Freyr
+316	23237	23237	PROP	PER	Freyja
+116	23246	23246	PROP	GPE	Venus
+353	23254	23254	PROP	PER	Freyr
+-1	23259	23260	NOM	VEH	a ship
+117	23262	23262	PROP	LOC	Skithblathnir
+-1	23264	23264	PRON	PER	She
+-1	23270	23272	NOM	PER	all the Aesir
+-1	23275	23275	PRON	PER	their
+-1	23286	23286	PRON	PER	her
+-1	23297	23297	PRON	PER	she
+-1	23303	23303	PRON	PER	she
+-1	23316	23317	NOM	LOC	the sea
+-1	23319	23319	PRON	PER	her
+-1	23321	23321	PRON	PER	she
+353	23336	23336	PROP	PER	Freyr
+-1	23339	23339	PRON	PER	her
+-1	23347	23347	PRON	PER	her
+-1	23349	23349	PRON	PER	his
+248	23365	23365	PROP	PER	Odin
+354	23381	23381	PROP	PER	Idun
+-1	23385	23386	NOM	PER	the goddesses
+249	23397	23398	PROP	PER	the Aesir
+-1	23401	23401	PRON	PER	they
+355	23409	23409	PROP	PER	Oegir
+-1	23411	23413	NOM	PER	the sea giant
+-1	23423	23426	NOM	LOC	the Aegis of Athene
+303	23426	23426	PROP	GPE	Athene
+-1	23429	23443	NOM	FAC	that wonderful mill which the mythical Frodi owned , of which we shall shortly speak
+-1	23440	23440	PRON	PER	we
+-1	23448	23448	PRON	PER	us
+-1	23453	23455	NOM	PER	this great god
+-1	23460	23460	PRON	PER	his
+-1	23468	23468	PRON	PER	we
+-1	23489	23491	NOM	PER	the great Father
+-1	23496	23496	PRON	PER	he
+-1	23499	23499	PRON	PER	his
+-1	23499	23501	NOM	PER	his chosen sons
+-1	23503	23503	PRON	PER	We
+245	23518	23518	PROP	PER	Shortshanks
+-1	23520	23529	NOM	PER	those three old crookbacked hags who have only one eye
+-1	23532	23532	PRON	PER	he
+-1	23544	23548	NOM	PER	a whole army to flight
+-1	23557	23557	PRON	PER	we
+-1	23559	23565	NOM	PER	the “ one - eyed Odin ”
+-1	23569	23571	NOM	PER	an old hag
+-1	23581	23581	PRON	PER	we
+-1	23583	23589	NOM	PER	an old witch fused by popular tradition
+248	23594	23594	PROP	PER	Odin
+314	23596	23598	PROP	PER	the three Nornir
+-1	23603	23603	PRON	PER	he
+-1	23605	23611	NOM	VEH	that wondrous ship “ which can sail
+-1	23612	23617	NOM	LOC	over fresh water and salt water
+-1	23621	23622	NOM	LOC	high hills
+-1	23624	23625	NOM	LOC	deep dales
+-1	23634	23634	PRON	PER	he
+-1	23639	23639	PRON	PER	his
+-1	23646	23646	PRON	PER	he
+-1	23654	23656	NOM	PER	five hundred men
+-1	23658	23658	PRON	PER	we
+352	23666	23667	PROP	LOC	the Edda
+-1	23698	23698	PRON	PER	we
+-1	23726	23726	PRON	PER	you
+-1	23760	23760	PRON	PER	we
+356	23766	23766	PROP	PER	Frodi
+-1	23806	23818	NOM	PER	the Lad who went to the North Wind ” , No . xxxiv
+62	23811	23813	PROP	LOC	the North Wind
+-1	23825	23834	NOM	PER	the Three Princesses of Whiteland ” , No . xxvi
+63	23839	23841	PROP	LOC	Soria Moria Castle
+-1	23857	23857	PRON	PER	we
+-1	23859	23862	NOM	PER	those “ three brothers
+-1	23868	23869	NOM	LOC	a moor
+-1	23895	23895	PRON	PER	him
+-1	23907	23908	NOM	PER	the reader
+235	23919	23919	PROP	PER	Siegfried
+-1	23931	23931	PRON	PER	he
+-1	23944	23944	PRON	PER	him
+-1	23946	23946	PRON	PER	his
+-1	23970	23971	NOM	PER	the boy
+-1	23977	23977	PRON	PER	he
+-1	23983	23983	PRON	PER	he
+255	23992	23992	PROP	PER	Thor
+-1	24003	24005	NOM	PER	the daring boy
+-1	24006	24006	PRON	PER	himself
+-1	24010	24011	NOM	PER	the Troll
+255	24014	24014	PROP	PER	Thor
+-1	24015	24015	PRON	PER	himself
+-1	24022	24022	PRON	PER	his
+-1	24025	24026	NOM	PER	the Giants
+-1	24036	24039	NOM	PER	the Goose - girl
+-1	24050	24051	NOM	PER	the Prince
+-1	24056	24056	PRON	PER	his
+-1	24056	24057	NOM	PER	his brides
+-1	24086	24086	PRON	PER	his
+72	24099	24100	PROP	LOC	the North
+-1	24102	24102	PRON	PER	we
+-1	24110	24111	NOM	LOC	the East
+-1	24128	24128	PRON	PER	We
+-1	24149	24150	NOM	PER	the Romans
+-1	24157	24158	NOM	PER	the Greeks
+121	24170	24171	PROP	LOC	the Hindoos
+-1	24179	24181	NOM	LOC	the West Indian
+357	24182	24182	PROP	PER	Ananzi
+-1	24198	24198	PRON	PER	her
+197	24205	24206	PROP	PER	the Finns
+-1	24230	24239	NOM	PER	some bold spirit in the midst of a fairy revel
+-1	24254	24258	NOM	PER	the “ good folk ”
+-1	24260	24260	PRON	PER	her
+-1	24273	24274	NOM	PER	that mortal
+-1	24273	24276	NOM	FAC	that mortal ’s house
+-1	24290	24291	NOM	LOC	all lands
+-1	24305	24307	NOM	PER	that great God
+-1	24319	24324	NOM	PER	the divine realizer of their prayers
+-1	24323	24323	PRON	PER	their
+-1	24327	24332	NOM	PER	the giver of all good things
+-1	24335	24335	PRON	PER	they
+-1	24345	24345	PRON	PER	their
+-1	24369	24369	NOM	PER	man
+-1	24376	24376	PRON	PER	his
+358	24417	24417	PROP	PER	Augustus
+-1	24419	24422	NOM	FAC	the temple of Janus
+359	24422	24422	PROP	PER	Janus
+-1	24435	24437	NOM	PER	the proud Roman
+-1	24439	24441	NOM	LOC	the habitable world
+-1	24451	24452	NOM	PER	the Saviour
+-1	24460	24462	NOM	PER	that very Augustus
+-1	24468	24476	NOM	PER	some , whose thoughts are more set on earth
+-1	24500	24500	PRON	PER	their
+-1	24517	24518	NOM	PER	the Norseman
+-1	24523	24523	PRON	PER	his
+356	24525	24525	PROP	PER	Frodi
+356	24532	24532	PROP	PER	Frodi
+-1	24558	24559	NOM	PER	the king
+-1	24558	24561	NOM	FAC	the king ’s highway
+-1	24564	24565	NOM	FAC	the fields
+2	24573	24573	PROP	GPE	England
+-1	24575	24580	NOM	PER	the Anglo - Saxon Bede[30 ]
+360	24589	24589	PROP	PER	Edwin
+-1	24591	24593	NOM	PER	the Northumbrian King
+216	24597	24597	PROP	PER	Alfred
+360	24610	24610	PROP	PER	Edwin
+-1	24612	24615	NOM	PER	the West Saxon monarch
+356	24621	24623	PROP	PER	the bountiful Frodi
+-1	24638	24638	PRON	PER	him
+-1	24646	24648	NOM	PER	the Norse Skalds
+356	24656	24656	PROP	PER	Frodi
+-1	24665	24665	PRON	PER	his
+356	24671	24671	PROP	PER	Frodi
+-1	24671	24673	NOM	FAC	Frodi ’s house
+-1	24675	24681	NOM	PER	two maidens of that old giant race
+361	24683	24683	PROP	PER	Fenja
+362	24685	24685	PROP	PER	Menja
+-1	24687	24696	NOM	PER	These daughters of the giant he had bought as slaves
+-1	24690	24691	NOM	PER	the giant
+-1	24692	24692	PRON	PER	he
+-1	24696	24696	NOM	PER	slaves
+-1	24699	24699	PRON	PER	he
+-1	24701	24701	PRON	PER	them
+-1	24703	24703	PRON	PER	his
+122	24710	24710	PROP	GPE	Grotti
+-1	24715	24715	PRON	PER	he
+-1	24732	24732	NOM	PER	slaves
+356	24735	24735	PROP	PER	Frodi
+-1	24740	24740	PRON	PER	his
+-1	24740	24741	NOM	PER	his thanes
+-1	24743	24743	NOM	PER	people
+-1	24746	24756	NOM	PER	a hard task - master to his giant hand - maidens
+-1	24752	24752	PRON	PER	his
+-1	24752	24756	NOM	PER	his giant hand - maidens
+-1	24758	24758	PRON	PER	He
+-1	24760	24760	PRON	PER	them
+-1	24762	24763	NOM	FAC	the mill
+-1	24767	24767	PRON	PER	them
+-1	24778	24778	PRON	PER	they
+-1	24794	24795	NOM	PER	the grinder
+-1	24811	24812	NOM	PER	the maidens
+-1	24818	24818	NOM	PER	one
+-1	24820	24820	PRON	PER	their
+363	24828	24828	PROP	PER	Aeschylus
+-1	24834	24834	PRON	PER	they
+356	24842	24842	PROP	PER	Frodi
+-1	24847	24847	PRON	PER	they
+-1	24867	24868	NOM	PER	the quern
+-1	24879	24879	PRON	PER	Mysing
+-1	24880	24883	NOM	PER	the Sea - rover
+356	24887	24887	PROP	PER	Frodi
+-1	24889	24891	NOM	PER	all his men
+-1	24890	24890	PRON	PER	his
+-1	24896	24897	NOM	PER	the quern
+356	24901	24901	PROP	PER	Frodi
+-1	24906	24911	NOM	PER	The maidens the sea - rover
+-1	24914	24914	PRON	PER	him
+-1	24918	24918	PRON	PER	he
+-1	24921	24923	NOM	LOC	the high seas
+-1	24924	24924	PRON	PER	he
+-1	24926	24926	PRON	PER	them
+-1	24931	24931	PRON	PER	they
+-1	24937	24937	PRON	PER	they
+-1	24940	24940	PRON	PER	he
+-1	24947	24947	PRON	PER	he
+-1	24949	24949	PRON	PER	them
+-1	24955	24955	PRON	PER	they
+-1	24958	24959	NOM	VEH	the ship
+-1	24965	24965	PRON	PER	Mysing
+-1	24967	24967	NOM	PER	maids
+-1	24970	24970	NOM	FAC	mill
+-1	24979	24980	NOM	LOC	the sea
+-1	25015	25016	NOM	LOC	the Sea
+-1	25024	25031	NOM	PER	the Arch - enemy of God and man
+187	25029	25029	PROP	PER	God
+-1	25031	25031	NOM	PER	man
+-1	25034	25051	NOM	PER	a fallen angel , to whom power was permitted at certain times for an all - wise purpose
+-1	25053	25058	NOM	PER	the Great Ruler of the universe
+-1	25057	25058	NOM	LOC	the universe
+-1	25064	25068	NOM	PER	the heathendom of our ancestors
+-1	25067	25067	PRON	PER	our
+-1	25067	25068	NOM	PER	our ancestors
+-1	25070	25070	PRON	PER	his
+-1	25077	25077	PRON	PER	their
+15	25087	25088	PROP	LOC	the East
+-1	25121	25122	NOM	ORG	the Church
+364	25152	25152	PROP	PER	Ahriman
+-1	25166	25170	NOM	PER	a more than mortal eye
+365	25172	25172	PROP	PER	Satan
+365	25187	25187	PROP	PER	Satan
+-1	25189	25189	PRON	PER	his
+-1	25199	25203	NOM	GPE	the kingdom of the Saviour
+366	25202	25203	PROP	PER	the Saviour
+-1	25205	25205	PRON	PER	his
+-1	25205	25206	NOM	PER	his angels
+72	25208	25209	PROP	LOC	The North
+-1	25218	25218	PRON	PER	Its
+-1	25223	25223	PRON	GPE	its
+-1	25230	25230	PRON	PER	they
+-1	25237	25237	PRON	PER	they
+-1	25247	25247	PRON	PER	their
+-1	25251	25251	PRON	PER	them
+-1	25253	25270	NOM	GPE	all the universe that had not been seized and reclaimed by the younger race of Odin and Aesir
+-1	25264	25270	NOM	PER	the younger race of Odin and Aesir
+248	25268	25268	PROP	PER	Odin
+249	25270	25270	PROP	PER	Aesir
+-1	25279	25284	NOM	PER	the Frost Giants in Promethean phrase
+367	25293	25293	PROP	PER	Hel
+-1	25297	25299	NOM	PER	this giant progeny
+-1	25305	25305	PRON	PER	them
+-1	25312	25312	PRON	PER	them
+-1	25314	25314	PRON	PER	they
+-1	25316	25316	PRON	PER	her
+-1	25319	25319	PRON	PER	her
+-1	25320	25322	NOM	PER	queen of Niflheim
+123	25322	25322	PROP	GPE	Niflheim
+-1	25327	25328	NOM	LOC	nine worlds
+-1	25333	25336	NOM	LOC	a bitterly cold place
+-1	25338	25338	PRON	PER	she
+-1	25343	25350	NOM	PER	all who died of sickness or old age
+-1	25354	25354	PRON	PER	her
+-1	25358	25358	PRON	PER	her
+-1	25362	25362	PRON	PER	her
+-1	25365	25365	PRON	PER	Her
+-1	25373	25373	PRON	PER	her
+-1	25383	25383	PRON	PER	her
+-1	25394	25398	NOM	PER	A goddess easy to know
+-1	25415	25415	PRON	PER	she
+-1	25418	25420	NOM	PER	an evil spirit
+-1	25422	25422	PRON	PER	She
+-1	25429	25430	NOM	PER	no Norseman
+-1	25440	25444	NOM	LOC	the gory battle - field
+82	25452	25452	PROP	GPE	Valhalla
+248	25462	25462	PROP	PER	Odin
+-1	25464	25464	NOM	PER	Those
+-1	25467	25467	PRON	PER	Hel
+-1	25479	25479	PRON	PER	they
+248	25491	25491	PROP	PER	Odin
+-1	25493	25493	PRON	PER	his
+-1	25493	25494	NOM	PER	his crew
+-1	25500	25500	PRON	PER	them
+-1	25504	25506	NOM	PER	gods and demons
+367	25509	25509	PROP	PER	Hel
+-1	25517	25517	PRON	PER	her
+-1	25521	25521	PRON	PER	them
+-1	25524	25525	NOM	PER	a person
+-1	25526	25526	PRON	PER	she
+-1	25528	25529	NOM	GPE	a place
+-1	25533	25535	NOM	GPE	the Northern nations
+-1	25538	25539	NOM	PER	the Goth
+-1	25541	25542	NOM	PER	the Norseman
+124	25547	25547	PROP	GPE	Hell
+-1	25553	25554	NOM	PER	the devil
+-1	25556	25556	PRON	PER	his
+-1	25560	25572	NOM	FAC	the place prepared from the beginning for the everlasting torments of the damned
+-1	25571	25572	NOM	PER	the damned
+124	25582	25582	PROP	PER	Hell
+-1	25588	25589	NOM	PER	the reader
+-1	25601	25604	NOM	LOC	a place of heat
+-1	25608	25609	NOM	LOC	the East
+-1	25639	25643	NOM	PER	the dweller in the North
+72	25642	25643	PROP	LOC	the North
+-1	25665	25665	PRON	PER	their
+-1	25665	25666	NOM	GPE	their Hel
+-1	25673	25678	NOM	PER	those who were cowards by implication
+82	25695	25695	PROP	GPE	Valhalla
+-1	25698	25711	NOM	PER	the brave and beautiful who had dared to die on the field of battle
+367	25726	25726	PROP	PER	Hel
+-1	25728	25731	NOM	PER	the cold uncomfortable goddess
+-1	25735	25735	PRON	PER	our
+-1	25768	25770	NOM	PER	the Norse peasant
+-1	25773	25773	PRON	PER	his
+124	25781	25781	PROP	GPE	Hell
+-1	25783	25788	NOM	LOC	a place where fire - wood
+-1	25808	25812	NOM	FAC	the goddess Hel ’s halls
+125	25824	25825	PROP	LOC	the Sea
+-1	25849	25851	NOM	PER	the rich brother
+124	25859	25859	PROP	GPE	Hell
+-1	25864	25864	PRON	PER	I
+-1	25867	25867	PRON	PER	my
+-1	25872	25872	PRON	PER	I
+-1	25878	25879	NOM	PER	the other
+-1	25882	25882	PRON	PER	he
+-1	25890	25890	PRON	PER	He
+-1	25899	25899	PRON	PER	he
+-1	25905	25905	PRON	PER	he
+-1	25916	25917	NOM	LOC	the place
+-1	25920	25921	NOM	PER	the man
+-1	25923	25923	PRON	PER	himself
+-1	25926	25926	PRON	PER	he
+-1	25934	25934	PRON	PER	he
+-1	25937	25941	NOM	PER	an old , old man
+-1	25952	25953	NOM	FAC	an outhouse
+-1	25968	25972	NOM	PER	the man with the flitch
+-1	25978	25978	PRON	PER	you
+-1	25982	25982	PRON	PER	you
+-1	25989	25990	NOM	PER	the man
+-1	25995	25995	PRON	PER	I
+124	25999	25999	PROP	GPE	Hell
+-1	26002	26002	PRON	PER	I
+-1	26011	26013	NOM	PER	the poor man
+-1	26018	26018	PRON	PER	you
+124	26027	26027	PROP	LOC	Hell
+-1	26031	26033	NOM	PER	the old man
+-1	26037	26037	PRON	PER	you
+-1	26039	26039	NOM	FAC	inside
+-1	26040	26040	PRON	PER	they
+-1	26046	26046	PRON	PER	your
+124	26054	26054	PROP	GPE	Hell
+-1	26058	26058	PRON	PER	you
+-1	26064	26064	PRON	PER	you
+-1	26079	26079	PRON	PER	you
+-1	26083	26083	PRON	PER	I
+-1	26086	26086	PRON	PER	you
+-1	26122	26126	NOM	PER	the Master - Smith ”
+-1	26132	26132	PRON	PER	We
+-1	26137	26138	NOM	PER	the Saviour
+335	26140	26141	PROP	PER	St Peter
+-1	26145	26145	PRON	LOC	its
+-1	26148	26156	NOM	LOC	the place of Odin and some other heathen god
+248	26151	26151	PROP	PER	Odin
+-1	26153	26156	NOM	PER	some other heathen god
+-1	26160	26161	NOM	PER	the Smith
+-1	26168	26168	PRON	PER	he
+-1	26177	26178	NOM	PER	the Devil
+-1	26183	26183	PRON	PER	his
+-1	26186	26186	NOM	LOC	heaven
+-1	26203	26209	NOM	PER	those who were not Odin ’s guests
+248	26207	26207	PROP	PER	Odin
+-1	26207	26209	NOM	PER	Odin ’s guests
+255	26213	26213	PROP	PER	Thor
+-1	26213	26215	NOM	FAC	Thor ’s house
+316	26225	26225	PROP	PER	Freyja
+-1	26237	26240	NOM	FAC	every battle - field
+248	26242	26242	PROP	PER	Odin
+367	26246	26246	PROP	PER	Hel
+-1	26248	26253	NOM	PER	the cold comfortless goddess already mentioned
+-1	26258	26259	NOM	PER	no tormentor
+-1	26262	26262	PRON	PER	she
+-1	26265	26266	NOM	LOC	nine worlds
+-1	26270	26270	PRON	PER	her
+-1	26276	26276	PRON	PER	her
+-1	26288	26291	NOM	PER	the Master - Smith
+-1	26299	26300	NOM	PER	the Devil
+367	26305	26305	PROP	PER	Hel
+-1	26305	26307	NOM	FAC	Hel ’s place
+124	26326	26326	PROP	GPE	Hell
+-1	26333	26336	NOM	LOC	the goddesses nine worlds
+-1	26335	26336	NOM	LOC	nine worlds
+127	26350	26350	PROP	GPE	heathendom
+379	26352	26352	PROP	GPE	Christianity
+-1	26355	26360	NOM	GPE	that half Christian half heathen consciousness
+-1	26367	26367	NOM	LOC	heaven
+82	26374	26374	PROP	GPE	Valhalla
+124	26393	26393	PROP	LOC	Hell
+-1	26406	26409	NOM	PER	the ruler of one
+-1	26415	26419	NOM	PER	the master of the other
+-1	26421	26422	NOM	PER	the Smith
+-1	26436	26437	NOM	LOC	another world
+-1	26441	26443	NOM	LOC	places of torment
+-1	26456	26456	PRON	PER	them
+335	26464	26464	PROP	PER	Peter
+-1	26466	26472	NOM	PER	the second husband of the silly Goody
+-1	26470	26472	NOM	PER	the silly Goody
+-1	26478	26478	NOM	FAC	house
+129	26482	26482	PROP	GPE	Paradise
+369	26489	26490	PROP	PER	the Devil
+-1	26502	26505	NOM	PER	the Arch - enemy
+-1	26512	26513	NOM	PER	the Christian
+-1	26531	26531	NOM	PER	man
+-1	26539	26557	NOM	PER	a cunning reprobate , whose superior intelligence he learns to dread , for whom he feels himself no match
+-1	26546	26546	PRON	PER	he
+-1	26553	26553	PRON	PER	he
+-1	26555	26555	PRON	PER	himself
+-1	26564	26564	PRON	PER	he
+-1	26573	26573	PRON	PER	We
+-1	26582	26585	NOM	PER	this race of giants
+-1	26604	26606	NOM	PER	the Christian Devil
+-1	26620	26620	PRON	PER	he
+-1	26630	26630	PRON	PER	he
+-1	26635	26635	PRON	PER	We
+-1	26639	26639	PRON	PER	our
+-1	26639	26640	NOM	PER	our Lord
+-1	26642	26643	NOM	PER	the saints
+248	26646	26646	PROP	PER	Odin
+-1	26648	26648	PRON	PER	his
+-1	26648	26649	NOM	PER	his children
+-1	26656	26656	PRON	PER	their
+-1	26659	26659	NOM	LOC	earth
+-1	26663	26664	NOM	PER	the wicked
+-1	26669	26670	NOM	PER	the good
+-1	26672	26672	PRON	PER	we
+-1	26681	26683	NOM	PER	the ancient goddesses
+306	26693	26695	PROP	PER	the Virgin Mary
+-1	26697	26697	PRON	PER	We
+-1	26712	26714	NOM	PER	the Almighty God
+-1	26722	26722	PRON	PER	We
+306	26751	26753	PROP	PER	the blessed Virgin
+-1	26755	26755	PRON	PER	We
+-1	26763	26770	NOM	PER	No reader of early medieval chronicles and sermons
+-1	26789	26789	NOM	PER	woman
+-1	26796	26798	NOM	PER	a heathen goddess
+370	26800	26800	PROP	PER	Diana
+318	26809	26809	PROP	PER	Bertha
+317	26816	26816	PROP	PER	Holda
+371	26819	26819	PROP	PER	Herodias
+372	26822	26822	PROP	PER	Satia
+373	26825	26826	PROP	PER	Domina Abundia
+-1	26829	26831	NOM	PER	Dame Habonde.[34 ]
+-1	26840	26844	NOM	PER	the two ancient goddesses Frigga
+316	26846	26846	PROP	PER	Freyja
+-1	26848	26854	NOM	PER	all these leaders of a midnight host
+-1	26852	26854	NOM	PER	a midnight host
+248	26858	26858	PROP	PER	Odin
+-1	26867	26879	NOM	PER	the two great heathen goddesses , fused into one “ uncanny ” shape
+-1	26890	26917	NOM	PER	Medieval chroniclers , writing in bastard Latin , and following the example of classical authors , when they had to find a name for this demon - goddess
+-1	26903	26904	NOM	PER	classical authors
+-1	26907	26907	PRON	PER	they
+-1	26914	26917	NOM	PER	this demon - goddess
+370	26924	26924	PROP	PER	Diana
+-1	26925	26927	NOM	PER	the heathen huntress
+-1	26929	26932	NOM	PER	the moon - goddess
+-1	26935	26939	NOM	PER	the ruler of the night
+-1	26947	26947	PRON	PER	they
+248	26949	26949	PROP	PER	Odin
+-1	26957	26957	PRON	PER	he
+-1	26959	26971	NOM	PER	the god of wit and will , as well as power and victory
+337	26974	26974	PROP	PER	Mercury
+371	26978	26978	PROP	PER	Herodias
+-1	26981	26982	NOM	PER	the mother
+-1	26985	26988	NOM	PER	the daughter who danced
+-1	26990	26990	PRON	PER	she
+-1	27007	27007	PRON	PER	she
+374	27018	27020	PROP	PER	John the Baptist
+-1	27035	27035	PRON	PER	she
+-1	27039	27041	NOM	PER	the ancient Goddesses
+-1	27045	27045	PRON	PER	we
+-1	27047	27047	PRON	PER	her
+-1	27051	27056	NOM	PER	the crew of the Wild Huntsman
+-1	27061	27061	PRON	PER	we
+370	27077	27077	PROP	PER	Diana
+317	27079	27079	PROP	PER	Holda
+373	27084	27084	PROP	PER	Abundia
+-1	27090	27105	NOM	PER	a bevy of women , who met at certain places to celebrate unholy rites and mysteries
+317	27109	27109	PROP	PER	Holda
+373	27114	27114	PROP	PER	Abundia
+-1	27117	27130	NOM	PER	the kind ” , “ the satisfying ” , and “ the abundant ”
+-1	27168	27168	PRON	PER	them
+-1	27184	27186	NOM	PER	the country folk
+-1	27196	27203	NOM	PER	the more lively and intelligent dwellers in towns
+-1	27203	27203	NOM	GPE	towns
+-1	27216	27216	PRON	PER	they
+-1	27230	27230	PRON	PER	their
+-1	27238	27240	NOM	PER	the old divinity
+-1	27257	27259	NOM	PER	the good lady
+-1	27269	27269	PRON	PER	her
+-1	27275	27275	PRON	PER	her
+-1	27281	27283	NOM	PER	the ancient Goddess
+-1	27298	27299	NOM	GPE	different countries
+-1	27302	27307	NOM	LOC	the third part of the earth
+-1	27306	27307	NOM	LOC	the earth
+-1	27309	27312	NOM	PER	the third child born
+-1	27314	27316	NOM	PER	the third soul
+-1	27320	27329	NOM	PER	the “ good lady ” , who leads the revel
+316	27347	27347	PROP	PER	Freyja
+316	27352	27352	PROP	PER	Freyja
+-1	27357	27358	NOM	PER	the Asynjor
+-1	27360	27360	PRON	PER	She
+-1	27365	27366	NOM	LOC	heaven hight
+375	27367	27367	PROP	PER	Fólkvángr
+-1	27372	27372	PRON	PER	she
+-1	27380	27380	PRON	PER	she
+-1	27384	27385	NOM	PER	the slain
+-1	27388	27391	NOM	PER	Odin the other half
+-1	27397	27397	PRON	PER	she
+-1	27401	27401	PRON	PER	she
+-1	27408	27409	NOM	VEH	a car
+-1	27412	27412	PRON	PER	she
+-1	27421	27421	NOM	PER	men
+-1	27425	27425	PRON	PER	We
+-1	27429	27431	NOM	PER	the ancient goddesses
+-1	27434	27435	NOM	PER	evil influences
+-1	27439	27453	NOM	PER	the leader of a midnight band of women , who practised secret and unholy rites
+-1	27442	27453	NOM	PER	a midnight band of women , who practised secret and unholy rites
+-1	27446	27453	NOM	PER	women , who practised secret and unholy rites
+-1	27457	27457	PRON	PER	us
+-1	27477	27477	NOM	PER	Men
+-1	27479	27479	NOM	PER	women
+-1	27488	27489	NOM	PER	female sorcerers
+-1	27501	27501	NOM	PER	women
+-1	27503	27503	NOM	PER	priestesses
+-1	27505	27505	PRON	PER	they
+-1	27511	27511	NOM	PER	women
+-1	27532	27532	NOM	PER	Women
+-1	27539	27539	PRON	PER	we
+-1	27543	27543	PRON	PER	our
+-1	27543	27544	NOM	PER	our forefathers
+-1	27554	27554	PRON	PER	they
+-1	27562	27562	PRON	PER	they
+-1	27572	27574	NOM	PER	the wounded warrior
+-1	27580	27581	NOM	PER	The men
+-1	27621	27621	PRON	PER	they
+-1	27662	27666	NOM	PER	the child - bearing woman
+-1	27675	27677	NOM	PER	the dying champion
+-1	27693	27695	NOM	LOC	the sacred grove
+-1	27701	27702	NOM	PER	the Gods
+-1	27725	27726	NOM	PER	the soothsayer
+-1	27729	27731	NOM	PER	the false prophetess
+-1	27733	27734	NOM	PER	the leech
+-1	27736	27737	NOM	PER	a poisoner
+-1	27740	27741	NOM	PER	the priestess
+-1	27743	27744	NOM	PER	a witch
+-1	27754	27754	PRON	PER	they
+-1	27763	27768	NOM	PER	all the Indo - European tribes
+-1	27772	27772	NOM	PER	women
+-1	27776	27777	NOM	PER	old women
+-1	27790	27790	PRON	PER	them
+-1	27801	27801	NOM	PER	mankind
+-1	27803	27807	NOM	LOC	a higher platform of civilization
+-1	27820	27822	NOM	PER	the ancient goddesses
+-1	27826	27826	PRON	PER	them
+370	27830	27830	PROP	PER	Diana
+371	27832	27832	PROP	PER	Herodias
+-1	27836	27836	PRON	PER	them
+-1	27838	27838	PRON	PER	their
+-1	27841	27846	NOM	PER	the old class of malevolent sorcerers
+-1	27845	27846	NOM	PER	malevolent sorcerers
+376	27863	27864	PROP	PER	the Norn
+-1	27866	27867	NOM	PER	the hag
+377	27883	27883	PROP	PER	Goddess
+378	27885	27885	PROP	PER	Valkyrie
+-1	27887	27887	NOM	PER	Norn
+-1	27889	27889	NOM	PER	priestess
+-1	27892	27892	NOM	PER	soothsayer
+-1	27895	27906	NOM	LOC	that unholy deep where the heathen hags and witches had their being
+-1	27899	27901	NOM	PER	the heathen hags
+-1	27903	27903	NOM	PER	witches
+-1	27905	27905	PRON	PER	their
+379	27911	27911	PROP	PER	Christianity
+-1	27916	27916	PRON	PER	its
+-1	27922	27922	PRON	PER	its
+-1	27937	27939	NOM	PER	that unhappy class
+-1	27941	27943	NOM	PER	the medieval witch
+-1	27968	27968	NOM	PER	witches
+-1	27989	27989	PRON	PER	we
+-1	28005	28007	NOM	PER	the witches themselves
+-1	28012	28012	PRON	PER	their
+-1	28037	28037	PRON	PER	their
+-1	28046	28049	NOM	PER	that good parish priest
+-1	28054	28059	NOM	PER	an old woman of his flock
+-1	28058	28058	PRON	PER	his
+-1	28058	28059	NOM	PER	his flock
+-1	28062	28062	PRON	PER	she
+-1	28066	28066	PRON	PER	his
+-1	28066	28067	NOM	FAC	his house
+-1	28073	28075	NOM	PER	the Good Lady
+-1	28081	28081	PRON	PER	him
+-1	28085	28085	PRON	PER	him
+-1	28094	28094	PRON	PER	you
+-1	28106	28106	PRON	PER	We
+-1	28112	28112	PRON	PER	she
+-1	28125	28126	NOM	PER	the priest
+-1	28128	28128	PRON	PER	her
+-1	28130	28134	NOM	FAC	the chancel of the church
+-1	28133	28134	NOM	FAC	the church
+-1	28142	28142	PRON	PER	her
+-1	28156	28156	PRON	PER	you
+-1	28158	28159	NOM	PER	lady witch
+-1	28164	28164	PRON	PER	she
+-1	28168	28168	PRON	PER	he
+-1	28170	28170	PRON	PER	her
+-1	28171	28171	NOM	FAC	home
+-1	28179	28179	PRON	PER	you
+-1	28190	28191	NOM	ORG	the Church
+-1	28209	28210	NOM	PER	these sectarians
+-1	28213	28213	PRON	PER	we
+-1	28217	28217	PRON	PER	them
+-1	28259	28261	NOM	PER	the fallen angel
+-1	28263	28266	NOM	PER	the Arch - Fiend
+-1	28268	28269	NOM	PER	the Devil
+-1	28275	28279	NOM	LOC	the nations of the West
+53	28278	28279	PROP	LOC	the West
+-1	28313	28313	PRON	PER	we
+-1	28321	28327	NOM	PER	the tribes of Teutonic race from France
+13	28327	28327	PROP	GPE	France
+29	28329	28329	PROP	GPE	Italy
+-1	28337	28338	NOM	PER	the Pope
+-1	28369	28370	NOM	FAC	the Church
+380	28373	28376	PROP	PER	the “ Good Lady
+-1	28379	28379	PRON	PER	her
+-1	28385	28385	PRON	PER	they
+-1	28392	28395	NOM	PER	the Prince of Darkness
+-1	28409	28409	PRON	PER	him
+-1	28413	28415	NOM	PER	the ancient goddess
+-1	28418	28418	PRON	PER	we
+-1	28426	28427	NOM	PER	the witches
+-1	28429	28434	NOM	PER	a demon of the other sex
+18	28482	28482	PROP	GPE	Europe
+-1	28487	28487	NOM	PER	witches
+-1	28489	28489	NOM	PER	sorcerers
+381	28509	28511	PROP	PER	Innocent the Eighth
+-1	28537	28538	NOM	PER	the State
+-1	28548	28550	NOM	PER	the ecclesiastical inquisitors
+-1	28556	28557	NOM	PER	those inquisitors
+-1	28564	28565	NOM	PER	innumerable victims
+-1	28586	28586	NOM	PER	children
+-1	28588	28592	NOM	PER	sworn servants of the Devil
+-1	28591	28592	NOM	PER	the Devil
+-1	28596	28597	NOM	PER	the historian
+-1	28616	28616	PRON	PER	her
+-1	28619	28619	NOM	PER	inquisitors
+-1	28629	28629	PRON	PER	she
+-1	28631	28633	NOM	ORG	the Protestant Churches
+-1	28641	28645	NOM	LOC	no part of the world
+-1	28644	28645	NOM	LOC	the world
+-1	28647	28721	NOM	PER	the labourers more eager and willing , when the fields were “ black ” to harvest , than in those very reformed communities which had just shaken off the yoke of Rome , and which had sprung in many cases from the very heretics whom she had persecuted and burnt , accusing them at the same time , of the most malignant sorceries.[40 ] Their excuse is , that no one is before his age
+-1	28666	28678	NOM	FAC	those very reformed communities which had just shaken off the yoke of Rome
+22	28678	28678	PROP	GPE	Rome
+-1	28688	28721	NOM	PER	the very heretics whom she had persecuted and burnt , accusing them at the same time , of the most malignant sorceries.[40 ] Their excuse is , that no one is before his age
+-1	28692	28692	PRON	PER	she
+-1	28699	28699	PRON	PER	them
+-1	28711	28711	PRON	PER	Their
+-1	28716	28717	NOM	PER	no one
+-1	28720	28720	PRON	PER	his
+-1	28728	28733	NOM	PER	the Devil in the Middle Age
+18	28740	28740	PROP	GPE	Europe
+-1	28742	28742	PRON	PER	We
+-1	28745	28745	PRON	PER	them
+-1	28747	28747	PRON	PER	we
+-1	28749	28749	PRON	PER	them
+-1	28752	28752	PRON	PER	their
+-1	28756	28756	PRON	PER	their
+-1	28760	28760	PRON	PER	their
+-1	28764	28764	PRON	PER	their
+-1	28771	28771	PRON	PER	we
+-1	28776	28776	PRON	PER	we
+-1	28789	28790	NOM	PER	the whole
+18	28827	28827	PROP	GPE	Europe
+-1	28836	28837	NOM	PER	the accused
+-1	28843	28843	PRON	PER	she
+-1	28853	28853	PRON	PER	she
+-1	28858	28858	PRON	PER	her
+-1	28863	28863	NOM	PER	others
+-1	28871	28871	PRON	PER	she
+-1	28876	28876	PRON	PER	her
+-1	28889	28890	NOM	PER	the fiend
+-1	28894	28894	PRON	PER	her
+-1	28897	28897	PRON	PER	she
+-1	28901	28901	PRON	PER	her
+-1	28908	28920	NOM	PER	Those who wish to read one unexampled , perhaps for barbarity and superstition
+-1	28935	28936	NOM	PER	a man
+382	28945	28946	PROP	PER	Dr. Fian
+-1	28948	28950	NOM	PER	the Scotch wizard
+-1	28954	28954	NOM	PER	doctor
+-1	28958	28959	NOM	PER	the Devil
+130	28966	28967	PROP	LOC	North Baricke
+131	28969	28970	PROP	GPE	North Berwick
+132	28973	28976	PROP	GPE	East Lothian ) Kirke
+-1	28979	28983	NOM	PER	a number of notorious witches
+-1	28982	28983	NOM	PER	notorious witches
+-1	28988	28988	PRON	PER	we
+-1	28990	28991	NOM	PER	no one
+-1	29043	29043	PRON	PER	her
+-1	29059	29059	PRON	PER	her
+-1	29081	29081	PRON	PER	their
+-1	29087	29089	NOM	PER	the Evil One
+-1	29091	29092	NOM	PER	no witch
+-1	29103	29106	NOM	PER	the Prince of Darkness
+-1	29118	29118	PRON	PER	they
+-1	29130	29130	PRON	PER	their
+-1	29130	29131	NOM	PER	their persecutors
+-1	29135	29136	NOM	PER	the Devil
+-1	29142	29142	PRON	PER	they
+-1	29144	29144	PRON	PER	him
+-1	29148	29148	PRON	PER	he
+-1	29156	29156	PRON	PER	his
+-1	29170	29171	NOM	LOC	this world
+-1	29191	29192	NOM	PER	a witch
+-1	29209	29209	PRON	PER	their
+-1	29212	29212	PRON	PER	they
+-1	29215	29215	PRON	PER	their
+-1	29220	29220	PRON	PER	their
+-1	29236	29280	NOM	PER	the worshippers of the great goddess Freyja , whom our forefathers adored as the goddess of love and plenty ; and whose car was drawn by those animals which popular superstition has ever since assigned to the “ old witch ” of our English villages
+-1	29245	29245	PRON	PER	our
+-1	29245	29246	NOM	PER	our forefathers
+-1	29249	29254	NOM	PER	the goddess of love and plenty
+-1	29278	29278	PRON	PER	our
+-1	29278	29280	NOM	GPE	our English villages
+72	29282	29283	PROP	LOC	The North
+-1	29291	29296	NOM	LOC	the rest of the Protestant world
+-1	29294	29296	NOM	LOC	the Protestant world
+18	29306	29306	PROP	GPE	Europe
+94	29316	29316	PROP	GPE	Sweden
+-1	29319	29320	NOM	PER	the witches
+-1	29322	29322	PRON	PER	their
+133	29326	29326	PROP	GPE	Blokulla
+-1	29328	29330	NOM	LOC	the black hill
+382	29344	29345	PROP	PER	Dr. Fian
+383	29352	29352	PROP	PER	Hopkins
+84	29355	29355	PROP	GPE	Denmark
+-1	29357	29358	NOM	PER	the sorceresses
+134	29364	29364	PROP	GPE	Tromsoe
+-1	29364	29368	NOM	LOC	Tromsoe high up in Finmark
+135	29368	29368	PROP	GPE	Finmark
+136	29373	29373	PROP	GPE	Heckla
+-1	29373	29375	NOM	LOC	Heckla in Iceland
+10	29375	29375	PROP	GPE	Iceland
+-1	29377	29379	NOM	PER	The Norse witches
+-1	29382	29384	NOM	FAC	a Blokolle of
+-1	29385	29385	PRON	PER	their
+137	29390	29391	PROP	LOC	the Dovrefell
+-1	29395	29400	NOM	LOC	other places in Norway or Finmark
+93	29398	29398	PROP	GPE	Norway
+135	29400	29400	PROP	GPE	Finmark
+-1	29407	29407	PRON	PER	we
+-1	29463	29465	NOM	PER	the educated classes
+-1	29483	29484	NOM	PER	the community
+-1	29490	29491	NOM	PER	the Mastermaid
+-1	29498	29506	NOM	PER	the witch of a sister - in - law
+-1	29501	29506	NOM	PER	a sister - in - law
+-1	29515	29516	NOM	PER	the Prince
+-1	29521	29521	PRON	PER	him
+-1	29533	29535	NOM	PER	The old queen
+384	29538	29539	PROP	PER	The Lassie
+-1	29541	29541	PRON	PER	her
+-1	29541	29542	NOM	PER	her Godmother
+-1	29545	29547	NOM	PER	No . xxvii
+-1	29552	29552	PRON	PER	her
+-1	29552	29553	NOM	PER	her son
+-1	29556	29558	NOM	PER	the young queen
+-1	29562	29564	NOM	PER	a wicked witch
+-1	29573	29573	PRON	PER	her
+15	29579	29579	PROP	GPE	East
+-1	29579	29589	NOM	LOC	East o ’ the Sun and West o ’ the Moon
+139	29582	29583	PROP	LOC	the Sun
+-1	29598	29605	NOM	PER	a wicked stepmother who has bewitched the prince
+-1	29604	29605	NOM	PER	the prince
+-1	29617	29619	NOM	PER	the ugly bride
+-1	29621	29622	NOM	PER	the king
+-1	29633	29633	PRON	PER	her
+-1	29633	29635	NOM	PER	her wicked mother
+-1	29656	29658	NOM	PER	the wicked stepmother
+-1	29660	29661	NOM	PER	the king
+-1	29671	29672	NOM	PER	a witch
+-1	29677	29677	PRON	PER	him
+-1	29680	29680	PRON	PER	her
+-1	29692	29696	NOM	PER	a whole troop of witches
+-1	29696	29696	NOM	PER	witches
+-1	29700	29700	PRON	PER	their
+-1	29706	29707	NOM	PER	the Queen
+-1	29706	29709	NOM	FAC	the Queen ’s Palace
+-1	29714	29716	NOM	PER	the young Princess
+-1	29729	29729	NOM	PER	Trolls
+-1	29738	29738	NOM	PER	witch
+245	29740	29740	PROP	PER	Troll
+-1	29768	29769	NOM	LOC	the North
+-1	29775	29775	NOM	PER	men
+-1	29790	29794	NOM	PER	the gods of the Norseman
+-1	29793	29794	NOM	PER	the Norseman
+385	29805	29805	PROP	PER	Europa
+-1	29807	29807	PRON	PER	her
+386	29810	29810	PROP	PER	Leda
+-1	29812	29812	PRON	PER	her
+-1	29812	29813	NOM	PER	her Swan
+-1	29820	29821	NOM	PER	the reader
+303	29834	29834	PROP	PER	Athene
+248	29854	29854	PROP	PER	Odin
+278	29862	29862	PROP	PER	Loki
+-1	29880	29881	NOM	PER	all gods
+-1	29888	29888	NOM	PER	men
+189	29917	29917	PROP	PER	Herodotus
+387	29921	29922	PROP	PER	the Neurians
+-1	29930	29930	NOM	PER	wizards
+388	29932	29933	PROP	PER	the Scythians
+-1	29935	29936	NOM	PER	the Greeks
+31	29939	29941	PROP	LOC	the Black Sea
+-1	29946	29946	PRON	PER	them
+-1	29965	29965	PRON	PER	his
+389	29969	29969	PROP	PER	Pliny
+390	29971	29972	PROP	PER	Pomponius Mela
+391	29975	29976	PROP	PER	St. Augustin
+-1	29979	29979	PRON	PER	his
+392	29993	29993	PROP	PER	Virgil
+-1	29996	29996	PRON	PER	his
+393	30005	30006	PROP	PER	The Latins
+-1	30009	30010	NOM	PER	a man
+-1	30039	30039	PRON	PER	our
+394	30043	30043	PROP	PER	Petronius
+395	30061	30061	PROP	PER	Trimalchion
+396	30063	30063	PROP	PER	Nicoros
+397	30074	30074	PROP	PER	Nero
+0	30082	30082	PRON	PER	my
+-1	30082	30083	NOM	PER	my master
+140	30087	30087	PROP	GPE	Capua
+0	30097	30097	PRON	PER	I
+-1	30103	30103	PRON	PER	our
+-1	30103	30104	NOM	PER	our guest
+0	30108	30108	PRON	PER	me
+-1	30110	30112	NOM	FAC	the fifth milestone
+-1	30114	30114	PRON	PER	He
+-1	30116	30118	NOM	PER	a valiant soldier
+-1	30121	30128	NOM	PER	a sort of grim water - drinking Pluto
+-1	30147	30147	PRON	PER	we
+-1	30150	30151	NOM	FAC	the monuments
+0	30153	30153	PRON	PER	My
+-1	30153	30154	NOM	PER	My friend
+-1	30157	30157	PRON	PER	himself
+0	30163	30163	PRON	PER	I
+0	30178	30178	PRON	PER	I
+-1	30183	30183	PRON	PER	him
+-1	30187	30187	PRON	PER	he
+-1	30191	30191	PRON	PER	himself
+-1	30195	30195	PRON	PER	his
+-1	30198	30198	PRON	PER	him
+0	30200	30200	PRON	PER	My
+0	30204	30204	PRON	PER	my
+0	30208	30208	PRON	PER	I
+-1	30211	30213	NOM	PER	a dead man
+-1	30216	30216	PRON	PER	he
+0	30233	30233	PRON	PER	I
+0	30236	30236	PRON	PER	I
+-1	30241	30242	NOM	PER	any man
+-1	30241	30244	NOM	FAC	any man ’s estate
+0	30251	30251	PRON	PER	I
+-1	30256	30256	PRON	PER	he
+-1	30258	30259	NOM	PER	a wolf
+-1	30261	30261	PRON	PER	he
+-1	30268	30269	NOM	LOC	the woods
+0	30273	30273	PRON	PER	I
+0	30277	30277	PRON	PER	I
+0	30284	30284	PRON	PER	I
+-1	30289	30289	PRON	PER	his
+0	30304	30304	PRON	PER	I
+0	30307	30307	PRON	PER	I
+0	30309	30309	PRON	PER	my
+0	30322	30322	PRON	PER	I
+-1	30324	30328	NOM	FAC	the villa of my sweetheart
+0	30327	30327	PRON	PER	my
+-1	30327	30328	NOM	PER	my sweetheart
+0	30330	30330	PRON	PER	I
+-1	30332	30335	NOM	FAC	the court - yard
+0	30337	30337	PRON	PER	I
+0	30340	30340	PRON	PER	my
+0	30347	30347	PRON	PER	my
+0	30350	30350	PRON	PER	my
+0	30356	30356	PRON	PER	I
+0	30358	30358	PRON	PER	I
+0	30362	30362	PRON	PER	myself
+0	30364	30364	PRON	PER	My
+-1	30364	30365	NOM	PER	My Melissa
+0	30368	30368	PRON	PER	I
+0	30377	30377	PRON	PER	me
+-1	30381	30381	PRON	PER	you
+-1	30384	30384	PRON	PER	you
+-1	30390	30390	PRON	PER	us
+-1	30397	30398	NOM	FAC	the farm
+-1	30403	30403	PRON	PER	our
+-1	30407	30407	PRON	PER	he
+-1	30418	30418	PRON	PER	he
+-1	30422	30422	PRON	PER	our
+-1	30422	30423	NOM	PER	our slave
+-1	30428	30428	PRON	PER	his
+0	30433	30433	PRON	PER	I
+0	30437	30437	PRON	PER	I
+-1	30454	30454	NOM	FAC	home
+-1	30458	30460	NOM	PER	a robbed innkeeper
+0	30463	30463	PRON	PER	I
+0	30477	30477	PRON	PER	I
+0	30486	30486	PRON	PER	I
+-1	30488	30488	NOM	FAC	home
+0	30490	30490	PRON	PER	I
+0	30492	30492	PRON	PER	my
+-1	30492	30493	NOM	PER	my friend
+-1	30494	30495	NOM	PER	the soldier
+-1	30508	30509	NOM	PER	a doctor
+-1	30511	30511	PRON	PER	his
+0	30514	30514	PRON	PER	I
+-1	30517	30517	PRON	PER	he
+0	30526	30526	PRON	PER	I
+-1	30532	30532	PRON	PER	him
+-1	30539	30539	PRON	PER	you
+0	30542	30542	PRON	PER	me
+-1	30546	30554	NOM	PER	A man who had such a gift or greed
+-1	30560	30567	NOM	PER	a man - wolf or wolf - man
+-1	30571	30574	NOM	PER	the Anglo - Saxons
+398	30578	30578	PROP	PER	Canute
+-1	30592	30592	PRON	PER	he
+-1	30606	30606	NOM	PER	man
+216	30620	30620	PROP	PER	Madden
+-1	30633	30633	PRON	PER	we
+141	30641	30641	PROP	GPE	Brittany
+-1	30642	30642	PRON	PER	he
+-1	30658	30658	NOM	PER	man
+-1	30671	30671	NOM	PER	man
+72	30709	30710	PROP	LOC	the North
+399	30717	30718	PROP	PER	Olaus Magnus
+-1	30725	30725	PRON	PER	his
+94	30742	30742	PROP	GPE	Sweden
+400	30749	30750	PROP	PER	Gustavus Vasa
+260	30762	30762	PROP	PER	Sigmund
+273	30764	30764	PROP	PER	Sinfjötli
+-1	30766	30766	PRON	PER	they
+-1	30774	30774	PRON	PER	we
+248	30779	30779	PROP	PER	Odin
+263	30790	30790	PROP	PER	Brynhildr
+-1	30792	30793	NOM	PER	the Valkyries
+-1	30796	30820	NOM	PER	corse - choosers , who followed the god of battles to the field , and chose the dead for Valhalla when the fight was done
+-1	30802	30805	NOM	PER	the god of battles
+-1	30807	30808	NOM	LOC	the field
+82	30815	30815	PROP	GPE	Valhalla
+-1	30823	30832	NOM	PER	swan - maidens , and took the shape of swans
+401	30857	30859	PROP	PER	the Völundr Quidr
+402	30870	30872	PROP	PER	The Fair Melusina
+-1	30876	30880	NOM	PER	other medieval swan - maidens
+-1	30884	30893	NOM	PER	any one who seized that shape while thus laid aside
+-1	30898	30899	NOM	PER	its wearer
+-1	30944	30991	NOM	PER	the person upon whom the sorcerer practised into the shape of a ravening wolf , which fled at once to the woods , where he remained in that shape for a period which varied in popular belief for nine days , three , seven , or nine years
+-1	30948	30949	NOM	PER	the sorcerer
+-1	30964	30965	NOM	LOC	the woods
+-1	30968	30968	PRON	PER	he
+-1	30997	30997	PRON	PER	he
+-1	31002	31020	NOM	PER	young children , whom he carried off as the were - wolf carried off William in the old romance
+-1	31006	31006	PRON	PER	he
+240	31016	31016	PROP	PER	William
+-1	31030	31030	PRON	PER	their
+240	31042	31042	PROP	PER	William
+-1	31056	31056	PRON	PER	we
+-1	31071	31076	NOM	PER	the king of all their beasts
+-1	31075	31075	PRON	PER	their
+-1	31083	31083	PRON	PER	him
+-1	31109	31109	PRON	PER	we
+-1	31111	31111	NOM	PER	men
+-1	31114	31114	PRON	PER	them
+-1	31125	31125	PRON	PER	we
+-1	31134	31134	PRON	PER	we
+-1	31145	31150	NOM	PER	A man who possessed the gift
+-1	31160	31160	PRON	PER	his
+-1	31167	31170	NOM	PER	the soldier in Petronius
+394	31170	31170	PROP	PER	Petronius
+93	31175	31175	PROP	GPE	Norway
+197	31184	31184	PROP	PER	Finns
+196	31186	31186	PROP	PER	Lapps
+-1	31195	31203	NOM	PER	the most skilful witches and wizards in the world
+-1	31202	31203	NOM	LOC	the world
+-1	31229	31229	PRON	PER	he
+-1	31240	31242	NOM	PER	no Christian bear
+-1	31251	31254	NOM	FAC	the parish of Oföden
+142	31254	31254	PROP	GPE	Oföden
+-1	31257	31257	PRON	PER	he
+-1	31267	31268	NOM	PER	six men
+-1	31283	31286	NOM	PER	a man thus transformed
+-1	31291	31291	PRON	PER	he
+403	31303	31304	PROP	PER	Farmer Weathersky
+403	31335	31336	PROP	PER	Farmer Weathersky
+-1	31341	31347	NOM	PER	the ancient gods degraded into a demon
+-1	31351	31351	PRON	PER	His
+-1	31363	31363	NOM	PER	lad
+-1	31369	31369	PRON	PER	his
+0	31372	31372	PRON	PER	I
+-1	31375	31375	NOM	FAC	home
+-1	31390	31390	PRON	PER	his
+-1	31395	31395	PRON	PER	his
+-1	31395	31397	NOM	FAC	his distant abode
+-1	31404	31405	NOM	PER	the slain
+-1	31409	31410	NOM	PER	the divinity
+-1	31414	31414	PRON	PER	His
+248	31427	31427	PROP	PER	Odin
+-1	31429	31429	PRON	PER	he
+-1	31463	31465	NOM	PER	the person transformed
+-1	31472	31472	PRON	PER	them
+-1	31474	31476	NOM	PER	some one else
+404	31479	31481	PROP	PER	the White Bear
+139	31491	31492	PROP	LOC	the Sun
+-1	31506	31533	NOM	PER	a Prince transformed by his stepmother , just as it is the stepmother who plays the same part in the romance of William and the Were - wolf
+-1	31510	31510	PRON	PER	his
+-1	31510	31511	NOM	PER	his stepmother
+-1	31517	31533	NOM	PER	the stepmother who plays the same part in the romance of William and the Were - wolf
+240	31528	31528	PROP	PER	William
+-1	31540	31543	NOM	PER	the Widow ’s Son
+-1	31555	31556	NOM	PER	a king
+405	31566	31567	PROP	PER	Lord Peter
+-1	31581	31581	PRON	PER	we
+-1	31598	31610	NOM	PER	a princess bewitched by the Troll who had robbed her of her lands
+-1	31607	31607	PRON	PER	her
+-1	31609	31609	PRON	PER	her
+-1	31609	31610	NOM	LOC	her lands
+406	31627	31630	PROP	PER	The Twelve Wild Ducks
+407	31637	31638	PROP	PER	the Foals
+406	31640	31641	PROP	PER	the Ducks
+-1	31643	31655	NOM	PER	Princes over whom that fate has come by the power of a witch
+-1	31657	31667	NOM	PER	a Troll , to whom an unwary promise had been given
+-1	31683	31685	NOM	PER	the youngest brother
+-1	31695	31695	PRON	PER	his
+-1	31700	31700	PRON	PER	his
+-1	31700	31701	NOM	PER	his sister
+-1	31718	31718	PRON	PER	his
+-1	31723	31723	PRON	PER	we
+247	31730	31731	PROP	PER	the Norsemen
+-1	31734	31734	PRON	PER	we
+-1	31753	31753	PRON	PER	their
+-1	31760	31760	PRON	PER	they
+-1	31763	31763	PRON	PER	they
+-1	31768	31768	NOM	PER	men
+-1	31778	31778	PRON	PER	their
+-1	31793	31795	NOM	PER	the human mind
+-1	31802	31802	NOM	PER	men
+-1	31804	31804	NOM	PER	men
+-1	31817	31817	PRON	PER	their
+172	31848	31848	PROP	PER	Grimm
+-1	31861	31863	NOM	PER	the human mind
+345	31957	31957	PROP	PER	Aesop
+172	31963	31963	PROP	PER	Grimm
+-1	31970	31970	PRON	PER	we
+345	31993	31993	PROP	PER	Aesop
+-1	32032	32032	PRON	PER	He
+344	32044	32044	PROP	PER	Phaedrus
+-1	32063	32064	NOM	PER	the reader
+-1	32067	32067	PRON	PER	he
+229	32072	32073	PROP	PER	La Fontaine
+-1	32083	32083	PRON	PER	his
+-1	32093	32093	PRON	PER	his
+-1	32099	32099	PRON	PER	his
+-1	32106	32106	PRON	PER	his
+-1	32111	32111	PRON	PER	he
+-1	32118	32118	PRON	PER	he
+344	32124	32124	PROP	PER	Phaedrus
+345	32128	32128	PROP	PER	Aesop
+229	32137	32138	PROP	PER	La Fontaine
+345	32172	32172	PROP	PER	Aesop
+-1	32194	32194	PRON	PER	we
+-1	32199	32200	NOM	LOC	the world
+-1	32204	32204	PRON	PER	we
+345	32224	32224	PROP	PER	Aesop
+-1	32233	32233	PRON	PER	they
+-1	32263	32263	PRON	PER	They
+-1	32269	32276	NOM	LOC	the East in the very dawn of time
+-1	32285	32285	PRON	PER	we
+-1	32287	32287	PRON	PER	them
+-1	32302	32302	PRON	PER	their
+-1	32311	32312	NOM	LOC	the earth
+-1	32315	32323	NOM	LOC	countries as opposite as the Poles to each other
+143	32319	32320	PROP	LOC	the Poles
+144	32326	32327	PROP	GPE	New Zealand
+93	32329	32329	PROP	GPE	Norway
+145	32332	32333	PROP	LOC	Central Africa
+146	32335	32335	PROP	GPE	Servia
+147	32338	32340	PROP	LOC	the West Indies
+148	32343	32343	PROP	GPE	Mongolia
+-1	32348	32353	NOM	LOC	immense tracts of land or sea
+-1	32353	32353	NOM	LOC	sea
+-1	32355	32355	PRON	PER	their
+-1	32360	32362	NOM	PER	the earnest inquirer
+172	32385	32385	PROP	PER	Grimm
+-1	32388	32388	PRON	PER	his
+408	32389	32391	PROP	PER	Reynard the Fox
+-1	32400	32405	NOM	PER	the North , properly so called
+-1	32413	32415	NOM	PER	the Middle Age
+-1	32427	32428	NOM	PER	the North
+-1	32431	32433	NOM	PER	the Great Master
+-1	32434	32434	PRON	PER	himself
+-1	32437	32437	PRON	PER	his
+-1	32444	32444	PRON	PER	herself
+-1	32451	32451	PRON	PER	her
+172	32461	32461	PROP	PER	Grimm
+-1	32464	32464	PRON	PER	his
+72	32470	32471	PROP	LOC	the North
+-1	32483	32483	PRON	PER	she
+-1	32489	32489	PRON	PER	her
+-1	32496	32501	NOM	LOC	no other land perhaps can vie
+-1	32513	32515	NOM	PER	the Norse mind
+404	32566	32567	PROP	PER	The Bear
+-1	32570	32573	NOM	PER	the King of Beasts
+-1	32578	32578	PRON	PER	he
+102	32596	32596	PROP	GPE	Germany
+-1	32598	32598	PRON	PER	he
+408	32603	32604	PROP	PER	the Fox
+408	32609	32609	PROP	PER	Reynard
+-1	32611	32611	PRON	PER	him
+-1	32616	32616	PRON	PER	him
+-1	32628	32628	PRON	PER	He
+-1	32630	32630	PRON	PER	him
+-1	32633	32633	PRON	PER	his
+-1	32645	32645	PRON	PER	He
+-1	32649	32649	NOM	PER	Herdsman
+404	32658	32658	PROP	PER	Bear
+333	32660	32660	PROP	PER	Wolf
+-1	32663	32673	NOM	PER	the old wife who wants some one to tend her flock
+-1	32672	32672	PRON	PER	her
+-1	32679	32679	PRON	PER	he
+404	32684	32685	PROP	PER	the Bear
+-1	32689	32689	PRON	PER	him
+-1	32691	32692	NOM	PER	Lord ”
+-1	32702	32702	PRON	PER	him
+-1	32720	32722	NOM	PER	the crafty fox
+-1	32727	32727	PRON	PER	his
+-1	32730	32730	PRON	PER	his
+-1	32738	32738	PRON	PER	him
+-1	32747	32748	NOM	PER	the peasant
+-1	32753	32753	PRON	PER	his
+-1	32761	32761	PRON	PER	we
+-1	32767	32767	PRON	PER	we
+-1	32775	32776	NOM	PER	the giants
+-1	32812	32812	PRON	PER	his
+-1	32816	32819	NOM	PER	the king of beasts
+-1	32834	32834	PRON	PER	him
+-1	32836	32837	NOM	PER	the Trolls
+137	32848	32849	PROP	LOC	the Dovrefell
+149	32875	32875	PROP	GPE	Germany,[51
+72	32885	32886	PROP	LOC	the North
+196	32890	32891	PROP	PER	the Lapps
+-1	32893	32893	PRON	PER	him
+-1	32898	32898	NOM	PER	men
+-1	32903	32903	PRON	PER	they
+-1	32905	32905	PRON	PER	he
+-1	32915	32916	NOM	PER	twelve men
+-1	32919	32919	PRON	PER	they
+-1	32921	32921	PRON	PER	him
+-1	32923	32923	PRON	PER	they
+-1	32926	32926	PRON	PER	his
+409	32932	32933	PROP	PER	the Ostjaks
+-1	32935	32940	NOM	PER	a tribe akin to the Lapps
+196	32939	32940	PROP	PER	the Lapps
+-1	32944	32944	PRON	PER	him
+-1	32946	32946	PRON	PER	their
+-1	32946	32947	NOM	FAC	their huts
+-1	32971	32971	PRON	PER	He
+-1	32974	32984	NOM	PER	the spiteful , stupid , greedy Isengrim of Germany and France
+102	32982	32982	PROP	GPE	Germany
+13	32984	32984	PROP	GPE	France
+410	32988	32988	PROP	PER	Isengrim
+-1	33000	33000	PRON	PER	us
+-1	33002	33002	PRON	PER	he
+-1	33004	33005	NOM	PER	a monk
+-1	33009	33010	NOM	PER	the brethren
+-1	33014	33014	PRON	PER	him
+-1	33015	33015	PRON	PER	his
+-1	33018	33018	PRON	PER	he
+-1	33025	33025	PRON	PER	they
+-1	33030	33030	PRON	PER	him
+-1	33038	33038	PRON	PER	they
+-1	33041	33041	PRON	PER	him
+-1	33049	33049	PRON	PER	his
+-1	33053	33053	PRON	PER	his
+-1	33063	33063	PRON	PER	He
+-1	33079	33079	PRON	PER	his
+-1	33102	33102	PRON	PER	his
+245	33113	33113	PROP	PER	Boots
+-1	33118	33118	PRON	PER	him
+-1	33127	33129	NOM	PER	the Teutonic tribes
+-1	33135	33135	PRON	PER	their
+411	33141	33141	PROP	PER	Tacitus[54
+-1	33151	33152	NOM	LOC	those woods
+-1	33157	33157	PRON	PER	them
+-1	33172	33198	NOM	PER	no mortal man crossed , whose neighings and snortings were carefully watched as auguries and omens , and who were thought to be conscious of divine mysteries
+24	33201	33201	PROP	GPE	Persia
+-1	33205	33207	NOM	PER	the classical reader
+2	33226	33226	PROP	GPE	England
+-1	33232	33232	PRON	PER	we
+412	33238	33238	PROP	PER	Hengist
+413	33240	33240	PROP	PER	Horsa
+-1	33242	33251	NOM	PER	the twin - heroes of the Anglo - Saxon migration
+-1	33265	33272	NOM	LOC	the vale of the White Horse in Berks
+150	33272	33272	PROP	GPE	Berks
+-1	33276	33283	NOM	LOC	the sacred form still gleams along the down
+-1	33295	33295	PRON	PER	our
+-1	33295	33296	NOM	PER	our forefathers
+-1	33321	33321	PRON	PER	their
+-1	33321	33322	NOM	PER	their owners
+-1	33331	33333	NOM	PER	that particular god
+414	33339	33339	PROP	PER	Dapplegrim
+-1	33351	33351	PRON	PER	his
+-1	33351	33352	NOM	PER	his master
+-1	33356	33356	PRON	PER	his
+-1	33361	33361	PRON	PER	him
+-1	33389	33391	NOM	PER	Such a friend
+-1	33396	33398	NOM	PER	the helpless lassie
+-1	33438	33438	PRON	PER	we
+-1	33443	33443	PRON	PER	him
+-1	33449	33449	PRON	PER	his
+-1	33456	33456	PRON	PER	his
+-1	33464	33466	NOM	PER	the chief character
+-1	33472	33472	PRON	PER	he
+-1	33483	33483	PRON	PER	we
+-1	33486	33486	PRON	PER	him
+-1	33489	33510	NOM	PER	the man who comes out of the face of the rock and supplies the lassie ’s wants when she knocks on it
+-1	33502	33503	NOM	PER	the lassie
+-1	33507	33507	PRON	PER	she
+415	33534	33536	PROP	PER	Guy of Warwick
+-1	33541	33544	NOM	PER	The Huldror in Norway
+93	33544	33544	PROP	GPE	Norway
+107	33553	33553	PROP	GPE	Scotland
+10	33566	33566	PROP	GPE	Iceland
+-1	33594	33594	PRON	PER	we
+-1	33598	33598	PRON	PER	our
+-1	33598	33599	NOM	PER	our readers
+416	33608	33609	PROP	PER	the Indians
+417	33611	33611	PROP	PER	Egyptians
+-1	33615	33621	NOM	PER	the Golden Calf ” in the Bible
+418	33624	33624	PROP	PER	Io
+-1	33626	33626	PRON	PER	her
+-1	33629	33629	NOM	LOC	land
+-1	33631	33631	NOM	LOC	land
+419	33642	33642	PROP	PER	Audhumla
+352	33648	33649	PROP	LOC	the Edda
+-1	33661	33669	NOM	PER	the first Giant in human form.[55 ] The dog
+-1	33676	33676	PRON	PER	his
+172	33687	33687	PROP	PER	Grimm
+-1	33700	33700	PRON	PER	We
+-1	33702	33702	PRON	PER	him
+-1	33722	33722	PRON	PER	his
+-1	33727	33727	PRON	PER	his
+-1	33727	33728	NOM	PER	his mistress
+-1	33734	33739	NOM	PER	the foe of his own house
+-1	33737	33737	PRON	PER	his
+-1	33737	33739	NOM	FAC	his own house
+-1	33769	33769	PRON	PER	he
+-1	33786	33786	PRON	PER	he
+420	33804	33804	PROP	PER	Goldtooth
+-1	33806	33806	PRON	PER	their
+421	33811	33811	PROP	PER	Buttercup
+-1	33813	33813	PRON	PER	his
+-1	33813	33814	NOM	PER	his mother
+-1	33819	33821	NOM	PER	the old hag
+-1	33833	33833	PRON	PER	he
+-1	33837	33838	NOM	PER	the lassie
+-1	33850	33850	PRON	PER	her
+-1	33861	33861	PRON	PER	her
+-1	33861	33862	NOM	FAC	her coach
+-1	33868	33868	PRON	PER	he
+-1	33873	33873	PRON	PER	him
+-1	33876	33876	PRON	PER	he
+-1	33881	33881	PRON	PER	his
+-1	33881	33882	NOM	PER	his mistress
+422	33901	33902	PROP	PER	the Goat
+-1	33920	33924	NOM	LOC	the bridge over the burn
+-1	33937	33937	PRON	PER	he
+-1	33939	33940	NOM	PER	the lassie
+-1	33942	33942	PRON	PER	her
+-1	33945	33946	NOM	PER	the witches
+-1	33948	33948	PRON	PER	He
+255	33955	33955	PROP	PER	Thor
+-1	33963	33963	PRON	PER	his
+-1	33974	33974	PRON	PER	his
+-1	33974	33976	NOM	PER	his former lord
+-1	33980	33985	NOM	PER	the great foe of all Trolls
+-1	33984	33985	NOM	PER	all Trolls
+-1	34006	34012	NOM	PER	the great God who swayed the thunder
+422	34017	34018	PROP	PER	the Goat
+250	34020	34021	PROP	PER	the Trolls
+-1	34027	34029	NOM	PER	The Old Dame
+-1	34031	34031	PRON	PER	her
+-1	34031	34032	NOM	PER	her Hen
+-1	34047	34048	NOM	PER	the Troll
+-1	34047	34050	NOM	FAC	the Troll ’s house
+-1	34056	34056	PRON	PER	you
+0	34058	34058	PRON	PER	I
+-1	34064	34064	PRON	PER	you
+-1	34064	34068	NOM	PER	you long - bearded beast
+-1	34071	34076	NOM	PER	the Man o ’ the Hill
+151	34075	34076	PROP	LOC	the Hill
+-1	34088	34088	PRON	PER	he
+422	34091	34092	PROP	PER	the Goat
+-1	34095	34095	PRON	PER	his
+-1	34101	34101	PRON	PER	him
+-1	34104	34105	NOM	FAC	the cellar
+-1	34108	34108	PRON	PER	he
+-1	34111	34115	NOM	PER	one of the heathen gods
+-1	34113	34115	NOM	PER	the heathen gods
+-1	34125	34125	PRON	PER	he
+-1	34129	34130	NOM	PER	the Devil
+-1	34135	34135	PRON	PER	his
+-1	34138	34138	PRON	PER	he
+-1	34158	34159	NOM	PER	the man
+-1	34158	34161	NOM	PER	the man ’s daughter
+-1	34168	34170	NOM	PER	The Two Stepsisters
+-1	34181	34181	PRON	PER	her
+-1	34202	34203	NOM	PER	the Prince
+-1	34229	34230	NOM	PER	some persons
+-1	34244	34244	PRON	PER	We
+-1	34250	34250	PRON	PER	our
+-1	34255	34257	NOM	PER	a little bird
+0	34259	34259	PRON	PER	me
+-1	34267	34267	PRON	PER	their
+261	34306	34306	PROP	PER	Sigurd
+276	34317	34317	PROP	PER	Regin
+-1	34321	34321	PRON	PER	his
+-1	34325	34325	PRON	PER	he
+265	34333	34333	PROP	PER	Fafnir
+-1	34336	34336	PRON	PER	he
+-1	34355	34355	PRON	PER	him
+-1	34364	34364	PRON	PER	We
+-1	34368	34381	NOM	PER	a class of beings which plays a large part , and always for ill
+-1	34389	34392	NOM	PER	the Giants or Trolls
+245	34408	34408	PROP	PER	Troll
+423	34419	34419	PROP	PER	Giant,[57
+-1	34426	34431	NOM	PER	a race more dull than wicked
+-1	34434	34435	NOM	PER	the Giants
+-1	34436	34436	PRON	PER	we
+-1	34497	34497	PRON	PER	them
+-1	34503	34503	PRON	PER	them
+-1	34508	34508	PRON	PER	them
+-1	34513	34537	NOM	PER	a simple primitive race , whose day is past and gone , but who still possessed something of the innocence and virtue of ancient times
+-1	34558	34558	NOM	PER	others
+-1	34565	34565	PRON	PER	themselves
+-1	34567	34567	PRON	PER	They
+-1	34569	34573	NOM	PER	the old Tories of mythology
+-1	34578	34579	NOM	PER	the Aesir
+-1	34581	34583	NOM	PER	the advanced liberals
+-1	34585	34585	PRON	PER	They
+-1	34616	34616	PRON	PER	their
+-1	34679	34690	NOM	PER	the slight and lissom foe who waits for and eludes the stroke
+-1	34693	34693	PRON	PER	his
+-1	34696	34696	PRON	PER	him
+-1	34719	34727	NOM	PER	the upstart Aesir , though almost always at feud
+-1	34731	34731	PRON	PER	their
+-1	34746	34746	PRON	PER	them
+255	34767	34767	PROP	PER	Thor
+-1	34772	34773	NOM	PER	the giants
+-1	34779	34779	PRON	PER	he
+-1	34781	34781	PRON	PER	them
+-1	34787	34787	PRON	PER	They
+-1	34804	34805	NOM	PER	the gods
+-1	34812	34812	PRON	PER	they
+-1	34823	34824	NOM	PER	The Trolls
+-1	34833	34833	NOM	PER	mankind
+-1	34853	34854	NOM	PER	the Giants
+-1	34894	34895	NOM	PER	supernatural beings
+-1	34926	34927	NOM	PER	the Giant
+-1	34930	34931	NOM	PER	the Troll
+379	34936	34936	PROP	PER	Christianity
+-1	34945	34950	NOM	PER	the godlike race of the Aesir
+249	34949	34950	PROP	PER	the Aesir
+-1	34952	34958	NOM	PER	evil demons instead of good genial powers
+-1	34961	34968	NOM	PER	all the objects of the old popular belief
+249	34971	34971	PROP	PER	Aesir
+-1	34973	34973	NOM	PER	Giants
+-1	34976	34976	NOM	PER	Trolls
+-1	34991	34991	PRON	PER	They
+-1	34993	34994	NOM	PER	all Trolls
+248	35012	35012	PROP	PER	Odin
+-1	35014	35014	PRON	PER	his
+-1	35014	35015	NOM	PER	his underlings
+250	35018	35020	PROP	PER	the Frost Giants
+-1	35024	35024	NOM	PER	sorcerers
+-1	35026	35026	NOM	PER	wizards
+-1	35039	35039	NOM	PER	man
+-1	35046	35046	NOM	PER	Trolls
+-1	35052	35054	NOM	PER	the arch enemy
+-1	35055	35055	PRON	PER	himself
+-1	35061	35061	NOM	PER	witch
+-1	35064	35064	NOM	PER	wizard
+424	35071	35073	PROP	PER	The Old Dame
+-1	35075	35075	PRON	PER	her
+-1	35084	35111	PROP	PER	The Giant who had no Heart in his Body ” , No . ix , “ Shortshanks ” , No . xx , “ Boots and the Troll
+-1	35091	35091	PRON	PER	his
+-1	35095	35105	NOM	PER	No . ix , “ Shortshanks ” , No . xx
+245	35108	35108	PROP	PER	Boots
+-1	35110	35111	NOM	PER	the Troll
+-1	35119	35131	NOM	PER	Boots who ate a match with the Troll ” , No . v
+250	35137	35140	PROP	PER	the old Frost Giants
+-1	35144	35144	PRON	PER	we
+-1	35147	35147	PRON	PER	them
+-1	35149	35149	PRON	PER	we
+425	35156	35159	PROP	PER	The Big Bird Dan
+-1	35166	35166	PRON	PER	we
+-1	35168	35198	NOM	PER	a Troll Prince , who appears as a generous benefactor to the young Prince , and lends him a sword by help of which he slays the King of the Trolls
+-1	35175	35181	NOM	PER	a generous benefactor to the young Prince
+-1	35179	35181	NOM	PER	the young Prince
+-1	35185	35185	PRON	PER	him
+-1	35192	35192	PRON	PER	he
+-1	35194	35198	NOM	PER	the King of the Trolls
+-1	35197	35198	NOM	PER	the Trolls
+-1	35202	35202	PRON	PER	we
+249	35211	35212	PROP	PER	the Aesir
+426	35216	35218	PROP	PER	the Frost Giant
+-1	35229	35230	NOM	PER	the Trolls
+-1	35236	35241	NOM	PER	the witches of the Middle Age
+-1	35249	35250	NOM	PER	The Mastermaid
+403	35268	35269	PROP	PER	Farmer Weathersky
+-1	35282	35282	NOM	PER	man
+-1	35315	35315	PRON	PER	we
+-1	35317	35318	NOM	PER	the Troll
+-1	35317	35367	NOM	PER	the Troll proper,—the supernatural dwellers of the woods and hills , who go to church , and eat men , and porridge , and sausages indifferently , not from malignity , but because they know no better , because it is their nature , and because they have always done so
+-1	35323	35324	NOM	LOC	the woods
+-1	35331	35331	NOM	FAC	church
+-1	35335	35335	NOM	PER	men
+-1	35350	35350	PRON	PER	they
+-1	35358	35358	PRON	PER	their
+-1	35363	35363	PRON	PER	they
+-1	35372	35372	PRON	PER	they
+-1	35377	35377	PRON	PER	their
+-1	35382	35385	NOM	LOC	The wild pine forest
+-1	35388	35392	NOM	LOC	the spurs of the fells
+-1	35391	35392	NOM	LOC	the fells
+-1	35399	35406	NOM	LOC	the interior recesses of the rocky fell itself
+-1	35403	35406	NOM	LOC	the rocky fell itself
+250	35410	35411	PROP	PER	the Trolls
+-1	35415	35415	PRON	PER	they
+-1	35418	35421	NOM	PER	the children of men
+-1	35421	35421	NOM	PER	men
+-1	35425	35425	PRON	PER	them
+-1	35432	35434	NOM	LOC	the mineral world
+-1	35443	35448	NOM	LOC	the steep face of the rock
+-1	35451	35452	NOM	PER	the Troll
+-1	35455	35460	NOM	PER	the representative of the old giants
+-1	35458	35460	NOM	PER	the old giants
+-1	35472	35472	PRON	PER	They
+-1	35476	35478	NOM	LOC	the dark forest
+-1	35491	35491	PRON	PER	they
+-1	35493	35493	NOM	FAC	home
+-1	35498	35498	PRON	PER	themselves
+-1	35512	35512	PRON	PER	them
+-1	35521	35521	PRON	PER	they
+-1	35523	35523	PRON	PER	him
+-1	35529	35529	PRON	PER	his
+-1	35535	35535	PRON	PER	them
+-1	35538	35538	PRON	PER	they
+405	35544	35545	PROP	PER	Lord Peter
+424	35555	35557	PROP	PER	The Old Dame
+-1	35559	35559	PRON	PER	her
+72	35581	35582	PROP	LOC	the North
+-1	35590	35590	PRON	GPE	it
+-1	35600	35600	PRON	GPE	its
+-1	35611	35611	PRON	PER	them
+427	35633	35633	PROP	PER	Baldr
+255	35643	35643	PROP	PER	Thor
+-1	35652	35656	NOM	PER	the whole race of Giants
+250	35658	35658	PROP	PER	Trolls
+-1	35674	35674	PRON	PER	their
+-1	35678	35679	NOM	LOC	the woods
+-1	35682	35685	NOM	LOC	rocks , and hills
+-1	35687	35687	PRON	PER	we
+-1	35698	35709	NOM	PER	some hostile race , who gradually retired into the natural fastnesses of
+-1	35710	35711	NOM	LOC	the land
+-1	35721	35721	PRON	PER	we
+-1	35725	35725	PRON	PER	their
+197	35740	35741	PROP	PER	the Finns
+196	35743	35743	PROP	PER	Lapps
+-1	35746	35746	PRON	PER	we
+-1	35753	35755	NOM	PER	this ancient race
+-1	35764	35767	NOM	PER	this outcast nomad race
+-1	35772	35774	NOM	LOC	forest to forest
+-1	35778	35780	NOM	LOC	fell to fell
+-1	35783	35787	NOM	LOC	a fixed place of abode
+250	35795	35796	PROP	PER	Frost Giants
+-1	35801	35808	NOM	PER	the race which adored Odin and the Aesir
+248	35805	35805	PROP	PER	Odin
+249	35807	35808	PROP	PER	the Aesir
+-1	35811	35821	NOM	PER	a monstrous man - eating cross - breed of supernatural beings
+-1	35828	35829	NOM	PER	the intruders
+-1	35858	35858	PRON	PER	their
+-1	35858	35860	NOM	FAC	their hunting fields
+-1	35868	35868	PRON	PER	them
+-1	35875	35876	NOM	LOC	the earth
+-1	35886	35887	NOM	LOC	the globe
+-1	35890	35890	NOM	PER	man
+-1	35894	35894	PRON	PER	himself
+-1	35896	35897	NOM	LOC	all climes
+69	35903	35903	PROP	GPE	Africa
+152	35906	35908	PROP	LOC	the Rocky Mountains
+-1	35919	35922	NOM	PER	any Lapp or Samoyed
+-1	35927	35928	NOM	PER	pretty playthings
+-1	35930	35930	NOM	PER	mother
+-1	35934	35935	NOM	PER	the Giants
+-1	35934	35937	NOM	PER	the Giants ’ daughter
+-1	35939	35939	PRON	PER	she
+-1	35941	35941	PRON	PER	her
+-1	35946	35946	PRON	PER	her
+-1	35954	35954	NOM	PER	peasants
+-1	35959	35959	PRON	PER	them
+-1	35965	35966	NOM	PER	the mother
+-1	35973	35973	PRON	PER	them
+-1	35978	35978	PRON	PER	you
+-1	35986	35986	PRON	PER	our
+-1	35986	35987	NOM	PER	our race
+-1	35995	35995	PRON	PER	we
+-1	36011	36012	NOM	PER	one Giant
+-1	36017	36017	PRON	PER	they
+-1	36019	36020	NOM	PER	a man
+-1	36022	36022	PRON	PER	they
+-1	36035	36035	PRON	PER	us
+-1	36038	36038	NOM	PER	brother
+-1	36042	36043	NOM	PER	the other
+-1	36047	36048	NOM	PER	both Giants
+-1	36050	36053	NOM	LOC	that part of Germany
+102	36053	36053	PROP	GPE	Germany
+250	36067	36068	PROP	PER	The Giants
+-1	36070	36070	NOM	PER	Trolls
+-1	36079	36079	PRON	PER	we
+-1	36089	36090	NOM	PER	the Ogre
+245	36094	36094	PROP	PER	Shortshanks
+-1	36097	36097	PRON	PER	his
+-1	36100	36100	PRON	PER	him
+-1	36105	36109	NOM	LOC	East o ’ the Sun
+139	36108	36109	PROP	LOC	the Sun
+153	36111	36115	PROP	LOC	West o ’ the Moon
+-1	36123	36126	NOM	PER	none of the Trolls
+-1	36132	36135	NOM	LOC	the spot of tallow
+-1	36140	36146	NOM	PER	the “ Two Step - sisters ”
+-1	36152	36154	NOM	PER	the old witch
+-1	36159	36160	NOM	PER	human maids
+-1	36163	36163	PRON	PER	her
+405	36180	36181	PROP	PER	Lord Peter
+-1	36198	36199	NOM	PER	the Giants
+-1	36213	36213	PRON	PER	their
+-1	36225	36226	NOM	PER	the Cat
+0	36230	36230	PRON	PER	I
+-1	36233	36233	PRON	PER	you
+-1	36235	36236	NOM	PER	the farmer
+-1	36243	36243	PRON	PER	his
+-1	36250	36250	PRON	PER	she
+-1	36252	36252	PRON	PER	him
+-1	36267	36267	PRON	PER	you
+-1	36270	36270	PRON	PER	he
+-1	36272	36273	NOM	FAC	the field
+-1	36277	36277	PRON	PER	he
+-1	36283	36283	PRON	PER	he
+-1	36290	36290	PRON	PER	he
+-1	36297	36297	PRON	PER	she
+-1	36306	36306	PRON	PER	we
+-1	36314	36314	PRON	PER	us
+-1	36331	36332	NOM	PER	four brothers
+-1	36340	36342	NOM	PER	the North wind
+-1	36361	36361	PRON	PER	he
+-1	36363	36369	NOM	PER	a genial , kind - hearted fellow
+-1	36373	36373	PRON	PER	He
+-1	36375	36376	NOM	PER	the lassie
+-1	36378	36379	NOM	FAC	the castle
+-1	36396	36399	NOM	PER	none of his brothers
+-1	36398	36398	PRON	PER	his
+-1	36398	36399	NOM	PER	his brothers
+-1	36406	36406	PRON	PER	he
+-1	36410	36410	PRON	PER	she
+-1	36418	36418	PRON	PER	he
+-1	36426	36426	PRON	PER	himself
+-1	36434	36434	PRON	PER	he
+-1	36446	36446	PRON	PER	they
+-1	36455	36456	NOM	PER	The Lad
+62	36460	36462	PROP	LOC	the North Wind
+-1	36470	36470	PRON	PER	he
+-1	36476	36476	PRON	PER	he
+-1	36480	36480	PRON	PER	he
+-1	36482	36483	NOM	PER	the lad
+-1	36488	36488	PRON	PER	his
+-1	36494	36494	PRON	PER	him
+-1	36496	36496	PRON	PER	He
+428	36501	36503	PROP	PER	the Grecian Boreas
+429	36512	36512	PROP	PER	Hraesvelgr
+352	36518	36519	PROP	LOC	the Edda
+-1	36528	36529	NOM	LOC	the world
+-1	36537	36537	PRON	PER	he
+-1	36539	36539	PRON	PER	his
+-1	36549	36549	NOM	PER	men
+-1	36567	36568	NOM	PER	the Norseman
+-1	36582	36582	PRON	PER	we
+-1	36613	36615	NOM	PER	the lower classes
+430	36620	36621	PROP	PER	King Sverri
+-1	36624	36624	PRON	PER	we
+-1	36645	36646	NOM	PER	the king
+-1	36645	36648	NOM	PER	the king ’s children
+-1	36651	36651	PRON	PER	their
+-1	36651	36652	NOM	PER	their stepmother
+312	36663	36664	PROP	PER	Olof Tryggvason
+-1	36668	36670	NOM	PER	the monk Odd
+-1	36684	36684	NOM	PER	stepmother
+-1	36688	36688	NOM	PER	shepherds
+-1	36692	36693	NOM	PER	no one
+-1	36703	36704	NOM	PER	the king
+-1	36711	36711	PRON	PER	their
+-1	36727	36739	NOM	PER	Any one who has read the Volsung tale as we have given it
+-1	36736	36736	PRON	PER	we
+-1	36757	36758	NOM	PER	the Prince
+-1	36760	36761	NOM	PER	the lassie
+-1	36772	36772	PRON	PER	they
+-1	36793	36794	NOM	PER	the Princess
+-1	36797	36797	PRON	PER	her
+-1	36803	36803	PRON	PER	they
+261	36807	36807	PROP	PER	Sigurd
+-1	36813	36813	PRON	PER	he
+-1	36816	36816	PRON	PER	himself
+263	36818	36818	PROP	PER	Brynhildr
+-1	36820	36820	PRON	PER	he
+-1	36827	36827	PRON	PER	her
+-1	36873	36873	PRON	PER	We
+-1	36879	36885	NOM	PER	the men and women of these Tales
+-1	36889	36889	PRON	PER	our
+-1	36901	36901	PRON	PER	they
+-1	36908	36908	PRON	PER	themselves
+-1	36916	36916	PRON	PER	their
+-1	36925	36926	NOM	PER	all races
+-1	36933	36933	PRON	PER	their
+121	36937	36938	PROP	LOC	the Hindoos
+-1	36960	36962	NOM	LOC	a tropical forest
+-1	36965	36966	NOM	LOC	the Arabs
+154	36986	36987	PROP	LOC	the Italians
+155	37000	37001	PROP	LOC	the French
+-1	37002	37002	PRON	PER	we
+-1	37006	37007	NOM	LOC	the woods
+-1	37010	37010	NOM	LOC	fields
+0	37016	37016	PRON	PER	my
+-1	37016	37017	NOM	PER	my lady
+-1	37040	37040	PRON	PER	We
+-1	37060	37062	NOM	LOC	the pine forest
+308	37064	37065	PROP	PER	The Swedes
+-1	37071	37071	PRON	PER	their
+431	37084	37085	PROP	PER	The Germans
+432	37098	37099	PROP	PER	M. Moe[60
+-1	37107	37107	PRON	PER	we
+-1	37114	37114	PRON	PER	we
+-1	37119	37137	NOM	PER	some elderly woman of the middle class , who recites them with a clear , full , deep voice
+107	37140	37140	PROP	GPE	Scotland
+433	37148	37150	PROP	PER	Mr Robert Chambers[61
+93	37188	37188	PROP	GPE	Norway
+434	37191	37192	PROP	PER	Mr Chambers
+435	37197	37198	PROP	PER	Katie Woodencloak
+93	37225	37225	PROP	GPE	Norway
+-1	37232	37241	NOM	PER	the Lowland Scots , among whom these tales were told
+-1	37244	37272	NOM	PER	lineal descendants of Norsemen , who had either seized the country in the Viking times , or had been driven into it across the Border after the Norman Conquest
+-1	37253	37254	NOM	GPE	the country
+-1	37265	37265	PRON	GPE	it
+156	37267	37268	PROP	LOC	the Border
+-1	37277	37277	PRON	PER	we
+-1	37323	37324	NOM	PER	the foe
+436	37361	37362	PROP	PER	Norske Bonder
+-1	37372	37377	NOM	PER	who burn tallow , not wax
+437	37437	37437	PROP	PER	Gudbrand
+157	37439	37440	PROP	LOC	the Hillside
+-1	37451	37452	NOM	PER	the wife
+-1	37454	37454	PRON	PER	her
+-1	37454	37455	NOM	PER	her husband
+-1	37463	37463	PRON	PER	we
+162	37467	37468	PROP	PER	M. Moe
+437	37480	37480	PROP	PER	Gudbrand
+-1	37492	37493	NOM	PER	the sexes
+-1	37497	37498	NOM	PER	any wife
+-1	37515	37515	PRON	PER	them
+-1	37523	37523	NOM	PER	wives
+-1	37526	37526	PRON	PER	she
+-1	37532	37532	PRON	PER	she
+-1	37535	37542	NOM	PER	The Husband who was to mind the House
+-1	37550	37551	NOM	PER	the husband
+-1	37564	37564	PRON	PER	he
+-1	37579	37579	PRON	PER	we
+-1	37603	37604	NOM	PER	English families
+-1	37607	37609	NOM	PER	the youngest brother
+-1	37618	37618	PRON	PER	his
+-1	37618	37619	NOM	PER	his brothers
+-1	37621	37621	PRON	PER	him
+-1	37628	37628	PRON	PER	him
+-1	37637	37637	PRON	PER	he
+162	37651	37652	PROP	PER	M. Moe
+-1	37653	37653	PRON	PER	he
+438	37662	37663	PROP	PER	the Danes
+102	37666	37666	PROP	GPE	Germany
+-1	37670	37673	NOM	PER	the readers of Grimm
+-1	37681	37682	NOM	PER	own brother
+-1	37693	37704	NOM	PER	one who pokes about the ashes and blows up the fire ”
+93	37716	37716	PROP	GPE	Norway
+162	37720	37721	PROP	PER	M. Moe
+-1	37730	37735	NOM	PER	the youngest son of the family
+-1	37734	37735	NOM	PER	the family
+-1	37737	37737	PRON	PER	He
+169	37739	37739	PROP	PER	Cinderella
+-1	37739	37741	NOM	PER	Cinderella ’s brother
+-1	37748	37748	PRON	PER	she
+-1	37756	37756	PRON	PER	her
+-1	37758	37758	PRON	PER	her
+-1	37758	37759	NOM	PER	her sisters
+-1	37761	37761	PRON	PER	he
+-1	37768	37768	PRON	PER	his
+-1	37768	37769	NOM	PER	his brothers
+-1	37771	37771	PRON	PER	He
+405	37783	37783	PROP	PER	Peter
+311	37785	37785	PROP	PER	Paul
+-1	37802	37802	PRON	PER	him
+-1	37805	37805	PRON	PER	he
+-1	37808	37808	PRON	PER	him
+-1	37825	37825	PRON	PER	He
+-1	37827	37837	NOM	PER	the man whom Heaven helps , because he can help himself
+439	37830	37830	PROP	PER	Heaven
+-1	37834	37834	PRON	PER	he
+-1	37837	37837	PRON	PER	himself
+-1	37843	37843	PRON	PER	his
+-1	37843	37844	NOM	PER	his brothers
+-1	37849	37849	PRON	PER	he
+-1	37854	37855	NOM	FAC	the barn
+-1	37865	37867	NOM	LOC	the glass hill
+-1	37871	37872	NOM	PER	the Princess
+-1	37875	37876	NOM	GPE	the kingdom
+-1	37878	37882	NOM	PER	The Norse “ Boots ”
+308	37894	37895	PROP	PER	the Swedes
+-1	37901	37902	NOM	PER	the Germans
+-1	37908	37908	PRON	PER	our
+-1	37911	37914	NOM	PER	the Giant Killer ”
+-1	37917	37917	PRON	PER	he
+-1	37923	37923	PRON	PER	he
+-1	37931	37934	NOM	LOC	the coal - hole
+-1	37937	37937	PRON	PER	he
+-1	37945	37945	PRON	PER	he
+-1	37976	37976	PRON	PER	he
+-1	37978	37978	PRON	PER	himself
+-1	37989	37989	PRON	PER	his
+-1	37999	37999	PRON	PER	he
+-1	38006	38006	PRON	PER	he
+-1	38012	38012	PRON	PER	his
+-1	38021	38023	NOM	FAC	kitchen - fire
+-1	38042	38042	PRON	PER	his
+-1	38049	38049	PRON	PER	he
+-1	38057	38057	PRON	PER	his
+-1	38068	38069	NOM	PER	a king
+-1	38078	38079	NOM	PER	a nation
+-1	38111	38111	PRON	PER	their
+-1	38116	38116	PRON	PER	they
+-1	38126	38130	NOM	PER	the proud , the worthless
+-1	38141	38142	NOM	PER	the women
+-1	38148	38149	NOM	PER	the men
+-1	38169	38173	NOM	PER	none of the female characters
+-1	38178	38180	NOM	PER	The Mastermaid ”
+-1	38193	38196	NOM	PER	The Master - Smith
+-1	38200	38212	NOM	PER	The Master - Thief , ” “ Shortshanks ” or “ Boots ”
+-1	38229	38233	NOM	PER	The Two Step - Sisters
+-1	38259	38260	NOM	PER	Bushy Bride
+-1	38269	38272	NOM	PER	The Twelve Wild Ducks
+-1	38282	38283	NOM	PER	the lassie
+-1	38293	38293	PRON	PER	she
+-1	38295	38295	PRON	PER	herself
+-1	38297	38297	PRON	PER	her
+-1	38301	38301	NOM	PER	others
+-1	38304	38304	PRON	PER	she
+-1	38314	38314	PRON	PER	her
+-1	38314	38317	NOM	PER	her step - sister
+-1	38324	38324	PRON	PER	she
+-1	38355	38355	PRON	PER	her
+-1	38359	38359	PRON	PER	she
+-1	38369	38369	PRON	PER	she
+-1	38382	38382	PRON	PER	she
+-1	38385	38385	PRON	PER	her
+-1	38385	38386	NOM	PER	her enemies
+-1	38391	38391	PRON	PER	her
+-1	38397	38397	PRON	PER	she
+-1	38401	38401	PRON	PER	she
+-1	38410	38410	PRON	PER	herself
+-1	38413	38413	PRON	PER	she
+-1	38421	38421	PRON	PER	her
+-1	38421	38422	NOM	PER	her brother
+-1	38429	38429	PRON	PER	her
+-1	38438	38438	PRON	PER	She
+-1	38450	38450	PRON	PER	she
+-1	38475	38475	PRON	PER	she
+-1	38482	38484	NOM	PER	the wicked stepmother
+-1	38486	38486	PRON	PER	her
+-1	38486	38488	NOM	PER	her ugly daughter
+440	38504	38505	PROP	PER	Hacon Grizzlebeard
+-1	38512	38512	PRON	PER	we
+-1	38514	38518	NOM	PER	the proud , haughty princess
+-1	38526	38530	NOM	PER	a faithful , loving wife
+-1	38532	38532	PRON	PER	We
+-1	38535	38535	PRON	PER	her
+-1	38545	38546	NOM	PER	the poets
+-1	38556	38556	PRON	PER	her
+440	38564	38565	PROP	GPE	Hacon Grizzlebeard
+-1	38566	38566	PRON	PER	we
+-1	38572	38573	NOM	PER	the princess
+-1	38577	38577	PRON	PER	we
+-1	38585	38585	PRON	PER	her
+-1	38588	38588	PRON	PER	we
+-1	38593	38593	PRON	PER	her
+-1	38598	38598	PRON	PER	she
+-1	38603	38604	NOM	PER	the Beggar
+-1	38607	38607	PRON	PER	him
+-1	38609	38609	PRON	PER	we
+-1	38614	38614	PRON	PER	her
+-1	38616	38616	PRON	PER	she
+-1	38621	38622	NOM	PER	the Beggar
+-1	38625	38626	NOM	PER	the babe
+-1	38631	38631	PRON	PER	we
+-1	38634	38634	PRON	PER	her
+-1	38636	38637	NOM	PER	the Prince
+-1	38642	38643	NOM	PER	the Beggar
+-1	38648	38649	NOM	PER	the babe
+-1	38654	38655	NOM	FAC	the cabin
+-1	38668	38669	NOM	PER	the professions
+159	38678	38679	PROP	ORG	The Church
+441	38692	38693	PROP	PER	Father Lawrence
+-1	38702	38705	NOM	PER	the Master - Thief
+-1	38713	38714	NOM	PER	the priest
+442	38720	38721	PROP	PER	Goosey Grizzel
+-1	38728	38728	PRON	PER	he
+-1	38732	38733	NOM	PER	the Farmer
+-1	38745	38747	NOM	PER	the popular mind
+22	38762	38762	PROP	PER	Rome
+-1	38778	38778	PRON	PER	It
+-1	38786	38786	PRON	PER	them
+-1	38812	38814	NOM	PER	those awful personages
+-1	38815	38816	NOM	PER	the Constable
+-1	38818	38819	NOM	PER	the Attorney
+-1	38822	38823	NOM	PER	the Sheriff
+-1	38826	38832	NOM	PER	The Mastermaid ” , No . xi
+-1	38871	38872	NOM	PER	the people
+-1	38875	38881	NOM	FAC	the “ Twelve Wild Ducks ” No
+-1	38885	38886	NOM	PER	the king
+-1	38904	38906	NOM	PER	a doctor”—a doctor
+-1	38930	38931	NOM	PER	the noblest
+-1	38937	38937	PRON	PER	it
+-1	38945	38946	NOM	PER	the Church
+-1	38949	38949	PRON	PER	its
+-1	38966	38968	NOM	PER	the popular mind
+435	38983	38984	PROP	LOC	Katie Woodencloak
+-1	38992	38993	NOM	PER	the doctor
+-1	38999	39001	NOM	PER	the wicked queen
+-1	39004	39004	PRON	PER	she
+-1	39010	39010	PRON	PER	she
+-1	39039	39040	NOM	PER	the Wolf
+248	39044	39044	PROP	PER	Odin
+-1	39051	39051	PRON	PER	themselves
+-1	39072	39072	PRON	PER	their
+-1	39079	39081	NOM	PER	the old Nornir
+-1	39083	39084	NOM	PER	divine spinners
+-1	39087	39087	PRON	PER	themselves
+-1	39089	39089	PRON	PER	their
+-1	39089	39091	NOM	PER	their old wives
+-1	39117	39118	NOM	FAC	the road
+-1	39130	39130	PRON	PER	we
+-1	39133	39133	PRON	PER	our
+-1	39138	39138	PRON	PER	we
+-1	39153	39153	PRON	LOC	its
+2	39169	39169	PROP	GPE	England
+-1	39210	39210	PRON	PER	their
+-1	39230	39231	NOM	LOC	the land
+250	39249	39249	PROP	PER	Giants
+248	39255	39255	PROP	PER	Odin
+-1	39257	39258	NOM	PER	the Aesir
+-1	39264	39266	NOM	PER	this very Norway
+-1	39277	39277	PRON	PER	her
+-1	39277	39279	NOM	PER	her own sons
+-1	39286	39286	PRON	PER	her
+-1	39355	39358	NOM	PER	the seekers after traditions
+-1	39387	39388	NOM	GPE	any country
+-1	39410	39413	NOM	PER	old and feeble women
+-1	39418	39423	NOM	PER	the depositaries of these national treasures
+-1	39427	39428	NOM	PER	the inquirer
+-1	39438	39438	PRON	PER	They
+-1	39513	39527	NOM	PER	the educated classes , through whose minds flows the bright upper - current of faith
+-1	39566	39572	NOM	PER	all Her Majesty ’s inspectors of schools
+-1	39567	39567	PRON	PER	Her
+-1	39572	39572	NOM	FAC	schools
+-1	39585	39590	NOM	PER	the great mass of the community
+-1	39589	39590	NOM	PER	the community
+443	39598	39599	PROP	PER	the English
+-1	39602	39604	NOM	PER	a superstitious people
+-1	39607	39607	PRON	PER	we
+-1	39618	39618	PRON	PER	our
+-1	39624	39624	NOM	PER	witches
+-1	39627	39627	NOM	PER	wizards
+-1	39638	39639	NOM	LOC	the land
+-1	39641	39644	NOM	PER	Ministers of all denominations
+-1	39654	39655	NOM	LOC	the world
+-1	39695	39704	NOM	PER	a host of witnesses , who firmly believed in witchcraft
+-1	39709	39709	PRON	PER	their
+-1	39712	39715	NOM	PER	spectre dogs and wizards
+-1	39723	39725	NOM	GPE	the Midland counties
+-1	39754	39755	NOM	ORG	the Church
+-1	39758	39758	PRON	PER	us
+-1	39774	39776	NOM	PER	an English Grimm
+434	39785	39786	PROP	PER	Mr. Chambers
+107	39792	39792	PROP	GPE	Scotland
+-1	39800	39805	NOM	PER	an Anglo - Saxon Gammer Grethel
+2	39817	39817	PROP	GPE	England
+-1	39824	39826	NOM	PER	the Aryan race
+164	39845	39847	PROP	PER	MM . Asbjörnsen
+162	39849	39849	PROP	PER	Moe
+-1	39875	39897	NOM	PER	those who have never been in the country where they are current , and who are not familiar with that hearty simple people
+-1	39881	39897	NOM	GPE	the country where they are current , and who are not familiar with that hearty simple people
+-1	39884	39884	PRON	PER	they
+-1	39894	39897	NOM	PER	that hearty simple people
+-1	39950	39950	PRON	PER	herself
+-1	39962	39962	PRON	PER	her
+161	39972	39975	PROP	LOC	The West Coast of
+107	39976	39976	PROP	GPE	Scotland
+-1	40022	40024	NOM	LOC	those steep hillsides
+-1	40039	40039	PRON	FAC	them
+-1	40071	40072	NOM	LOC	the forest
+-1	40074	40076	NOM	LOC	those winding dales
+-1	40078	40079	NOM	LOC	upland lakes
+444	40124	40124	PROP	PER	Nature
+-1	40223	40225	NOM	LOC	no other land
+-1	40237	40237	PRON	PER	we
+-1	40239	40242	NOM	PER	an honest manly race
+-1	40248	40249	NOM	GPE	the towns
+-1	40251	40251	NOM	GPE	cities
+-1	40255	40258	NOM	LOC	the dales and fells
+-1	40268	40282	NOM	GPE	a country where there are neither lords nor ladies , but simple men and women
+-1	40274	40274	NOM	PER	lords
+-1	40276	40276	NOM	PER	ladies
+-1	40279	40280	NOM	PER	simple men
+-1	40282	40282	NOM	PER	women
+-1	40284	40285	NOM	PER	Brave men
+-1	40287	40288	NOM	PER	fair women
+-1	40296	40296	PRON	PER	their
+-1	40296	40297	NOM	PER	their forefathers
+-1	40309	40309	PRON	PER	their
+-1	40318	40318	PRON	PER	their
+-1	40318	40319	NOM	PER	their race
+-1	40328	40331	NOM	PER	such a manly race
+-1	40335	40335	PRON	PER	we
+-1	40366	40366	PRON	PER	our
+-1	40370	40370	PRON	PER	them
+-1	40374	40374	PRON	PER	we
+-1	40378	40378	PRON	PER	our
+-1	40383	40384	NOM	PER	the reader
+-1	40389	40389	PRON	PER	themselves
+-1	40393	40394	NOM	PER	THE NORSE

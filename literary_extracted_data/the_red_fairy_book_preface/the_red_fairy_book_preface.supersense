@@ -1,0 +1,60 @@
+start_token	end_token	supersense_category	text
+1	4	noun.group	RED FAIRY BOOK Lang
+5	5	noun.communication	PREFACE
+9	9	noun.communication	gleaning
+12	12	noun.location	fields
+14	15	noun.location	Fairy Land
+19	19	verb.cognition	expect
+21	21	verb.possession	find
+24	24	noun.person	Perrault
+28	28	verb.stative	are
+30	30	noun.communication	stories
+44	44	noun.communication	Book
+46	46	verb.stative	have
+48	48	noun.attribute	attraction
+50	50	verb.stative	being
+58	58	noun.person	friends
+61	61	noun.communication	tales
+64	64	verb.communication	translated
+70	70	noun.state	case
+74	74	noun.person	Madame
+78	78	noun.communication	stories
+80	80	verb.creation	adapted
+83	84	noun.person	Mrs. Hunt
+90	92	noun.person	Miss Minnie Wright
+94	94	noun.person	Madame
+98	99	noun.person	Mrs. Lang
+101	102	noun.person	Miss Bruce
+106	106	noun.location	sources
+109	111	noun.person	Miss May Sellar
+113	114	noun.person	Miss Farquharson
+117	118	noun.person	Miss Blackley
+121	121	noun.communication	German
+125	125	noun.communication	story
+131	131	verb.change	condensed
+134	134	noun.person	Editor
+136	138	noun.person	Mr. William Morris
+141	141	noun.communication	version
+150	150	noun.person	Editor
+153	153	verb.communication	thank
+155	155	noun.person	friend
+157	159	noun.person	M. Charles Marelles
+162	162	noun.communication	permission
+164	164	verb.creation	reproduce
+166	166	noun.communication	versions
+176	176	noun.person	Drakestail
+188	188	noun.communication	French
+191	193	noun.person	M. Henri Carnoy
+197	197	noun.attribute	privilege
+207	208	noun.person	La Tradition
+210	212	noun.person	Lady Frances Balfour
+215	215	verb.communication	copied
+218	218	noun.communication	version
+228	229	noun.person	Messrs. Smith
+231	231	noun.person	Elder
+233	233	verb.communication	permitted
+235	235	noun.communication	publication
+239	240	noun.person	Mr. Ralston
+242	242	noun.communication	versions
+245	245	noun.communication	Russian
+247	248	noun.group	A. L.

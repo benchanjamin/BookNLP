@@ -1,0 +1,228 @@
+start_token	end_token	supersense_category	text
+3	3	noun.communication	BOOK
+6	6	verb.communication	Edited
+8	9	noun.person	Andrew Lang
+10	10	verb.communication	Dedicated
+12	14	noun.person	Diana Scott Lang
+15	15	noun.communication	Preface
+17	17	noun.communication	stories
+22	22	verb.stative	come
+25	25	noun.location	quarters
+28	28	noun.object	world
+34	34	noun.communication	adventures
+46	46	verb.communication	told
+48	49	noun.person	Red Indian
+50	50	noun.person	grandmothers
+52	53	noun.person	Red Indian
+54	54	noun.person	children
+57	58	verb.stative	go to
+59	59	noun.group	school
+62	62	verb.perception	see
+63	63	noun.artifact	pen
+65	65	noun.substance	ink
+71	71	verb.stative	is
+80	81	verb.stative	running about
+84	84	noun.artifact	clothes
+89	89	noun.location	bush
+92	92	noun.location	Australia
+96	96	verb.perception	see
+97	97	noun.artifact	photographs
+102	102	noun.person	black
+103	103	noun.person	fellows
+106	106	noun.state	troubles
+107	107	verb.change	begin
+111	112	noun.location	Northern Races
+114	115	noun.location	Central Australia
+119	120	noun.person	Messrs. Spencer
+122	122	noun.person	Gillen
+125	125	verb.possession	have
+127	127	noun.act	lessons
+130	130	verb.contact	tracking
+132	132	verb.contact	catching
+133	133	noun.animal	birds
+135	135	noun.animal	beasts
+137	137	noun.animal	fishes
+139	139	noun.animal	lizards
+142	142	noun.animal	snakes
+148	148	verb.consumption	eat
+153	154	verb.social	grow up
+156	156	verb.stative	be
+158	158	noun.person	boys
+160	160	noun.person	girls
+165	165	verb.contact	cut
+168	169	noun.artifact	stone knives
+171	171	verb.emotion	frightened
+174	174	noun.artifact	bogies
+178	178	noun.attribute	good
+181	181	noun.person	parents
+182	182	verb.communication	say
+185	185	verb.cognition	think
+189	190	verb.stative	go to
+191	191	noun.group	school
+195	195	verb.possession	had
+197	197	noun.cognition	choice
+200	200	verb.change	take
+202	202	noun.state	chance
+205	205	verb.communication	birched
+207	207	verb.social	bullied
+212	212	noun.person	boys
+214	214	verb.cognition	think
+217	217	noun.act	fun
+219	219	verb.change	begin
+221	221	verb.cognition	learn
+222	222	noun.act	hunting
+228	228	verb.motion	walk
+231	231	noun.communication	stories
+239	239	noun.location	Koumongoe
+242	242	verb.stative	come
+245	245	noun.person	Kaffirs
+247	247	noun.location	Africa
+251	251	noun.person	papas
+252	252	verb.stative	are
+259	259	noun.location	Australia
+262	262	verb.possession	have
+265	265	noun.animal	cattle
+267	267	noun.food	milk
+271	271	noun.food	mealies
+273	273	verb.consumption	eat
+276	276	verb.stative	live
+278	278	noun.artifact	houses
+282	282	noun.animal	bee
+284	284	noun.group	hives
+287	287	verb.body	wear
+288	288	noun.artifact	clothes
+291	291	noun.cognition	sort
+303	303	noun.person	Kabo
+305	305	verb.stative	is
+307	307	noun.communication	tale
+311	311	noun.group	people
+314	314	noun.object	island
+316	317	noun.location	New Caledonia
+321	321	noun.person	boy
+324	324	verb.social	allowed
+326	327	verb.communication	speak to
+330	331	verb.cognition	look at
+334	334	noun.person	sisters
+337	337	verb.cognition	knows
+342	342	verb.stative	are
+344	344	noun.attribute	manners
+348	348	noun.object	island
+351	351	noun.communication	story
+352	352	verb.perception	shows
+354	354	noun.attribute	advantages
+357	357	noun.attribute	manners
+360	360	noun.state	behaviour
+364	364	noun.person	natives
+368	368	verb.creation	cook
+370	370	verb.consumption	eat
+375	375	verb.stative	live
+377	377	noun.animal	fish
+379	379	noun.food	vegetables
+381	381	noun.food	pork
+384	384	noun.animal	chickens
+387	387	verb.stative	dwell
+389	389	noun.artifact	houses
+394	394	noun.person	Rose
+395	395	verb.social	did
+401	401	verb.stative	is
+403	403	noun.communication	story
+405	405	noun.location	Persia
+409	409	noun.group	people
+424	424	verb.cognition	read
+429	429	noun.time	Nights
+435	435	noun.communication	tales
+447	447	noun.location	north
+449	449	noun.object	Europe
+453	453	verb.stative	is
+458	458	noun.time	year
+460	460	noun.time	day
+462	462	noun.attribute	light
+466	466	noun.quantity	half
+469	469	noun.person	Lapps
+470	470	verb.stative	are
+472	472	noun.group	people
+476	476	noun.substance	soap
+478	478	noun.substance	water
+483	483	verb.consumption	given
+485	485	noun.artifact	art
+486	486	noun.cognition	magic
+491	491	noun.communication	tales
+493	493	noun.location	India
+495	495	verb.communication	told
+497	498	noun.person	Major Campbell
+501	501	verb.creation	wrote
+506	506	noun.person	Hindoos
+509	509	noun.communication	stories
+510	510	verb.stative	are
+526	526	verb.stative	be
+529	529	noun.person	Fate
+533	533	verb.stative	was
+539	539	noun.person	daughter
+542	542	noun.location	Brazil
+545	546	noun.location	South America
+548	548	verb.motion	comes
+551	551	noun.person	Tortoise
+554	555	noun.person	Mischievous Monkey
+560	560	noun.act	adventures
+563	563	noun.animal	animals
+566	566	noun.communication	tales
+568	568	verb.communication	told
+571	571	noun.location	parts
+573	573	noun.object	Europe
+578	578	noun.communication	languages
+582	582	noun.group	people
+584	584	noun.attribute	black
+595	595	verb.stative	are
+601	601	verb.communication	tell
+602	602	noun.communication	stories
+607	607	verb.communication	meant
+609	609	noun.person	children
+612	612	verb.emotion	like
+615	615	noun.cognition	sort
+617	617	noun.state	thing
+621	622	verb.stative	go to
+623	623	noun.group	school
+625	625	verb.body	wear
+626	626	noun.artifact	clothes
+635	635	verb.body	wear
+636	636	noun.animal	skins
+638	638	noun.animal	beasts
+642	642	noun.quantity	nothing
+647	647	verb.body	live
+649	649	noun.plant	grubs
+651	651	noun.animal	lizards
+653	653	noun.animal	hawks
+655	655	noun.animal	crows
+657	657	noun.animal	serpents
+662	662	noun.location	Australian
+663	663	noun.person	blacks
+666	666	noun.communication	tale
+672	672	verb.social	did
+679	679	verb.communication	translated
+684	684	noun.communication	manuscript
+686	687	noun.person	Mrs. Beveridge
+695	695	verb.communication	translated
+698	698	noun.person	Editor
+702	702	noun.communication	version
+710	711	noun.person	Miss Blackley
+715	715	noun.communication	stories
+717	718	noun.person	Major Campbell
+723	723	noun.relation	rest
+725	725	verb.communication	told
+727	728	noun.person	Mrs. Lang
+733	733	verb.possession	give
+739	739	verb.communication	told
+742	742	noun.cognition	sorts
+745	745	noun.person	natives
+748	748	verb.change	makes
+750	750	verb.creation	up
+753	753	noun.feeling	hope
+755	755	noun.group	people
+757	757	verb.emotion	like
+760	760	verb.change	skipping
+762	762	noun.relation	pieces
+767	767	verb.emotion	like
+770	770	verb.stative	is
+774	774	noun.communication	Book
+776	777	verb.creation	made up
+780	780	noun.act	entertainment

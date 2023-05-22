@@ -1,0 +1,286 @@
+start_token	end_token	supersense_category	text
+6	6	verb.communication	Edited
+8	10	noun.person	Andrew Lang PREFACE
+16	16	verb.stative	is
+31	31	noun.attribute	colours
+35	35	verb.stative	was
+37	39	noun.communication	Blue Fairy Book
+43	43	noun.person	children
+46	47	verb.communication	asked for
+48	48	noun.quantity	more
+52	53	verb.change	made up
+57	57	noun.communication	Book
+63	63	verb.emotion	wanted
+64	64	noun.quantity	more
+72	72	verb.contact	put
+76	76	noun.communication	stories
+80	80	noun.communication	books
+82	82	verb.possession	borrowed
+85	85	noun.group	countries
+88	88	verb.stative	are
+89	89	noun.communication	French
+92	92	noun.communication	German
+95	95	noun.communication	Russian
+98	98	noun.communication	Italian
+101	101	noun.location	Scottish
+104	104	noun.communication	English
+107	107	noun.communication	Chinese
+112	112	noun.location	nations
+113	113	verb.stative	differ
+115	115	noun.communication	trifles
+119	119	verb.communication	agree
+121	121	verb.cognition	liking
+122	123	noun.communication	fairy tales
+126	126	noun.communication	reason
+131	131	verb.stative	is
+133	133	noun.group	men
+134	134	verb.stative	were
+137	137	noun.person	children
+140	140	noun.cognition	minds
+153	154	verb.social	took to
+155	155	verb.creation	writing
+156	156	noun.artifact	newspapers
+159	159	noun.communication	sermons
+162	162	noun.communication	novels
+166	166	noun.communication	poems
+169	169	verb.communication	told
+172	172	noun.communication	stories
+177	177	verb.cognition	read
+180	181	noun.communication	fairy books
+184	184	verb.cognition	believed
+186	186	noun.person	witches
+189	189	noun.group	people
+191	191	noun.animal	beasts
+194	194	noun.animal	beasts
+196	196	verb.communication	speak
+199	199	noun.cognition	magic
+200	200	noun.artifact	rings
+202	202	verb.change	make
+204	204	noun.person	owners
+211	211	noun.attribute	wonders
+214	214	noun.communication	stories
+220	220	noun.object	world
+221	221	verb.change	became
+227	228	noun.communication	fairy tales
+232	233	verb.creation	written down
+238	238	verb.cognition	forgotten
+243	243	noun.person	grannies
+244	244	verb.cognition	remembered
+248	248	verb.communication	told
+253	253	noun.person	grandchildren
+263	263	verb.stative	became
+264	264	noun.person	grannies
+267	267	verb.cognition	remembered
+271	271	verb.communication	told
+277	277	noun.attribute	way
+279	279	noun.communication	tales
+280	280	verb.stative	are
+283	283	noun.act	reading
+285	285	noun.act	writing
+290	290	noun.act	printing
+294	295	noun.communication	fairy tales
+297	297	verb.creation	written
+300	301	verb.creation	written down
+303	303	noun.location	Egypt
+306	306	noun.person	Joseph
+308	308	noun.time	time
+315	315	noun.time	years
+319	320	noun.communication	fairy stories
+321	321	noun.person	Homer
+322	322	verb.cognition	knew
+325	325	noun.location	Greece
+330	330	noun.time	years
+335	335	verb.change	made
+341	341	noun.communication	poem
+348	348	verb.emotion	hope
+351	351	verb.cognition	read
+353	353	noun.time	day
+358	358	verb.cognition	find
+360	360	noun.person	witch
+362	362	verb.change	turns
+363	363	noun.animal	men
+365	365	noun.animal	swine
+369	369	noun.person	man
+371	371	verb.body	bores
+376	376	noun.animal	giant
+378	378	noun.body	eye
+382	382	noun.artifact	cap
+384	384	noun.state	darkness
+388	388	noun.artifact	shoes
+390	390	noun.attribute	swiftness
+394	394	verb.body	worn
+397	399	noun.person	Jack the Giant
+401	401	noun.person	Killer
+404	405	noun.communication	fairy tales
+406	406	verb.stative	are
+409	409	noun.communication	stories
+412	412	noun.object	world
+419	419	verb.creation	made
+421	421	noun.person	men
+423	423	verb.stative	were
+428	428	noun.feeling	amusement
+432	432	verb.emotion	amuse
+433	433	noun.person	children
+441	441	noun.group	people
+445	445	verb.cognition	forgotten
+449	449	verb.stative	were
+450	450	noun.person	children
+455	455	noun.communication	stories
+457	457	verb.creation	made
+465	465	verb.emotion	amuse
+469	469	verb.communication	teach
+470	470	noun.attribute	goodness
+473	473	verb.communication	see
+477	477	noun.communication	tales
+481	481	noun.person	boy
+483	483	verb.stative	is
+486	486	noun.animal	beasts
+498	498	verb.change	comes
+502	502	noun.act	trials
+508	508	noun.communication	tales
+510	510	verb.cognition	meant
+512	512	verb.change	make
+514	514	noun.person	hearers
+525	525	verb.stative	is
+527	527	noun.communication	moral
+537	537	verb.cognition	think
+541	541	verb.cognition	read
+545	545	noun.act	diversion
+549	549	noun.act	lesson
+552	552	verb.stative	are
+556	556	noun.group	people
+559	559	verb.communication	say
+562	562	noun.communication	stories
+563	563	verb.stative	are
+567	567	noun.person	children
+571	571	verb.stative	are
+577	577	verb.stative	are
+579	579	noun.person	witches
+582	582	verb.communication	talking
+583	583	noun.animal	beasts
+587	587	noun.group	people
+589	589	verb.contact	killed
+595	595	noun.animal	giants
+601	601	verb.cognition	read
+603	603	noun.communication	tales
+604	604	verb.cognition	know
+609	609	verb.stative	is
+614	614	verb.stative	is
+616	616	noun.cognition	make
+624	625	verb.cognition	heard of
+627	627	noun.person	child
+629	629	verb.contact	killed
+633	633	noun.person	man
+636	636	noun.person	Jack
+637	637	verb.contact	killed
+639	639	noun.animal	giants
+643	643	verb.stative	was
+647	647	noun.person	stepmother
+651	651	verb.possession	had
+657	658	noun.communication	fairy tales
+661	661	noun.person	stepmother
+662	662	verb.stative	is
+668	668	verb.stative	are
+670	670	noun.person	monsters
+672	673	noun.communication	fairy tales
+678	678	verb.emotion	frighten
+684	684	noun.cognition	kind
+686	686	noun.person	monster
+690	691	verb.motion	going about
+693	693	noun.object	world
+699	699	verb.social	done
+708	708	verb.change	turned
+710	710	noun.substance	stone
+715	715	verb.creation	see
+717	717	noun.substance	remains
+719	719	noun.artifact	museums
+724	724	verb.stative	am
+734	734	noun.person	magicians
+736	736	noun.animal	dragons
+741	741	verb.cognition	see
+746	746	noun.person	boy
+748	748	noun.person	girl
+749	749	verb.stative	was
+752	752	noun.person	master
+757	757	noun.time	height
+760	760	noun.attribute	power
+765	765	noun.communication	tales
+772	772	noun.person	Chick
+774	774	verb.stative	are
+778	778	noun.person	children
+787	787	noun.communication	tales
+792	792	noun.location	Ice
+796	796	verb.creation	invented
+800	800	verb.stative	were
+804	804	verb.communication	written
+806	806	noun.communication	French
+810	810	noun.person	men
+812	812	noun.person	women
+816	817	noun.person	Madame d’Aulnoy
+821	823	noun.person	Count de Caylus
+828	828	noun.time	years
+832	832	verb.stative	are
+835	835	noun.group	people
+840	840	verb.stative	are
+845	845	verb.creation	write
+848	849	noun.communication	fairy tales
+855	855	verb.cognition	believe
+860	860	noun.communication	stories
+865	865	verb.emotion	want
+867	867	verb.stative	be
+872	872	verb.emotion	pleased
+873	873	noun.person	Heaven
+875	875	verb.creation	make
+881	881	verb.possession	give
+888	888	noun.communication	stories
+892	892	noun.time	present
+895	895	verb.emotion	hope
+898	898	verb.emotion	like
+902	902	verb.emotion	feel
+906	907	noun.person	Brothers Grimm
+910	910	verb.possession	took
+915	915	noun.communication	telling
+917	918	noun.person	old women
+922	923	noun.person	M. Sebillot
+925	927	noun.person	M. Charles Marelles
+931	931	verb.possession	lent
+934	934	noun.communication	tales
+939	939	noun.group	people
+943	944	noun.person	Mr. Ford
+947	947	verb.creation	drew
+949	949	noun.artifact	pictures
+954	954	noun.person	ladies
+956	957	noun.person	Miss Blackley
+959	961	noun.person	Miss Alma Alleyne
+963	965	noun.person	Miss Eleanor Sellar
+967	969	noun.person	Miss May Sellar
+971	972	noun.person	Miss Wright
+975	976	noun.person	Mrs. Lang
+979	979	verb.communication	translated
+983	983	noun.communication	tales
+986	986	noun.communication	French
+988	988	noun.communication	German
+992	992	noun.communication	languages
+996	996	verb.possession	have
+998	998	noun.communication	book
+1002	1002	noun.time	year
+1007	1007	verb.stative	be
+1009	1010	noun.communication	fairy book
+1014	1014	verb.stative	is
+1016	1016	verb.stative	be
+1017	1017	verb.stative	is
+1019	1019	noun.communication	secret
+1023	1023	verb.emotion	hope
+1034	1034	noun.communication	bye
+1040	1040	verb.cognition	read
+1042	1043	noun.communication	fairy book
+1045	1045	verb.possession	lend
+1049	1049	noun.person	children
+1051	1051	verb.stative	have
+1055	1055	verb.communication	tell
+1058	1058	noun.communication	stories
+1062	1062	noun.attribute	way
+1065	1065	verb.stative	is
+1069	1069	noun.attribute	mode
+1071	1071	verb.social	passing
+1073	1073	noun.time	time

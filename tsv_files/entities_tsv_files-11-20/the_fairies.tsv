@@ -1,0 +1,55 @@
+COREF	start_token	end_token	prop	cat	text
+-1	0	2	NOM	FAC	The Fairies By
+3	3	4	PROP	PER	William Allingham
+-1	6	8	NOM	LOC	the airy mountain
+-1	11	13	NOM	LOC	the rushy glen
+-1	15	15	PRON	PER	We
+-1	25	26	NOM	PER	little men
+-1	28	29	NOM	PER	Wee folk
+-1	31	46	NOM	PER	good folk , Trooping all together ; Green jacket , red cap , And white owl
+-1	52	54	NOM	LOC	the rocky shore
+4	55	55	PROP	PER	Some
+-1	57	57	PRON	PER	their
+-1	60	60	PRON	PER	They
+-1	73	80	NOM	LOC	the reeds Of the black mountain - lake
+-1	76	80	NOM	LOC	the black mountain - lake
+-1	85	85	PRON	PER	their
+-1	94	97	NOM	LOC	the hill - top
+-1	98	100	NOM	PER	The old King
+-1	103	103	PRON	PER	He
+-1	110	110	PRON	PER	He
+-1	114	114	PRON	PER	his
+-1	118	123	NOM	FAC	a bridge of white mist Columbkill
+-1	124	124	PRON	PER	he
+-1	128	128	PRON	PER	his
+1	132	132	PROP	GPE	Slieveleague
+2	134	134	PROP	GPE	Rosses
+-1	150	156	NOM	GPE	the Queen Of the gay Northern Lights
+-1	153	156	NOM	GPE	the gay Northern Lights
+-1	158	158	PRON	PER	They
+5	161	161	PROP	PER	Bridget
+-1	168	168	PRON	PER	she
+-1	172	172	PRON	PER	Her
+-1	172	173	NOM	PER	Her friends
+-1	178	178	PRON	PER	They
+-1	180	180	PRON	PER	her
+-1	190	190	PRON	PER	They
+-1	193	193	PRON	PER	she
+-1	199	199	PRON	PER	she
+-1	205	205	PRON	PER	They
+-1	208	208	PRON	PER	her
+-1	213	214	NOM	LOC	the lake
+-1	226	226	PRON	PER	she
+-1	230	232	NOM	LOC	the craggy hillside
+-1	239	239	PRON	PER	They
+0	245	245	PRON	PER	my
+-1	259	259	PRON	PER	them
+-1	264	264	PRON	PER	He
+-1	267	267	PRON	PER	their
+-1	271	271	PRON	PER	his
+-1	277	279	NOM	LOC	the airy mountain
+-1	282	284	NOM	FAC	the rushy glen
+-1	286	286	PRON	PER	We
+-1	296	297	NOM	PER	little men
+-1	299	300	NOM	PER	Wee folk
+-1	302	303	NOM	PER	good folk

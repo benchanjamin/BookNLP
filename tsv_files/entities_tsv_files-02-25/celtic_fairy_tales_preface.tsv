@@ -1,0 +1,182 @@
+COREF	start_token	end_token	prop	cat	text
+13	7	9	PROP	PER	JOSEPH JACOBS PREFACE
+-1	15	17	NOM	PER	the young ones
+0	25	25	PRON	PER	my
+-1	37	37	PRON	PER	them
+-1	46	50	NOM	PER	the Celts of these islands
+-1	49	50	NOM	LOC	these islands
+0	52	52	PRON	PER	my
+1	61	61	PROP	GPE	Ireland
+-1	65	65	PRON	PER	her
+-1	73	76	NOM	GPE	any country in Europe
+2	76	76	PROP	GPE	Europe
+14	79	79	PROP	PER	Croker
+-1	82	86	NOM	PER	a whole school of successors
+3	88	88	PROP	GPE	Carleton
+15	90	90	PROP	PER	Griffin
+16	92	92	PROP	PER	Kennedy
+17	94	94	PROP	PER	Curtin
+18	97	98	PROP	PER	Douglas Hyde
+4	100	100	PROP	GPE	Scotland
+19	106	106	PROP	PER	Campbell
+20	114	114	PROP	PER	MacDougall
+21	116	116	PROP	PER	MacInnes
+22	118	118	PROP	PER	Carmichael
+23	120	120	PROP	PER	Macleod
+5	125	125	PROP	GPE	Tiree
+7	127	129	PROP	LOC	Gallant little Wales
+7	129	129	PROP	GPE	Wales
+8	141	142	PROP	LOC	the Cymru
+9	148	149	PROP	LOC	the Gaedhel
+7	173	173	PROP	GPE	Wales
+-1	187	188	NOM	PER	the Celts
+0	203	203	PRON	PER	my
+0	205	205	PRON	PER	I
+16	223	223	PROP	PER	Kennedy
+-1	244	244	NOM	PER	one
+0	257	257	PRON	PER	I
+0	280	280	PRON	PER	I
+4	292	292	PROP	GPE	Scotland
+1	294	294	PROP	GPE	Ireland
+0	297	297	PRON	PER	I
+-1	312	316	NOM	PER	Celtic peasants ignorant of English
+0	324	324	PRON	PER	I
+0	338	338	PRON	PER	I
+24	354	354	PROP	PER	Grimm
+25	356	356	PROP	PER	Asbjörnsen
+-1	362	362	PRON	PER	they
+-1	366	371	NOM	PER	the Celtic peasant who speaks Gaelic
+-1	384	384	PRON	PER	he
+0	391	391	PRON	PER	I
+-1	393	393	PRON	PER	him
+0	396	396	PRON	PER	my
+0	411	411	PRON	PER	I
+-1	419	424	NOM	PER	the Irish peasant of the Pale
+0	431	431	PRON	PER	I
+0	440	440	PRON	PER	I
+0	450	450	PRON	PER	I
+0	464	464	PRON	PER	I
+-1	470	470	NOM	PER	translators
+0	473	473	PRON	PER	I
+0	476	476	PRON	PER	myself
+-1	481	482	NOM	PER	the translators
+-1	483	483	PRON	PER	themselves
+0	503	503	PRON	PER	I
+0	519	519	PRON	PER	I
+-1	533	538	NOM	LOC	both sides of the North Channel
+10	536	538	PROP	LOC	the North Channel
+-1	544	544	PRON	PER	them
+0	545	545	PRON	PER	I
+-1	572	573	NOM	PER	the translators
+-1	576	577	NOM	PER	English folklorists
+-1	579	579	NOM	PER	scholars
+0	581	581	PRON	PER	I
+-1	586	587	NOM	PER	English children
+-1	589	589	PRON	PER	They
+0	592	592	PRON	PER	I
+0	600	600	PRON	PER	I
+0	605	605	PRON	PER	myself
+-1	610	619	NOM	PER	an ollamh or sheenachie familiar with both forms of Gaelic
+-1	625	625	PRON	PER	his
+-1	633	634	NOM	PER	English children
+0	636	636	PRON	PER	I
+0	638	638	PRON	PER	I
+-1	643	644	NOM	PER	Celtic scholars
+0	648	648	PRON	PER	I
+0	673	673	PRON	PER	I
+-1	679	681	NOM	PER	The romantic ones
+11	748	748	PROP	GPE	England
+-1	818	824	NOM	PER	the collectors of Celtic folk - lore
+0	839	839	PRON	PER	I
+0	857	857	PRON	PER	I
+26	868	869	PROP	PER	Beth Gellert
+0	876	876	PRON	PER	I
+0	879	879	PRON	PER	I
+0	884	884	PRON	PER	I
+0	901	901	PRON	PER	I
+0	916	916	PRON	PER	I
+0	937	937	PRON	PER	I
+-1	950	952	NOM	PER	all good men
+-1	959	960	NOM	PER	the reader
+27	972	973	PROP	PER	Mr. Kipling
+0	985	985	PRON	PER	I
+0	991	991	PRON	PER	my
+2	1004	1004	PROP	GPE	Europe
+-1	1020	1024	NOM	PER	the national and mythical heroes
+28	1027	1028	PROP	PER	the Gaels
+12	1039	1039	PROP	GPE	Russia
+-1	1049	1053	NOM	PER	the heroes of the past
+-1	1058	1066	NOM	PER	the Gaelic - speaking peasantry of Scotland and Ireland
+4	1064	1064	PROP	GPE	Scotland
+1	1066	1066	PROP	GPE	Ireland
+0	1098	1098	PRON	PER	I
+-1	1114	1116	NOM	PER	the Scotch peasantry
+0	1124	1124	PRON	PER	I
+-1	1134	1140	NOM	PER	an Irish vellum of the twelfth century
+0	1142	1142	PRON	PER	I
+29	1155	1155	PROP	PER	Finn
+30	1157	1160	PROP	PER	the Fingal of Macpherson
+29	1171	1171	PROP	PER	Finn
+-1	1176	1182	NOM	PER	the Gaelic peasantry of to - day
+-1	1194	1196	NOM	PER	the Ultonian hero
+31	1198	1198	PROP	PER	Cuchulain
+0	1205	1205	PRON	PER	I
+-1	1221	1229	NOM	PER	the chief masters of the Celtic folk - tale
+19	1231	1231	PROP	PER	Campbell
+16	1233	1233	PROP	PER	Kennedy
+18	1235	1235	PROP	PER	Hyde
+17	1238	1238	PROP	PER	Curtin
+0	1243	1243	PRON	PER	I
+0	1255	1255	PRON	PER	I
+0	1257	1257	PRON	PER	I
+-1	1277	1278	NOM	PER	the Celts
+0	1280	1280	PRON	PER	I
+-1	1292	1299	NOM	PER	those who owned the copyright of these stories
+32	1301	1302	PROP	PER	Lady Wilde
+0	1306	1306	PRON	PER	me
+-1	1310	1310	PRON	PER	her
+-1	1315	1317	NOM	PER	The Horned Women
+0	1321	1321	PRON	PER	I
+33	1326	1327	PROP	PER	Messrs. Macmillan
+16	1332	1332	PROP	PER	Kennedy
+34	1340	1342	PROP	PER	Messrs. Sampson Low
+17	1350	1351	PROP	PER	Mr. Curtin
+0	1357	1357	PRON	PER	my
+0	1368	1368	PRON	PER	I
+0	1377	1377	PRON	PER	my
+-1	1377	1378	NOM	PER	my friend
+35	1379	1381	PROP	PER	Mr. Alfred Nutt
+-1	1399	1400	NOM	PER	English children
+35	1429	1430	PROP	PER	Mr. Nutt
+-1	1439	1439	PRON	PER	him
+0	1441	1441	PRON	PER	my
+0	1443	1443	PRON	PER	I
+-1	1455	1455	PRON	PER	his
+0	1461	1461	PRON	PER	I
+0	1472	1472	PRON	PER	my
+-1	1472	1473	NOM	PER	my friend
+36	1475	1478	PROP	PER	Mr. J. D. Batten
+-1	1487	1490	NOM	PER	the folk - fancy
+-1	1492	1492	PRON	PER	He
+-1	1496	1496	PRON	PER	his
+-1	1514	1514	PRON	PER	he
+-1	1520	1520	PRON	PER	he
+0	1522	1522	PRON	PER	I
+-1	1537	1539	NOM	PER	the English mind
+-1	1549	1549	PRON	PER	them
+-1	1551	1551	PRON	PER	they
+37	1554	1554	PROP	PER	Celts
+-1	1559	1560	NOM	PER	the Celt
+-1	1562	1564	NOM	GPE	the British Empire
+38	1571	1572	PROP	PER	the Greeks
+39	1574	1575	PROP	PER	the Romans
+-1	1578	1578	PRON	PER	They
+-1	1585	1585	PRON	PER	they
+-1	1591	1593	NOM	PER	the captive Celt
+-1	1596	1596	PRON	PER	his
+-1	1596	1597	NOM	PER	his captor
+40	1631	1632	PROP	PER	the Celtic
+-1	1634	1639	NOM	PER	the Saxon children of these isles
+-1	1638	1639	NOM	GPE	these isles
+-1	1653	1653	PRON	PER	your
+13	1656	1657	PROP	PER	JOSEPH JACOBS

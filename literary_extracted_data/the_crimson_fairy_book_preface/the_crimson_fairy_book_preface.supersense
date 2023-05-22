@@ -1,0 +1,207 @@
+start_token	end_token	supersense_category	text
+1	2	noun.person	CRIMSON FAIRY
+3	3	noun.communication	BOOK
+8	10	noun.person	Andrew Lang Preface
+14	14	verb.stative	demands
+16	16	noun.communication	preface
+19	19	noun.person	Editor
+23	23	noun.communication	introductions
+24	24	verb.stative	are
+32	32	noun.cognition	sense
+35	35	noun.attribute	honesty
+36	36	verb.communication	compels
+38	38	noun.person	Editor
+40	40	verb.stative	keep
+41	41	verb.cognition	repeating
+44	44	verb.stative	is
+46	46	noun.person	Editor
+51	51	noun.person	author
+54	55	noun.communication	Fairy Tales
+61	61	noun.person	man
+63	63	noun.cognition	science
+64	64	verb.stative	is
+67	67	noun.person	Editor
+71	71	noun.person	Author
+73	73	noun.person	Nature
+76	76	noun.attribute	nature
+78	79	noun.communication	popular tales
+80	80	verb.stative	are
+84	84	verb.stative	be
+86	86	noun.act	creation
+91	91	noun.cognition	mind
+94	94	noun.person	Editor
+96	96	noun.act	business
+97	97	verb.stative	is
+99	100	verb.contact	hunt for
+101	101	noun.communication	collections
+104	104	noun.communication	stories
+105	105	verb.communication	told
+107	107	noun.person	peasant
+110	110	noun.person	grandmothers
+113	113	noun.object	climes
+116	117	noun.location	New Caledonia
+119	119	noun.location	Zululand
+124	124	noun.object	snows
+127	128	noun.object	Polar regions
+130	130	noun.location	Greece
+133	133	noun.location	Spain
+136	136	noun.location	Italy
+139	140	noun.location	far Lochaber
+144	144	noun.communication	tales
+146	146	verb.possession	found
+149	149	verb.change	adapted
+152	152	noun.object	needs
+155	155	noun.person	children
+158	158	noun.body	hands
+161	161	noun.person	Editor
+162	162	verb.social	doing
+165	165	verb.social	guarding
+167	167	noun.attribute	interests
+169	169	noun.attribute	propriety
+172	173	verb.change	toning down
+176	176	noun.act	reproofs
+178	178	noun.act	tortures
+179	179	verb.social	inflicted
+182	182	noun.person	stepmothers
+187	187	noun.person	characters
+190	190	noun.communication	explanations
+194	194	verb.possession	offered
+202	202	noun.person	ladies
+204	204	noun.person	children
+206	206	verb.stative	concerned
+210	210	noun.cognition	purpose
+214	214	verb.communication	ask
+216	216	noun.person	Editor
+220	220	verb.creation	invent
+223	223	noun.communication	stories
+227	227	noun.person	Shakespeare
+229	229	noun.person	Dumas
+232	233	noun.person	Charles Dickens
+236	236	verb.creation	invented
+239	239	noun.time	century
+243	243	noun.person	Editor
+245	245	verb.communication	avers
+248	248	noun.communication	Prefaces
+254	254	verb.creation	invent
+258	258	noun.communication	stories
+262	262	verb.cognition	knows
+269	269	verb.creation	invented
+288	288	noun.time	years
+293	293	noun.person	grandmother
+294	294	verb.communication	told
+296	296	noun.communication	tale
+300	300	noun.person	granddaughter
+304	304	noun.person	granddaughter
+305	305	verb.communication	told
+309	309	noun.act	turn
+313	313	noun.person	tellers
+314	314	verb.creation	made
+315	315	noun.relation	changes
+317	317	verb.stative	suit
+319	319	noun.feeling	taste
+321	321	verb.communication	adding
+323	323	verb.change	omitting
+324	324	noun.communication	features
+326	326	noun.communication	incidents
+332	332	noun.object	world
+333	333	verb.change	grew
+337	337	noun.act	alterations
+339	339	verb.social	made
+347	347	noun.person	Homer
+348	348	verb.creation	composed
+351	351	noun.communication	Odyssey
+357	357	verb.creation	composed
+359	359	noun.communication	Story
+361	361	noun.person	Jason
+370	371	noun.person	enchantress Medea
+376	376	noun.group	set
+380	380	noun.communication	tales
+385	385	verb.communication	told
+387	387	noun.person	Samoyeds
+389	389	noun.person	Samoans
+391	391	noun.person	Hindoos
+393	393	noun.person	Japanese
+399	399	verb.cognition	known
+406	406	noun.time	centuries
+412	413	noun.person	brothers Grimm
+414	414	verb.communication	wrote
+418	418	noun.time	years
+422	422	noun.time	Century
+425	425	noun.person	children
+426	426	verb.change	remain
+430	430	noun.cognition	facts
+437	437	noun.person	mothers
+441	441	noun.person	Editor
+442	442	verb.communication	infers
+447	447	verb.cognition	read
+449	449	noun.communication	prefaces
+452	452	verb.stative	are
+454	454	noun.person	members
+457	459	noun.group	Folk Lore Society
+462	462	noun.person	students
+464	465	noun.person	Herr Kohler
+467	468	noun.person	M. Cosquin
+471	473	noun.person	M. Henri Guidoz
+475	476	noun.person	Professor Child
+479	481	noun.person	Mr. Max Muller
+485	485	noun.communication	explanations
+488	489	verb.cognition	attended to
+492	492	noun.person	Editor
+494	494	noun.person	customers
+497	497	verb.change	makes
+504	504	noun.feeling	relief
+507	507	noun.attribute	conscience
+510	510	noun.communication	tales
+513	513	noun.communication	book
+515	515	verb.communication	translated
+518	518	verb.creation	adapted
+522	522	verb.communication	told
+524	524	noun.person	mothers
+526	526	noun.person	nurses
+528	528	noun.location	Hungary
+531	531	verb.stative	are
+535	535	noun.person	nurseries
+538	538	noun.person	Servians
+539	539	verb.stative	are
+548	548	noun.group	set
+550	550	noun.communication	stories
+552	552	verb.creation	adapted
+555	555	noun.person	Roumanians
+558	558	verb.stative	are
+561	561	noun.location	Baltic
+562	562	noun.object	shores
+567	567	noun.location	Sicily
+571	571	verb.stative	are
+573	573	noun.location	Finland
+576	576	noun.location	Iceland
+579	579	noun.location	Japan
+582	582	noun.location	Tunis
+585	585	noun.location	Portugal
+590	590	noun.person	children
+592	592	verb.emotion	like
+594	595	verb.perception	look out
+597	597	noun.location	places
+600	600	noun.artifact	map
+603	603	verb.cognition	study
+605	605	noun.object	mountains
+607	607	noun.object	rivers
+609	609	noun.substance	soil
+611	611	noun.artifact	products
+615	615	noun.cognition	policies
+619	619	noun.cognition	geography
+620	620	noun.communication	books
+623	623	noun.group	peoples
+625	625	verb.communication	tell
+627	627	noun.communication	stories
+628	628	verb.stative	differ
+630	630	noun.attribute	colour
+632	632	noun.communication	language
+634	634	noun.cognition	religion
+644	644	verb.emotion	love
+646	647	noun.communication	nursery tale
+650	650	noun.communication	stories
+654	654	verb.creation	adapted
+656	656	verb.communication	translated
+658	659	noun.person	Mrs. Lang
+664	665	noun.person	Miss Lang
+667	668	noun.person	Miss Blackley

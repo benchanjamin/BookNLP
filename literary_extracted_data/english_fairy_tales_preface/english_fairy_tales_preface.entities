@@ -1,0 +1,142 @@
+COREF	start_token	end_token	prop	cat	text
+9	7	10	PROP	PER	JOSEPH JACOBS PREFACE Who
+-1	13	14	NOM	PER	English folk
+-1	21	21	PRON	PER	their
+0	38	38	PRON	PER	I
+-1	43	44	NOM	GPE	this country
+1	92	92	PROP	GPE	France
+2	95	95	PROP	GPE	Italy
+-1	98	98	PRON	PER	they
+-1	121	122	NOM	GPE	each country
+0	124	124	PRON	PER	I
+-1	137	138	NOM	GPE	this country
+-1	144	153	NOM	PER	any reader of this book who knows of similar tales
+0	167	167	PRON	PER	me
+10	171	172	PROP	PER	Mr. Nutt
+0	178	178	PRON	PER	I
+-1	197	201	NOM	PER	the governing and recording classes
+-1	203	209	NOM	PER	the dumb working classes of this country
+-1	208	209	NOM	GPE	this country
+-1	213	213	NOM	PER	others
+-1	217	217	PRON	PER	themselves
+-1	242	247	NOM	PER	all classes of the English people
+-1	245	247	NOM	PER	the English people
+-1	267	268	NOM	GPE	the nation
+-1	276	276	PRON	PER	our
+-1	281	281	PRON	PER	We
+-1	284	284	PRON	PER	our
+-1	291	291	PRON	PER	them
+-1	308	308	NOM	PER	fairies
+11	322	324	PROP	PER	the Brothers Grimm
+-1	342	342	PRON	PER	ours
+-1	345	345	PRON	PER	our
+-1	349	351	NOM	PER	the little ones
+-1	354	354	PRON	PER	they
+-1	369	369	PRON	PER	they
+-1	372	372	PRON	PER	them
+-1	374	374	NOM	PER	One
+-1	378	379	NOM	PER	a child
+-1	384	384	PRON	PER	us
+-1	390	390	NOM	PER	nurse
+-1	401	401	NOM	PER	grandma
+-1	405	405	PRON	PER	our
+-1	410	412	NOM	PER	the little ones
+-1	414	414	PRON	PER	we
+-1	422	422	PRON	PER	they
+-1	451	451	NOM	PER	giants
+-1	453	453	NOM	PER	dwarfs
+-1	475	478	NOM	PER	some of the actors
+-1	477	478	NOM	PER	the actors
+-1	493	495	NOM	GPE	other European countries
+-1	499	502	NOM	PER	the folklorists call Drolls
+-1	504	504	PRON	PER	They
+3	511	512	PROP	LOC	Merrie England
+-1	520	523	NOM	GPE	this country of ours
+-1	534	536	NOM	PER	the unlettered classes
+12	541	543	PROP	PER	Tom Tit Tot
+-1	547	547	PRON	PER	our
+0	558	558	PRON	PER	I
+-1	577	577	PRON	PER	our
+0	588	588	PRON	PER	I
+13	592	592	PROP	PER	Molière
+0	603	603	PRON	PER	I
+-1	619	624	NOM	PER	descendants of English immigrants in America
+4	624	624	PROP	GPE	America
+0	630	630	PRON	PER	I
+0	633	633	PRON	PER	I
+0	636	636	PRON	PER	myself
+0	638	638	PRON	PER	my
+5	641	641	PROP	GPE	Australia
+-1	654	656	NOM	PER	an English Gipsy
+0	658	658	PRON	PER	I
+6	670	671	PROP	LOC	Lowland Scotch
+0	673	673	PRON	PER	I
+14	692	692	PROP	PER	Chambers
+7	692	698	PROP	FAC	Chambers ' “ Popular Rhymes of Scotland
+8	698	698	PROP	GPE	Scotland
+6	725	726	PROP	PER	Lowland Scotch
+-1	732	735	NOM	GPE	a dialect of English
+0	756	756	PRON	PER	I
+0	827	827	PRON	PER	I
+16	844	845	PROP	PER	Childe Rowland
+17	851	851	PROP	PER	Shakespeare
+0	861	861	PRON	PER	I
+18	868	868	PROP	PER	Milton
+17	899	899	PROP	PER	Shakespeare
+-1	900	900	PRON	PER	himself
+0	907	907	PRON	PER	I
+11	936	938	PROP	PER	the Brothers Grimm
+-1	943	943	PRON	PER	their
+-1	953	953	PRON	PER	they
+-1	955	955	PRON	PER	their
+0	975	975	PRON	PER	I
+-1	981	981	PRON	PER	their
+19	994	995	PROP	PER	Mrs. Hunt
+-1	1034	1034	NOM	PER	Children
+0	1048	1048	PRON	PER	I
+0	1084	1084	PRON	PER	I
+-1	1097	1098	NOM	PER	vulgar people
+-1	1100	1100	NOM	PER	Children
+-1	1110	1110	PRON	PER	their
+-1	1110	1111	NOM	PER	their elders
+0	1119	1119	PRON	PER	my
+-1	1124	1127	NOM	PER	a good old nurse
+-1	1131	1131	PRON	PER	she
+0	1136	1136	PRON	PER	I
+0	1141	1141	PRON	PER	my
+0	1164	1164	PRON	PER	my
+-1	1177	1178	NOM	PER	English children
+0	1210	1210	PRON	PER	I
+0	1218	1218	PRON	PER	I
+-1	1263	1263	PRON	PER	They
+0	1265	1265	PRON	PER	my
+-1	1282	1288	NOM	PER	fellow - students of Folk - lore
+-1	1299	1305	NOM	PER	readers who are not fellow - students
+0	1367	1367	PRON	PER	I
+-1	1394	1394	NOM	PER	prolegomena
+0	1398	1398	PRON	PER	I
+0	1406	1406	PRON	PER	my
+-1	1439	1439	NOM	PER	children
+0	1443	1443	PRON	PER	I
+-1	1453	1453	PRON	PER	their
+0	1461	1461	PRON	PER	I
+0	1470	1470	PRON	PER	My
+-1	1470	1471	NOM	PER	My friends
+20	1472	1474	PROP	PER	Mr. E. Clodd
+21	1476	1479	PROP	PER	Mr. F. Hindes Groome
+22	1482	1484	PROP	PER	Mr. Andrew Lang
+0	1491	1491	PRON	PER	me
+-1	1503	1515	NOM	ORG	The Councils of the English and of the American Folk - lore Societies
+-1	1510	1515	NOM	PER	the American Folk - lore Societies
+23	1518	1519	PROP	PER	Messrs. Longmans
+0	1529	1529	PRON	PER	I
+0	1546	1546	PRON	PER	my
+-1	1546	1547	NOM	PER	my friend
+24	1549	1552	PROP	PER	Mr. J. D. Batten
+-1	1571	1571	PRON	PER	he
+25	1587	1588	PROP	PER	Henny Penny
+26	1592	1593	PROP	PER	Mr. Fox
+0	1598	1598	PRON	PER	my
+-1	1598	1600	NOM	PER	my old friend
+27	1602	1604	PROP	PER	Mr. Henry Ryland
+9	1606	1607	PROP	PER	JOSEPH JACOBS

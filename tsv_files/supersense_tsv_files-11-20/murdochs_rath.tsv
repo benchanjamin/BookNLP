@@ -1,0 +1,746 @@
+start_token	end_token	supersense_category	text
+0	0	noun.person	MURDOCH
+6	6	noun.communication	Footnote
+14	14	noun.cognition	kind
+16	16	noun.object	moat
+19	19	noun.location	spot
+21	21	verb.emotion	favoured
+24	24	noun.person	fairies
+27	27	noun.artifact	ditch
+32	32	noun.substance	furze
+34	34	noun.group	bushes
+38	38	verb.stative	was
+42	42	noun.person	boy
+45	45	noun.location	Ireland
+47	47	noun.person	Pat
+53	53	noun.act	trade
+60	60	verb.possession	had
+66	66	noun.artifact	cradle
+68	68	verb.cognition	learned
+69	69	noun.quantity	nothing
+72	72	noun.communication	blame
+79	79	verb.communication	teach
+87	87	verb.motion	came
+89	89	noun.time	years
+91	91	noun.state	discretion
+94	94	verb.possession	earned
+96	96	noun.possession	living
+98	98	verb.possession	running
+99	99	noun.communication	messages
+102	102	noun.person	neighbours
+105	105	noun.person	Pat
+109	109	verb.social	trusted
+111	111	verb.cognition	make
+117	117	noun.communication	bargain
+120	121	verb.creation	bring back
+124	124	noun.event	change
+128	128	verb.stative	was
+130	130	noun.person	soul
+132	132	noun.attribute	honesty
+134	136	noun.attribute	good - nature
+141	141	noun.event	wonder
+146	146	verb.emotion	beloved
+152	152	verb.possession	got
+155	155	noun.act	work
+159	159	verb.social	do
+164	164	noun.possession	pay
+167	167	verb.change	fitted
+169	169	noun.act	work
+174	174	verb.stative	been
+185	185	verb.possession	got
+189	189	verb.stative	kept
+192	192	noun.artifact	shoe
+194	194	noun.substance	leather
+198	198	verb.social	making
+200	200	noun.location	ends
+201	201	verb.stative	meet
+203	203	verb.body	wearing
+205	205	noun.artifact	shoes
+208	208	noun.artifact	pocket
+213	213	verb.stative	was
+216	216	noun.location	town
+219	219	verb.communication	obliged
+221	221	verb.perception	look
+225	225	noun.possession	credit
+228	228	noun.location	place
+230	230	verb.motion	came
+237	238	verb.change	going on
+247	247	noun.act	market
+249	249	noun.time	day
+252	252	noun.act	business
+259	259	noun.feeling	pleasure
+261	261	verb.emotion	detained
+265	265	noun.time	heel
+268	268	noun.time	evening
+272	272	noun.time	nightfall
+276	276	verb.change	began
+278	278	verb.change	make
+280	280	noun.artifact	road
+284	284	noun.attribute	earnest
+291	291	verb.creation	rehearsing
+293	293	noun.communication	messages
+295	296	verb.social	make sure
+299	299	verb.cognition	forgotten
+300	300	noun.quantity	nothing
+305	305	verb.cognition	bethought
+308	309	verb.change	leave off
+311	311	noun.artifact	brogues
+314	314	verb.social	tramped
+319	319	noun.artifact	shoe
+321	321	noun.substance	leather
+326	326	verb.contact	knocked
+331	331	noun.person	king
+333	333	noun.artifact	highway
+337	337	verb.stative	was
+342	342	verb.communication	saying
+346	346	noun.quantity	dozen
+347	347	noun.artifact	hanks
+350	350	noun.artifact	yarn
+352	353	noun.person	Mistress Murphy
+357	357	noun.quantity	Three
+358	358	noun.artifact	gross
+361	361	noun.artifact	buttons
+364	364	noun.person	tailor
+368	368	noun.quantity	Half
+370	370	noun.quantity	ounce
+372	372	noun.body	throat
+373	373	noun.substance	drops
+375	376	noun.person	Father Andrew
+380	380	noun.quantity	ounce
+382	382	noun.substance	snuff
+385	385	noun.person	housekeeper
+394	394	verb.stative	were
+397	398	verb.motion	went to
+400	400	noun.location	town
+402	402	verb.contact	fetch
+406	406	verb.stative	was
+412	412	noun.location	lot
+415	415	verb.change	slipped
+417	417	noun.cognition	memory
+421	421	verb.cognition	knows
+423	423	verb.stative	are
+425	425	noun.artifact	ways
+429	429	noun.location	town
+435	435	verb.communication	meaning
+438	438	noun.act	way
+446	446	noun.person	grandmother
+448	448	verb.communication	rest
+450	450	noun.person	soul
+453	453	verb.communication	said
+458	458	noun.location	place
+467	467	verb.communication	name
+476	476	noun.act	way
+482	482	verb.communication	said
+487	487	noun.artifact	ways
+491	491	noun.location	town
+492	492	verb.stative	were
+494	494	noun.artifact	highway
+498	498	noun.artifact	way
+500	500	noun.person	Murdoch
+504	504	noun.location	Murdoch
+506	506	noun.location	Rath
+507	507	verb.stative	was
+511	511	noun.location	spot
+514	514	noun.time	daytime
+519	519	noun.person	persons
+520	520	verb.emotion	cared
+522	523	verb.motion	go by
+527	527	noun.object	sun
+528	528	verb.stative	was
+535	535	noun.time	years
+536	536	noun.person	Pat
+538	538	verb.motion	going
+546	547	verb.motion	came home
+553	553	noun.artifact	road
+557	557	noun.time	evening
+564	564	noun.location	place
+568	568	noun.artifact	roads
+569	569	verb.stative	part
+577	577	verb.communication	say
+583	583	noun.state	confusion
+589	589	verb.communication	says
+597	597	noun.person	uncle
+599	599	verb.stative	been
+601	601	noun.person	soldier
+604	604	noun.person	Pat
+605	605	verb.cognition	knew
+607	609	noun.communication	word of command
+616	616	noun.body	hand
+617	617	noun.shape	turn
+618	618	verb.stative	is
+624	624	verb.communication	says
+630	630	verb.motion	going
+635	635	noun.artifact	road
+641	641	verb.motion	go
+646	646	verb.communication	bethought
+654	654	verb.social	doing
+658	658	verb.communication	says
+662	662	verb.stative	was
+664	665	noun.person	left hand
+666	667	verb.motion	going to
+668	668	noun.location	town
+674	674	noun.communication	name
+676	676	noun.attribute	fortune
+682	683	verb.motion	going back
+685	685	verb.cognition	considering
+689	689	verb.motion	turned
+697	698	verb.cognition	looked into
+708	709	verb.motion	went off
+715	715	noun.artifact	road
+718	718	verb.motion	started
+726	726	verb.motion	walked
+730	730	verb.cognition	tell
+738	738	noun.object	moon
+739	740	verb.weather	shone out
+744	744	noun.time	day
+747	747	noun.person	Pat
+748	748	verb.perception	found
+751	751	noun.person	Murdoch
+757	757	verb.stative	was
+760	760	noun.relation	part
+763	763	noun.feeling	wonder
+767	767	noun.person	Rath
+768	768	verb.stative	was
+771	771	noun.person	fairies
+774	774	noun.person	Pat
+775	776	verb.motion	got in
+779	780	verb.motion	dancing round
+785	785	noun.body	feet
+786	786	verb.motion	tingled
+788	788	verb.perception	look
+792	792	verb.stative	being
+795	795	noun.person	dancer
+801	801	verb.contact	sat
+804	804	noun.location	side
+807	807	noun.person	Rath
+810	810	verb.contact	snapped
+812	812	noun.body	fingers
+814	814	verb.communication	mark
+816	816	noun.time	time
+819	819	noun.act	dancing
+820	820	verb.change	stopped
+825	825	noun.person	man
+826	827	verb.change	comes up
+832	832	noun.artifact	hat
+835	835	noun.attribute	green
+836	836	noun.artifact	coat
+840	840	noun.artifact	stockings
+844	844	noun.artifact	shoes
+847	847	noun.body	feet
+853	853	verb.social	take
+855	855	noun.act	turn
+859	859	noun.person	Pat
+862	862	verb.communication	says
+865	865	verb.motion	bowing
+869	869	verb.contact	touched
+871	871	noun.object	ground
+882	882	verb.motion	go
+886	886	verb.stative	was
+889	889	noun.quantity	feet
+895	895	verb.communication	say
+899	899	noun.person	sir
+902	902	verb.communication	says
+903	903	noun.person	Pat
+910	910	verb.stative	be
+913	913	verb.motion	foot
+915	915	noun.artifact	floor
+924	925	verb.perception	look round
+928	928	verb.stative	was
+929	929	noun.person	Pat
+932	932	noun.location	circle
+933	934	verb.motion	dancing away
+937	937	noun.time	life
+942	942	noun.body	feet
+943	943	verb.body	felt
+945	945	noun.animal	feathers
+947	947	noun.attribute	lightness
+951	951	verb.perception	seemed
+957	958	verb.stative	gone on
+966	966	verb.change	grew
+972	972	verb.emotion	liked
+974	974	verb.motion	stop
+978	978	noun.person	fairies
+985	985	verb.motion	danced
+990	990	noun.person	Pat
+991	991	verb.social	tried
+993	994	verb.cognition	think of
+998	998	noun.communication	_
+1000	1000	verb.communication	say
+1005	1005	verb.social	free
+1009	1009	noun.state	spell
+1015	1016	verb.cognition	think of
+1017	1017	verb.stative	was
+1021	1021	noun.quantity	dozen
+1022	1022	noun.artifact	hanks
+1025	1025	noun.artifact	yarn
+1027	1028	noun.person	Missis Murphy
+1033	1033	noun.artifact	gross
+1036	1036	noun.artifact	buttons
+1039	1039	noun.person	tailor
+1045	1045	noun.quantity	ounce
+1047	1047	noun.body	throat
+1048	1048	noun.substance	drops
+1050	1051	noun.person	Father Andrew
+1055	1055	noun.quantity	ounce
+1057	1057	noun.substance	snuff
+1060	1060	noun.person	housekeeper
+1069	1069	verb.perception	seemed
+1071	1071	noun.person	Pat
+1074	1074	noun.object	moon
+1075	1075	verb.stative	was
+1079	1079	noun.location	side
+1082	1082	noun.object	Rath
+1085	1085	verb.change	began
+1087	1087	verb.motion	dance
+1093	1093	noun.location	side
+1096	1096	verb.motion	left
+1108	1109	verb.motion	going round
+1112	1112	noun.state	thing
+1113	1113	verb.stative	was
+1118	1118	verb.motion	danced
+1120	1120	noun.cognition	bit
+1122	1122	noun.substance	leather
+1125	1125	noun.substance	soles
+1128	1128	noun.body	feet
+1133	1133	verb.change	blistered
+1139	1139	verb.contact	stand
+1145	1145	noun.person	folk
+1146	1146	verb.creation	did
+1147	1147	verb.stative	was
+1149	1149	verb.motion	stand
+1151	1151	verb.stative	hold
+1153	1153	noun.body	sides
+1155	1155	verb.body	laughing
+1164	1164	verb.communication	spoke
+1166	1167	verb.motion	stepped up
+1172	1172	verb.change	break
+1174	1174	noun.cognition	heart
+1178	1178	noun.person	Pat
+1181	1181	verb.communication	says
+1187	1187	verb.possession	lend
+1191	1191	noun.artifact	shoes
+1194	1194	noun.time	morning
+1198	1198	verb.perception	seem
+1200	1200	verb.stative	be
+1205	1205	noun.cognition	sort
+1208	1208	noun.person	boy
+1213	1213	noun.person	Pat
+1214	1214	verb.perception	looked
+1217	1218	noun.person	fairy man
+1220	1220	noun.artifact	shoes
+1223	1223	verb.stative	were
+1225	1225	noun.attribute	size
+1228	1228	noun.person	baby
+1233	1233	verb.perception	looked
+1237	1237	noun.body	feet
+1241	1241	verb.emotion	wishing
+1243	1243	verb.stative	be
+1247	1247	verb.communication	Thank
+1251	1251	noun.person	sir
+1254	1254	verb.communication	says
+1261	1261	noun.attribute	honour
+1263	1263	verb.stative	be
+1267	1267	verb.contact	put
+1277	1277	verb.body	spoil
+1279	1279	noun.attribute	shape
+1284	1284	verb.cognition	thought
+1290	1290	verb.communication	blame
+1296	1296	noun.person	gentleman
+1299	1299	verb.communication	get
+1302	1302	verb.stative	fit
+1308	1309	verb.motion	sat down
+1312	1312	noun.artifact	side
+1315	1315	noun.substance	Rath
+1319	1320	noun.person	fairy man
+1321	1322	verb.body	put on
+1324	1324	noun.artifact	shoes
+1333	1333	verb.contact	touch
+1334	1334	noun.person	Pat
+1336	1336	noun.body	feet
+1340	1340	verb.change	became
+1344	1344	noun.attribute	size
+1347	1347	verb.change	fitted
+1350	1350	noun.substance	wax
+1360	1361	verb.motion	stood up
+1366	1366	verb.perception	feel
+1368	1368	noun.body	blisters
+1373	1373	verb.motion	Bring
+1378	1378	noun.object	Rath
+1380	1380	noun.time	sunrise
+1382	1382	noun.person	Pat
+1385	1385	noun.person	boy
+1388	1388	verb.communication	says
+1390	1391	noun.person	little man
+1395	1395	noun.person	Pat
+1397	1397	verb.motion	climbing
+1400	1400	noun.artifact	ditch
+1403	1403	verb.perception	Look
+1406	1406	noun.person	Pat
+1409	1409	verb.communication	says
+1414	1414	noun.person	Pat
+1415	1415	verb.perception	looked
+1420	1420	noun.artifact	jewels
+1422	1422	noun.artifact	pearls
+1423	1423	verb.stative	lying
+1426	1426	noun.plant	roots
+1429	1429	noun.plant	furze
+1431	1431	noun.plant	bushes
+1434	1434	noun.artifact	ditch
+1439	1439	noun.food	peas
+1444	1444	verb.social	help
+1448	1448	verb.possession	take
+1451	1451	verb.possession	given
+1454	1454	noun.person	Pat
+1457	1457	verb.communication	says
+1459	1460	noun.person	fairy man
+1466	1466	verb.cognition	learn
+1467	1467	noun.attribute	manners
+1470	1470	verb.communication	says
+1471	1471	noun.person	Pat
+1476	1476	verb.possession	have
+1478	1478	verb.social	help
+1481	1481	noun.communication	company
+1485	1485	verb.possession	take
+1488	1488	noun.communication	honour
+1491	1491	verb.possession	give
+1495	1495	verb.stative	be
+1500	1501	noun.person	fairy man
+1502	1502	verb.contact	picked
+1507	1507	noun.plant	furze
+1509	1509	noun.plant	blossoms
+1512	1512	noun.plant	bushes
+1515	1515	verb.consumption	filled
+1516	1516	noun.person	Pat
+1518	1518	noun.body	pockets
+1521	1521	verb.possession	Keep
+1524	1524	noun.feeling	love
+1526	1526	noun.person	Pat
+1533	1533	verb.communication	says
+1536	1536	noun.person	Pat
+1539	1539	verb.emotion	liked
+1543	1543	noun.artifact	jewels
+1547	1547	verb.contact	put
+1549	1549	noun.substance	furze
+1551	1551	noun.plant	blossoms
+1554	1554	noun.feeling	love
+1559	1559	noun.communication	evening
+1562	1562	noun.attribute	honour
+1565	1565	verb.communication	says
+1573	1573	verb.motion	going
+1575	1575	noun.person	Pat
+1580	1580	verb.communication	says
+1582	1583	noun.person	fairy man
+1588	1589	verb.motion	going home
+1592	1592	verb.communication	says
+1593	1593	noun.person	Pat
+1598	1599	noun.person	fairy man
+1602	1602	verb.cognition	know
+1605	1605	verb.stative	was
+1608	1608	noun.communication	blame
+1614	1614	verb.social	let
+1616	1616	verb.contact	dust
+1618	1618	noun.artifact	shoes
+1622	1622	noun.person	Pat
+1625	1625	verb.communication	says
+1627	1628	noun.person	fairy man
+1632	1632	noun.person	Pat
+1633	1634	verb.motion	lifted up
+1636	1636	noun.body	foot
+1638	1638	verb.body	breathed
+1643	1643	verb.contact	dusted
+1647	1647	noun.body	tail
+1651	1651	noun.artifact	coat
+1657	1657	verb.communication	says
+1663	1664	verb.contact	let go
+1666	1666	noun.person	Pat
+1667	1667	verb.stative	was
+1671	1671	noun.artifact	doorstep
+1675	1676	verb.perception	look round
+1680	1680	noun.possession	parcels
+1688	1688	noun.time	morning
+1690	1690	verb.stative	was
+1694	1694	noun.phenomenon	sun
+1697	1697	verb.contact	carried
+1699	1700	noun.person	fairy man
+1702	1702	noun.artifact	shoes
+1706	1706	noun.person	Rath
+1710	1711	verb.motion	came up
+1714	1715	noun.person	little man
+1716	1716	verb.perception	looked
+1719	1719	noun.substance	ditch
+1723	1723	noun.location	top
+1726	1726	noun.time	morning
+1730	1730	noun.attribute	honour
+1733	1733	verb.communication	says
+1734	1734	noun.person	Pat
+1740	1740	noun.artifact	shoes
+1745	1745	verb.stative	're
+1748	1748	noun.person	boy
+1750	1750	noun.person	Pat
+1753	1753	verb.communication	says
+1756	1756	noun.person	gentleman
+1763	1763	verb.stative	am
+1770	1770	verb.possession	have
+1774	1774	noun.quantity	pair
+1778	1778	verb.perception	looked
+1782	1782	noun.plant	flowers
+1784	1784	noun.time	morning
+1788	1788	verb.communication	says
+1792	1792	verb.possession	have
+1795	1795	noun.person	sir
+1798	1798	verb.communication	says
+1799	1799	noun.person	Pat
+1804	1804	verb.stative	be
+1807	1807	verb.social	deceive
+1811	1812	verb.change	came off
+1817	1817	verb.stative	was
+1825	1825	verb.perception	look
+1828	1829	verb.motion	get back
+1831	1831	noun.person	Pat
+1834	1834	verb.communication	says
+1836	1837	noun.person	fairy man
+1850	1850	verb.motion	disappeared
+1853	1853	noun.person	Pat
+1854	1855	verb.motion	went home
+1858	1859	verb.contact	looked for
+1861	1861	noun.plant	furze
+1863	1863	noun.plant	blossoms
+1867	1868	noun.person	fairy man
+1869	1869	verb.communication	told
+1877	1877	noun.communication	word
+1879	1879	noun.cognition	truth
+1882	1882	noun.communication	tale
+1889	1889	noun.possession	gold
+1890	1890	noun.artifact	pieces
+1895	1895	noun.person	Pat
+1896	1896	verb.stative	was
+1901	1902	verb.motion	went to
+1904	1904	noun.person	shoemaker
+1906	1906	verb.communication	order
+1908	1908	noun.quantity	pair
+1910	1910	noun.artifact	brogues
+1913	1913	verb.stative	being
+1918	1918	noun.person	boy
+1921	1921	noun.person	shoemaker
+1923	1923	verb.cognition	learned
+1926	1926	noun.communication	story
+1929	1930	noun.person	fairy man
+1933	1933	noun.person	Rath
+1938	1939	verb.emotion	stirred up
+1941	1941	noun.person	shoemaker
+1943	1943	noun.feeling	greed
+1946	1946	verb.cognition	resolved
+1948	1948	verb.motion	go
+1952	1952	noun.time	night
+1956	1956	verb.cognition	see
+1961	1961	verb.body	dance
+1964	1964	noun.person	fairies
+1967	1967	verb.perception	have
+1969	1969	noun.state	luck
+1972	1972	verb.possession	found
+1974	1974	noun.act	way
+1977	1977	noun.person	Rath
+1985	1985	noun.person	fairies
+1987	1987	verb.motion	dancing
+1991	1991	verb.communication	asked
+1994	1994	verb.social	join
+1997	1997	verb.motion	danced
+1999	1999	noun.substance	soles
+2002	2002	noun.artifact	brogues
+2005	2005	noun.person	Pat
+2010	2011	noun.person	fairy man
+2012	2012	verb.possession	lent
+2015	2015	noun.artifact	shoes
+2018	2018	verb.motion	sent
+2023	2023	noun.time	twinkling
+2028	2028	verb.motion	going
+2031	2031	noun.artifact	ditch
+2034	2034	verb.perception	looked
+2038	2038	verb.perception	saw
+2040	2040	noun.plant	roots
+2043	2043	noun.plant	furze
+2045	2045	noun.plant	bushes
+2046	2046	verb.change	glowing
+2049	2049	noun.substance	stones
+2054	2054	verb.stative	been
+2055	2055	noun.state	glow
+2057	2057	noun.animal	worms
+2062	2062	verb.social	help
+2066	2066	verb.possession	take
+2069	2069	verb.possession	given
+2073	2073	verb.communication	said
+2075	2076	noun.person	fairy man
+2081	2081	verb.social	help
+2086	2086	verb.emotion	please
+2089	2089	verb.communication	said
+2091	2091	noun.person	cobbler
+2099	2099	verb.possession	get
+2102	2102	noun.person	Pat
+2103	2103	verb.motion	brought
+2107	2107	noun.body	fingers
+2110	2110	verb.stative	be
+2116	2116	verb.contact	drove
+2118	2118	noun.body	hand
+2121	2121	noun.plant	bushes
+2128	2128	verb.possession	get
+2129	2129	noun.attribute	plenty
+2132	2132	verb.stative	was
+2135	2135	noun.state	want
+2137	2137	verb.contact	grasping
+2141	2142	verb.body	got up
+2145	2145	noun.time	morning
+2148	2148	verb.motion	went
+2152	2152	noun.artifact	jewels
+2157	2157	noun.object	stone
+2160	2160	noun.artifact	lot
+2161	2161	verb.stative	was
+2166	2166	noun.substance	pebbles
+2173	2173	verb.perception	look
+2176	2176	verb.motion	come
+2179	2179	noun.person	Rath
+2182	2182	verb.communication	said
+2192	2192	noun.person	Pat
+2199	2202	verb.cognition	made up his mind
+2205	2205	verb.possession	return
+2207	2208	noun.person	fairy man
+2210	2210	noun.artifact	shoes
+2214	2214	verb.cognition	knows
+2216	2216	noun.attribute	virtue
+2224	2224	verb.communication	said
+2228	2228	verb.creation	made
+2231	2231	noun.group	pair
+2234	2234	noun.substance	leather
+2235	2235	noun.artifact	shoes
+2242	2242	verb.stative	be
+2246	2246	verb.contact	blacked
+2251	2251	noun.body	feet
+2255	2255	noun.person	fairies
+2258	2258	verb.cognition	know
+2263	2263	noun.time	sunrise
+2265	2266	verb.motion	went to
+2268	2268	noun.location	Rath
+2271	2272	noun.person	fairy man
+2274	2274	verb.perception	looking
+2277	2277	noun.artifact	ditch
+2284	2284	noun.time	morning
+2289	2289	verb.communication	said
+2294	2294	noun.location	top
+2297	2297	noun.time	morning
+2301	2301	noun.person	sir
+2304	2304	verb.communication	said
+2306	2306	noun.person	cobbler
+2312	2312	noun.artifact	shoes
+2317	2317	verb.possession	handed
+2320	2320	noun.quantity	pair
+2324	2324	verb.creation	made
+2328	2328	noun.body	face
+2333	2333	noun.person	judge
+2336	2337	noun.person	fairy man
+2338	2338	verb.perception	looked
+2344	2344	verb.communication	said
+2345	2345	noun.quantity	nothing
+2351	2351	verb.contact	put
+2358	2359	verb.cognition	looked at
+2361	2361	noun.artifact	things
+2363	2363	verb.possession	got
+2365	2365	noun.time	night
+2368	2368	verb.communication	says
+2375	2375	verb.social	deceive
+2378	2378	noun.person	sir
+2381	2381	verb.communication	says
+2383	2383	noun.person	cobbler
+2387	2388	verb.motion	came off
+2393	2393	verb.stative	was
+2399	2399	verb.perception	took
+2408	2408	verb.perception	look
+2411	2412	verb.motion	get back
+2415	2415	verb.communication	says
+2417	2418	noun.person	fairy man
+2424	2424	noun.person	cobbler
+2426	2427	verb.motion	getting over
+2429	2429	noun.artifact	ditch
+2431	2432	verb.motion	go home
+2435	2435	verb.communication	says
+2440	2440	noun.body	eyes
+2443	2443	verb.social	deceive
+2447	2447	verb.communication	says
+2452	2452	verb.stative	's
+2455	2455	noun.cognition	taste
+2457	2457	noun.state	life
+2459	2459	noun.substance	dirt
+2463	2463	noun.artifact	shoe
+2465	2465	verb.social	Let
+2467	2467	verb.contact	dust
+2471	2471	noun.animal	tail
+2474	2474	noun.artifact	coat
+2479	2479	verb.communication	means
+2480	2480	noun.state	home
+2486	2486	verb.communication	thought
+2488	2488	noun.person	cobbler
+2492	2493	verb.contact	held up
+2495	2495	noun.body	foot
+2498	2499	noun.person	fairy man
+2500	2500	verb.contact	dusted
+2504	2504	verb.communication	muttered
+2507	2507	noun.person	cobbler
+2510	2510	verb.perception	hear
+2518	2518	verb.communication	says
+2526	2526	noun.location	pastures
+2530	2531	verb.motion	come through
+2536	2536	noun.artifact	shoe
+2544	2544	noun.person	cobbler
+2545	2546	verb.contact	held up
+2549	2549	noun.body	foot
+2553	2554	noun.person	fairy man
+2555	2555	verb.contact	rubbed
+2559	2559	noun.body	tail
+2563	2563	noun.artifact	coat
+2570	2570	noun.person	cobbler
+2572	2572	noun.body	feet
+2573	2573	verb.perception	seemed
+2575	2575	verb.perception	tingle
+2580	2580	verb.perception	itch
+2585	2585	verb.body	smart
+2590	2590	verb.change	burn
+2596	2596	verb.change	began
+2598	2598	verb.motion	dance
+2602	2602	verb.creation	danced
+2606	2606	noun.person	Rath
+2609	2610	noun.person	fairy man
+2611	2611	verb.body	laughing
+2613	2613	verb.contact	holding
+2615	2615	noun.body	sides
+2627	2627	verb.creation	danced
+2630	2631	verb.communication	cried out
+2633	2633	noun.state	weariness
+2636	2636	verb.social	tried
+2638	2638	verb.contact	shake
+2640	2640	noun.artifact	shoes
+2645	2645	verb.stative	stuck
+2650	2650	noun.person	fairies
+2651	2651	verb.motion	drove
+2656	2656	noun.artifact	ditch
+2662	2662	noun.plant	furze
+2664	2664	noun.plant	bushes
+2668	2668	verb.motion	danced
+2673	2673	verb.creation	danced
+2679	2679	verb.communication	tell
+2685	2686	verb.possession	got rid
+2689	2689	noun.person	fairy
+2690	2690	noun.artifact	shoes
+2695	2695	verb.cognition	know
+2698	2698	noun.possession	jewels
+2700	2700	verb.stative	were
+2703	2704	noun.artifact	wayside pebbles
+2709	2710	verb.contact	swept out
+2713	2713	noun.artifact	cabin
+2715	2715	verb.change	cleaned
+2718	2718	verb.stative	was
+2730	2730	verb.change	happened
+2736	2736	verb.stative	are
+2739	2739	verb.communication	say
+2743	2743	noun.person	cobbler
+2744	2744	verb.motion	dances
+2748	2748	noun.time	sunset
+2750	2750	noun.time	sunrise
+2753	2753	noun.person	Murdoch

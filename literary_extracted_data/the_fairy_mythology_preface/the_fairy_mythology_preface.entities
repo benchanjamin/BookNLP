@@ -1,0 +1,603 @@
+COREF	start_token	end_token	prop	cat	text
+0	43	43	PRON	PER	I
+0	56	56	PRON	PER	I
+0	78	78	PRON	PER	I
+0	86	86	PRON	PER	I
+0	105	105	PRON	PER	I
+-1	109	119	NOM	PER	any one who read it that was not pleased with it
+70	138	138	PROP	PER	Goethe
+71	144	146	PROP	PER	Dr. Jacob Grimm
+-1	149	156	NOM	PER	the first authority on these matters in Europe
+1	156	156	PROP	GPE	Europe
+0	159	159	PRON	PER	me
+0	167	167	PRON	PER	me
+-1	171	171	PRON	PER	him
+0	178	178	PRON	PER	I
+2	192	192	PROP	GPE	Vienna
+72	199	201	PROP	PER	Jos Von Hammer
+0	204	204	PRON	PER	me
+-1	214	214	PRON	PER	he
+-1	219	219	PRON	PER	his
+-1	219	223	NOM	GPE	his native province of Styria
+3	223	223	PROP	GPE	Styria
+-1	233	233	PRON	PER	himself
+-1	236	246	NOM	PER	some ladies of high rank and cultivated minds in that country
+-1	245	246	NOM	GPE	that country
+-1	257	257	PRON	PER	he
+-1	261	261	PRON	PER	him
+-1	269	269	PRON	PER	mine
+4	274	275	PROP	LOC	the Continent
+0	284	284	PRON	PER	I
+73	289	290	PROP	PER	Robert Southey
+-1	301	301	PRON	PER	his
+0	308	308	PRON	PER	I
+0	311	311	PRON	PER	I
+-1	319	320	NOM	PER	any one
+0	331	331	PRON	PER	I
+-1	338	355	NOM	PER	distinguished persons who have been pleased with this work and its pendent , the Tales and Popular Fictions
+0	357	357	PRON	PER	I
+-1	363	385	NOM	PER	the late Mr. Douce , who , very shortly before his death , on the occasion of the publication of this last work
+-1	373	373	PRON	PER	his
+0	389	389	PRON	PER	me
+0	392	392	PRON	PER	me
+-1	404	404	PRON	PER	he
+-1	412	412	PRON	PER	him
+-1	428	430	NOM	PER	this learned antiquary
+74	459	459	PROP	PER	Milton
+75	461	461	PROP	PER	Dante
+-1	465	469	NOM	PER	The Thousand and One Nights
+5	471	472	PROP	FAC	Bedoween Audience
+-1	474	477	NOM	PER	a Story - teller
+76	479	479	PROP	PER	Cleomades
+6	481	481	PROP	GPE	Claremond
+7	488	488	PROP	GPE	Provence
+-1	490	492	NOM	FAC	the fair Maguelone
+8	496	498	PROP	FAC	The Pleasant Nights
+9	500	502	PROP	LOC	The Dancing Water
+-1	514	517	NOM	PER	The Three Little Birds
+10	519	519	PROP	GPE	Lactantius
+77	521	521	PROP	PER	Ulysses
+11	523	523	PROP	GPE	Sindbad
+-1	527	532	NOM	FAC	The Shâh - Nâmeh — Roostem
+78	534	536	PROP	PER	Soohrâb — Conloch
+79	538	538	PROP	PER	Cuchullin
+80	540	540	PROP	PER	Macpherson
+12	542	542	PROP	LOC	Ossian
+13	548	549	PROP	LOC	The Pentamerone
+14	556	557	PROP	LOC	Hindoo Legend
+-1	561	565	NOM	PER	Jack the Giant - killer
+81	571	571	PROP	PER	Thor
+15	571	575	PROP	FAC	Thor 's Journey to Utgard
+16	575	575	PROP	GPE	Utgard
+17	577	579	PROP	LOC	Ameen of Isfahan
+18	581	582	PROP	LOC	the Ghool
+-1	584	588	NOM	PER	The Lion and the Goat
+82	598	598	PROP	PER	Whittington
+-1	600	600	PRON	PER	his
+83	614	615	PROP	PER	The Edda
+84	617	617	PROP	PER	Sigurd
+85	619	619	PROP	PER	Brynhilda
+86	625	626	PROP	PER	Holger Danske
+87	628	630	PROP	PER	Ogier le Danois
+88	634	635	PROP	PER	William Tell
+19	639	639	PROP	GPE	Peruonto
+89	641	643	PROP	PER	Peter the Fool
+90	645	647	PROP	PER	Emelyan the Fool
+0	655	655	PRON	PER	I
+-1	660	661	NOM	PER	any one
+0	671	671	PRON	PER	I
+0	674	674	PRON	PER	I
+0	679	679	PRON	PER	my
+0	694	694	PRON	PER	me
+0	710	710	PRON	PER	I
+-1	713	714	NOM	GPE	the metropolis
+0	716	716	PRON	PER	I
+91	724	725	PROP	PER	Don Quixote
+0	735	735	PRON	PER	me
+-1	738	738	PRON	PER	mi
+-1	756	757	NOM	GPE	this country
+-1	780	783	NOM	PER	an author by trade
+0	787	787	PRON	PER	I
+20	793	793	PROP	GPE	Southey
+-1	805	805	PRON	PER	him
+0	811	811	PRON	PER	My
+-1	814	819	NOM	PER	those who may read these pages
+-1	832	860	NOM	PER	One of my earliest literary friends in London was T. Crofton Croker , who was then engaged in collecting materials for the Fairy Legends of the South of Ireland
+0	834	834	PRON	PER	my
+-1	834	839	NOM	PER	my earliest literary friends in London
+21	839	839	PROP	GPE	London
+92	841	843	PROP	PER	T. Crofton Croker
+-1	857	860	NOM	LOC	the South of Ireland
+22	860	860	PROP	GPE	Ireland
+-1	862	862	PRON	PER	He
+-1	867	867	PRON	PER	his
+-1	867	868	NOM	PER	his friends
+0	875	875	PRON	PER	I
+0	883	883	PRON	PER	I
+-1	894	894	PRON	PER	him
+0	901	901	PRON	PER	My
+23	923	923	PROP	GPE	Greece
+24	925	925	PROP	GPE	Italy
+93	941	942	PROP	PER	Mr. Croker
+-1	954	954	PRON	PER	their
+94	973	973	PROP	PER	Fairies
+-1	974	974	NOM	PER	some
+0	991	991	PRON	PER	I
+0	994	994	PRON	PER	my
+0	1001	1001	PRON	PER	I
+-1	1005	1006	NOM	PER	such critics
+0	1017	1017	PRON	PER	I
+0	1030	1030	PRON	PER	my
+-1	1045	1046	NOM	PER	no one
+-1	1051	1051	PRON	PER	them
+0	1130	1130	PRON	PER	I
+0	1139	1139	PRON	PER	me
+-1	1158	1166	NOM	FAC	the old reading - room of the British Museum
+-1	1164	1166	NOM	FAC	the British Museum
+71	1198	1199	PROP	PER	Dr. Grimm
+-1	1213	1218	NOM	LOC	the sections of England and France
+25	1216	1216	PROP	GPE	England
+26	1218	1218	PROP	GPE	France
+0	1220	1220	PRON	PER	I
+0	1230	1230	PRON	PER	me
+0	1243	1243	PRON	PER	I
+-1	1259	1266	NOM	PER	an authority on the subject of popular lore
+-1	1268	1273	NOM	PER	The active industry of the Grimms
+95	1272	1273	PROP	PER	the Grimms
+96	1276	1276	PROP	PER	Thiele
+-1	1279	1279	NOM	PER	others
+-1	1287	1288	NOM	GPE	various countries
+0	1290	1290	PRON	PER	I
+0	1302	1302	PRON	PER	I
+-1	1308	1312	NOM	PER	future writers on this subject
+-1	1331	1332	NOM	PER	any one
+0	1337	1337	PRON	PER	I
+-1	1419	1423	NOM	PER	the former dwellers of earth
+-1	1474	1476	NOM	PER	the King Artoúr
+97	1481	1481	PROP	PER	Bretons
+98	1511	1511	PROP	PER	Chaucer
+27	1518	1518	PROP	LOC	FAIRIES
+-1	1528	1528	PRON	PER	our
+-1	1544	1544	PRON	PER	us
+-1	1561	1563	NOM	PER	the deepest philosopher
+-1	1572	1573	NOM	PER	the peasant
+-1	1575	1576	NOM	PER	the savage
+-1	1591	1591	PRON	PER	they
+-1	1595	1596	NOM	PER	The one
+-1	1612	1612	PRON	PER	he
+-1	1623	1623	PRON	PER	he
+-1	1626	1626	PRON	PER	him
+-1	1635	1635	PRON	PER	his
+-1	1646	1655	NOM	PER	some of the inferior beings recognised by his legendary creed
+-1	1653	1653	PRON	PER	his
+-1	1678	1678	PRON	PER	their
+-1	1719	1720	NOM	GPE	the country
+99	1737	1737	PROP	PER	Ætna
+28	1739	1739	PROP	GPE	Stromboli
+100	1748	1748	PROP	PER	Typhon
+101	1750	1750	PROP	PER	Vulcan
+-1	1762	1764	NOM	LOC	the infernal regions
+-1	1788	1791	NOM	LOC	the island of Barrie
+29	1791	1791	PROP	GPE	Barrie
+-1	1796	1812	NOM	PER	the fiends whom Merlin had set to work to frame the wall of brass to surround Caermarthen.[2
+102	1799	1799	PROP	PER	Merlin
+30	1812	1812	PROP	GPE	Caermarthen.[2
+-1	1841	1842	NOM	PER	the hero
+-1	1844	1845	NOM	PER	the saint
+-1	1848	1849	NOM	PER	the god
+-1	1870	1875	NOM	PER	the heroes and giants of old
+-1	1881	1885	NOM	LOC	the galaxy or milky way
+-1	1893	1896	NOM	PER	the queen of heaven
+-1	1909	1910	NOM	PER	a youth
+-1	1913	1914	NOM	PER	a hero
+103	1929	1929	PROP	PER	Venus
+-1	1932	1932	PRON	PER	she
+-1	1936	1937	NOM	LOC	the woods
+-1	1942	1945	NOM	PER	the professors of Islâm
+-1	1962	1967	NOM	PER	the sacred person of their prophet
+-1	1966	1966	PRON	PER	their
+-1	1966	1967	NOM	PER	their prophet
+-1	1988	1990	NOM	PER	the patient ass
+-1	2001	2004	NOM	PER	the Son of God
+104	2004	2004	PROP	PER	God
+-1	2008	2010	NOM	GPE	the Holy City
+-1	2025	2026	NOM	LOC	the sea[3
+-1	2038	2039	NOM	PER	the apostle
+-1	2043	2043	PRON	PER	him
+-1	2046	2050	NOM	LOC	the waters of Lake Tiberias
+31	2049	2050	PROP	LOC	Lake Tiberias
+-1	2060	2060	PRON	PER	his
+-1	2069	2070	NOM	LOC	the hills
+32	2074	2074	PROP	GPE	Norway
+33	2076	2076	PROP	GPE	Sweden
+105	2080	2081	PROP	PER	the Dwarfs
+-1	2083	2085	NOM	PER	the human speaker
+23	2093	2093	PROP	GPE	Greece
+106	2097	2097	PROP	PER	Echo
+-1	2099	2104	NOM	PER	a nymph who pined for love
+-1	2114	2114	PRON	PER	she
+-1	2123	2129	NOM	LOC	the waters of the Straits of Messina
+34	2126	2128	PROP	LOC	the Straits of
+35	2129	2129	PROP	GPE	Messina
+107	2136	2138	PROP	PER	the Fata Morgana
+-1	2155	2157	NOM	PER	the ingenious dwarfs
+-1	2172	2174	NOM	PER	the dancing elves
+108	2177	2178	PROP	PER	St. Cuthbert
+-1	2186	2186	PRON	PER	his
+-1	2193	2196	NOM	LOC	the shore of Lindisfarne.[4
+36	2196	2196	PROP	GPE	Lindisfarne.[4
+-1	2204	2204	PRON	PER	we
+-1	2207	2208	NOM	GPE	most countries
+-1	2219	2219	NOM	PER	men
+-1	2223	2227	NOM	PER	the higher orders of divinities
+-1	2229	2230	NOM	PER	These beings
+-1	2238	2241	NOM	LOC	the caverns of earth
+-1	2244	2248	NOM	LOC	the depths of the waters
+-1	2247	2248	NOM	LOC	the waters
+-1	2250	2254	NOM	LOC	a region of their own
+-1	2253	2253	PRON	PER	their
+-1	2256	2256	PRON	PER	They
+-1	2259	2259	NOM	PER	mankind
+-1	2268	2268	PRON	PER	them
+-1	2319	2319	NOM	PER	philosophers
+-1	2324	2325	NOM	PER	rude tribes
+-1	2329	2329	PRON	PER	their
+-1	2332	2332	PRON	PER	we
+-1	2343	2343	PRON	PER	their
+-1	2346	2350	NOM	PER	tens of thousands of divinities
+-1	2355	2361	NOM	PER	the inhabitants of the field and flood
+-1	2369	2369	PRON	PER	their
+-1	2402	2416	NOM	PER	dark and malignant attributes beings once the objects of love , confidence , and veneration.[5
+-1	2421	2421	PRON	PER	our
+37	2436	2436	PROP	GPE	Olympus
+38	2438	2438	PROP	GPE	Valhalla
+-1	2443	2443	PRON	PER	Our
+-1	2450	2450	PRON	PER	we
+-1	2452	2452	PRON	PER	ourselves
+-1	2454	2478	NOM	PER	those beings who are our fellow - inhabitants of earth , whose manners we aim to describe , and whose deeds we propose to record
+-1	2458	2458	PRON	PER	our
+-1	2458	2463	NOM	PER	our fellow - inhabitants of earth
+-1	2463	2463	NOM	LOC	earth
+-1	2467	2467	PRON	PER	we
+-1	2475	2475	PRON	PER	we
+-1	2480	2480	PRON	PER	We
+94	2483	2483	PROP	PER	Fairies
+-1	2485	2485	NOM	PER	Fays
+-1	2487	2487	NOM	PER	Elves
+-1	2533	2533	PRON	PER	him
+109	2545	2545	PROP	PER	Fairy
+110	2571	2573	PROP	PER	Sir W. Ouseley
+111	2587	2587	PROP	PER	Skinner
+-1	2610	2610	NOM	PER	companions
+-1	2615	2617	NOM	PER	Fairy - folk
+-1	2666	2668	NOM	PER	the Paynim foe
+-1	2671	2675	NOM	PER	the warriors of the Cross
+39	2678	2678	PROP	GPE	Palestine
+112	2716	2716	PROP	PER	Peri
+-1	2723	2724	NOM	PER	an Arab
+40	2726	2726	PROP	GPE	Feri
+-1	2729	2730	NOM	PER	the crusaders
+-1	2732	2732	NOM	PER	pilgrims
+1	2738	2738	PROP	GPE	Europe
+41	2745	2745	PROP	GPE	Asia
+42	2749	2750	PROP	LOC	the West
+-1	2764	2767	NOM	PER	the Morgain or Morgana
+112	2776	2777	PROP	PER	Merjan Peri
+43	2783	2784	PROP	LOC	the East
+-1	2820	2821	NOM	PER	the individual
+-1	2837	2837	PRON	PER	we
+-1	2847	2847	PRON	PER	they
+-1	2854	2854	PRON	PER	they
+-1	2859	2859	PRON	PER	we
+-1	2862	2862	PRON	PER	them
+113	2892	2892	PROP	PER	Menage
+114	2896	2896	PROP	PER	Lutin
+115	2898	2898	PROP	PER	Lemur
+112	2913	2914	PROP	PER	Merjan Peri
+116	2916	2916	PROP	PER	D'Herbelot
+-1	2918	2918	PRON	PER	her
+117	2919	2920	PROP	PER	Merjan Banou[8
+-1	2924	2924	PRON	PER	we
+-1	2935	2935	PRON	PER	her
+-1	2937	2937	PRON	PER	Her
+-1	2943	2943	PRON	PER	we
+44	2962	2963	PROP	LOC	the Persian
+-1	2980	2981	NOM	PER	English scholars
+-1	2987	2996	NOM	LOC	the only language in which the name of the individual
+-1	2995	2996	NOM	PER	the individual
+109	2998	2998	PROP	PER	Fairy
+-1	3009	3009	PRON	PER	them
+-1	3020	3020	PRON	PER	we
+-1	3039	3039	PRON	PER	we
+109	3041	3041	PROP	PER	Fairy
+107	3064	3064	PROP	PER	Fata
+-1	3073	3073	PRON	PER	we
+-1	3085	3085	PRON	PER	our
+-1	3087	3087	PRON	PER	we
+-1	3114	3116	NOM	PER	the Emperor Diocletian
+-1	3118	3126	NOM	PER	three female figures , with the legend Fatis victricibus
+45	3133	3133	PROP	GPE	Valencia
+46	3135	3135	PROP	GPE	Spain
+-1	3156	3167	NOM	PER	three female figures , with the attributes of the Mœræ or Parcæ.[9
+-1	3183	3183	PRON	PER	us
+118	3194	3194	PROP	PER	Ausonius[10
+-1	3207	3215	NOM	FAC	a building at the Roman Forum τα τρια φατα
+-1	3210	3215	NOM	FAC	the Roman Forum τα τρια φατα
+119	3226	3227	PROP	PER	The Fatæ
+107	3229	3229	PROP	PER	Fata
+-1	3234	3234	NOM	PER	persons
+-1	3237	3237	PRON	PER	their
+120	3252	3253	PROP	PER	the Mœræ
+121	3260	3260	PROP	PER	Meleager
+87	3270	3272	PROP	PER	Ogier le Danois
+-1	3275	3280	NOM	PER	other heroes of romance and tale
+-1	3282	3282	PRON	PER	their
+-1	3295	3295	PRON	PER	we
+122	3312	3314	PROP	PER	Gervase of Tilbury
+-1	3317	3322	NOM	PER	other writers of the thirteenth century
+-1	3337	3339	NOM	PER	human kind.[12 ]
+-1	3358	3358	PRON	PER	we
+-1	3372	3374	NOM	PER	such a being
+-1	3379	3383	NOM	PER	a woman skilled in magic
+-1	3391	3391	PRON	PER	we
+-1	3423	3425	NOM	PER	dame or femme
+47	3473	3473	PROP	GPE	French
+-1	3503	3503	PRON	PER	we
+-1	3507	3509	NOM	PER	les chevaliers faés
+-1	3511	3513	NOM	PER	les dames faées
+-1	3533	3533	PRON	PER	We
+-1	3537	3537	PRON	PER	we
+-1	3608	3608	PRON	PER	we
+-1	3614	3614	PRON	PER	our
+-1	3629	3629	PRON	PER	we
+48	3640	3640	PROP	GPE	Hada
+49	3645	3648	PROP	LOC	the Neapolitan Pentamerone Fata
+123	3650	3650	PROP	PER	Maga
+107	3657	3657	PROP	PER	Fata
+-1	3664	3667	NOM	PER	a sister of hers
+-1	3667	3667	PRON	PER	hers
+124	3672	3672	PROP	PER	Ariosto
+50	3675	3675	PROP	GPE	Medea
+-1	3702	3704	NOM	PER	The same poet
+-1	3716	3717	NOM	ORG	dagli antichi
+-1	3716	3717	NOM	PER	dagli antichi
+125	3767	3767	PROP	PER	Bojardo
+-1	3770	3774	NOM	PER	the water - nymphs Fate
+-1	3777	3777	PRON	PER	our
+-1	3777	3782	NOM	PER	our old translators of the Classics
+-1	3784	3784	PRON	PER	them
+-1	3785	3785	NOM	PER	fairies
+-1	3793	3793	PRON	PER	we
+-1	3803	3805	NOM	PER	the Italian poets
+-1	3861	3861	PRON	PER	We
+-1	3879	3879	PRON	PER	we
+126	3903	3904	PROP	PER	de Renart
+-1	3927	3927	PRON	PER	we
+127	3932	3934	PROP	PER	Sir Walter Scott
+0	3965	3965	PRON	PER	Me
+0	3972	3972	PRON	PER	me
+128	3977	3978	PROP	PER	Piers Plowman
+129	3983	3983	PROP	PER	Maius
+-1	4021	4027	NOM	PER	Diversè folk diversëly han demed.—Squier 's Tale
+-1	4029	4030	NOM	PER	The Emperor
+-1	4052	4052	PRON	PER	she
+-1	4054	4054	PRON	PER	his
+-1	4058	4061	NOM	PER	The God of her
+-1	4061	4061	PRON	PER	her
+-1	4074	4074	PRON	PER	her
+130	4078	4078	PROP	PER	Constance
+131	4084	4085	PROP	PER	Mr. Ritson
+131	4099	4100	PROP	PER	Mr. Ritson
+132	4104	4106	PROP	PER	Sir Hugh Evans
+-1	4112	4112	PRON	PER	his
+-1	4112	4114	NOM	PER	his pible petter
+-1	4129	4129	PRON	PER	him
+-1	4131	4131	PRON	PER	he
+-1	4137	4137	NOM	PER	man
+-1	4158	4159	NOM	LOC	this world
+-1	4166	4166	PRON	PER	he
+133	4179	4180	PROP	PER	moral Gower
+-1	4184	4184	PRON	PER	his
+-1	4193	4194	NOM	LOC	the world
+-1	4212	4215	NOM	LOC	the land of illusions
+-1	4220	4225	NOM	PER	the Faés , who produced them
+51	4228	4228	PROP	GPE	Faerie
+-1	4233	4237	NOM	LOC	the country of the Fays
+134	4236	4237	PROP	PER	the Fays
+52	4247	4248	PROP	LOC	a Nonnerie
+-1	4250	4254	NOM	LOC	a place inhabited by Nonnes
+135	4254	4254	PROP	PER	Nonnes
+-1	4258	4262	NOM	FAC	a place inhabited by Jews
+136	4262	4262	PROP	PER	Jews
+-1	4265	4266	NOM	FAC	a Faerie
+-1	4269	4273	NOM	LOC	a place inhabited by Fays
+-1	4273	4273	NOM	PER	Fays
+-1	4275	4275	PRON	LOC	Its
+53	4291	4291	PROP	GPE	Tartarie
+-1	4298	4301	NOM	FAC	the regne of Feminie
+54	4301	4301	PROP	GPE	Feminie
+-1	4306	4308	NOM	PER	an elfish knight
+0	4311	4311	PRON	PER	my
+-1	4311	4312	NOM	PER	my lord
+-1	4318	4318	PRON	PER	him
+-1	4321	4321	PRON	PER	him
+-1	4327	4327	NOM	PER	sir
+55	4344	4344	PROP	GPE	Bordeaux
+0	4350	4350	PRON	PER	me
+137	4363	4364	PROP	PER	le Dannoys
+-1	4369	4369	PRON	PER	his
+-1	4374	4374	PRON	PER	he
+-1	4386	4386	PRON	PER	He
+138	4388	4388	PROP	PER	Arthur
+-1	4391	4392	NOM	PER	a king
+56	4397	4397	PROP	GPE	Faërie
+-1	4406	4406	PRON	PER	his
+-1	4412	4414	NOM	PER	lord and sovereigne
+51	4418	4418	PROP	GPE	Faerie
+57	4423	4423	PROP	GPE	Bretaine
+-1	4428	4431	NOM	FAC	the ouldè Roundè Table
+58	4433	4433	PROP	GPE	Lydgate
+139	4437	4437	PROP	PER	Princes
+-1	4449	4450	NOM	LOC	the country
+-1	4455	4456	NOM	PER	the inhabitants
+-1	4458	4458	PRON	PER	their
+51	4463	4464	PROP	PER	the Faerie
+-1	4467	4472	NOM	PER	the people of Fairy - land.[17
+109	4470	4472	PROP	LOC	Fairy - land.[17
+141	4485	4486	PROP	PER	the Phairie
+-1	4500	4500	PRON	PER	he
+142	4502	4502	PROP	PER	Pluto
+-1	4505	4505	PRON	PER	his
+56	4530	4531	PROP	PER	the Faërie
+-1	4533	4533	PRON	PER	him
+-1	4539	4539	PRON	PER	he
+-1	4541	4545	NOM	PER	the Lady of the Lake
+60	4544	4545	PROP	LOC	the Lake
+144	4547	4547	PROP	PER	Drayton
+-1	4566	4572	NOM	PER	the individual denizen of Fairy - land
+-1	4570	4572	NOM	LOC	Fairy - land
+-1	4579	4584	NOM	PER	the full - sized fairy knights
+-1	4586	4588	NOM	PER	ladies of romance
+-1	4592	4600	NOM	PER	the pygmy elves that haunt the woods and dells
+-1	4597	4600	NOM	LOC	the woods and dells
+-1	4618	4618	PRON	PER	we
+98	4631	4631	PROP	PER	Chaucer
+145	4643	4643	PROP	PER	Spenser
+-1	4669	4672	NOM	PER	the Fays of romance
+-1	4679	4679	NOM	PER	translators
+-1	4682	4683	NOM	PER	the Elves
+-1	4692	4692	PRON	PER	They
+138	4695	4696	PROP	PER	king Arthur
+94	4705	4706	PROP	PER	the Fairies
+-1	4713	4713	PRON	PER	he
+146	4782	4783	PROP	PER	the Faries
+147	4787	4787	PROP	PER	Golding
+148	4806	4806	PROP	PER	Virgil
+149	4826	4827	PROP	PER	Elfis clepen
+-1	4828	4828	PRON	PER	we
+150	4830	4831	PROP	PER	Gawin Dowglas
+-1	4833	4834	NOM	LOC	The woods
+-1	4837	4837	PRON	PER	he
+-1	4846	4848	NOM	PER	gods of ground
+-1	4851	4853	NOM	PER	Fairy - queens
+-1	4859	4859	PRON	PER	them
+151	4889	4890	PROP	PER	Fairie ferre
+-1	4899	4900	NOM	PER	this ladie
+147	4905	4905	PROP	PER	Golding
+152	4925	4925	PROP	PER	Pan
+-1	4927	4930	NOM	PER	the Fairie - elves
+147	4937	4937	PROP	PER	Golding
+61	4939	4939	PROP	LOC	Solaque
+-1	4959	4959	PRON	PER	she
+-1	4979	4983	NOM	PER	the fairies of the lake
+-1	4982	4983	NOM	LOC	the lake
+-1	4993	4993	PRON	PER	we
+-1	5050	5056	NOM	PER	the real Fays or Fairies of romance
+-1	5090	5091	NOM	PER	the poets
+-1	5096	5097	NOM	PER	the people
+-1	5116	5117	NOM	GPE	a nation
+-1	5123	5130	NOM	PER	even the lowest classes[20 ] of its society
+-1	5129	5129	PRON	PER	its
+153	5136	5136	PROP	PER	Shakspeare
+-1	5141	5146	NOM	PER	a principal agent in this revolution
+-1	5150	5150	PRON	PER	he
+109	5152	5152	PROP	PER	Fairy
+154	5159	5159	PROP	PER	Fay
+-1	5178	5185	NOM	PER	the translators of the French Contes des Fées
+-1	5192	5194	NOM	GPE	this great Fairy
+0	5195	5195	PRON	PER	I
+-1	5198	5198	PRON	PER	thy
+155	5201	5201	PROP	PER	Antony
+156	5203	5203	PROP	PER	Cleopatra
+74	5213	5213	PROP	PER	Milton
+-1	5223	5228	NOM	PER	knights of Logres or of Lyones
+157	5230	5230	PROP	PER	Lancelot
+158	5233	5233	PROP	PER	Pelleas
+159	5236	5236	PROP	PER	Pellinore
+-1	5239	5239	PRON	PER	he
+-1	5250	5252	NOM	LOC	a forest side
+-1	5255	5257	NOM	PER	some belated peasant
+160	5262	5262	PROP	PER	Randolph
+-1	5265	5265	PRON	PER	his
+-1	5282	5284	NOM	LOC	Fairy - land
+0	5286	5286	PRON	PER	I
+161	5293	5293	PROP	PER	Jocastus
+109	5297	5297	PROP	GPE	Fairy
+-1	5305	5305	PRON	PER	We
+-1	5313	5314	NOM	PER	the Germans
+162	5327	5328	PROP	PER	the Fées
+-1	5330	5330	PRON	PER	They
+-1	5332	5332	PRON	PER	them
+163	5333	5333	PROP	PER	Feen
+-1	5338	5343	NOM	FAC	the Tristram of Gottfried von Strazburg
+164	5341	5343	PROP	PER	Gottfried von Strazburg
+-1	5344	5344	PRON	PER	we
+165	5348	5349	PROP	PER	Duke Gylan
+-1	5351	5356	NOM	PER	a syren - like little dog
+-1	5367	5368	NOM	PER	the duke
+63	5372	5373	PROP	LOC	Uz Avalun
+64	5375	5377	PROP	LOC	der Feinen land
+65	5380	5380	PROP	GPE	Avalun
+134	5382	5383	PROP	PER	the Fays
+-1	5382	5385	NOM	PER	the Fays ' countrie
+-1	5393	5395	NOM	PER	a gentle goddess
+166	5403	5403	PROP	PER	Isotte
+66	5405	5405	PROP	GPE	Blanscheflur
+-1	5407	5411	NOM	PER	the hunter who sees Isotte
+166	5411	5411	PROP	PER	Isotte
+0	5415	5415	PRON	PER	I
+-1	5423	5423	PRON	PER	she
+-1	5434	5434	PRON	PER	She
+-1	5438	5439	NOM	PER	a Fay
+0	5451	5451	PRON	PER	I
+-1	5472	5472	NOM	LOC	earth
+-1	5478	5478	PRON	PER	Our
+-1	5478	5479	NOM	PER	Our subject
+-1	5490	5499	NOM	PER	the different classes of beings to which the name Fairy
+-1	5507	5511	NOM	PER	beings of the human race
+-1	5522	5522	NOM	PER	men
+-1	5525	5525	PRON	PER	we
+-1	5528	5528	NOM	PER	Fays
+-1	5531	5533	NOM	PER	Fairies of romance
+-1	5538	5544	NOM	PER	those little beings of the popular creeds
+-1	5548	5548	PRON	PER	we
+-1	5559	5562	NOM	PER	dwarfs of northern mythology
+-1	5566	5566	PRON	PER	we
+167	5569	5569	PROP	PER	Elves
+-1	5571	5572	NOM	PER	popular Fairies
+-1	5580	5580	PRON	PER	our
+-1	5600	5601	NOM	PER	these beings
+-1	5603	5604	NOM	PER	the offspring
+-1	5612	5612	PRON	PER	we
+-1	5645	5645	PRON	PER	we
+-1	5648	5651	NOM	PER	the botanist or chemist
+-1	5663	5664	NOM	PER	one another
+-1	5683	5683	PRON	PER	we
+-1	5687	5687	PRON	PER	our
+-1	5691	5691	PRON	PER	we
+-1	5697	5697	PRON	PER	our
+-1	5709	5709	PRON	PER	we
+-1	5712	5724	NOM	PER	all these beings once formed parts of ancient and exploded systems of religion
+-1	5735	5736	NOM	PER	the peasantry
+-1	5738	5738	PRON	PER	their
+-1	5744	5744	PRON	PER	We
+-1	5750	5753	NOM	PER	the Fairies of romance
+-1	5757	5757	PRON	PER	they
+-1	5764	5764	PRON	PER	their
+-1	5772	5772	PRON	PER	their
+-1	5776	5779	NOM	PER	the Peries of Persia
+67	5779	5779	PROP	GPE	Persia
+-1	5781	5781	PRON	PER	we
+-1	5785	5786	NOM	GPE	that country
+-1	5788	5788	PRON	PER	We
+-1	5792	5792	PRON	PER	our
+68	5795	5795	PROP	GPE	Arabia
+-1	5798	5798	PRON	PER	we
+-1	5801	5807	NOM	LOC	the middle - age romance of Europe
+1	5807	5807	PROP	GPE	Europe
+-1	5810	5816	NOM	LOC	the gorgeous realms of Fairy - land
+69	5825	5827	PROP	LOC	the Faerie Queene
+-1	5831	5832	NOM	LOC	the mountains
+-1	5831	5837	NOM	LOC	the mountains and forests of the North
+-1	5836	5837	NOM	LOC	the North
+-1	5845	5853	NOM	PER	the light - hearted , night - tripping elves

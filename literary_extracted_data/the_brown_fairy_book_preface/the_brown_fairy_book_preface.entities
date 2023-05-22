@@ -1,0 +1,96 @@
+COREF	start_token	end_token	prop	cat	text
+10	8	9	PROP	PER	Andrew Lang
+11	12	14	PROP	PER	Diana Scott Lang
+-1	24	28	NOM	LOC	all quarters of the world
+-1	27	28	NOM	LOC	the world
+-1	41	43	NOM	PER	the Bad One
+-1	48	50	NOM	PER	Red Indian grandmothers
+-1	52	59	NOM	PER	Red Indian children who never go to school
+-1	59	59	NOM	FAC	school
+12	68	69	PROP	PER	The Bunyip
+-1	74	78	NOM	PER	even more uneducated little ones
+0	92	92	PROP	GPE	Australia
+-1	94	94	PRON	PER	You
+-1	99	103	NOM	PER	these merry little black fellows
+-1	105	105	PRON	PER	their
+-1	111	115	NOM	GPE	Northern Races of Central Australia
+1	114	115	PROP	GPE	Central Australia
+13	119	120	PROP	PER	Messrs. Spencer
+14	122	122	PROP	PER	Gillen
+-1	124	124	PRON	PER	They
+-1	147	147	PRON	PER	they
+-1	152	152	PRON	PER	they
+-1	157	158	NOM	PER	big boys
+-1	160	160	NOM	PER	girls
+-1	162	162	PRON	PER	they
+-1	177	177	PRON	PER	their
+-1	180	180	PRON	PER	their
+-1	180	181	NOM	PER	their parents
+-1	184	184	PRON	PER	I
+-1	186	186	PRON	PER	they
+-1	191	191	NOM	FAC	school
+-1	194	194	PRON	PER	they
+-1	196	196	PRON	PER	their
+-1	201	201	PRON	PER	their
+-1	211	212	NOM	PER	many boys
+-1	226	226	PRON	PER	they
+2	239	239	PROP	GPE	Koumongoe
+-1	244	251	NOM	PER	the Kaffirs in Africa , whose dear papas
+3	247	247	PROP	GPE	Africa
+0	259	259	PROP	GPE	Australia
+-1	278	284	NOM	FAC	houses like very big bee - hives
+-1	297	297	PRON	PER	our
+15	301	301	PROP	PER	Pivi
+16	303	303	PROP	PER	Kabo
+-1	309	334	NOM	PER	the brown people in the island of New Caledonia , where a boy is never allowed to speak to or even look at his own sisters
+-1	313	317	NOM	LOC	the island of New Caledonia
+4	316	317	PROP	GPE	New Caledonia
+-1	320	321	NOM	PER	a boy
+-1	332	332	PRON	PER	his
+-1	332	334	NOM	PER	his own sisters
+-1	336	336	NOM	PER	nobody
+-1	346	348	NOM	LOC	this remote island
+-1	363	364	NOM	PER	the natives
+-1	371	372	NOM	PER	each other
+-1	389	389	NOM	FAC	houses
+17	393	394	PROP	PER	the Rose
+18	397	398	PROP	PER	the Cypress
+5	405	405	PROP	GPE	Persia
+-1	408	412	NOM	PER	the people , of course
+-1	423	423	PRON	PER	you
+19	438	439	PROP	PER	The Fox
+-1	445	449	NOM	LOC	the very north of Europe
+6	449	449	PROP	GPE	Europe
+20	468	469	PROP	PER	The Lapps
+-1	471	486	NOM	PER	a people not fond of soap and water , and very much given to art magic
+7	493	493	PROP	GPE	India
+21	497	498	PROP	PER	Major Campbell
+22	506	506	PROP	PER	Hindoos
+23	512	515	PROP	PER	Wali Dad the Simple
+-1	522	539	NOM	PER	The King who would be Stronger than Fate , ’ but was not so clever as his daughter
+-1	538	538	PRON	PER	his
+-1	538	539	NOM	PER	his daughter
+8	542	542	PROP	GPE	Brazil
+9	545	546	PROP	GPE	South America
+-1	553	555	NOM	PER	the Mischievous Monkey
+-1	570	573	NOM	LOC	various parts of Europe
+6	573	573	PROP	GPE	Europe
+-1	581	582	NOM	PER	all people
+-1	597	598	NOM	PER	each other
+-1	600	600	PRON	PER	they
+-1	609	617	NOM	PER	children , who like the same sort of thing
+-1	620	620	PRON	PER	they
+24	686	687	PROP	PER	Mrs. Beveridge
+15	690	690	PROP	PER	Pivi
+16	692	692	PROP	PER	Kabo
+-1	697	698	NOM	PER	the Editor
+25	710	711	PROP	PER	Miss Blackley
+21	717	718	PROP	PER	Major Campbell
+26	727	728	PROP	PER	Mrs. Lang
+-1	734	734	PRON	PER	them
+-1	737	737	PRON	PER	they
+-1	741	745	NOM	PER	all sorts of outlandish natives
+-1	754	755	NOM	PER	white people
+-1	758	758	PRON	PER	them
+-1	764	764	PRON	PER	they
+-1	779	779	PRON	PER	your

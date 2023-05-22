@@ -1,0 +1,102 @@
+COREF	start_token	end_token	prop	cat	text
+0	14	14	PRON	PER	I
+-1	16	21	NOM	PER	the children of the British Isles
+1	19	21	PROP	LOC	the British Isles
+-1	34	41	NOM	FAC	The story store of Great Britain and Ireland
+2	38	39	PROP	LOC	Great Britain
+3	41	41	PROP	GPE	Ireland
+0	44	44	PRON	PER	I
+0	57	57	PRON	PER	me
+0	71	71	PRON	PER	My
+-1	76	84	NOM	LOC	the two folk - lore regions of these Isles
+-1	83	84	NOM	GPE	these Isles
+-1	89	93	NOM	LOC	The " English " region
+4	96	97	PROP	LOC	Lowland Scotland
+5	102	103	PROP	LOC	the Highland
+0	108	108	PRON	PER	I
+-1	134	136	NOM	GPE	the Celtic district
+-1	139	142	NOM	LOC	the whole of Ireland
+3	142	142	PROP	GPE	Ireland
+-1	144	150	NOM	LOC	the Gaelic - speaking part of Scotland
+6	150	150	PROP	GPE	Scotland
+-1	158	159	NOM	PER	the collector
+0	195	195	PRON	PER	my
+-1	203	204	NOM	PER	the Celts
+0	223	223	PRON	PER	I
+0	234	234	PRON	PER	I
+0	238	238	PRON	PER	myself
+0	246	246	PRON	PER	my
+0	248	248	PRON	PER	I
+7	258	258	PROP	GPE	Erin
+11	260	260	PROP	PER	Alba
+0	262	262	PRON	PER	I
+7	282	282	PROP	GPE	Erin
+12	288	291	PROP	PER	the Children of Lir
+0	308	308	PRON	PER	I
+13	318	322	PROP	PER	the great J. F. Campbell
+0	341	341	PRON	PER	my
+0	345	345	PRON	PER	I
+0	351	351	PRON	PER	I
+0	359	359	PRON	PER	I
+-1	366	366	NOM	PER	children
+0	368	368	PRON	PER	I
+0	386	386	PRON	PER	I
+-1	407	407	PRON	PER	mine
+0	414	414	PRON	PER	my
+-1	414	418	NOM	PER	my folk - lore friends
+0	420	420	PRON	PER	I
+0	456	456	PRON	PER	I
+0	458	458	PRON	PER	I
+-1	490	491	NOM	GPE	one district
+-1	495	498	NOM	LOC	the same linguistic area
+0	503	503	PRON	PER	my
+0	517	517	PRON	PER	I
+-1	543	552	NOM	PER	the various collectors from whom I have culled my treasures
+0	548	548	PRON	PER	I
+0	551	551	PRON	PER	my
+0	557	557	PRON	PER	I
+14	561	562	PROP	PER	Mr. Larminie
+15	564	566	PROP	PER	Mr. Eliot Stock
+16	575	575	PROP	PER	Morraha
+0	600	600	PRON	PER	my
+0	604	604	PRON	PER	I
+17	609	610	PROP	PER	Dr. Hyde
+-1	618	618	PRON	PER	his
+18	622	623	PROP	PER	Mr. Curtin
+0	631	631	PRON	PER	my
+-1	639	639	PRON	PER	him
+8	641	641	PROP	GPE	Connaught
+0	644	644	PRON	PER	my
+-1	644	645	NOM	PER	my colleague
+19	647	648	PROP	PER	Mr. Duncan
+0	653	653	PRON	PER	me
+0	663	663	PRON	PER	I
+20	667	669	PROP	PER	Mr. Alfred Nutt
+0	674	674	PRON	PER	my
+0	678	678	PRON	PER	my
+20	683	684	PROP	PER	Mr. Nutt
+-1	687	687	PRON	PER	his
+-1	697	697	PRON	PER	he
+-1	704	709	NOM	PER	others on Celtic folk - lore
+13	721	721	PROP	PER	Campbell
+0	726	726	PRON	PER	I
+0	744	744	PRON	PER	my
+-1	753	760	NOM	LOC	the " English " folk - lore district
+0	761	761	PRON	PER	I
+21	767	769	PROP	PER	the brothers Grimm
+9	772	772	PROP	GPE	Germany
+-1	787	789	NOM	LOC	the Celtic area
+0	790	790	PRON	PER	I
+-1	811	815	NOM	PER	a whole clan of Grimms
+-1	822	824	NOM	PER	those Celtic Grimms
+-1	827	827	NOM	PER	Celts
+-1	828	828	PRON	PER	themselves
+3	852	852	PROP	GPE	Ireland
+10	854	855	PROP	LOC	the Highlands
+0	857	857	PRON	PER	I
+-1	864	865	NOM	LOC	the land
+-1	882	882	NOM	PER	others
+-1	884	884	NOM	PER	Celts
+-1	885	885	PRON	PER	themselves
+-1	892	894	NOM	LOC	the promised land
+22	896	897	PROP	PER	JOSEPH JACOBS

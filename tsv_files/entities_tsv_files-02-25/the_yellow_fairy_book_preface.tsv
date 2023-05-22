@@ -1,0 +1,150 @@
+COREF	start_token	end_token	prop	cat	text
+-1	2	6	NOM	PER	The Yellow Fairy Book Author
+9	8	12	PROP	PER	Andrew Lang PREFACE The Editor
+-1	15	15	NOM	PER	children
+-1	19	19	PRON	PER	him
+-1	26	26	PRON	PER	We
+-1	45	45	NOM	PER	children
+-1	50	50	PRON	PER	they
+-1	58	58	PRON	PER	they
+-1	62	63	NOM	PER	the Editor
+-1	71	72	NOM	PER	other people
+-1	80	87	NOM	PER	one gentleman who seems to think that it
+-1	112	112	PRON	PER	He
+10	115	118	PROP	PER	Mr. G. Laurence Gomme
+-1	121	121	PRON	PER	he
+-1	125	132	NOM	ORG	a learned body called the Folk Lore Society
+-1	129	132	NOM	ORG	the Folk Lore Society
+-1	137	137	PRON	PER	he
+-1	139	139	PRON	PER	his
+-1	142	142	PRON	PER	his
+-1	142	143	NOM	PER	his subjects
+-1	147	148	NOM	PER	the Editor
+11	153	155	PROP	PER	Mr. Joseph Jacobs
+11	178	179	PROP	PER	Mr. Jacobs
+-1	183	184	NOM	PER	the Editor
+-1	187	187	PRON	PER	they
+-1	189	189	PRON	PER	their
+-1	189	190	NOM	PER	their president
+-1	193	193	PRON	PER	he
+-1	201	201	PRON	PER	them
+-1	219	219	PRON	PER	They
+-1	222	222	PRON	PER	they
+-1	232	232	PRON	PER	they
+-1	238	238	PRON	PER	themselves
+-1	240	240	PRON	PER	their
+-1	240	241	NOM	GPE	their country
+-1	248	251	NOM	PER	a jury of children
+-1	251	251	NOM	PER	children
+-1	257	257	PRON	PER	they
+-1	264	264	PRON	PER	they
+12	271	272	PROP	PER	Father William
+-1	277	277	PRON	PER	they
+-1	292	292	PRON	PER	You
+-1	295	295	PRON	PER	them
+13	297	298	PROP	PER	Mr. Nutt
+0	301	302	PROP	LOC	the Strand
+-1	313	316	NOM	PER	the Folk Lore Society
+-1	321	334	NOM	PER	the most clever , learned , and beautiful men and women of the country
+-1	333	334	NOM	GPE	the country
+1	345	346	PROP	GPE	Fairy Land
+-1	358	360	NOM	PER	country people tell
+-1	363	363	NOM	PER	savages
+14	366	367	PROP	PER	Little Sioux
+15	369	370	PROP	PER	little Crow
+2	372	374	PROP	LOC	Little frosty Eskimo
+-1	377	378	NOM	PER	These people
+-1	387	387	PRON	GPE	its
+-1	406	412	NOM	PER	persons who are neither savages nor rustics
+16	416	417	PROP	PER	Madame D’Aulnoy
+17	419	422	PROP	PER	Herr Hans Christian Andersen
+-1	424	427	NOM	ORG	The Folk Lore Society
+-1	430	431	NOM	PER	its president
+-1	435	435	PRON	PER	THEIR
+-1	455	455	PRON	PER	WE
+-1	471	471	PRON	PER	us
+18	481	482	PROP	PER	Mr. Ford
+-1	485	485	PRON	PER	we
+-1	500	500	NOM	PER	children
+19	519	520	PROP	PER	Professor Huxley
+-1	526	527	NOM	PER	The Editor
+-1	531	531	PRON	PER	himself
+-1	534	534	PRON	PER	he
+-1	536	545	NOM	PER	several people who have seen them — in the Highlands
+-1	541	541	PRON	PER	them
+3	544	545	PROP	LOC	the Highlands
+-1	549	549	PRON	PER	their
+-1	554	554	PRON	PER	you
+4	557	558	PROP	LOC	Nether Lochaber
+-1	562	564	NOM	LOC	the Fairy Hill
+-1	567	567	PRON	PER	you
+-1	572	572	PRON	PER	yourself
+-1	575	578	NOM	PER	grown - up people
+-1	583	583	PRON	PER	you
+-1	601	601	NOM	PER	people
+-1	604	604	PRON	PER	them
+-1	608	609	NOM	LOC	the world
+-1	611	613	NOM	PER	The ancient Greeks
+20	618	620	PROP	PER	the old Egyptians
+21	623	624	PROP	PER	the Hindoos
+22	627	629	PROP	PER	the Red Indians
+-1	639	640	NOM	PER	no fairies
+-1	643	646	NOM	PER	so many different peoples
+-1	652	652	PRON	PER	them
+23	654	659	PROP	PER	The Rev. Mr. Baring - Gould
+-1	664	664	PRON	PER	he
+-1	666	667	NOM	PER	a boy
+-1	673	677	NOM	LOC	the land of the Troubadours
+-1	676	677	NOM	PER	the Troubadours
+-1	683	684	NOM	PER	the Editor
+-1	690	690	NOM	PER	fairies
+-1	693	693	PRON	PER	they
+-1	696	696	NOM	PER	anyone
+5	703	703	PROP	GPE	England
+-1	705	705	PRON	PER	they
+-1	713	713	NOM	PER	schoolmasters
+24	717	717	PROP	PER	Giants
+-1	719	719	PRON	PER	they
+25	725	726	PROP	PER	real Dwarfs
+-1	730	733	NOM	LOC	the forests of Africa
+6	733	733	PROP	GPE	Africa
+-1	747	747	NOM	PER	fairies
+26	757	757	PROP	PER	Napoleon
+7	759	759	PROP	GPE	Claverhouse
+27	761	762	PROP	PER	Julius Caesar
+28	765	767	PROP	PER	Joan of Arc
+-1	775	777	NOM	PER	A wise child
+-1	786	786	PRON	PER	he
+-1	791	797	NOM	PER	a member of the Folk Lore Society
+-1	794	797	NOM	PER	the Folk Lore Society
+-1	809	809	PRON	PER	him
+-1	819	819	PRON	PER	his
+-1	825	825	PRON	PER	he
+-1	831	831	PRON	PER	he
+29	847	848	PROP	PER	Red Indian
+-1	855	855	PRON	PER	They
+30	859	860	PROP	PER	Miss Cheape
+31	862	863	PROP	PER	Miss Alma
+32	866	868	PROP	PER	Miss Thyra Alleyne
+33	870	871	PROP	PER	Miss Sellar
+34	873	874	PROP	PER	Mr. Craigie
+-1	876	876	PRON	PER	he
+35	883	884	PROP	PER	Miss Blackley
+36	886	887	PROP	PER	Mrs. Dent
+37	890	891	PROP	PER	Mrs. Lang
+-1	905	909	NOM	ORG	the Smithsonian Bureau of Ethnology
+8	912	912	PROP	GPE	America
+18	914	915	PROP	PER	Mr. Ford
+-1	925	925	NOM	PER	children
+-1	941	941	PRON	PER	their
+-1	944	945	NOM	PER	The Editor
+-1	956	956	PRON	PER	them
+-1	959	959	PRON	PER	they
+-1	961	961	PRON	PER	their
+38	973	976	PROP	PER	the late Mr. Thackeray
+-1	981	982	NOM	PER	the author
+-1	986	986	PRON	PER	he
+-1	991	992	NOM	PER	every child
+-1	991	994	NOM	FAC	every child ’s library
+-1	997	997	NOM	PER	parents
+39	1017	1018	PROP	PER	A. LANG

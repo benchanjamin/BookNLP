@@ -1,0 +1,124 @@
+COREF	start_token	end_token	prop	cat	text
+14	8	9	PROP	PER	Andrew Lang
+-1	11	16	NOM	PER	The children who read fairy books
+-1	24	24	PRON	PER	them
+-1	32	33	NOM	PER	the parents
+-1	35	35	NOM	PER	aunts
+-1	37	37	NOM	PER	uncles
+-1	40	40	NOM	PER	cousins
+-1	47	47	PRON	PER	their
+-1	47	48	NOM	PER	their daughters
+-1	50	50	NOM	PER	nieces
+-1	53	53	NOM	PER	cousins
+-1	69	70	NOM	PER	an author
+-1	77	77	PRON	PER	his
+-1	82	82	PRON	PER	he
+-1	87	87	PRON	PER	his
+-1	94	94	PRON	PER	his
+-1	136	137	NOM	PER	the author
+-1	143	143	PRON	PER	his
+-1	147	147	PRON	PER	he
+-1	150	150	PRON	PER	his
+-1	156	156	PRON	PER	he
+-1	163	163	PRON	PER	he
+-1	186	186	NOM	PER	nobody
+-1	190	191	NOM	PER	other authors
+-1	194	194	NOM	PER	critics
+-1	199	199	PRON	PER	they
+-1	208	208	PRON	PER	them
+-1	231	231	NOM	PER	authors
+-1	239	239	PRON	PER	they
+-1	249	249	PRON	PER	their
+-1	253	253	PRON	PER	their
+-1	257	257	NOM	PER	nobody
+-1	265	265	PRON	PER	himself
+-1	267	268	NOM	PER	the author
+-1	271	271	PRON	PER	he
+-1	279	279	PRON	PER	he
+-1	285	285	PRON	PER	he
+-1	288	288	PRON	PER	his
+-1	303	304	NOM	PER	the Editor
+-1	307	307	PRON	PER	he
+-1	315	315	PRON	PER	his
+-1	328	328	NOM	PER	grannies
+-1	330	330	NOM	PER	grandchildren
+-1	332	333	NOM	GPE	many countries
+-1	391	391	NOM	PER	children
+-1	411	412	NOM	PER	the characters
+-1	414	415	NOM	PER	each other
+-1	423	423	PRON	PER	themselves
+-1	426	426	NOM	PER	children
+-1	429	431	NOM	PER	some older people
+-1	434	434	PRON	PER	them
+-1	490	490	PRON	PER	they
+-1	506	510	NOM	PER	the old story - tellers
+15	517	517	PROP	PER	Homer
+-1	527	529	NOM	PER	the cunning hero
+16	540	540	PROP	PER	Odysseus
+17	542	543	PROP	PER	Brer Rabbit
+-1	549	552	NOM	PER	the story - teller
+18	563	564	PROP	PER	tiny Jack
+-1	577	578	NOM	GPE	no country
+-1	602	602	NOM	PER	children
+-1	634	636	NOM	PER	the remotest people
+-1	640	641	NOM	PER	each other
+-1	651	651	PRON	PER	they
+-1	657	658	NOM	PER	conquering races
+-1	663	667	NOM	PER	conquering races from vanquished peoples
+-1	666	667	NOM	PER	vanquished peoples
+-1	669	669	NOM	PER	Slaves
+-1	673	673	NOM	FAC	home
+-1	675	675	PRON	PER	their
+-1	678	678	PRON	PER	them
+-1	682	682	NOM	PER	Wanderers
+-1	684	684	NOM	PER	travellers
+-1	686	687	NOM	PER	shipwrecked men
+-1	689	689	NOM	PER	merchants
+-1	692	692	NOM	PER	wives
+-1	695	696	NOM	PER	alien tribes
+-1	702	702	NOM	PER	gipsies
+-1	704	704	NOM	PER	Jews
+-1	707	707	PRON	PER	them
+-1	710	723	NOM	PER	Roman soldiers of many different races , moved here and there about the Empire
+-1	722	723	NOM	GPE	the Empire
+-1	728	728	PRON	PER	them
+-1	734	734	NOM	PER	men
+-1	737	737	NOM	PER	wanderers
+-1	741	741	PRON	PER	they
+-1	743	743	PRON	PER	their
+-1	746	746	PRON	PER	them
+0	756	756	PROP	GPE	Persia
+1	761	761	PROP	GPE	Greece
+-1	763	765	NOM	PER	an Egyptian woman
+2	767	767	PROP	GPE	Phoenicia
+3	772	772	PROP	GPE	Egypt
+-1	774	776	NOM	PER	a Scandinavian child
+4	784	785	PROP	LOC	the Baltic
+5	787	788	PROP	LOC	the Adriatic
+-1	791	794	NOM	PER	a Sidonian to Ophir
+19	797	797	PROP	PER	Ophir
+20	803	804	PROP	PER	the Portuguese
+-1	808	808	PRON	PER	their
+6	811	812	PROP	LOC	South Africa
+7	816	816	PROP	GPE	Asia
+3	825	825	PROP	GPE	Egypt
+-1	831	833	NOM	PER	the Buddhist missionaries
+-1	837	840	NOM	PER	the earliest French voyageurs
+-1	842	842	PRON	PER	them
+21	844	846	PROP	PER	the Red Indians
+-1	868	869	NOM	PER	early societies
+-1	886	889	NOM	PER	the natives of Rhodesia
+8	889	889	PROP	GPE	Rhodesia
+22	893	894	PROP	PER	Mr. Fairbridge
+23	907	908	PROP	PER	Mr. Cripps
+-1	910	913	NOM	LOC	another part of Africa
+9	913	913	PROP	GPE	Africa
+10	915	915	PROP	GPE	Uganda
+11	920	921	PROP	LOC	the Punjaub
+24	927	928	PROP	PER	Major Campbell
+-1	953	955	NOM	ORG	the Anthropological Institute
+25	971	972	PROP	PER	Mrs. Pedersen
+12	978	978	PROP	GPE	Jylland
+26	982	985	PROP	PER	Mr. Ewald Tang Kristensen
+13	989	989	PROP	GPE	Jutland
+27	1004	1005	PROP	PER	Mrs. Lang

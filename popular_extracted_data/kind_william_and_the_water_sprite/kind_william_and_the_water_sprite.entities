@@ -1,0 +1,263 @@
+COREF	start_token	end_token	prop	cat	text
+1	1	1	PROP	PER	WILLIAM
+2	3	5	PROP	PER	THE WATER SPRITE
+-1	10	22	NOM	PER	a poor weaver , whose wife died a few years after their marriage
+-1	21	21	PRON	PER	their
+-1	24	24	PRON	PER	He
+-1	29	30	NOM	LOC	the world
+-1	33	33	PRON	PER	their
+-1	33	34	NOM	PER	their child
+-1	38	44	NOM	PER	a very quick and industrious little lad
+-1	56	56	PRON	PER	he
+1	61	62	PROP	PER	Kind William
+-1	65	65	PRON	PER	his
+-1	68	68	PRON	PER	his
+-1	68	69	NOM	PER	his father
+-1	71	71	PRON	PER	him
+1	84	84	PROP	PER	William
+-1	86	86	PRON	PER	himself
+-1	88	93	NOM	LOC	a shallow part of the river
+-1	92	93	NOM	LOC	the river
+-1	104	104	PRON	PER	he
+-1	106	112	NOM	LOC	a quiet pool dammed in by stones
+-1	116	116	PRON	PER	he
+-1	136	136	PRON	PER	he
+-1	144	144	PRON	PER	he
+-1	158	158	PRON	PER	he
+-1	165	165	PRON	PER	they
+-1	182	182	PRON	PER	He
+-1	186	186	PRON	PER	them
+-1	196	196	PRON	PER	him
+-1	205	205	PRON	PER	my
+-1	205	207	NOM	PER	my little sisters
+-1	211	211	PRON	PER	my
+-1	211	213	NOM	PER	my little sisters
+1	216	217	PROP	PER	Kind William
+-1	232	233	NOM	LOC	the stream
+-1	235	237	NOM	PER	a young girl
+-1	241	241	PRON	PER	She
+-1	271	271	PRON	PER	She
+-1	280	280	PRON	PER	her
+-1	283	283	PRON	PER	she
+-1	296	297	NOM	LOC	the stream
+-1	302	302	PRON	PER	you
+-1	304	304	PRON	PER	my
+-1	304	306	NOM	PER	my little lass
+1	310	311	PROP	PER	Kind William
+-1	314	315	NOM	PER	the maid
+-1	323	323	PRON	PER	her
+-1	331	331	PRON	PER	my
+-1	331	333	NOM	PER	my little sisters
+-1	337	337	PRON	PER	my
+-1	337	339	NOM	PER	my little sisters
+-1	363	363	PRON	PER	your
+-1	367	367	PRON	PER	I
+-1	370	370	PRON	PER	you
+-1	377	381	NOM	PER	the good - natured child
+-1	386	386	PRON	PER	you
+-1	390	390	PRON	PER	you
+-1	394	394	PRON	PER	me
+-1	403	404	NOM	PER	the maid
+-1	410	410	PRON	PER	she
+-1	418	418	PRON	PER	he
+-1	425	426	NOM	LOC	the river
+1	431	432	PROP	PER	Kind William
+-1	439	439	PRON	PER	his
+-1	445	445	PRON	PER	he
+-1	448	448	PRON	PER	her
+-1	457	458	NOM	LOC	the pool
+-1	475	476	NOM	PER	The girl
+-1	481	481	PRON	PER	her
+-1	488	488	PRON	PER	you
+1	493	494	PROP	PER	Kind William
+-1	498	498	PRON	PER	she
+-1	507	507	PRON	PER	you
+-1	514	514	PRON	PER	you
+1	525	526	PROP	PER	Kind William
+-1	532	532	PRON	PER	his
+-1	535	536	NOM	PER	The maid
+-1	545	545	PRON	PER	her
+-1	553	553	PRON	PER	she
+-1	565	565	PRON	PER	her
+-1	568	568	PRON	PER	She
+-1	600	600	PRON	PER	her
+1	604	605	PROP	PER	Kind William
+-1	614	614	PRON	PER	her
+-1	616	616	PRON	PER	he
+-1	626	626	PRON	PER	he
+-1	631	631	PRON	PER	she
+-1	633	636	NOM	PER	no true village maid
+-1	639	641	NOM	PER	a water sprite
+-1	644	644	PRON	PER	he
+-1	647	647	PRON	PER	himself
+-1	650	650	NOM	FAC	home
+-1	657	657	PRON	PER	she
+-1	667	667	PRON	PER	you
+-1	669	669	PRON	PER	me
+-1	676	676	PRON	PER	I
+1	685	686	PROP	PER	Kind William
+-1	692	692	PRON	PER	she
+-1	704	704	PRON	PER	you
+-1	719	719	PRON	PER	your
+-1	725	725	NOM	PER	One
+1	733	734	PROP	PER	Kind William
+-1	737	737	PRON	PER	I
+-1	750	750	PRON	PER	you
+-1	756	757	NOM	LOC	the river
+-1	760	761	NOM	LOC	the river
+-1	763	763	PRON	PER	your
+-1	773	774	NOM	LOC	this pool
+-1	779	779	NOM	PER	One
+1	789	790	PROP	PER	Kind William
+-1	793	793	PRON	PER	I
+-1	802	802	PRON	PER	you
+-1	807	807	PRON	PER	you
+-1	825	825	PRON	PER	my
+-1	825	826	NOM	PER	my child
+-1	830	830	PRON	PER	me
+-1	831	831	PRON	PER	your
+-1	836	836	PRON	PER	I
+-1	840	840	PRON	PER	you
+1	851	852	PROP	PER	Kind William
+-1	861	861	PRON	PER	he
+-1	877	877	PRON	PER	his
+-1	891	892	NOM	PER	the maiden
+-1	911	911	PRON	PER	him
+-1	918	918	PRON	PER	she
+-1	922	922	PRON	PER	You
+-1	926	926	PRON	PER	I
+-1	932	932	PRON	PER	my
+-1	932	934	NOM	PER	my pretty boy
+-1	939	939	PRON	PER	me
+-1	944	944	PRON	PER	you
+-1	949	949	PRON	PER	I
+-1	953	954	NOM	PER	the miller
+-1	953	956	NOM	PER	the miller 's lass
+1	960	961	PROP	PER	Kind William
+-1	966	966	PRON	PER	she
+-1	968	968	PRON	PER	his
+-1	968	970	NOM	PER	his little sweetheart
+-1	974	974	PRON	PER	he
+-1	978	980	NOM	PER	the water witch
+-1	983	983	PRON	PER	him
+-1	986	986	PRON	PER	him
+-1	990	990	PRON	PER	his
+-1	992	992	PRON	PER	she
+1	1000	1001	PROP	PER	Kind William
+-1	1012	1013	NOM	LOC	the river
+-1	1017	1018	NOM	LOC	the hills
+-1	1024	1024	PRON	PER	his
+-1	1038	1038	PRON	PER	my
+-1	1043	1045	NOM	PER	the water sprite
+-1	1049	1049	PRON	PER	she
+-1	1053	1053	PRON	PER	her
+-1	1057	1057	PRON	PER	her
+-1	1074	1074	PRON	PER	she
+1	1100	1101	PROP	PER	Kind William
+-1	1104	1105	NOM	LOC	the river
+-1	1115	1115	PRON	PER	he
+-1	1125	1125	PRON	PER	his
+-1	1129	1129	PRON	PER	he
+-1	1135	1135	PRON	PER	he
+-1	1151	1151	PRON	PER	he
+-1	1154	1158	NOM	PER	the yellow - haired maiden
+1	1162	1163	PROP	PER	Kind William
+-1	1172	1172	PRON	PER	he
+-1	1174	1174	PRON	PER	his
+-1	1177	1177	PRON	PER	He
+-1	1181	1181	PRON	PER	his
+-1	1184	1184	PRON	PER	He
+-1	1207	1208	NOM	LOC	the river
+-1	1211	1212	NOM	LOC	the river
+-1	1213	1213	PRON	PER	he
+-1	1219	1221	NOM	LOC	the haunted pool
+-1	1233	1233	PRON	PER	his
+1	1242	1243	PROP	PER	Kind William
+1	1245	1246	PROP	PER	Kind William
+-1	1249	1249	PRON	PER	He
+-1	1259	1260	NOM	PER	the miller
+-1	1259	1262	NOM	PER	the miller 's daughter
+-1	1267	1267	PRON	PER	her
+-1	1273	1273	PRON	PER	her
+-1	1273	1275	NOM	PER	her old playmate
+-1	1278	1279	NOM	PER	the miller
+-1	1296	1296	PRON	PER	him
+-1	1299	1299	PRON	PER	he
+-1	1304	1304	PRON	PER	they
+-1	1313	1314	NOM	PER	the weaver
+-1	1316	1316	PRON	PER	his
+-1	1316	1317	NOM	PER	his son
+-1	1320	1321	NOM	PER	the lovers
+-1	1329	1330	NOM	PER	each other
+1	1334	1335	PROP	PER	Kind William
+-1	1338	1341	NOM	LOC	the river - side
+-1	1343	1343	PRON	PER	his
+-1	1349	1349	PRON	PER	his
+-1	1356	1356	PRON	PER	he
+-1	1368	1368	PRON	PER	his
+-1	1368	1370	NOM	PER	his old playmate
+-1	1381	1382	NOM	PER	prudent bodies
+-1	1384	1384	NOM	FAC	home
+-1	1386	1390	NOM	LOC	the neighbourhood of fairy rings
+-1	1392	1395	NOM	LOC	sprite - haunted streams
+1	1402	1403	PROP	PER	Kind William
+-1	1408	1408	PRON	PER	his
+-1	1416	1416	PRON	PER	him
+1	1438	1439	PROP	PER	Kind William
+-1	1443	1443	PRON	PER	he
+-1	1450	1450	PRON	PER	he
+-1	1469	1469	PRON	PER	he
+-1	1471	1471	NOM	FAC	home
+-1	1475	1475	PRON	PER	him
+-1	1478	1478	PRON	PER	he
+-1	1480	1481	NOM	FAC	the house
+-1	1482	1482	PRON	PER	he
+-1	1493	1493	PRON	PER	his
+-1	1500	1502	NOM	PER	the old weaver
+-1	1518	1518	PRON	PER	he
+-1	1527	1527	PRON	PER	He
+-1	1543	1543	PRON	PER	his
+-1	1543	1544	NOM	PER	his son
+-1	1568	1568	PRON	PER	my
+-1	1568	1569	NOM	PER	my son
+-1	1573	1575	NOM	PER	the old man
+-1	1584	1584	PRON	PER	you
+1	1592	1593	PROP	PER	Kind William
+-1	1635	1636	NOM	PER	the weaver
+-1	1652	1652	PRON	PER	me
+1	1656	1657	PROP	PER	Kind William
+-1	1676	1676	PRON	PER	my
+-1	1683	1683	PRON	PER	your
+-1	1695	1696	NOM	PER	the weaver
+1	1716	1717	PROP	PER	Kind William
+-1	1727	1727	NOM	PER	father
+-1	1730	1730	PRON	PER	us
+-1	1739	1740	NOM	VEH	the shuttle
+-1	1751	1751	PRON	PER	he
+-1	1756	1756	PRON	PER	He
+-1	1758	1759	NOM	VEH	the shuttle
+-1	1783	1784	NOM	PER	the Weavers
+-1	1807	1809	NOM	PER	a town dame
+-1	1811	1814	NOM	PER	a fine country lady
+-1	1840	1841	NOM	PER	the weaver
+-1	1843	1843	PRON	PER	his
+-1	1843	1844	NOM	PER	his son
+-1	1851	1852	NOM	PER	the miller
+-1	1859	1859	PRON	PER	he
+-1	1866	1868	NOM	PER	an old boy
+-1	1875	1875	PRON	PER	his
+-1	1875	1877	NOM	PER	his dear daughter
+-1	1879	1885	NOM	PER	the wealthy manufacturer of the golden cloth
+1	1893	1894	PROP	PER	Kind William
+-1	1896	1896	PRON	PER	his
+-1	1896	1897	NOM	PER	his sweetheart
+-1	1909	1909	PRON	PER	he
+-1	1911	1913	NOM	PER	the old miller
+-1	1917	1917	PRON	PER	his
+-1	1928	1928	PRON	PER	he
+-1	1930	1930	PRON	PER	his
+-1	1930	1931	NOM	PER	his wife
+-1	1938	1938	PRON	PER	their
+-1	1950	1950	PRON	PER	you
+-1	1953	1954	NOM	PER	somebody else
+0	1957	1957	PRON	PER	I

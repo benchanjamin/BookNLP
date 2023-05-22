@@ -1,0 +1,377 @@
+start_token	end_token	supersense_category	text
+7	9	noun.person	JOSEPH JACOBS Preface
+13	13	noun.location	West
+19	19	noun.object	world
+22	22	verb.motion	go
+24	24	noun.time	year
+28	28	noun.location	East
+33	33	noun.phenomenon	rain
+36	36	noun.attribute	turf
+38	38	noun.location	Gaeldom
+41	41	verb.possession	seek
+44	44	noun.object	sun
+47	47	noun.substance	soil
+50	50	noun.location	Hindoo
+54	56	noun.location	Land of Ire
+59	59	noun.cognition	belief
+61	61	noun.person	fairies
+63	63	noun.person	gnomes
+65	65	noun.animal	ogres
+67	67	noun.person	monsters
+68	68	verb.stative	is
+75	77	noun.location	Land of Ind
+80	80	verb.change	flourishes
+84	84	noun.attribute	vigour
+86	86	noun.cognition	animism
+88	88	noun.location	Soils
+91	91	noun.cognition	characters
+92	92	verb.stative	differ
+95	96	noun.communication	fairy tales
+97	97	verb.stative	are
+101	101	noun.cognition	plot
+103	103	noun.event	incidents
+108	108	noun.act	treatment
+111	111	noun.attribute	majority
+114	114	noun.communication	tales
+117	117	noun.communication	volume
+123	123	noun.object	West
+126	126	noun.cognition	form
+132	132	noun.state	problem
+133	133	verb.stative	arises
+136	137	verb.communication	account for
+140	140	noun.state	existence
+143	143	noun.location	West
+145	145	noun.location	East
+150	150	noun.person	Benfey
+152	152	noun.location	Germany
+154	155	noun.person	M. Cosquin
+157	157	noun.location	France
+160	161	noun.person	Mr. Clouston
+163	163	noun.location	England
+166	166	verb.communication	declared
+168	168	noun.location	India
+169	169	verb.stative	is
+171	171	noun.location	Home
+181	182	noun.communication	fairy tales
+190	190	noun.person	Crusaders
+194	194	noun.person	missionaries
+197	197	noun.person	Gipsies
+200	200	noun.person	Jews
+203	203	noun.person	traders
+206	206	noun.person	travellers
+209	209	noun.communication	question
+210	210	verb.stative	is
+214	214	noun.group	courts
+220	220	verb.communication	deal
+225	225	noun.person	advocate
+231	231	noun.communication	instructions
+232	232	verb.stative	go
+241	241	noun.location	limits
+244	244	verb.creation	hold
+246	246	noun.communication	brief
+248	248	noun.location	India
+254	254	noun.person	children
+256	256	noun.location	Europe
+257	257	verb.stative	have
+259	260	noun.communication	fairy stories
+268	268	verb.stative	form
+272	272	noun.quantity	third
+275	275	noun.artifact	whole
+280	280	noun.location	India
+286	286	noun.attribute	majority
+289	289	noun.communication	Drolls
+291	292	noun.communication	comic tales
+294	294	noun.communication	jingles
+297	297	verb.cognition	traced
+301	301	noun.cognition	difficulty
+306	307	noun.location	Indian peninsula
+311	311	verb.stative	is
+313	313	noun.cognition	evidence
+317	317	noun.act	transmission
+320	320	noun.act	means
+323	324	noun.quantity	considerable number
+326	326	noun.communication	drolls
+328	330	noun.communication	folk - tales
+332	332	noun.location	India
+335	335	noun.event	time
+338	338	noun.person	Crusaders
+341	341	noun.communication	collections
+344	344	noun.location	Europe
+347	347	noun.communication	titles
+350	350	noun.communication	Fables
+352	352	noun.person	Bidpai
+367	367	verb.stative	were
+372	373	noun.time	Middle Ages
+377	377	noun.group	contents
+378	378	verb.possession	passed
+389	389	noun.person	preachers
+405	405	noun.time	days
+408	408	verb.possession	contribute
+410	410	noun.quantity	quota
+424	424	noun.communication	incidents
+427	429	noun.communication	folk - tales
+432	432	verb.cognition	traced
+435	435	noun.location	source
+438	438	verb.stative	are
+440	440	noun.communication	indications
+445	445	noun.state	contact
+447	447	noun.location	Europe
+449	449	noun.location	India
+453	453	noun.state	case
+456	456	noun.group	branch
+459	459	noun.communication	folk
+461	461	noun.communication	tale
+478	478	verb.change	come
+481	481	noun.cognition	conclusion
+485	485	noun.attribute	number
+488	488	noun.communication	fables
+490	490	verb.stative	pass
+493	493	noun.communication	name
+497	497	noun.person	slave
+499	499	noun.person	Æsop
+504	504	noun.location	India
+510	510	noun.location	source
+514	514	noun.communication	tales
+516	516	verb.consumption	utilised
+519	519	noun.communication	Jatakas
+522	522	noun.time	Birth
+524	524	noun.communication	stories
+526	526	noun.person	Buddha
+529	529	noun.communication	Jatakas
+530	530	verb.stative	contain
+533	533	noun.Tops	quantity
+538	538	noun.communication	folk
+540	540	noun.communication	tales
+543	543	verb.stative	form
+546	546	noun.communication	collection
+548	548	noun.communication	folk
+550	550	noun.communication	tales
+553	553	noun.object	world
+561	561	verb.possession	collected
+566	566	noun.time	years
+571	571	noun.person	brothers
+572	572	verb.social	went
+575	575	noun.act	quest
+578	578	noun.person	folk
+582	582	noun.phenomenon	results
+586	586	noun.motive	reason
+589	589	verb.change	included
+592	592	noun.attribute	number
+597	597	noun.communication	volume
+604	604	noun.communication	tales
+607	607	verb.emotion	roused
+609	609	noun.feeling	laughter
+611	611	noun.feeling	wonder
+614	614	noun.person	Buddhists
+620	620	noun.time	years
+624	624	verb.creation	produce
+627	627	noun.phenomenon	effect
+630	630	noun.person	children
+633	633	noun.person	Jatakas
+635	635	verb.stative	been
+640	640	noun.person	translators
+643	643	verb.creation	render
+645	645	noun.attribute	vigour
+647	647	noun.cognition	point
+651	651	verb.emotion	rejoice
+653	653	verb.stative	being
+656	656	verb.creation	publish
+658	658	noun.communication	translation
+662	662	noun.communication	Jatakas
+665	665	verb.creation	done
+667	667	noun.communication	English
+670	670	noun.communication	volume
+672	676	noun.person	Mr. W. H. D. Rouse
+679	681	noun.group	Christ 's College
+683	683	noun.location	Cambridge
+690	690	verb.cognition	think
+693	693	verb.cognition	traced
+695	695	noun.location	source
+698	699	noun.person	Tar Baby
+700	700	noun.event	incident
+703	704	noun.person	Uncle Remus
+720	720	noun.artifact	volume
+723	723	noun.communication	edition
+725	725	noun.person	Caxton
+731	731	noun.location	London
+733	733	noun.person	Nutt
+740	741	noun.communication	fairy tales
+742	742	verb.stative	are
+746	746	noun.state	existence
+750	750	verb.stative	are
+754	756	noun.cognition	point of view
+769	769	noun.time	years
+772	773	noun.person	Miss Frere
+774	774	verb.change	began
+777	777	noun.group	collection
+780	780	noun.communication	folk
+782	782	noun.communication	tales
+789	789	noun.time	Days
+792	792	noun.location	London
+794	795	noun.person	John Murray
+800	800	noun.communication	edition
+806	806	noun.cognition	example
+809	809	verb.stative	followed
+811	812	noun.person	Miss Stokes
+815	816	noun.person	Mrs. Steel
+819	819	noun.person	Captain
+822	824	noun.person	Major ) Temple
+828	830	noun.person	Pandit Natesa Sastri
+833	834	noun.person	Mr. Knowles
+836	837	noun.person	Mr. Campbell
+845	845	verb.communication	published
+846	846	noun.communication	folk
+848	848	noun.communication	tales
+851	851	noun.communication	periodicals
+861	861	noun.communication	story
+863	863	noun.artifact	store
+866	866	noun.location	India
+870	870	verb.contact	dipped
+878	878	noun.time	century
+883	883	noun.attribute	range
+886	886	noun.location	country
+887	887	verb.stative	leaves
+888	888	noun.quantity	room
+889	889	verb.stative	for
+891	891	noun.attribute	number
+894	894	noun.person	workers
+896	896	noun.communication	collections
+903	903	noun.communication	materials
+905	905	verb.contact	collected
+906	906	verb.stative	go
+909	910	noun.quantity	large number
+914	914	noun.event	incidents
+917	917	noun.communication	folk
+919	919	noun.communication	tales
+922	922	verb.possession	found
+924	924	noun.location	India
+927	927	verb.motion	brought
+930	930	verb.body	born
+934	934	verb.possession	have
+937	937	noun.communication	criterion
+939	939	verb.cognition	judging
+950	950	noun.group	folk
+952	952	noun.location	India
+955	955	verb.cognition	traced
+960	960	noun.time	millennium
+963	963	noun.cognition	presumption
+964	964	verb.stative	is
+970	970	noun.communication	origin
+975	975	noun.communication	sources
+979	979	noun.communication	Jatakas
+990	990	noun.communication	collections
+994	994	verb.cognition	selected
+996	996	noun.communication	stories
+998	998	verb.communication	throw
+1003	1003	noun.cognition	origin
+1005	1005	noun.communication	Fable
+1009	1009	noun.communication	tales
+1020	1020	verb.emotion	attract
+1022	1022	noun.person	children
+1030	1030	verb.cognition	included
+1033	1033	noun.communication	stories
+1036	1036	noun.person	Grimm
+1037	1037	noun.cognition	types
+1043	1043	verb.communication	repeat
+1045	1045	noun.communication	contents
+1050	1050	noun.communication	volumes
+1053	1053	noun.communication	series
+1059	1059	noun.state	degree
+1060	1060	verb.change	weakened
+1062	1062	noun.cognition	case
+1064	1064	noun.location	India
+1066	1066	verb.communication	represented
+1069	1069	noun.communication	book
+1072	1072	noun.state	need
+1074	1074	verb.consumption	catering
+1080	1080	verb.social	restricted
+1082	1082	noun.act	selection
+1105	1105	noun.communication	stories
+1106	1106	verb.stative	existing
+1108	1108	noun.communication	Pali
+1110	1110	noun.communication	Sanskrit
+1113	1113	verb.possession	taken
+1115	1115	noun.communication	translations
+1120	1120	noun.communication	German
+1122	1122	noun.person	Benfey
+1128	1131	noun.person	Professor Rhys - Davids
+1137	1137	verb.communication	thank
+1139	1139	noun.communication	permission
+1141	1141	verb.consumption	use
+1143	1143	noun.communication	versions
+1146	1146	noun.communication	Jatakas
+1151	1151	verb.communication	enabled
+1153	1153	verb.change	make
+1155	1155	noun.communication	book
+1158	1158	noun.communication	collection
+1167	1167	noun.attribute	kindness
+1171	1171	noun.person	collectors
+1174	1174	noun.person	publishers
+1180	1180	verb.communication	thank
+1181	1182	noun.person	Miss Frere
+1186	1186	verb.cognition	made
+1188	1188	noun.cognition	exception
+1191	1191	noun.attribute	favour
+1194	1194	verb.possession	granted
+1197	1197	noun.act	use
+1201	1201	noun.communication	story
+1210	1210	noun.communication	myth
+1216	1216	noun.substance	Moon
+1220	1222	verb.motion	went out to
+1223	1223	noun.quantity	Dinner
+1226	1227	noun.person	Miss Stokes
+1233	1233	verb.possession	granting
+1236	1236	noun.act	use
+1239	1239	noun.cognition	specimens
+1245	1245	noun.communication	Tales
+1249	1250	noun.person	Major Temple
+1252	1252	verb.possession	owe
+1254	1254	noun.attribute	advantage
+1256	1256	verb.cognition	selecting
+1261	1261	noun.communication	Stories
+1264	1266	noun.person	Messrs. Kegan Paul
+1268	1268	noun.person	Trench
+1270	1270	noun.person	Co.
+1272	1272	verb.communication	allowed
+1275	1275	verb.consumption	use
+1276	1277	noun.person	Mr. Knowles
+1282	1282	noun.communication	tales
+1284	1284	noun.location	Kashmir
+1293	1296	noun.person	Messrs. W. H. Allen
+1304	1305	noun.person	Mrs. Kingscote
+1311	1311	noun.location	Sun
+1314	1317	noun.person	Mr. M. L. Dames
+1320	1320	verb.social	enabled
+1322	1322	verb.change	add
+1326	1326	noun.communication	story
+1328	1328	noun.artifact	store
+1330	1330	noun.location	India
+1332	1332	verb.possession	granting
+1335	1335	noun.act	use
+1341	1341	noun.communication	collection
+1344	1344	noun.communication	folk
+1346	1346	noun.communication	tales
+1352	1352	verb.communication	congratulate
+1358	1358	noun.state	operation
+1361	1361	noun.person	friend
+1362	1365	noun.person	Mr. J. D. Batten
+1367	1367	verb.possession	giving
+1371	1371	noun.communication	form
+1374	1374	noun.cognition	creations
+1377	1377	noun.group	folk
+1378	1378	noun.cognition	fancy
+1381	1381	noun.person	Hindoos
+1384	1384	verb.stative	is
+1387	1387	noun.cognition	thing
+1389	1389	verb.stative	embody
+1394	1394	verb.social	done
+1397	1397	noun.attribute	glamour
+1400	1400	noun.feeling	humour
+1408	1408	noun.person	Hindoo
+1411	1411	verb.stative	is
+1415	1415	noun.cognition	proof
+1417	1418	noun.communication	Fairy Tales
+1419	1419	verb.stative	are
+1425	1425	noun.location	Hindoo
+1428	1428	verb.stative	are
+1431	1432	noun.person	JOSEPH JACOBS

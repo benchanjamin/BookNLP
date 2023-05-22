@@ -1,0 +1,144 @@
+COREF	start_token	end_token	prop	cat	text
+15	8	9	PROP	PER	JOSEPH JACOBS
+0	16	16	PRON	PER	I
+0	24	24	PRON	PER	my
+-1	24	25	NOM	PER	my brother
+0	43	43	PRON	PER	my
+1	64	64	PROP	GPE	England
+0	67	67	PRON	PER	I
+0	130	130	PRON	PER	I
+0	147	147	PRON	PER	I
+0	162	162	PRON	PER	I
+0	168	168	PRON	PER	I
+2	175	177	PROP	LOC	the United States
+-1	181	183	NOM	GPE	the Lowland Scotch
+0	195	195	PRON	PER	I
+-1	201	201	PRON	PER	their
+0	206	206	PRON	PER	I
+0	252	252	PRON	PER	I
+-1	265	288	NOM	PER	critics who have written from the high and lofty standpoint of folk - lore , or from the lowlier vantage of " mere literature
+0	291	291	PRON	PER	I
+-1	297	297	PRON	PER	their
+-1	303	303	PRON	PER	them
+0	309	309	PRON	PER	My
+-1	309	313	NOM	PER	My folk - lore friends
+-1	319	319	PRON	PER	they
+0	321	321	PRON	PER	me
+0	330	330	PRON	PER	my
+0	333	333	PRON	PER	I
+0	361	361	PRON	PER	I
+-1	386	393	NOM	PER	the rigid orthodox in matters folk - lorical
+0	395	395	PRON	PER	My
+0	400	400	PRON	PER	I
+-1	409	409	PRON	PER	our
+-1	419	419	PRON	PER	our
+-1	419	420	NOM	PER	our children
+0	440	440	PRON	PER	I
+0	447	447	PRON	PER	my
+-1	447	449	NOM	PER	my friendly critics
+16	453	453	PROP	PER	Campbell
+-1	461	463	NOM	PER	the various narrators
+-1	465	465	PRON	PER	they
+3	467	469	PROP	LOC	the great J.F.
+0	473	473	PRON	PER	I
+-1	480	484	NOM	PER	any other story - teller
+0	488	488	PRON	PER	I
+-1	497	497	PRON	PER	she
+4	509	509	PROP	GPE	Devonshire
+5	511	511	PROP	GPE	Lancashire
+-1	512	512	NOM	PER	peasant
+-1	520	520	PRON	PER	thou
+-1	523	527	NOM	PER	orthodox brother folk - lorist
+17	535	535	PROP	PER	Asbjörnsen
+-1	539	539	PRON	PER	they
+-1	544	544	PRON	PER	I.
+6	551	552	PROP	LOC	Lowland Scotch
+-1	555	562	NOM	PER	a Saturday Reviewer , whose identity and fatherland
+-1	591	592	NOM	PER	the Reviewer
+0	600	600	PRON	PER	my
+-1	607	607	PRON	PER	him
+0	609	609	PRON	PER	I
+-1	613	613	PRON	PER	his
+0	617	617	PRON	PER	I
+-1	620	620	PRON	PER	him
+-1	630	634	NOM	LOC	different sides of the Border
+7	633	634	PROP	LOC	the Border
+8	640	640	PROP	GPE	Durham
+9	642	642	PROP	GPE	Cumberland
+18	648	649	PROP	PER	Dr. Murray
+6	653	654	PROP	LOC	Lowland Scotch
+-1	680	680	PRON	PER	we
+10	690	690	PROP	GPE	Henderson
+11	699	699	PROP	GPE	Chambers
+12	713	714	PROP	LOC	the Tweed
+0	720	720	PRON	PER	my
+-1	720	724	NOM	PER	my folk - lore friends
+0	726	726	PRON	PER	my
+-1	726	728	NOM	PER	my Saturday Reviewer
+0	731	731	PRON	PER	me
+-1	744	744	PRON	PER	They
+-1	756	756	PRON	PER	They
+0	762	762	PRON	PER	I
+0	781	781	PRON	PER	I
+0	792	792	PRON	PER	I
+0	814	814	PRON	PER	I
+0	836	836	PRON	PER	my
+-1	842	848	NOM	PER	the reader innocent of folk - lore
+0	857	857	PRON	PER	I
+13	889	891	PROP	LOC	the North Countrie
+-1	896	897	NOM	LOC	the Border
+0	913	913	PRON	PER	I
+0	921	921	PRON	PER	my
+-1	921	946	NOM	PER	my old nurse , who was not bred at Girton and who scorned at times the rules of Lindley Murray and the diction of smart society
+14	930	930	PROP	GPE	Girton
+19	939	940	PROP	PER	Lindley Murray
+-1	945	946	NOM	PER	smart society
+0	948	948	PRON	PER	I
+0	973	973	PRON	PER	my
+-1	973	975	NOM	PER	my old nurse
+-1	977	977	PRON	PER	we
+-1	991	992	NOM	PER	the people
+-1	1027	1028	NOM	PER	these archaisms
+-1	1031	1031	PRON	PER	them
+-1	1074	1075	NOM	PER	the children
+-1	1083	1096	NOM	PER	thous " and " werts " and all the artificialities of pseudo - Elizabethan
+-1	1098	1098	NOM	PER	Children
+-1	1109	1109	NOM	PER	daughter
+-1	1119	1119	PRON	PER	they
+-1	1125	1125	PRON	PER	their
+-1	1130	1130	PRON	PER	They
+0	1142	1142	PRON	PER	I
+0	1169	1169	PRON	PER	I
+0	1180	1180	PRON	PER	I
+0	1190	1190	PRON	PER	I
+20	1209	1212	PROP	PER	Jack the Giant Killer
+21	1214	1215	PROP	PER	Dick Whittington
+0	1254	1254	PRON	PER	I
+0	1287	1287	PRON	PER	my
+-1	1290	1293	NOM	PER	folk - lore friends
+22	1302	1303	PROP	PER	Mrs. Balfour
+-1	1310	1311	NOM	PER	the peasants
+0	1324	1324	PRON	PER	I
+0	1328	1328	PRON	PER	I
+-1	1339	1339	PRON	PER	her
+-1	1342	1342	PRON	PER	She
+0	1346	1346	PRON	PER	my
+-1	1349	1349	PRON	PER	her
+0	1352	1352	PRON	PER	me
+23	1362	1363	PROP	PER	Mrs. Gomme
+0	1370	1370	PRON	PER	my
+-1	1370	1371	NOM	PER	my creditors
+0	1375	1375	PRON	PER	I
+-1	1385	1386	NOM	PER	Other friends
+24	1393	1395	PROP	PER	Mr. Alfred Nutt
+-1	1419	1426	NOM	ORG	the American and English Folk - Lore Societies
+0	1427	1427	PRON	PER	I
+0	1432	1432	PRON	PER	my
+-1	1443	1443	PRON	PER	their
+0	1448	1448	PRON	PER	I
+25	1451	1452	PROP	PER	Mr. Batten
+0	1454	1454	PRON	PER	me
+0	1460	1460	PRON	PER	I
+-1	1462	1464	NOM	PER	other English children
+-1	1467	1467	PRON	PER	him
+15	1469	1470	PROP	PER	JOSEPH JACOBS

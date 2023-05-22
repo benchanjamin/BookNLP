@@ -1,0 +1,184 @@
+COREF	start_token	end_token	prop	cat	text
+-1	5	18	PROP	PER	ANDREW LANG WITH EIGHT COLOURED PLATES AND WITH NUMEROUS ILLUSTRATIONS BY H. J. FORD
+0	23	23	PRON	PER	my
+-1	23	24	NOM	PER	my friend
+11	28	30	PROP	PER	Mr. Charles Longman
+0	33	33	PRON	PER	me
+1	35	38	PROP	FAC	Le Cabinet des Fées
+0	68	68	PRON	PER	I
+-1	75	78	NOM	PER	an intimately domestic character
+12	87	88	PROP	PER	Mr. Micawber
+0	97	97	PRON	PER	my
+0	123	123	PRON	PER	I
+0	140	140	PRON	PER	I
+-1	161	161	NOM	PER	fairies
+-1	163	163	NOM	PER	witches
+-1	165	167	NOM	PER	genii or Djinn
+-1	169	169	NOM	PER	monsters
+-1	173	176	NOM	PER	wicked step - mothers
+-1	178	178	NOM	PER	princesses
+-1	180	182	NOM	PER	pretty or plain
+-1	184	184	NOM	PER	princes
+-1	189	189	NOM	PER	giants
+-1	191	191	NOM	PER	dwarfs
+-1	202	202	NOM	PER	children
+-1	218	218	PRON	PER	my
+-1	221	224	NOM	PER	Little Red Riding Hood
+-1	226	228	NOM	PER	The Sleeping Beauty
+2	245	245	PROP	GPE	Paris
+-1	249	250	NOM	PER	The author
+13	252	254	PROP	PER	Monsieur Charles Perrault
+-1	256	267	NOM	PER	a famous personage in a great perruque , who in his day
+-1	266	266	PRON	PER	his
+-1	274	274	PRON	PER	He
+-1	278	278	PRON	PER	he
+14	305	306	PROP	PER	Mr. Ford
+-1	322	332	NOM	PER	authors who play cricket , because of the force with which
+-1	333	333	PRON	PER	he
+13	336	336	PROP	PER	Perrault
+-1	343	351	NOM	PER	the nurse of his little boy used to tell
+-1	346	346	PRON	PER	his
+-1	346	348	NOM	PER	his little boy
+-1	354	354	PRON	PER	he
+-1	359	359	PRON	PER	his
+-1	383	383	PRON	PER	they
+15	398	400	PROP	PER	a Mr. Pote
+-1	402	405	NOM	PER	a bookseller at Eton
+3	405	405	PROP	GPE	Eton
+-1	408	411	NOM	PER	the younger Eton boys
+-1	417	417	PRON	PER	they
+16	435	443	PROP	PER	Messire François de Salignac de la Motte - Fénelon
+-1	445	463	NOM	PER	tutor of the children of France , Archbishop Duke of Cambrai , and Prince of the Holy Roman Empire
+-1	447	450	NOM	PER	the children of France
+4	450	450	PROP	GPE	France
+-1	452	455	NOM	PER	Archbishop Duke of Cambrai
+5	455	455	PROP	GPE	Cambrai
+-1	458	463	NOM	PER	Prince of the Holy Roman Empire
+-1	460	463	NOM	GPE	the Holy Roman Empire
+13	468	468	PROP	PER	Perrault
+-1	475	479	NOM	FAC	the court of Louis XIV
+17	478	479	PROP	PER	Louis XIV
+-1	486	486	PRON	PER	we
+-1	493	494	NOM	PER	Court ladies
+18	500	502	PROP	PER	Madame de Sévigné
+13	506	506	PROP	PER	Perrault
+18	512	513	PROP	PER	Madame d’Aulnoy
+-1	515	522	NOM	PER	a wandering lady of more wit than reputation
+-1	525	525	PRON	PER	her
+-1	526	526	PRON	PER	we
+19	528	528	PROP	PER	Beauty
+20	537	538	PROP	PER	Anthony Hamilton
+-1	540	540	PRON	PER	his
+21	560	560	PROP	PER	Ram
+-1	562	562	PRON	PER	my
+-1	562	563	NOM	PER	my friend
+-1	577	578	NOM	PER	the Ram
+22	592	593	PROP	PER	Monsieur Galland
+-1	595	595	NOM	PER	Nobody
+22	604	604	PROP	PER	Galland
+-1	606	606	PRON	PER	His
+23	629	630	PROP	PER	Alexandre Dumas
+-1	633	633	PRON	PER	his
+24	639	639	PROP	PER	Homer
+22	641	641	PROP	PER	Galland
+-1	652	652	NOM	PER	nobody
+-1	657	658	NOM	PER	the anthropologist
+6	683	684	PROP	LOC	the Sea
+-1	701	702	NOM	PER	industrious men
+-1	704	704	NOM	PER	women
+-1	720	721	NOM	PER	no child
+-1	723	726	NOM	PER	mature person of taste
+-1	748	748	PRON	PER	their
+-1	789	789	PRON	PER	her
+-1	803	804	NOM	FAC	the Court
+-1	807	810	NOM	FAC	the Court Fairy Tales
+-1	819	827	NOM	PER	learned men like the Grimms and Sir Walter Scott
+25	822	823	PROP	PER	the Grimms
+26	825	827	PROP	PER	Sir Walter Scott
+-1	838	840	NOM	PER	peasants and savages
+-1	842	843	NOM	LOC	the world
+-1	846	848	NOM	LOC	All the world
+27	861	861	PROP	PER	Cinderella
+27	872	872	PROP	PER	Cinderella
+28	874	875	PROP	PER	Miss Cox
+-1	889	889	NOM	PER	children
+-1	892	892	PRON	PER	them
+25	907	908	PROP	PER	the Grimms
+7	913	914	PROP	LOC	the Norse
+29	917	920	PROP	PER	Sir G. W. Dasent
+-1	924	929	NOM	PER	some foolish ‘ grown - ups
+30	939	940	PROP	PER	Miss Frere
+31	968	969	PROP	PER	Bishop Callaway
+-1	988	988	NOM	PER	parents
+-1	990	990	NOM	PER	uncles
+-1	1003	1003	NOM	PER	children
+0	1007	1007	PRON	PER	my
+-1	1010	1010	NOM	PER	children
+-1	1016	1016	PRON	PER	their
+-1	1021	1021	PRON	PER	their
+-1	1021	1022	NOM	PER	their friends
+-1	1024	1024	PRON	PER	them
+-1	1029	1029	PRON	PER	them
+-1	1036	1036	PRON	PER	They
+-1	1038	1038	PRON	PER	their
+-1	1044	1045	NOM	PER	the children
+-1	1051	1051	PRON	PER	their
+-1	1051	1053	NOM	PER	their dear parents
+-1	1055	1056	NOM	PER	the reverse
+-1	1067	1068	NOM	PER	the children
+-1	1074	1074	PRON	PER	They
+-1	1078	1078	PRON	PER	their
+-1	1085	1085	PRON	PER	their
+-1	1089	1089	NOM	PER	some
+32	1094	1095	PROP	PER	Buster Brown
+-1	1103	1106	NOM	PER	few!—are fond of poetry
+-1	1108	1115	NOM	PER	a still smaller number are fond of history
+-1	1118	1118	PRON	PER	We
+-1	1123	1124	NOM	PER	no fairies
+-1	1134	1136	NOM	PER	these little innocents
+0	1138	1138	PRON	PER	I
+-1	1146	1147	NOM	PER	no fairies
+0	1150	1150	PRON	PER	I
+-1	1168	1168	NOM	PER	children
+-1	1177	1177	PRON	PER	us
+-1	1183	1183	PRON	PER	they
+0	1187	1187	PRON	PER	I
+0	1197	1197	PRON	PER	I
+0	1207	1207	PRON	PER	me
+0	1216	1216	PRON	PER	I
+-1	1223	1223	NOM	PER	children
+0	1244	1244	PRON	PER	I
+0	1256	1256	PRON	PER	I
+-1	1265	1265	NOM	PER	somebody
+0	1267	1267	PRON	PER	me
+-1	1296	1296	PRON	PER	our
+-1	1308	1308	PRON	PER	we
+-1	1313	1313	NOM	PER	children
+-1	1317	1319	NOM	PER	grown - ups
+-1	1324	1327	NOM	PER	the old French writers
+-1	1329	1329	PRON	PER	their
+8	1344	1344	PROP	GPE	Europe
+-1	1350	1350	PRON	PER	we
+33	1355	1357	PROP	PER	Dr. Ignaz Künos
+34	1363	1364	PROP	PER	the Turks
+35	1367	1369	PROP	PER	Little King Loc
+36	1376	1378	PROP	PER	M. Anatole France
+-1	1383	1383	PRON	PER	he
+37	1387	1388	PROP	PER	Mrs. Lang
+9	1392	1392	PROP	GPE	L’Abeille
+38	1394	1395	PROP	PER	Major Campbell
+-1	1403	1403	PRON	PER	he
+-1	1406	1409	NOM	PER	the natives of India
+10	1409	1409	PROP	GPE	India
+-1	1430	1430	NOM	PER	children
+-1	1434	1434	PRON	PER	them
+37	1436	1437	PROP	PER	Mrs. Lang
+-1	1452	1453	NOM	PER	young readers
+39	1461	1464	PROP	PER	Mrs. Skovgaard - Pedersen
+0	1476	1476	PRON	PER	I
+40	1480	1481	PROP	PER	Monsieur Macler
+-1	1484	1484	PRON	PER	us
+-1	1489	1489	PRON	PER	his
+2	1493	1493	PROP	GPE	Paris
+41	1495	1496	PROP	PER	Ernest Leroux
+-1	1498	1498	NOM	PER	Editeur

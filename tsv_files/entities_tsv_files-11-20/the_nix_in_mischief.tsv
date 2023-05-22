@@ -1,0 +1,209 @@
+COREF	start_token	end_token	prop	cat	text
+1	0	1	PROP	PER	THE NIX
+-1	5	9	NOM	LOC	A certain lake in Germany
+0	9	9	PROP	GPE	Germany
+-1	12	39	NOM	FAC	the home of a Nix , who became tired of the monotony of life under water , and wished to go into the upper world and amuse himself
+-1	15	27	NOM	PER	a Nix , who became tired of the monotony of life under water
+-1	34	36	NOM	LOC	the upper world
+-1	39	39	PRON	PER	himself
+-1	41	41	PRON	PER	His
+-1	41	42	NOM	PER	His friends
+-1	44	44	NOM	PER	relations
+-1	49	49	PRON	PER	him
+-1	57	57	PRON	PER	they
+-1	63	63	PRON	PER	you
+-1	72	72	PRON	PER	you
+-1	74	75	NOM	LOC	the lake
+-1	77	80	NOM	PER	Few of our kindred
+-1	79	79	PRON	PER	our
+-1	85	87	NOM	PER	the human race
+-1	91	91	PRON	PER	their
+-1	99	99	PRON	PER	them
+-1	102	102	PRON	PER	you
+-1	109	109	PRON	PER	you
+-1	121	121	PRON	PER	they
+-1	125	125	PRON	PER	us
+-1	135	135	PRON	PER	you
+2	145	146	PROP	PER	the Nix--(as
+-1	167	167	PRON	PER	he
+-1	172	172	PRON	PER	I
+-1	179	179	PRON	PER	I
+-1	188	188	PRON	PER	I
+-1	192	192	PRON	PER	myself
+3	194	195	PROP	PER	The Dwarfs
+-1	197	197	NOM	PER	Kobolds
+-1	201	201	PRON	PER	they
+-1	204	204	NOM	PER	men
+-1	206	206	NOM	PER	women
+-1	209	209	PRON	PER	they
+-1	220	220	PRON	PER	I
+-1	223	223	PRON	PER	their
+-1	229	229	PRON	PER	my
+-1	242	242	PRON	PER	I
+-1	249	249	PRON	PER	I
+-1	252	253	NOM	LOC	a lake
+-1	256	257	NOM	LOC	a hill
+-1	260	260	PRON	PER	His
+-1	260	261	NOM	PER	His friends
+-1	263	263	PRON	PER	their
+1	271	272	PROP	PER	The Nix
+-1	278	278	PRON	PER	his
+-1	288	288	PRON	PER	he
+-1	291	293	NOM	PER	the human race
+-1	298	298	PRON	PER	he
+-1	303	303	PRON	PER	his
+-1	306	307	NOM	LOC	the lake
+-1	321	323	NOM	PER	a young girl
+-1	327	328	NOM	LOC	the lake
+-1	337	337	PRON	PER	her
+1	342	342	PROP	PER	Nix
+-1	349	349	PRON	PER	he
+-1	358	358	NOM	LOC	land
+-1	360	361	NOM	PER	The maid
+4	363	363	PROP	PER	Bess
+-1	365	366	NOM	PER	the washerwoman
+-1	365	368	NOM	PER	the washerwoman 's daughter
+-1	372	372	PRON	PER	she
+-1	382	382	PRON	PER	herself
+-1	391	391	PRON	PER	her
+-1	394	394	PRON	PER	she
+-1	402	402	NOM	FAC	home
+-1	408	408	PRON	PER	she
+-1	428	428	PRON	PER	her
+-1	435	435	PRON	PER	she
+-1	440	440	PRON	PER	her
+-1	459	459	NOM	PER	One
+4	471	471	PROP	PER	Bess
+-1	474	474	PRON	PER	she
+-1	500	500	PRON	PER	you
+-1	521	522	NOM	PER	the Nix
+-1	525	525	PRON	PER	himself
+-1	528	528	PRON	PER	he
+-1	533	533	PRON	PER	his
+-1	541	541	PRON	PER	his
+-1	548	548	PRON	PER	they
+1	554	554	PROP	PER	Nix
+-1	572	573	NOM	PER	the maiden
+-1	580	580	PRON	PER	her
+-1	591	591	PRON	PER	her
+-1	602	604	NOM	PER	the poor girl
+-1	608	608	PRON	PER	my
+-1	608	609	NOM	PER	my mother
+-1	612	612	PRON	PER	me
+-1	617	617	PRON	PER	my
+-1	622	622	PRON	PER	I
+-1	646	647	NOM	PER	the Nix
+-1	651	651	PRON	PER	I
+-1	653	653	NOM	FAC	home
+-1	657	657	PRON	PER	my
+-1	661	663	NOM	PER	no dwarfs pranks
+4	672	672	PROP	PER	Bess
+-1	678	678	PRON	PER	he
+-1	691	691	PRON	PER	She
+-1	696	697	NOM	LOC	the lake
+-1	704	704	PRON	PER	she
+-1	707	707	PRON	PER	I
+-1	731	731	PRON	PER	she
+-1	734	734	PRON	PER	her
+-1	739	740	NOM	PER	the Nix
+-1	742	742	PRON	PER	his
+-1	750	750	PRON	PER	they
+-1	753	753	PRON	PER	their
+-1	772	780	NOM	PER	a poor woman plagued with such a careless hussy
+-1	784	785	NOM	PER	the mother
+-1	787	787	PRON	PER	she
+4	796	796	PROP	PER	Bess
+-1	800	800	PRON	PER	she
+-1	802	802	PRON	PER	her
+-1	813	813	PRON	PER	she
+-1	822	823	NOM	PER	the mother
+4	843	843	PROP	PER	Bess
+-1	848	848	PRON	PER	her
+-1	848	849	NOM	PER	her mother
+-1	851	851	PRON	PER	her
+-1	853	853	PRON	PER	she
+-1	856	857	NOM	FAC	the house
+-1	864	864	PRON	PER	she
+-1	886	887	NOM	PER	the Nix
+-1	889	889	PRON	PER	she
+-1	898	898	PRON	PER	his
+-1	904	905	NOM	PER	the woman
+-1	907	907	PRON	PER	her
+-1	918	918	PRON	PER	he
+-1	926	926	PRON	PER	he
+-1	939	939	PRON	PER	he
+-1	953	954	NOM	PER	the mother
+-1	960	960	PRON	PER	you
+-1	968	968	PRON	PER	your
+-1	979	980	NOM	PER	the Nix
+-1	985	985	PRON	PER	you
+-1	988	988	PRON	PER	my
+-1	988	989	NOM	PER	my dear
+4	995	995	PROP	PER	Bess
+-1	999	999	PRON	PER	her
+-1	1003	1003	PRON	PER	he
+4	1023	1024	PROP	PER	Moreover Bess
+-1	1026	1030	NOM	PER	a strong , strapping lass
+-1	1039	1039	PRON	PER	her
+-1	1039	1040	NOM	PER	her mother
+-1	1048	1048	PRON	PER	she
+-1	1057	1057	PRON	PER	I
+-1	1062	1062	PRON	PER	I
+-1	1069	1069	PRON	PER	she
+-1	1086	1086	NOM	FAC	here
+-1	1090	1091	NOM	PER	the Nix
+-1	1093	1093	PRON	PER	himself
+-1	1117	1117	PRON	PER	my
+-1	1121	1123	NOM	PER	that old woman
+-1	1125	1125	PRON	PER	her
+-1	1125	1126	NOM	PER	her daughter
+-1	1128	1128	PRON	PER	my
+-1	1132	1132	PRON	PER	me
+-1	1138	1138	PRON	PER	I
+-1	1150	1150	PRON	PER	she
+-1	1169	1169	PRON	PER	I
+1	1189	1190	PROP	PER	the Nix
+-1	1194	1194	PRON	PER	he
+-1	1206	1206	PRON	PER	himself
+-1	1214	1215	NOM	PER	the woman
+-1	1224	1224	PRON	PER	she
+-1	1228	1228	PRON	PER	her
+-1	1228	1229	NOM	PER	her daughter
+-1	1237	1237	PRON	PER	you
+1	1257	1258	PROP	PER	the Nix
+-1	1262	1262	PRON	PER	they
+-1	1270	1270	PRON	PER	his
+-1	1289	1289	PRON	PER	he
+-1	1295	1295	PRON	PER	his
+4	1313	1313	PROP	PER	Bess
+-1	1322	1322	PRON	PER	she
+-1	1334	1335	NOM	FAC	the house
+-1	1355	1356	NOM	LOC	the lake
+-1	1378	1380	NOM	PER	the agonized Nix
+-1	1387	1387	PRON	PER	his
+-1	1401	1401	PRON	PER	your
+-1	1407	1407	PRON	PER	your
+-1	1409	1409	PRON	PER	you
+-1	1421	1422	NOM	PER	the woman
+-1	1426	1426	PRON	PER	her
+-1	1426	1427	NOM	PER	her daughter
+-1	1432	1432	PRON	PER	she
+-1	1453	1453	PRON	PER	she
+-1	1467	1477	NOM	PER	a little man with green teeth and a tall green hat
+-1	1486	1486	PRON	PER	his
+-1	1497	1497	PRON	PER	I
+-1	1500	1504	NOM	LOC	the water of this lake
+-1	1503	1504	NOM	LOC	this lake
+-1	1507	1507	PRON	PER	I
+-1	1516	1516	PRON	PER	he
+-1	1550	1551	NOM	PER	The woman
+-1	1573	1573	PRON	PER	her
+-1	1573	1574	NOM	FAC	her house
+-1	1579	1579	PRON	PER	she
+-1	1584	1584	PRON	PER	her
+-1	1584	1585	NOM	PER	her daughter
+-1	1587	1587	PRON	PER	she
+-1	1589	1589	PRON	PER	her
+4	1611	1611	PROP	PER	Bess
+-1	1627	1627	PRON	PER	she
+1	1634	1635	PROP	PER	the Nix

@@ -6,7 +6,8 @@ if __name__ == '__main__':
 
     # use glob to get all the csv files
     # in the folder
-    tsv_files = glob.glob("../../tsv_files/supersense_tsv_files/*.tsv")
+    # tsv_files = glob.glob("../../tsv_files/supersense_tsv_files-11-20/*.tsv")
+    tsv_files = glob.glob("../../tsv_files/supersense_tsv_files-02-25/*.tsv")
 
     # create a main DataFrame object
     appended_data = []
@@ -30,15 +31,6 @@ if __name__ == '__main__':
     # main_df = main_df.groupby(["text"], as_index=False)["total_count"].sum()
     main_df['total_count'] = main_df.groupby(["text"])['count'].transform('sum')
 
-
-    # main_df = main_df.groupby(["text", "book_title", "total_count"], as_index=False).agg({'text': 'first', 'book_title': 'first', 'count': 'sum', 'total_count': 'first'})
-    # main_df['count'] = main_df.groupby(['text'])['book_title'].transform('count')
-    # main_df.drop_duplicates()
-    # # main_df['total_count'] = main_df.groupby(["text"])['count'].transform('sum')
-    # # main_df.drop_duplicates()
-
-    # generalized_noun_location_word_count
-    # main_df = main_df.groupby(["text"])["count"].sum()
 
     print(main_df.head())
     main_df.to_csv("noun_location_word_count_across_all_books_supersense.csv")

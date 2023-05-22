@@ -1,0 +1,156 @@
+COREF	start_token	end_token	prop	cat	text
+17	7	8	PROP	PER	JOSEPH JACOBS
+-1	11	19	NOM	LOC	the extreme West of the Indo - European world
+-1	15	19	NOM	LOC	the Indo - European world
+-1	21	21	PRON	PER	we
+1	26	28	PROP	LOC	the extreme East
+-1	31	38	NOM	LOC	the soft rain and green turf of Gaeldom
+2	38	38	PROP	GPE	Gaeldom
+-1	40	40	PRON	PER	we
+-1	42	50	NOM	LOC	the garish sun and arid soil of the Hindoo
+3	49	50	PROP	LOC	the Hindoo
+-1	53	56	NOM	GPE	the Land of Ire
+-1	74	77	NOM	GPE	the Land of Ind
+-1	90	91	NOM	PER	national characters
+4	122	123	PROP	LOC	the West
+-1	142	145	NOM	LOC	farthest West and East
+-1	147	147	NOM	PER	Some
+18	150	150	PROP	PER	Benfey
+5	152	152	PROP	GPE	Germany
+19	154	155	PROP	PER	M. Cosquin
+6	157	157	PROP	GPE	France
+20	160	161	PROP	PER	Mr. Clouston
+7	163	163	PROP	GPE	England
+8	168	168	PROP	GPE	India
+-1	190	190	NOM	PER	Crusaders
+-1	193	194	NOM	PER	Mongol missionaries
+21	197	197	PROP	PER	Gipsies
+-1	200	200	NOM	PER	Jews
+-1	203	203	NOM	PER	traders
+-1	206	206	NOM	PER	travellers
+-1	217	217	NOM	PER	one
+-1	224	225	NOM	PER	an advocate
+0	230	230	PRON	PER	my
+0	234	234	PRON	PER	I
+8	248	248	PROP	GPE	India
+-1	253	255	NOM	PER	the children of
+9	256	256	PROP	GPE	Europe
+-1	258	258	PRON	PER	their
+8	280	280	PROP	GPE	India
+-1	305	307	NOM	LOC	the Indian peninsula
+8	332	332	PROP	GPE	India
+-1	337	338	NOM	PER	the Crusaders
+9	344	344	PROP	GPE	Europe
+22	352	352	PROP	PER	Bidpai
+23	354	357	PROP	PER	The Seven Wise Masters
+24	363	363	PROP	PER	Barlaam
+-1	387	389	NOM	PER	the monkish preachers
+-1	396	399	NOM	LOC	the Novelle of Italy
+10	399	399	PROP	GPE	Italy
+-1	409	409	PRON	PER	their
+9	447	447	PROP	GPE	Europe
+8	449	449	PROP	GPE	India
+11	466	467	PROP	LOC	Beast Droll
+0	476	476	PRON	PER	I
+-1	495	497	NOM	PER	the Samian slave
+25	499	499	PROP	PER	Æsop
+8	504	504	PROP	GPE	India
+26	526	526	PROP	PER	Buddha
+-1	528	529	NOM	FAC	These Jatakas
+-1	552	553	NOM	LOC	the world
+-1	568	571	NOM	PER	the good German brothers
+-1	574	574	PRON	PER	their
+-1	577	578	NOM	PER	the folk
+0	587	587	PRON	PER	I
+-1	594	594	PRON	PER	them
+-1	613	614	NOM	PER	pious Buddhists
+-1	629	630	NOM	PER	English children
+27	632	633	PROP	PER	The Jatakas
+-1	638	638	PRON	PER	their
+-1	638	640	NOM	PER	their English translators
+0	650	650	PRON	PER	I
+28	672	676	PROP	PER	Mr. W. H. D. Rouse
+12	679	681	PROP	FAC	Christ 's College
+13	683	683	PROP	GPE	Cambridge
+0	689	689	PRON	PER	I
+0	691	691	PRON	PER	I
+29	703	704	PROP	PER	Uncle Remus
+0	722	722	PRON	PER	my
+30	725	725	PROP	PER	Caxton
+14	731	731	PROP	GPE	London
+31	733	733	PROP	PER	Nutt
+32	772	773	PROP	PER	Miss Frere
+-1	784	784	PRON	PER	her
+14	792	792	PROP	GPE	London
+33	794	795	PROP	PER	John Murray
+-1	805	805	PRON	PER	Her
+34	811	812	PROP	PER	Miss Stokes
+35	815	816	PROP	PER	Mrs. Steel
+-1	819	824	NOM	PER	Captain ( now Major ) Temple
+36	827	830	PROP	PER	the Pandit Natesa Sastri
+37	833	834	PROP	PER	Mr. Knowles
+38	836	837	PROP	PER	Mr. Campbell
+-1	860	866	NOM	FAC	The story - store of modern India
+8	866	866	PROP	GPE	India
+-1	885	886	NOM	GPE	the country
+8	924	924	PROP	GPE	India
+-1	928	928	NOM	GPE	there
+-1	931	931	NOM	GPE	there
+-1	933	933	PRON	PER	we
+-1	949	952	NOM	PER	the folk in India
+8	952	952	PROP	GPE	India
+22	982	983	PROP	PER	the Bidpai
+0	992	992	PRON	PER	I
+-1	1021	1022	NOM	PER	English children
+0	1024	1024	PRON	PER	I
+-1	1040	1040	PRON	PER	I[xi
+8	1064	1064	PROP	GPE	India
+-1	1076	1078	NOM	PER	the young ones
+0	1081	1081	PRON	PER	my
+15	1102	1102	PROP	GPE	Somadeva
+0	1111	1111	PRON	PER	I
+39	1128	1131	PROP	PER	Professor Rhys - Davids
+0	1134	1134	PRON	PER	I
+-1	1142	1142	PRON	PER	his
+0	1148	1148	PRON	PER	I
+40	1164	1164	PROP	PER	Ind
+-1	1169	1171	NOM	PER	the original collectors
+-1	1173	1173	PRON	PER	their
+-1	1173	1174	NOM	PER	their publishers
+0	1176	1176	PRON	PER	I
+32	1181	1182	PROP	PER	Miss Frere
+0	1190	1190	PRON	PER	my
+0	1195	1195	PRON	PER	me
+41	1204	1204	PROP	PER	Punchkin
+34	1226	1227	PROP	PER	Miss Stokes
+0	1234	1234	PRON	PER	me
+-1	1241	1241	PRON	PER	her
+0	1251	1251	PRON	PER	I
+-1	1258	1258	PRON	PER	his
+42	1264	1266	PROP	PER	Messrs. Kegan Paul
+43	1268	1268	PROP	PER	Trench
+44	1270	1270	PROP	PER	Co.
+0	1273	1273	PRON	PER	me
+37	1276	1277	PROP	PER	Mr. Knowles
+16	1284	1284	PROP	GPE	Kashmir
+-1	1288	1288	PRON	PER	their
+-1	1288	1290	NOM	FAC	their Oriental Library
+45	1293	1296	PROP	PER	Messrs. W. H. Allen
+46	1304	1305	PROP	PER	Mrs. Kingscote
+47	1314	1317	PROP	PER	Mr. M. L. Dames
+0	1321	1321	PRON	PER	me
+8	1330	1330	PROP	GPE	India
+0	1333	1333	PRON	PER	me
+-1	1339	1339	PRON	PER	his
+0	1348	1348	PRON	PER	I
+0	1353	1353	PRON	PER	myself
+0	1360	1360	PRON	PER	my
+-1	1360	1361	NOM	PER	my friend
+48	1362	1365	PROP	PER	Mr. J. D. Batten
+-1	1376	1381	NOM	PER	the folk fancy of the Hindoos
+49	1380	1381	PROP	PER	the Hindoos
+-1	1392	1392	PRON	PER	he
+3	1407	1408	PROP	LOC	the Hindoo
+3	1425	1425	PROP	PER	Hindoo
+-1	1427	1427	PRON	PER	They
+17	1431	1432	PROP	PER	JOSEPH JACOBS
